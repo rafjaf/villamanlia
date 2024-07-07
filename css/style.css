@@ -29,3 +29,17 @@ section.content h4:before {content: counter(ch4, upper-roman)". ";}
 section.content h5:before {content: counter(ch5, upper-alpha)". ";}
 section.content h6:before {content: counter(ch6)". ";}
  
+.sidebar-nav {counter-reset: sch1 sch2 sch3 sch4 sch5 sch6;} 
+.sidebar-nav ul li {counter-increment: sch1; counter-reset: sch2;}
+.sidebar-nav ul ul li {counter-increment: sch2; counter-reset: sch3;}
+.sidebar-nav ul ul ul li {counter-increment: sch3; counter-reset: sch4;}
+.sidebar-nav ul ul ul ul li {counter-increment: sch4; counter-reset: sch5;}
+.sidebar-nav ul ul ul ul ul li {counter-increment: sch5; counter-reset: sch6;}
+.sidebar-nav ul ul ul ul ul ul li {counter-increment: sch6; }
+
+.sidebar-nav ul ul li a:before {content: counter(sch2)". ";}
+.sidebar-nav ul ul ul li a:before {content: counter(sch2)"."counter(sch3)". ";}
+.sidebar-nav ul ul ul ul li a:before {content: counter(sch4, upper-roman)". ";}
+.sidebar-nav ul ul ul ul ul li a:before {content: counter(sch5, upper-alpha)". ";}
+.sidebar-nav ul ul ul ul ul ul li a:before {content: counter(sch6)". ";}
+ 

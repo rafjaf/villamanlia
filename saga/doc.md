@@ -1,10 +1,9 @@
-[[toc]]
+# Documents
+## Extrait du Songe de Scipion
 
-# Extrait du Songe de Scipion
+*Extrait du grimoire trouvé dans le scénario [[/scenar/ennemi |L'Ennemi intérieur]]*
 
-*Extrait du grimoire trouvé dans le scénario [[ennemi |L'Ennemi intérieur]]*
 
-[[div class="citation"]]  
 > J’ai maintenant décidé de me retirer du monde et d’affronter la Terreur sans Nom qui tous nous guette. Toi aussi, lecteur, si tu tiens ce manuscrit entre tes mains et a donc pénétré dans cette antre condamnée, tu as dû La rencontrer. J’ai donné des instructions strictes à mes esclaves pour que je sois emmuré vivant, tel la plus impure des Vestales. Mais à la différence d’un condamné, j’affronterai ce sort d’une âme égale. Je suis âgé, bien plus âgé que la plupart de mes contemporains ne peuvent l’imaginer. La Magie de Mercure me maintient en vie, mais cette même Magie a donné à mon existence un goût amer. Si j’ai défait les hordes barbares qui ont déferlé sur mes terres et conquis celles de mes voisins, c’est au prix d’un sacrifice immense : j’ai libéré une Puissance ancienne, cruelle, insatiable, qui se repaît de nos peurs et de nos craintes. Cette Terreur sans Nom que j’ai lâchée sur mes assaillants, je l’ai vue se retourner ensuite contre mes proches, mes fidèles, et même mon âme. J’éprouve grand peine à la contrôle, et lorsque quelques fois à la nuit tombée je tremble à l’idée des hordes sanguinaires qui s’apprêtent à massacrer ma maisonnée, mon esprit délirant ne parvient plus comme autrefois à distinguer la menace réelle de la chimère. Je ne puis plus vivre dans cette perpétuelle épouvante. J’ai pris la décision d’emporter dans la tombe la Terreur sans Nom que j’ai conjurée. J’ai laissé à mes esclaves des instructions détaillées afin que soit accompli le charme ancien destiné à sceller l’accès à ces cavernes que j’ai fait murer. Elle restera à jamais enterrée avec moi, jusqu’à ce que du moins — à Jupiter ne plaise ! — un sage, ou un fou, n’abatte ce mur protecteur. Quant à moi, dès que j’aurai achevé ce récit, j’ai résolu d’affronter la terrible Menace. Heureusement, lecteur, je possède contre elle une arme retrouvée dans les écrits des Prêtres d’Apollon, et dont je reproduis, ci-après, la traduction afin qu’elle puisse encore servir si, par malheur, la Terreur sans Nom devait jamais s’échapper de cet endroit où je l’ai enterrée :  
 >  
 > *Je ne connaîtrai pas la peur, car la peur tue l’esprit*  
@@ -12,15 +11,15 @@
 > *J’affronterai ma peur. Je lui permettrai de passer sur moi, au travers de moi.*  
 > *Et lorsqu’elle sera passée, je tournerai mon œil intérieur sur son chemin.*  
 > *Et là où elle sera passée, il n’y aura plus rien. Rien que moi.*  
-[[/div]]
 
-# Documents d'Ereditus de Jerbiton
+
+## Documents d'Ereditus de Jerbiton
 
 Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptations, du scénario [Des promesses, toujours des promesses](http://www.atlas-games.com/pdf_storage/promises_french.pdf) publié par Atlas Games.
 
-## Charte avec l’abbé de St Edmond 
+### Charte avec l’abbé de St Edmond 
 
-[[div class="citation"]]  
+
 > Toutes les clauses citées ci-dessous sont agréées aux regards de Dieu et de la Sainte Église : qu’aucun ne les viole ni ne les néglige.  
 >  
 > Article 1er : Ereditus et ceux de Mare Immobilis sont autorisés à vivre sur le territoire appartenant à l’abbaye et ce sans qu’il ne soient importunés, tout en sauvegardant l’honneur de Saint Edmond.  
@@ -34,11 +33,11 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 > Article 5 : Ereditus devra payer un tribut décidé d’un commun accord entre lui ou ses représentants et l’abbé de Saint Edmond. Ledit tribut ne pourra être perçu plus d’une fois l’an.  
 >  
 > Scellé le quatrième jour d’avril de l’an de Grâce 1199.  
-[[/div]]
 
-## Correspondance avec l'abbé de St Edmond
 
-[[div class="citation"]]  
+### Correspondance avec l'abbé de St Edmond
+
+
 > *D’Ereditus* : … Je suis persuadé d’être capable d’aider votre Grâce. Nous devons nous rappeler que le lion, lorsqu’il est piégé dans un filet, n’est pas assez orgueilleux pour refuser l’aide de la souris …  
 >  
 > *De Samson* : … Je n’ai aucun doute quant à la valeur de votre aide pour améliorer la résistance de l’abbaye envers les dégâts du temps, mais j’ai des doutes en ce qui concerne le réel avantage que l’on puisse en tirer. Quel bénéfice tire l’homme qui s’approprie le monde entier s’il y perd son âme ? Le Diable vous a peut-être trompé et essaie, à travers vous, de m’abuser…  
@@ -50,11 +49,11 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 > *D’Ereditus* : … Jean, bien que prieur, n’en est pas pour autant abbé. Vous seul incarnez l’autorité dans l’abbaye et vous ne devriez pas vous soumettre à un subalterne en raison de la peur qu’il vous inspire. Je peux créer un objet capable de protéger votre abbaye de telle sorte que même ceux qui regarderont de trop près ne pourront rien soupçonner. Ainsi, cela restera un secret pour le prieur et vous évitera toute confrontation agitée et malsaine avec lui …  
 >  
 > *De Samson* : … Soit. Apportez-moi l’objet et vous aurez votre charte. Voici des extraits de la correspondance entre Stephen et William, un chanoine de la Cathédrale de Norwich.  
-[[/div]]
 
-## Correspondance avec un chanoine de Norwich
 
-[[div class="citation"]]  
+### Correspondance avec un chanoine de Norwich
+
+
 > *D’Ereditus* : J’ai ouï dire que la bibliothèque de votre cathédrale contenait une copie du Boethius De Hexaemeron. Je serais grandement intéressé par l’obtention d’une copie de ce texte. Je suis persuadé que nous pourrions convenir d’un arrangement mutuellement avantageux.  
 >  
 > *De William* : Vos informations sont exactes. Nous possédons effectivement ce livre et je serais heureux de discuter avec vous des termes de l’arrangement qui vous permettrait d’en faire une copie. N’auriez-vous pas, en retour, un livre qui pourrait nous intéresser et que vous seriez prêt à nous proposer en échange ?  
@@ -64,11 +63,11 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 > *De William* : Le Phèdre est un ouvrage que notre bibliothèque ne comporte pas et je ne sais pas où il existe d’autres copies de cette œuvre. Aussi nous serions heureux de vous permettre de réaliser une copie du Boethius si vous nous donnez l’occasion de copier l’ouvrage de Platon.  
 >  
 >*D’Ereditus* : Je ferai le voyage jusqu’à votre ville cet hiver [l’hiver prochain] et je vous apporterai le texte de Platon. Je suis impatient de faire votre connaissance.  
-[[/div]]
 
-## Correspondance avec un Maître de l’Université de Paris
 
-[[div class="citation"]]  
+### Correspondance avec un Maître de l’Université de Paris
+
+
 > *D’Ereditus* : L’Université de Paris se distingue par l’étendue des connaissances qu’on y enseigne et par sa renommée. J’ai ouï dire que de nombreux livres ont récemment complété les bibliothèques de votre ville, apportant avec eux la sagesse des anciens philosophes aux étudiants d’aujourd’hui. Me serait-il possible d’acquérir des copies de quelques-uns de ces ouvrages ?  
 >  
 > *De Charles* : Les livres circulent dans notre université comme une flot de sagesse éternelle. Étant entendu qu’un tel courant de savoir n’a réellement de valeur que s’il est mis à disposition, je serais heureux de parvenir à un arrangement avec vous afin que vous puissiez profiter du contenu de certains livres. Comme vous le savez sans doute, les étudiants de cette université sont toujours à court d’argent et seraient heureux d’améliorer leur quotidien en réalisant quelques copies…  
@@ -78,11 +77,11 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 > *De Charles* : Votre présent a été accueilli avec reconnaissance et l’on s’en souviendra au ciel le jour du Jugement dernier. J’ai entrepris une recherche dans les bibliothèques de la ville et j’ai rassemblé dans la liste qui suit les livres que j’ai estimé pouvoir présenter quelque intérêt pour vous … [Suit une liste de deux douzaines d’ouvrages].  
 >  
 > *D’Ereditus* : Cette liste est d’un grand intérêt à mes yeux. Je joins à cette lettre 40 livres Tournois et j’ai demandé au porteur de ce message, en qui j’ai toute confiance, de se rendre à Paris et de prendre possession des livres dès qu’ils seront prêts. J’espère que nos futures tractations sauront être aussi mutuellement avantageuses.  
-[[/div]]
 
-# Mise en demeure adressée par Mare Immobile  ^demeure
 
-[[div class="citation"]]  
+## Mise en demeure adressée par Mare Immobile  
+
+
 > Mare Immobile, premier jour du Scorpion, mil trois cent quarantième année de l’Ere du Bélier  
 > A Dubinaro de Bonisagus, Alliance de Villa Manlia  
 >  
@@ -106,13 +105,13 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 >  
 > Pour le Conseil des Mages de Mare Immobile,  
 > Jérôme de Bonisagus et Sorellus de Verditius  
-[[/div]]
 
-# Invitations adressées à Villa Manlia
 
-## Invitation de Lariandre
+## Invitations adressées à Villa Manlia
 
-[[div class="citation"]]  
+### Invitation de Lariandre
+
+
 > Lariandre, sixième jour du Scorpion, mil trois cent quarantième année de l’Ere du Bélier  
 > Aux Honorables Mages de l’Alliance de Villa Manlia  
 >  
@@ -135,11 +134,11 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 > Les Mages de Lariandre,  
 > Julian, Perniciel, Valfraine, Dominic & Restaralin, tous de la Maison Tremere, et  
 > Magnolia de la Maison Merinita.  
-[[/div]]
 
-## Invitation de Bellaquin
 
-[[div class="citation"]]  
+### Invitation de Bellaquin
+
+
 > Bellaquin, treizième jour du Scorpion, mil trois cent quarantième année de l’Ere du Bélier  
 > A Esperanza de Jerbiton, Alliance de Villa Manlia  
 >  
@@ -155,11 +154,11 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 > Priscilla de Jerbiton  
 >  
 > Post scriptum : des amis bien intentionnés m’informent que quelques-uns de tes sodales auraient pris langue avec certaines personnes de notre Tribunal que la prudence recommande pourtant d’éviter. Je sais que tu es bien trop avisée pour ignorer à quel point, dans ce domaine, la moindre maladresse peut receler des conséquences irrémédiables, mais si jamais tes sodales formaient le funeste projet de s’aboucher à ces gens-là, je te conjure de prendre au préalable mon conseil afin de connaître la nature véritable de ceux avec lesquels ils s’apprêtent à traiter. A toi comme aux tiens, les portes de cette Alliance demeureront toujours ouvertes.  
-[[/div]]
 
-# Lettre de Pierre de Saverdun 
 
-[[div class="citation"]]  
+## Lettre de Pierre de Saverdun 
+
+
 > Saverdun, dix novembre mil deux cent un de Notre Seigneur Jésus-Christ  
 > Pierre de Saverdun, à son Excellence Foulques, Evêque par la Grâce de Dieu du Diocèse de Toulouse  
 >  
@@ -178,14 +177,14 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 > Votre humble serviteur se permet toutefois d’engager Votre Excellence à la prudence. Nombreuses sont en effet les oreilles amies des vils sorciers, et l’on dit qu’aucune route qui ne mène à Toulouse n’échappe à leur vigilance. Vous ne devez cependant rien craindre du messager que je vous envoie. Je sais en effet que pénétrés d’une superstition coupable, les vils sorciers craignent de s’aventurer dans la Forêt de Sadrisel. Or, nous savons que rien de mal ne pourrait arriver à ceux qui portent la Parole de Notre Seigneur Jésus-Christ dans leur cœur. Aussi ai-je donné instruction à ce messager de s’écarter des voies surveillées par ces vils sorciers et de couper à travers bois pour vous rejoindre au plus tôt.  
 >  
 > Votre humble serviteur remercie Votre Excellence de lui avoir accordé un peu de son inestimable attention et lui présente l’expression de son infinie considération.  
-[[/div]]
 
-# Lettres de Dubinaro  ^dubi
 
-## Lettre à Mare Immobile
+## Lettres de Dubinaro  
 
-[[div class="citation"]]  
-> Villa Manlia, printemps 1203 
+### Lettre à Mare Immobile
+
+
+> Villa Manlia, printemps 1203
 >  
 > Au Conseil des Mages de Mare Immobile  
 >  
@@ -204,11 +203,11 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 > Dans l'attente de votre réponse et avec l'espoir d'entretenir à nouveau d'excellentes relation avec votre Alliance, je vous prie de croire, chers Sodales du Conseil des Mages de Mare Immobile, à l'assurance de mes sentiments dévoués.  
 >  
 > Dubinaro de Bonisagus  
-[[/div]]
 
-## Lettre à Dikaïos
 
-[[div class="citation"]]  
+### Lettre à Dikaïos
+
+
 > Villa Manlia, printemps 1203  
 > Au Quaesitor Dikaïos  
 >  
@@ -231,14 +230,14 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 > Dans l'attente de votre réponse et dans l'espoir de votre assistance, je vous prie de croire, cher Sodalis, àl'assurance de mes sentiments les meilleurs.  
 >  
 > Votre dévoué,  
->  Dubinaro de Bonisagus  
-[[/div]]
+> Dubinaro de Bonisagus  
 
-# Réaction de Mare Immobile
 
-## Lettre à Dubinaro
+## Réaction de Mare Immobile
 
-[[div class="citation"]]  
+### Lettre à Dubinaro
+
+
 > Mare Immobile, treizième jour du Sagittaire, mil trois cent quarante-troisième année de l’Ere du Bélier  
 > A Dubinaro de Bonisagus, Alliance de Villa Manlia  
 >  
@@ -258,12 +257,12 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 >  
 > Pour le Conseil des Mages de Mare Immobile,  
 > Jérôme de Bonisagus	et Sorellus de Verditius  
-[[/div]]
 
 
-## Lettre à Dikaïos
 
-[[div class="citation"]]  
+### Lettre à Dikaïos
+
+
 > Mare Immobile, treizième jour du Sagittaire, mil trois cent quarante-troisième année de l’Ere du Bélier  
 > Au Quaesitor Dikaïos de Guernicus, Alliance de Doïsseteppe  
 >  
@@ -283,11 +282,11 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 >  
 > Pour le Conseil des Mages de Mare Immobile,  
 > Jérôme de Bonisagus	et Sorellus de Verditius  
-[[/div]]
 
-## Lettre d'Athanor
 
-[[div class="citation"]]  
+### Lettre d'Athanor
+
+
 > Mare Immobile, treizième jour du Sagittaire, mil trois cent quarante-troisième année de l’Ere du Bélier  
 > A Dubinaro de Bonisagus, Alliance de Villa Manlia  
 >  
@@ -304,11 +303,11 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 > Si jamais tu parvenais à retrouver ce livre, je t’en conjure, <u>ne l’ouvre pas</u> et détruits-le sur-le-champ, comme j’aurais dû le faire il y a de cela bien longtemps.  
 >  
 > Athanor de Bonisagus  
-[[/div]]
 
-# Lettre de Don Carlos d'Asturie  ^carlos
 
-[[div class="citation"]]  
+## Lettre de Don Carlos d'Asturie  
+
+
 > Carcassonne, vingt mars mil deux cent quatre.  
 > A Esperanza d’Asturie, demeurant au lieu-dit de la Villa Manlia  
 >  
@@ -321,14 +320,14 @@ Documents trouvés dans son *sanctum* et issus, moyennant de légères adaptatio
 > Mais laissons là ces querelles puisqu’elles appartiennent au passé. J’ai rencontré ici ton fiancé. Tu as de la chance, ma Fille ! Car, bien que tu sois si vieille que tout espoir d’alliance avait depuis longtemps déserté mon cœur et que je te croyais condamnée à porter dans la solitude le poids des rides et des années, celui qui sera bientôt ton époux est non seulement un homme d’influence, mais aussi un bel homme, et bien né de surcroît ! N’aie crainte : quoiqu’il réclame une dot d’un montant astronomique, ton frère Rodrigue saura lui faire entendre raison. C’est donc le cœur empli de la joie de savoir un mouton noir rentré dans le droit chemin que je te verrai à la fin de cette année pour célébrer tes noces avec Monsieur de Saverdun.  
 >  
 > Ton père, Don Carlos d’Asturie.  
-[[/div]]
 
 
-# Lettres de Grisfaucon à Villa Manlia
+
+## Lettres de Grisfaucon à Villa Manlia
 
 Circulaire concernant le bassin de Saint Pons :
 
-[[div class="citation"]]  
+
 > A nos Sodales du Tribunal de Provence, nous présentons nos salutations distinguées  
 >  
 > Nous avons le plaisir de vous informer de notre acquisition de tous les droits afférants à la source de *vis* connue sous le nom de bassin de Saint Pons, par achat à son précédent propriétaire Olivier.  
@@ -336,26 +335,26 @@ Circulaire concernant le bassin de Saint Pons :
 > Nous aimerions saisir cette opportunité pour assurer nos frères d'Hermes de notre profond respect et considération.  
 >  
 > Par ordre du Conseil des Mages de l'Alliance de Grisfaucon, en ce 4ème jour du Sagittaire de l'an 1205.  
-[[/div]]
 
-# Acte de Réconciliation d'Hugues  ^hugues
 
-[[div class="citation"]]  
+## Acte de Réconciliation d'Hugues  ^hugues
+
+
 > A tous les fidèles du Christ à qui ces lettres parviendraient, frère Dominique, chanoine d'Osma, le moindre des prédicateurs, salut dans le Christ.  
 >  
 > Par l'autorité du seigneur abbé de Cîteaux, légat du siège apostolique, qui nous a enjoint cet office, nous réconcilions Hugues d'Ambremer, anciennement connu sous le nom de Père Tanchus, le porteur de ces lettres, converti par la bonté de Dieu de la secte hérétique. Nous lui mandons, en vertu du sacrement qu'il a reçu, de se faire conduire vers le prêtre trois dimanches ou jours de fête, le torse nu, frappé de verges, de l'entrée de la localité jusqu'à l'église. Nous lui avons également enjoint de s'abstenir en tout temps de viande, d'oeufs et de fromage, bref de tout ce qui vient de semence charnelle, excepté le jour de Pâques, de la Pentecôte et de la Nativité du Seigneur, où nous lui prescrivons au contraire d'en manger en signe de renonciation à son erreur passée. Il fera trois carêmes par an, avec abstinence de poisson, d'huile et de vin, et jeûnera, à moins que quelque maladie ou les travaux d'été exigent une dispense. Il portera des vêtements religieux, tant par la forme que par la couleur, sur lesquels deux petites croix seront cousues à la hauteur des seins. S'il en a l'opportunité, il entendra la messe chaque jour et, les jours de fêtes, se rendra à l'église pour vêpres. Il offrira à Dieu les autres heures liturgiques, tant diurnes que nocturnes, sous cette forme : dix Pater sept fois par jour, vingt au milieu de la nuit. Il observera une totale chasteté. Il se fixera à Aurillac. Chaque mois il exhibera cette charte au curé. Nous faisons précepte à ce curé de veiller soigneusement sur sa façon de vivre.  
 >  
 > Il observera soigneusement tout cela jusqu'à ce que le seigneur légat nous notifie sa volonté d'autre manière. S'il méprisait ces observances, nous prescrivons qu'on le tienne pour parjure, hérétique et excommunié et qu'on le sépare de la communauté des fidèles.  
-[[/div]]  
-[[div style="width: 700px;"]]  
+  
+
 (A l'exception du nom du converti et de son lieu de résidence, ce texte est identique à celui de l'Acte de réconciliation donné par le futur Saint Dominique à un certain Ponce Ronger en l'an 1208. Texte tiré de M.-H. Vicaire, *Saint Dominique et ses frères. Evangile ou croisade?*, Paris, Ed. du Cerf, 1967, pp. 152-153, reproduit par P. Epinoux, "Une réponse à l'hérésie : Dominique et les dominicains", *Le Pays cathare. Les religions médiévales et leurs expressions méridionales*, s.l., Seuil (coll. Points Histoire), 2000, pp. 120-121.)  
-[[/div]]
 
-# Lettres du Pape Innocent III
 
-## Lettre du 29 mai 1207 au comte de Toulouse
+## Lettres du Pape Innocent III
 
-[[div class="citation"]]  
+### Lettre du 29 mai 1207 au comte de Toulouse
+
+
 > A noble homme Raymond comte de Toulouse : l’esprit d’un conseil plus sage.  
 >  
 > Si nous pouvions ouvrir votre cœur, nous y trouverions et nous vous y ferions voir les abominations détestables que vous avez commises ; mais parce qu’il paroît plus dur que la pierre, on pourra à la vérité le frapper par les paroles du salut ; mais difficilement y pourra-t-on pénétrer. Ah ! quel orgueil s’est emparé de votre cœur, et quelle est votre folie, homme pernicieux, de ne vouloir pas conserver la paix avec vos voisons, et de vous écarter des loix divines, pour vous joindre aux ennemis de la foy ? Comptez-vous pour peu de choses d’être à charge aux hommes ; voulez-vous l’être encore à Dieu, et n’avez-vous pas sujet de craindre les châtiments temporels pour tant de crimes, si vous n’appréhendez les flammes éternelles ? Prenez garde, méchante homme, et craignez que par les hostilitez que vous exercez contre votre prochain, et par l’injure que vous faites à Dieu en favorisant l’hérésie, vous ne vous attiriez une double vengeance pour votre double prévarication. (…)  
@@ -365,25 +364,24 @@ Circulaire concernant le bassin de Saint Pons :
 > C’est donc avec raison que nos légats vous ont excommunié, et qu’ils ont jeté l’interdit sur tous vos domaines ; (…) nous confirmons leur sentence, et nous ordonnons qu’elle soit inviolablement observée, jusqu’à ce que vous ayez fait une satisfaction convenable. Cependant, quoique vous ayiez péché grièvement, tant contre Dieu que contre l’église en général, que contre vous-même en particulier, suivant l’obligation où nous sommes de redresser ceux qui s’égarent, nous vous avertissons, et nous vous commandons par le souvenir du jugement de Dieu, de faire une prompte pénitence proportionnée à vos fautes, afin que vous méritiez d’obtenir le bienfait de l’absolution. Si-non, comme nous ne pouvons laisser impunie une si grande injure faite à l’église universelle, et même à Dieu, sachez que nous vous ferons ôter les domaines que vous tenez de l’église Romaine ; et si cette punition ne vous fait pas rentrer en vous-même, nous enjoindrons à tous les princes voisins de s’élever contre vous, comme contre un ennemi de J.C. et un persécuteur de l’Eglise ; avec permission à chacun de retenir toutes les terres dont il pourra s’emparer sur vous, afin que le pais ne soit plus infecté d’hérésie sous votre domination. La fureur du seigneur ne s’arrêtera pas encore : sa main s’étendra sur vous pour vous écraser : elle vous fera sentir qu’il vous sera difficile de vous soustraire à sa colère que vous avez provoquée.  
 >  
 > Donné à S. Pierre de Rome le 29. de Mai de la dixième année de notre pontificat [1207].  
-[[/div]]
 
-[[div style="width: 700px;"]]  
+
+ 
 (Source : C. DE VIC et J. VAISSETE, *[http:*books.google.com/books?id=RNw4AAAAIAAJ&pg=PA99&dq=Le+meurtre+de+ce+l%C3%A9gat+enflamma+le+z%C3%A8le+d%27Innocent&hl=fr#v=onepage&q=Le%20meurtre%20de%20ce%20l%C3%A9gat%20enflamma%20le%20z%C3%A8le%20d%27Innocent&f=false Histoire générale de Languedoc]//, t. V, Toulouse, Payat, 1862, p. 99 et s.)  
-[[/div]]
 
-## Lettre du 17 novembre 1207 aux barons de France
 
-[[div class="citation"]]  
+### Lettre du 17 novembre 1207 aux barons de France
+
+
 > (...) Puisque ceux qui sont dans l'erreur ne veulent pas entendre nos raisons, bravent nos menaces et s'excluent de nos bienfaits, et puisqu'aucun remède n'a d'effet sur le mal, que celui-ci soit extirpé par le fer. Que ceux qui méprisent la censure ecclésiastique soient contraints par le bras du pouvoir séculier (...) Nous demandons votre aide. Il fait que les sectateurs de la perversité hérétique soient écrasés par la vertu de votre puissance, et que les malheurs de la guerre les ramènent au moins à la notion de vérité. (...)  
-[[/div]]
 
-[[div style="width: 700px;"]]  
+
 (Source : M. Roquebert, *L’épopée cathare. I. L’invasion 1198-1212*, s.l., Perrin (Tempus), 2006 (1ère éd. 1970), p. 293 et s.  
-[[/div]]
 
-## Lettre du 10 mars 1208 aux prélats et barons de France
 
-[[div class="citation"]]  
+### Lettre du 10 mars 1208 aux prélats et barons de France
+
+
 > Innocent, évêque, serviteur des serviteurs de Dieu à nos fils bien-aimés les nobles hommes, comtes et barons et à tous les habitants des provinces de Narbonne, Embrun, Aix et Vienne, salut et bénédiction apostolique.  
 >  
 > Nous venons d'apprendre un événement cruel qui va mettre en deuil l'Eglise tout entière: frère Pierre de Castelnau, de sainte mémoire, moine et prêtre, qui parmi les hommes vertueux se faisait remarquer par sa conduite, son savoir et sa bonne réputation, avait été envoyé par nous avec d'autres dans le midi de la France pour y prêcher la paix et affermir la foi. Dans la tâche qui lui était confiée, il avait réussi d'une façon digne d'éloges et ne cessait d'y réussir. En vérité, c'est à l'école du Christ qu'il avait appris tout ce qu'il prêchait: il était capable d'exhorter le fidèle selon la sainte doctrine et de réfuter les contradicteurs: il était toujours prêt à rendre raison à quiconque l'interrogeait car c'était un homme de foi catholique, de science juridique et de parole éloquente.  
@@ -405,17 +403,15 @@ Circulaire concernant le bassin de Saint Pons :
 > En avant, chevaliers du Christ ! En avant, courageuses recrues de l'armée chrétienne ! Que l'universel cri de douleur de la sainte Eglise vous entraîne ! Qu'un zèle pieux vous enflamme pour venger une si grande offense faite à votre Dieu ! Souvenez-vous que votre Créateur n'avait nul besoin de vous quand il vous créa. Mais, bien qu'il puisse se passer de votre concours, néanmoins, comme si votre aide lui permettait d'agir avec plus d'efficacité, comme si votre carence affaiblissait sa Toute-Puissance, il vous donne aujourd'hui l'occasion de le servir d'une manière qui soit digne de lui. Depuis le meurtre de ce juste, l'Eglise de ce pays reste sans consolateur, assise dans la tristesse et dans les larmes. La foi, dit-on, s'en est allée, la paix est morte, la peste hérétique et la rage guerrière ont pris des forces nouvelles: la barque de l'Eglise est exposée à un naufrage total si dans cette tempête inouïe on ne lui apporte un puissant secours. C'est pourquoi nous vous prions de bien entendre nos avertissements, nous vous exhortons avec bienveillance, nous vous enjoignons avec confiance au nom du Christ, devant un tel péril nous vous promettons la rémission de vos péchés afin que sans tarder vous portiez remède à de si grands dangers. Efforcez-vous de pacifier ces populations au nom du Dieu de paix et d'amour. Appliquez-vous à détruire l'hérésie par tous les moyens que Dieu vous inspirera. Avec plus d'assurance encore que les Sarrasins car ils sont plus dangereux, combattez les hérétiques d'une main puissante et d'un bras étendu. Pour ce qui est du comte de Toulouse qui semble avoir fait un pacte avec la mort et ne pas songer à la sienne, si par hasard le tourment lui donne l'intelligence et si son visage, couvert d'ignominie commence à demander le nom de Dieu, continuer à faire peser sur lui la menace jusqu'à ce qu'il nous donne satisfaction, à nous, à l'Eglise et à Dieu. Chassez-le, lui et ses complices, des tentes du Seigneur. Dépouillez-les de leurs terres afin que les habitants catholiques y soient substitués aux hérétiques éliminés et, conformément à la discipline de la foi orthodoxe qui est la votre, servent en présence de Dieu dans la sainteté et dans la justice.  
 >  
 > Donné au Latran, le six des Ides de Mars, l'an II de notre pontificat.  
-[[/div]]
-
-[[div style="width: 700px;"]]  
+ 
 (Source : P. Guébin, H. Maisonneuve, *[http:*sourcesmedievales.unblog.fr/2008/11/23/bulle-dinnocent-iii-contre-les-assassins-de-pierre-de-castelnau-1208/#more-311 Histoire Albigeoise]//, nouvelle traduction de l'Historia Albigensis de Pierre des Vaux-de-Cernay, Librairie Philosophique J. Vrin, Paris, 1951, p. 25-32)  
-[[/div]] 
+ 
 
-# Lettres à Celarius de Criamon
+## Lettres à Celarius de Criamon
 
-## Lettre lui étant parvenue à l'Ete 1208 
+### Lettre lui étant parvenue à l'Ete 1208 
 
-[[div class="citation"]]  
+
 > A l’attention du Magus Celarius de Criamon  
 >  
 > Nous avons été informés de vos désagréments.  
@@ -425,11 +421,11 @@ Circulaire concernant le bassin de Saint Pons :
 > D.M.C.  
 >  
 > P.S. Celle qui voit ce que les hommes ne voient pas et ne voit pas ce que les hommes voient guidera vos pas.  
-[[/div]]
 
-## Lettre lui étant parvenue à l'Automne 1208 
 
-[[div class="citation"]]  
+### Lettre lui étant parvenue à l'Automne 1208 
+
+
 > Magus Celarius de Criamon, Villa Manlia  
 >  
 > Sodalis,  
@@ -438,13 +434,13 @@ Circulaire concernant le bassin de Saint Pons :
 >  
 > Par ordre de la Prima La,  
 > Muscaria de Criamon, filia Darius de Criamon  
-[[/div]]
 
-# Lettres de Villa Manlia à l'été 1209
 
-## Lettre au Blanc Mesnil
+## Lettres de Villa Manlia à l'été 1209
 
-[[div class="citation"]]  
+### Lettre au Blanc Mesnil
+
+
 > Au Conseil des Mages de l’Alliance de Blanc-Mesnil, représenté par le Primus Elzéhar de Bonisagus  
 >  
 > A notre estimé sodalis Elzéhar de Bonisagus, nous envoyons nos amicales salutations.  
@@ -456,11 +452,11 @@ Circulaire concernant le bassin de Saint Pons :
 >  
 > En espérant vous lire bientôt,  
 > Le Conseil des Mages de Villa Manlia  
-[[/div]]
 
-## Lettre à un Maître de l'Université de Paris
 
-[[div class="citation"]]  
+### Lettre à un Maître de l'Université de Paris
+
+
 > A Charles, Maitre de l’Université de Paris,  
 >  
 > L’Université de Paris se distingue par l’étendue des connaissances qu’on y enseigne et par sa renommée. Sa bibliothèque notamment est particulièrement bien fournie à ce que j’ai ouï dire.  
@@ -469,15 +465,15 @@ Circulaire concernant le bassin de Saint Pons :
 >  
 > En espérant avoir le plaisir de vous lire bientôt,  
 > Hugues d’Ambremer  
-[[/div]]
 
-## Lettres à Albison
+
+### Lettres à Albison
 
 Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete-1208#post-610567) sont entérinées par le Conseil des Mages de Villa Manlia. Qu'il est bon d'être machiavélique!
 
-# Lettre reçue à l'automne 1210
+## Lettre reçue à l'automne 1210
 
-[[div class="citation"]]  
+
 > Lariandre, Automne 1210  
 >  
 > Aux Honorables Mages de l’Alliance de Villa Manlia  
@@ -496,13 +492,13 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > Confiante dans vos excellentes dispositions à l’égard de l’Alliance de Lariandre, j’espère vous y voir très rapidement, et dans cette attente, je vous présente l’expression de mes sentiments les meilleurs.  
 >  
 > Magnolia de Merinita.  
-[[/div]]
 
-# Lettres reçues au printemps 1211
 
-## La convocation au procès à Albison
+## Lettres reçues au printemps 1211
 
-[[div class="citation"]]  
+### La convocation au procès à Albison
+
+
 > La Grande Albison, principale Alliance du Tribunal de Normandie, été 1209.  
 > Au Conseil des Mages de Villa Manlia, jeune Alliance du Tribunal de Provence.  
 >  
@@ -526,11 +522,11 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > Dans l’attente de vous accueillir et de débuter ce procès, nous vous prions de recevoir l’assurance de notre bien parfaite considération.  
 >  
 > Le conseil des mages de la Grande Albison.  
-[[/div]]
 
-## Lettre d'Astragol de Tremere
 
-[[div class="citation"]]  
+### Lettre d'Astragol de Tremere
+
+
 > Cette affaire est bien plus complexe qu’il n’y parait aux premiers abords, et les gens mis en cause ne sont pas toujours ceux que l’on croit. Inutile de vous dire qui joue double jeu, et de qui se méfier, mais sachez néanmoins que parfois les rôles sont inversés.  
 >  
 > Dans ce cas-ci, je vous recommande, pour le bien de nos amis communs, de ne pas agir quand bien même tout vous inciterait à le faire.  
@@ -540,11 +536,11 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > 					Astragol de Tremere  
 >  
 > Ps : il va sans dire que tout ceci restera entre nous.  
-[[/div]]
 
-# Lettre reçue à l'Automne 1211
 
-[[div class="citation"]]  
+## Lettre reçue à l'Automne 1211
+
+
 > Maison Mère de l’Alliance du Nord Glacé, Tribunal des Alpes, Printemps 1211  
 >  
 > Aux honorables membres de la maison Criamon,  
@@ -558,11 +554,11 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > Nous enjoignons toute personne en possession d’informations pouvant mener à la capture de Lucia de Criamon de se faire connaître des autorités quaesitoriales. Nous rappelons que Lucia de Criamon est une Mage d’une puissance redoutable et qu’il serait folie de tenter de l’appréhender sans aide.  
 >  
 > Athena Alpina, Princeps Quaesitor du Tribunal des Alpes  
-[[/div]]
 
-# Lettre reçue à l'Automne 1213
 
-[[div class="citation"]]  
+## Lettre reçue à l'Automne 1213
+
+
 > Maison Mère de l’Alliance du Nord Glacé, Tribunal des Alpes  
 >  
 > Au Magus Celarius de Criamon, filius Septimus de Criamon, Sodalis Villa Manlia, Tribunal de Provence  
@@ -574,13 +570,13 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > Salutations hermétiques,  
 >  
 > Athena Alpina, Princeps Quaesitor du Tribunal des Alpes  
-[[/div]]
 
-# Lettres du Printemps 1214 délivrées par Aequillus de Mercere
 
-## Lettre d'Esperanza pour le Magus Andru filius Astrolabe, Primus de Valnastium, Domus Magna Jerbiton
+## Lettres du Printemps 1214 délivrées par Aequillus de Mercere
 
-[[div class="citation"]]  
+### Lettre d'Esperanza pour le Magus Andru filius Astrolabe, Primus de Valnastium, Domus Magna Jerbiton
+
+
 > A l’attention du Magus Andru filius Astrolabe, Primus de Valnastium, Domus Magna Jerbiton  
 >  
 > Très estimé Primus,  
@@ -612,14 +608,14 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > Maga Esperanza de Jerbiton, filia Priscilla de Jerbiton  
 >  
 > Fait à Villa Manlia en l’an de grâce 1213  
-[[/div]]
 
-## Lettres de Viridia de Verditius (alias Magda) de Mare Immobile pour Dubinaro  
-[[span style="background-color: yellow;"]][à compléter par Rafaël][[/span]]
 
-## Lettre du Conseil des Mages de Villa Manlia pour Oxioun de Tytalus, Praeco du Tribunal de Provence, Doïsseteppe
+### Lettres de Viridia de Verditius (alias Magda) de Mare Immobile pour Dubinaro  
+<mark>à compléter par Rafaël</mark>
 
-[[div class="citation"]]  
+### Lettre du Conseil des Mages de Villa Manlia pour Oxioun de Tytalus, Praeco du Tribunal de Provence, Doïsseteppe
+
+
 > Villa Manlia, Tribunal de Provence, Printemps 1214  
 >  
 > Au Magus Oxioun de Tytalus, Sodalis Doïsseteppe, Praeco du Tribunal de Provence  
@@ -635,11 +631,11 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > En espérant vous lire bientôt,  
 >  
 > Le Conseil des Mages de Villa Manlia  
-[[/div]]
 
-## Lettre du Conseil des Mages de Villa Manlia pour Davinia Ex-Miscellaneis, Doïsseteppe
 
-[[div class="citation"]]  
+### Lettre du Conseil des Mages de Villa Manlia pour Davinia Ex-Miscellaneis, Doïsseteppe
+
+
 > Villa Manlia, Tribunal de Provence, Printemps 1214  
 >  
 > A Maga Davinia Ex-Miscellaneis, Sodalis Doïsseteppe  
@@ -657,11 +653,11 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > En espérant vous lire bientôt,  
 >  
 > Le Conseil des Mages de Villa Manlia  
-[[/div]]
 
-## Lettre du Conseil des Mages de Villa Manlia pour Harco, Domus Magna Mercere
 
-[[div class="citation"]]  
+### Lettre du Conseil des Mages de Villa Manlia pour Harco, Domus Magna Mercere
+
+
 > Villa Manlia, Tribunal de Provence, Printemps 1214  
 >  
 > A la Prima Insatella, Sodalis d’Harco, Domus Magna Mercere  
@@ -677,13 +673,13 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > Salutations Hermétiques,  
 >  
 > Le Conseil des Mages de Villa Manlia  
-[[/div]]
 
-# Lettre reçue à l'Hiver 1215  ^hi1215
 
-## Convocation à comparaître devant le Tribunal romain
+## Lettre reçue à l'Hiver 1215  ^hi1215
 
-[[div class="citation"]]  
+### Convocation à comparaître devant le Tribunal romain
+
+
 > Magvillus, 20 novembre 1215  
 >  
 > Magus Dubinaro de Bonisagus,  
@@ -709,11 +705,11 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 >  
 > Par ordre de la Consule,  
 > Sempronia de Guernicus  
-[[/div]]
 
-## Mise en garde de Lariandre contre Sarimarcus
 
-[[div class="citation"]]  
+### Mise en garde de Lariandre contre Sarimarcus
+
+
 > Lariandre, 1er décembre 1215  
 >  
 > Aux Honorables Membres de l’Alliance de Villa Manlia  
@@ -734,11 +730,11 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 >  
 > Valfraîne de Tremere,  
 > Primus de Lariandre  
-[[/div]]
 
-## Décision du Tribunal romain sur les accusations portées contre Villa Manlia
 
-[[div class="citation"]]  
+### Décision du Tribunal romain sur les accusations portées contre Villa Manlia
+
+
 > Extrait des Minutes du Tribunal romain, cent-vingt-deuxième session tenue lors du solstice d’hiver 1215 sous la présidence des Consuls Isauricus et Sempronia de Guernicus  
 >  
 > Le Tribunal  
@@ -755,11 +751,11 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > Pour copie certifiée conforme à l’originale,  
 > Le Greffier,  
 > Madrigalus de Guernicus  
-[[/div]]
 
-# Lettre-circulaire de la Maison Guernicus (janvier 1216)  ^1216
 
-[[div class="citation"]]  
+## Lettre-circulaire de la Maison Guernicus (janvier 1216)  ^1216
+
+
 > A tous les Honorables Mages de l’Ordre d’Hermès  
 >  
 > Magvillus, 1er janvier 1216  
@@ -777,13 +773,11 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 >  
 > Par ordre de la Consule,  
 > Sempronia de Guernicus  
-[[/div]]
 
-# Testament de Syrianus  ^Syrianus
+
+## Testament de Syrianus  ^Syrianus
 
 (Texte issu, moyennant de légères adaptations, de la traduction de Jérôme Darmont du scénario *Black Death*)
-
-[[div class="citation"]]
 
 > Dernières volontés, testament et dernier épître de Syrianus, Magus Proctor de l’Alliance d’Ad Vim Per Veritatem  
 >  
@@ -804,11 +798,11 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > Carlotta, mon cœur saigne. Bien que nous soyons souvent d’accord en conseil, pas une fois tu n’as été de mon côté. Même quand les frères Vann sont partis, tu t’es précipitée à leur défense et nous n’avons cessé de nous disputer. Je te prie, à ma mort, de ne pas laisser ce différend subsister.  
 >  
 > Dedric, je sais que tu es loyal et pur. Et je crois que tu donnerais ta vie pour ton apprenti. Mon cœur est avec toi, mage. Que ton ambition la plus chère se réalise. Que Paul te surpasse en toute chose.  
-[[/div]]
 
-# Lettres reçues à l'été 1234  ^et1234
-## Lettre de Rémi Phraseur  
-[[div class="citation"]]  
+
+## Lettres reçues à l'été 1234  ^et1234
+### Lettre de Rémi Phraseur  
+
 > Mes Seigneurs,  
 >  
 > Salutations et respect de Saint-Gilles-du-Gard! Sachez que l’échoppe que vous avez eu la bonté de confier à mes soins et mon habilité se porte pour le mieux et continue à se développer. Je joins à la présente le loyer annuel dont nous sommes convenus.  
@@ -821,10 +815,10 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 >  
 > Votre Serviteur, Rémi Phraseur  
 > Saint-Gilles-du-Gard, 10 août 1234  
-[[/div]]
 
-## Lettre de Carlotta ex Miscellaneis, de l'Alliance d'Ad Vim Per Veritatem  
-[[div class="citation"]]  
+
+### Lettre de Carlotta ex Miscellaneis, de l'Alliance d'Ad Vim Per Veritatem  
+
 > Alliance d’Ad Vim Per Veritatem,  
 > 21 avril 1234  
 >  
@@ -839,11 +833,11 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > Croyez, chers Sodales, à mon éternel dévouement.  
 >  
 > Carlotta ex Miscellaneis  
-[[/div]]
 
-# Lettres trouvées à l'été 1237 sur le cadavre de Valedictus de Mercere  
-## Lettre de Carlotta ex Miscellaneis  
-[[div class="citation"]]  
+
+## Lettres trouvées à l'été 1237 sur le cadavre de Valedictus de Mercere  
+### Lettre de Carlotta ex Miscellaneis  
+
 > Alliance d’Ad Vim Per Veritatem  
 > 16 février 1237  
 >  
@@ -860,10 +854,10 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 > Fidèlement vôtre,  
 > Carlotta, ex Miscellaneis,  
 > Prima d’Ad Vim Per Veritatem  
-[[/div]]
 
-## Lettre-circulaire de Balthus de Flambeau  
-[[div class="citation"]]  
+
+### Lettre-circulaire de Balthus de Flambeau  
+
 > Castra Solis  
 > Solstice d’été 1237  
 > Sodales, Amis Flambeau !  
@@ -878,6 +872,4 @@ Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete
 >  
 > Pour Castra Solis,  
 > Balthus de Flambeau  
-[[/div]]
 
-[[module Comments]]  
