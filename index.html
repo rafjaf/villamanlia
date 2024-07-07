@@ -7,16 +7,35 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/LIGMATV/docsify-navbar-fixed/navbar-fixed.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
-    }
+		coverpage: true,
+		loadNavbar: true,
+		name: 'Villa Manlia',
+		relativePath: true,
+		timeUpdater: {
+			text: ">Dernière mise à jour : {docsify-updated}",
+			formatUpdated: "{DD}/{MM}/{YYYY}",
+			whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
+		 },    	  
+	}
   </script>
-  <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="scripts/search-plugin/index.js" type="module"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <script src="//cdn.jsdelivr.net/npm/@sy-records/docsify-footnotes/lib/index.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+  <script>
+	  window.$docsify.plugins.push(
+		EditOnGithubPlugin.create('https://github.com/rafjaf/villamanlia/', 'https://github.com/rafjaf/villamanlia/blob/main/', null)
+	  );
+  </script>
 </body>
 </html>

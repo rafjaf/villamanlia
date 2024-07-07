@@ -1,0 +1,31 @@
+/* Dark red for background color of nav bar */
+.app-nav, .app-nav li ul {background-color: #6D071A}
+
+/* Yellow for items in nav bar */
+.app-nav a, .app-nav li {color: lightgoldenrodyellow}
+section.cover p {color: lightgoldenrodyellow}
+section.cover blockquote>p>a {border-bottom-color: lightgoldenrodyellow}
+
+/* Orange for links */
+.app-nav, .markdown-section a, .sidebar ul li.active>a {color: coral}
+.markdown-section blockquote {border-left-color: coral}
+.app-nav a.active, .app-nav a:hover, section.cover blockquote>p>a:hover {
+	color: coral;
+	border-bottom-color: coral;}
+.sidebar-toggle span {background-color: coral}
+	 
+/* Headings auto-numbering as from level 2 */
+section.content {counter-reset: ch1 ch2 ch3 ch4 ch5 ch6;} 
+section.content h1 {counter-increment: ch1; counter-reset: ch2;}
+section.content h2 {counter-increment: ch2; counter-reset: ch3;}
+section.content h3 {counter-increment: ch3; counter-reset: ch4;}
+section.content h4 {counter-increment: ch4; counter-reset: ch5;}
+section.content h5 {counter-increment: ch5; counter-reset: ch6;}
+section.content h6 {counter-increment: ch6; }
+
+section.content h2:before {content: counter(ch2)". ";}
+section.content h3:before {content: counter(ch2)"."counter(ch3)". ";}
+section.content h4:before {content: counter(ch4, upper-roman)". ";}
+section.content h5:before {content: counter(ch5, upper-alpha)". ";}
+section.content h6:before {content: counter(ch6)". ";}
+ 
