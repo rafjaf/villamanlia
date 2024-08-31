@@ -81,7 +81,7 @@ Un anneau en argent de belle facture, offert par sa *Mater* Priscilla de Jerbito
 **Discrétion** (*Stealth*) (se déplacer silencieusement) 1  
 **Dressage** *(Animal Handling)* (serpents) 1 (3)  
 **Equitation** *(ride)* (tours) 1 --> +1 aux Totaux d'Attaque et de Défense en cas de combat à cheval  
-**[Castillan ancien](https://fr.wikipedia.org/wiki/Castillan_ancien)** *(Medieval Spanish)* (poésie) 3 (16)  
+**[Castillan ancien](https://fr.wikipedia.org/wiki/Castillan_ancien)** *(Medieval Spanish)* (poésie) 3 (16)
 **Etiquette** *(Etiquette)* (Noblesse) 2  
 **Intrigue** (*Intrigue*) (complots) 2  
 **Mensonge** (*Guile*) (émotions) 1 (5)  
