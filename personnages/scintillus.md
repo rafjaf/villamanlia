@@ -1,8 +1,9 @@
 # Scintillus de Flambeau
 <!-- tabs:start -->
 
-![](../img/Scintillus_cleanup.jpg)  
 # **Généralités**
+![](../img/Scintillus_cleanup.jpg)  
+
 ## Identité
 **Joueur** Michaël  
 **Nom du personnage** Scintillus  
