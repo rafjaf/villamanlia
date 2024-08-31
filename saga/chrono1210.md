@@ -1,349 +1,8 @@
-[[table class="wiki-content-table" style="width: 100%;"]]  
-[[row style="background-color: #EEEEEE;"]]  
-[[cell style="width: 33%;"]]  
-**1210**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1211**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1212**  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1210Pr | Printemps]]  
-**[Le Siège de Bellaquin](http://villamanlia.wikidot.com/siegebellaquin)**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1210Et | Ete]]  
-**La Servante Ecarlate - Acte I**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1211Pr | Printemps]]  
-**[On ne vous attendait plus!](http://villamanlia.wikidot.com/proces)**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1211Et | Ete]]  
-**[On ne vous attendait plus!](http://villamanlia.wikidot.com/proces)**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1212Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1212Et | Ete]]  
-**[Le Trésor des Maures](http://villamanlia.wikidot.com/maures)**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1210Au | Automne]]  
-**La Servante Ecarlate - Acte I**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1210Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1211Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1211Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1212Au | Automne]]  
-**La Tiare et le Glaive (I)**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1212Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[table class="wiki-content-table" style="width: 100%;"]]  
-[[row style="background-color: #EEEEEE;"]]  
-[[cell style="width: 33%;"]]  
-**1213**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1214**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1215**  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1213Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1213Et | Ete]]  
-**La Tiare et le Glaive (II)**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1214Pr | Printemps]]  
-**The Unicorn's Ransom**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1214Et | Ete]]  
-**La Servante Ecarlate - Acte II**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1215Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1215Et | Ete]]  
-**Scénario Renaud**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1213Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1213Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1214Au | Automne]]  
-***Panem et circenses***  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1214Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1215Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1215Hi | Hiver]]  
-**La Larme d'un Dieu antique (Acte I)**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[table class="wiki-content-table" style="width: 100%;"]]  
-[[row style="background-color: #EEEEEE;"]]  
-[[cell style="width: 33%;"]]  
-**1216**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1217**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1218**  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1216Pr | Printemps]]  
-**La Chair de ma Chair**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1216Et | Ete]]  
-**La Larme d'un Dieu antique (Acte II)**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1217Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1217Et | Ete]]  
-***Cause & Cure***  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1218Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1218Et | Ete]]  
-**La Servante Ecarlate - Acte III**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1216Au | Automne]]  
-**La Larme d'un Dieu antique (Acte III)**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1216Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1217Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1217Hi | Hiver]]  
-**Un piège diabolique**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1218Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1218Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[table class="wiki-content-table" style="width: 33%; padding: 0px;"]]  
-[[row style="background-color: #EEEEEE;"]]  
-[[cell]]  
-**1219**  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1219Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1219Et | Ete]]  
-**La Fosse aux Traîtres**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1219Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1219Hi | Hiver]]  
-**Le Tribunal de la Réconciliation**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]
+# Chronologie 1210-1219
 
-# Année 1210
+## Année 1210
 
-## Printemps  ^1210Pr
+### Printemps  
 
 Séances du 20 mars 2010 et du 25 avril 2010. Scénario *[http:*villamanlia.wikidot.com/siegebellaquin Le Siège de Bellaquin]// conté par Rafaël, auquel participent Manita, Ambroise, Ronald, Bernard, Guillaume et Rigaud (10 xp). 
 
@@ -386,7 +45,7 @@ Saison d'étude pour les autres personnages :
  * 2 xp d'exposition en Théorie de la Magie.  
 * Tristan-Alexis : accepte d'assister Ambrosius de Jerbiton dans ses recherches (2 xp d'exposition en Musique Enchanteresse)
 
-## Eté 1210  ^1210Et
+### Eté 1210  
 [[div style="float: right; width: 721px"]]  
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-07902046&E=JPEG&Deb=1&Fin=1&Param=C)  
 [[size smaller]]Voyage des Mages de Villa Manlia dans le relief montagneux du Tribunal des Alpes, à la recherche de la Domus Magna Criamon. Source : Français 2810, fol. 154v, Pèlerins au mont Sinaï (vers 1410-1412), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=07902046&E=1&I=43116&M=imageseule).[[/size]]  
@@ -421,7 +80,7 @@ Saison d'étude pour les autres personnages :
 * Ronald : suite à la Prophétie de Manlius, Ronald renoue des contact avec des marchands dans différentes villes et écoute les rumeurs (4 xp en Connaissance des gens)  
 * Tristan-Alexis : observe les évolutions de la féérie pour compte de son maître (2 xp d'exposition en Attention)
 
-## Automne 1210  ^1210Au
+### Automne 1210  
 
 Cf. Ete 1210 pour Celarius, Dubinaro, Scintillus, Sigfeín, Bernard et Rigaud.
 
@@ -443,7 +102,7 @@ Saison d'étude pour les autres personnages :
 * Ronald : s'entraine à la Bagarre (4 xp)  
 * Tristan-Alexis : étudie les Herbes médicinales avec son maître (12 xp)
 
-## Hiver 1210  ^1210Hi
+### Hiver 1210  
 [[div style="float: right; width: 512px"]]  
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100015&E=JPEG&Deb=1&Fin=1&Param=C)  
 [[size smaller]]Studieuse saison pour les Mages de Villa Manlia. Source : Français 11, fol. 1, Flavius Josèphe dans son cabinet (1483), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100015&E=1&I=15478&M=imageseule).[[/size]]  
@@ -507,9 +166,9 @@ Saison d'étude :
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100059&E=JPEG&Deb=59&Fin=59&Param=C)  
 [[size smaller]]Dans le Tribunal de Normandie, non loin de l'Alliance d'Albison, la Ligue des Femmes se retrouve au Mont Saint-Michel. Source : Français 56, fol. 119v, Miracle de Notre Dame : la parturiente sauvée des flots (3e ou 4e quart du XVe siècle), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100059&E=59&I=18374&M=imageseule).[[/size]]  
 [[/div]]  
-# Année 1211
+## Année 1211
 
-## Printemps  ^1211Pr
+### Printemps  
 
 Séances du 3 août 2010, du 17 août 2010, du 5 septembre 2010 et du 18 septembre 2010. Scénario [On ne vous attendait plus!](http://villamanlia.wikidot.com/proces) conté par Olivier, auquel participent Celarius, Esperanza, Manita, Scintillus, Sigfeín, Bernard et Rigaud (16 xp répartis sur le Printemps et l'Ete).
 
@@ -532,7 +191,7 @@ Saison d'étude pour les autres personnages :
 * Ronald : s'entraine à la bagarre (4 xp)  
 * Tristan-Alexis : scrute les évolutions de la féérie pour compte de son maître (2 xp d'exposition en Attention)  
 *  
-## Eté 1211  ^1211Et
+### Eté 1211  
 
 Cf. Printemps 1211 pour Celarius, Esperanza, Manita, Scintillus, Sigfeín, Bernard et Rigaud.
 
@@ -550,7 +209,7 @@ Saison d'étude pour les autres personnages :
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100001&E=JPEG&Deb=114&Fin=114&Param=C)  
 [[size smaller]]Esperanza ne se doutait pas que la victime du philtre d'amour concocté par la Sorcière des Marais ne serait autre que l'infâme Ménard! Source : Français 112 (1), fol. 239, Tristan et Iseut buvant le philtre (vers 1470), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100001&E=114&I=21394&M=imageseule).[[/size]]  
 [[/div]]  
-## Automne 1211  ^1211Au
+### Automne 1211  
 
 Pendant cette saison, Esperanza rend visite :  
 * A la Sorcière des Marais de Sadrissel, à laquelle elle demande de l'aide dans sa lutte contre son époux. La Sorcière fait boire à Esperanza un philtre qui lui fait subir les ravages des ans (*âge apparent augmenté de 10 ans*) tandis que la Sorcière, aux traits soudains rajeunis, lui promet que le premier homme qui s'allongera avec elle finira par lui appartenir entièrement. Suite à cet épisode, Esperanza se lance désormais à chaque Lune en Magie Cérémonielle un sort MuCo 10 similaire à *Disguise of the New Visage* [ArM5 p. 131] mais en portée Personnelle et de durée Lune et affectant tout le corps, lui permettant de présenter une apparente beauté; elle accumule de ce fait 1 point de Crépuscule par an (effet mystique constant).  
@@ -588,7 +247,7 @@ Saison d'étude :
 * Sigfeín : lit la *summa* Vim (12 xp)  
 * Tristan-Alexis : s'entraîne à la Connaissance des animaux (4 xp)
 
-## Hiver 1211  ^1211Hi
+### Hiver 1211  
 
 Saison d'étude :
 
@@ -654,9 +313,9 @@ Saison d'étude :
 [[size smaller]]Esperanza, abusée par Ménard et Pierre de Saverdun. Source : Français 156, fol. 231, Suzanne et les vieillards (XIVe siècle), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100228&E=128&I=24407&M=imageseule).[[/size]]  
 [[/div]]
 
-# Année 1212
+## Année 1212
 
-## Printemps  ^1212Pr
+### Printemps  
 
 Pendant cette saison, Esperanza et Sigfeín se rendent à Saverdun pour y porter le 2ème tribut de *vis* sous la forme de 3 pions Aquam, 5 pions Herbam et 13 pions Vim. Restée seule avec son époux, Esperanza tente de convaincre Pierre de Saverdun de concevoir avec elle un héritier. Mais celui-ci se montre indifférent à ses avances puis, se ravisant, contraint Esperanza à se laisser, rendue impuissante par magie, ~~abuser~~ violer par Ménard. Esperanza, désormais enceinte, décide de taire ce terrible épisode à ses *sodales*. A cette occasion, Esperanza et Sigfeín constatent que l'Aura Infernale régnant dans les appartements de Pierre de Saverdun est désormais d'une intensité de 3.
 
@@ -689,7 +348,7 @@ Saison d'étude :
  * 2 xp d'exposition en Théorie de la Magie.  
 * Tristan-Alexis : surveille les évolutions de la féérie pour compte de son maître (2 xp d'exposition en Attention) et en profite pour amener l'objet magique créé par Dubinaro à *Sapientia Aetatum*
 
-## Ete  ^1212Et
+### Ete  
 
 Séance du 7 novembre 2010. Scénario *[http:*villamanlia.wikidot.com/maures Le Trésor des Maures]// conté par Rafaël, auquel participent Dubinaro, Esperanza, Ambroise, Tristan-Alexis, Bernard et Rigaud (7 xp)
 
@@ -722,7 +381,7 @@ A la fin de l'Ete, Esperanza quitte Villa Manlia pour se rendre au [Couvent de P
 
 Elle y accouche prématurément d'une fille (progéniture de Ménard) qu'elle prénomme ~~Souillure~~ Mélusine et qu'elle confie aux bons soins des soeurs. La survie de l'enfant est incertaine (désastre au jet d'énergie à la naissance).
 
-## Automne  ^1212Au
+### Automne  
 [[div style="float:right; width: 509px; margin: 10px"]]  
 ![|](http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Innozenz3.jpg/509px-Innozenz3.jpg)  
 [[size smaller]]Portrait d'Innocent III tiré d'une fresque au cloître de Sacro Speco (XIII<sup>e</sup> siècle). Source : [http://fr.wikipedia.org/wiki/Fichier:Innozenz3.jpg Wikipedia].[[/size]]  
@@ -766,7 +425,7 @@ Saison d'étude pour les autres personnages :
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100003&E=JPEG&Deb=11&Fin=11&Param=C)  
 [[size smaller]]Ambroise prête le serment féodo-vassalique entre les mains de son suzerain, Raimond-Roger le comte de Foix. Source : Français 112 (3), fol. 6, Galaad prêtant serment (vers 1470), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100003&E=11&I=21419&M=imageseule).[[/size]]  
 [[/div]]  
-## Hiver  ^1212Hi
+### Hiver  
 
 Cf. Automne 1212 pour Dubinaro, Esperanza, Scintillus, Sigfeín et Bernard. 
 
@@ -832,9 +491,9 @@ Saison d'étude pour les autres personnages :
 * Ronald : bénéficie d'un enseignement de Latin de la part de Hugues (18 xp)  
 * Tristan-Alexis : étudie les Herbes médicinales à Sadrissel (4 xp), passant ainsi au niveau 5
 
-# Année 1213
+## Année 1213
 
-## Printemps  ^1213Pr
+### Printemps  
 [[div style="float: right; width: 500px"]]  
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100108&E=JPEG&Deb=237&Fin=237&Param=C)  
 [[size smaller]]Le baptême de Perceval, lors duquel Ambroise et Manita sont désignés ses parrain et marraine. Source :  Français 97, fol. 550, Baptême de Palamède (premier quart du XVe siècle), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100108&E=237&I=20241&M=imageseule).[[/size]]  
@@ -875,15 +534,15 @@ Saison d'étude :
  * 2 xp d'exposition en Théorie de la Magie  
 * Sigfeín : étudie en Laboratoire le cube noir volé à Antonio de Verditius, sans expérimenter (service ordinaire à la collectivité)  
  * 1er TL InVi = 11 (In) + 9 (Vi) + 3 (Int) + 4 (Th. Mag.) + 2 (Aura) + 1 (Routine de labo *Early Riser*) + 3 (Routine de labo *Overtime*) + 5 (Dé de tension) = 38;  
- * Résultat de la première investigation : [[span style="background-color: yellow;"]][...][[/span]];  
+ * Résultat de la première investigation : <mark>[...]</mark>;  
  * 2ème TL InVi = 11 (In) + 9 (Vi) + 3 (Int) + 4 (Th. Mag.) + 2 (Aura) + 1 (Routine de labo *Early Riser*) + 3 (Routine de labo *Overtime*) + 5 (Dé de tension) = 38;  
- * Résultat de la seconde investigation : [[span style="background-color: yellow;"]][...][[/span]] ;  
+ * Résultat de la seconde investigation : <mark>[...]</mark> ;  
  * 3ème TL InVi = 11 (In) + 9 (Vi) + (Int) + 4 (Th. Mag.) + 2 (Aura) + 1 (Routine de labo *Early Riser*) + 3 (Routine de labo *Overtime*) + 0 (Dé de tension, pas de désastre) = 33;  
  * Résultat de la troisième investigation : néant;  
  * 2 xp d'exposition : 1 en Théorie de la Magie (passant ainsi au niveau 5) et 1 (2) en Intellego  
 * Tristan-Alexis :  surveille les évolutions de la féérie pour compte de son maître (2 xp d'exposition en Attention)
 
-## Ete  ^1213Et
+### Ete  
 [[div style="float:right; width: 448px; margin: 10px;"]]  
 ![|](http://upload.wikimedia.org/wikipedia/commons/b/bb/Battle_of_Muret.jpg)  
 [[size smaller]]La Bataille de Muret, enluminure du XIV<sup>e</sup> siècle, BnF, *Grandes Chroniques de France*, Manuscrit français 2813, fol. 252v. Source : [http://fr.wikipedia.org/wiki/Fichier:Battle_of_Muret.jpg Wikipedia].[[/size]]  
@@ -928,7 +587,7 @@ Saison d'étude pour les autres personnages :
  * 2 xp d'exposition en Théorie de la Magie  
 * Tristan-Alexis : étudie les Oghams avec son maître (12 xp)
 
-## Automne  ^1213Au
+### Automne  
 
 Celarius reçoit une [convocation d'Athena Alpina](http://villamanlia.wikidot.com/doc#toc37). 
 
@@ -974,7 +633,7 @@ Saison d'étude :
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-08455786&E=JPEG&Deb=11&Fin=11&Param=C)  
 [[size smaller]]Studieuse saison pour les Mages de Villa Manlia. Source : Français 9749, fol. 1, Simon de Hesdin écrivant (vers 1380), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=08455786&E=11&I=100167&M=imageseule).[[/size]]  
 [[/div]]  
-## Hiver  ^1213Hi
+### Hiver  
 
 Saison d'étude :
 
@@ -1040,14 +699,14 @@ Saison d'étude :
   * TL (PeCo) = 3 (Int) + 6 (Th. Mag. spéc. Co) + 2 (Aura) + 13 (Pe) + 13 (Co) + 4 (Routines de labo *Early Riser* et *Overtime*) + 5 (Bonus sort similaire) + 6 (Bonus forme : baguette et pointe en os) + 3 (Int Celarius) + 5 (Th. Mag. Celarius) = 60  
   * (60 de TL - Niveau 40) x 2 = 40 niveaux accumulés --> l'effet est investi au terme de la saison;  
   * Coût : 4 pions de *vis* Corpus (soit Niveau / 10);  
-  * Pour déclencher l'effet : prononcer  [[span style="background-color: yellow;"]][...][[/span]];  
-  * Sceau du Mage :  [[span style="background-color: yellow;"]][...][[/span]];  
+  * Pour déclencher l'effet : prononcer  <mark>[...]</mark>;  
+  * Sceau du Mage :  <mark>[...]</mark>;  
   * 2 xp d'exposition en Théorie de la Magie.  
 * Tristan-Alexis : lit le *Tractatus* Connaissance du Divin (11 xp), passant ainsi au niveau 1
 
-# Année 1214
+## Année 1214
 
-## Printemps  ^1214Pr
+### Printemps  
 [[div style="float:right; width: 40%"]]  
 *« (...) Tu as vu parfois dans la campagne des groupes de lépreux ?*  
 *— Oui, une fois, j'en ai vu cent ensemble. Difformes, la chair en décomposition et toute blanchâtre, sur leurs béquilles, les paupières enflées, les yeux sanguinolents, ils ne parlaient ni ne criaient : ils couinaient, comme des rats. »*  
@@ -1063,13 +722,13 @@ Séance du 10 avril 2011. Scénario *The Unicorn's Ransom*[[footnote]]Scénario 
 
 Les PJ se rendent à Arvigna à la demande de Dame Mélisende. Celle-ci les envoient sur la piste d'une licorne afin de sauver son fils aîné Geoffroy revenu des croisades mais atteint d'un terrible mal (probablement d'origine féerique) que la médecine et la magie sont impuissantes à guérir. A cette occasion, les PJ font la connaissance de Thanatos de Tytalus, frère de Mélisende et Mage de Grisfaucon, également devenu le *Magister* du Dr. Mark.
 
-Alors qu'elle est enceinte de son troisième enfant, Esperanza se lance en Magie spontanée cérémonielle un sort CrVi 15 lui infligeant 3 points de Crépuscule. Elle se laisse emporter par le Crépuscule, parvient à comprendre l'expérience, et accumule 5 points de Crépuscule supplémentaires pour un total de 8 points. Elle en retire [[span style="background-color: yellow;"]][à compléter par Rafaël][[/span]] ainsi qu'une vision ayant trait à ses enfants. A son retour du Crépuscule, le foetus se porte bien. Suite à ce Crépuscule, Esperanza modifie la marque spécifique à son Sanctum: désormais, un serpent est enroulé autour de l'oeil Oudjat. 
+Alors qu'elle est enceinte de son troisième enfant, Esperanza se lance en Magie spontanée cérémonielle un sort CrVi 15 lui infligeant 3 points de Crépuscule. Elle se laisse emporter par le Crépuscule, parvient à comprendre l'expérience, et accumule 5 points de Crépuscule supplémentaires pour un total de 8 points. Elle en retire <mark>[à compléter par Rafaël]</mark> ainsi qu'une vision ayant trait à ses enfants. A son retour du Crépuscule, le foetus se porte bien. Suite à ce Crépuscule, Esperanza modifie la marque spécifique à son Sanctum: désormais, un serpent est enroulé autour de l'oeil Oudjat. 
 
 Visite de Ménard à Villa Manlia. Il apporte à Esperanza comme convenu au printemps 1213 la bague magique de Pierre de Saverdun, un anneau en or orné d'un saphir ayant autrefois appartenu à sa mère Sibylle. A cette occasion, les Mages s'acquittent du 4ème tribut à Pierre de Saverdun sous la forme de 21 pions de *vis* Vim.
 
 Expérience acquise au cours de cette aventure :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Bernard : 5 xp en Chasse (spéc. pister) et 3 xp en Connaissance de la Magie  
 * Celarius : 5 xp en Perception de la Sainteté et de la Malignité et 3 xp en Mentem  
 * Dubinaro : 5 xp en connaissance de la magie, 1 xp en perdo, 1 xp en aquam et 1 xp en terram.  
@@ -1094,7 +753,7 @@ Saison d'étude pour les autres personnages :
  * 2 xp d'exposition en Théorie de la magie.  
 * Sigfeín : lit la *summa* Perdo (12 xp), passant ainsi au niveau 11 (+ 3)
 
-## Ete  ^1214Et
+### Ete  
 [[div style="float: right; width: 663px"]]  
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-7845492&E=JPEG&Deb=1&Fin=1&Param=C)  
 [[size smaller]]La Servante Ecarlate et ses monstres à tête d'animaux. Source : Italien 63, fol. 255v, Simone da Villa au cimetière (1427), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=7845492&E=1&I=52888&M=imageseule).[[/size]]  
@@ -1102,7 +761,7 @@ Saison d'étude pour les autres personnages :
 
 Séances du 1er mai 2011, du 22 mai 2011 et du 21 juillet 2011. Scénario *La Servante Ecarlate - Acte II - Sacrifices* (comprenant le mini-scénario *Jerod's Cave*[[footnote]]P.R. Chase, Sub Rosa 2, Février 2008[[/footnote]]) conté par Nicolas auquel participent Celarius, Dubinaro, Scintillus, Sigfeín, Bernard et Jehan (10 xp).
 
-Au cours de cette aventure, Dubinaro est victime d'un double désastre en MuCo dans une aura infernale de 5. Il tente de résister au Crépuscule mais y échoue. Il est donc emporté mais parvient cependant à comprendre l'expérience, accumule 10 points de Crépuscule supplémentaires pour un total de 12 points. Il en retire [[span style="background-color: yellow;"]][à compléter par Nicolas][[/span]].
+Au cours de cette aventure, Dubinaro est victime d'un double désastre en MuCo dans une aura infernale de 5. Il tente de résister au Crépuscule mais y échoue. Il est donc emporté mais parvient cependant à comprendre l'expérience, accumule 10 points de Crépuscule supplémentaires pour un total de 12 points. Il en retire <mark>[à compléter par Nicolas]</mark>.
 
 Expérience acquise au cours de cette aventure :
 
@@ -1119,7 +778,7 @@ Les personnages font la connaissance de Thangdrimm, un dragon tricentaire ayant 
 
 Expérience acquise au cours de cette aventure :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Hugues : 2 xp en Bagarre (passant ainsi au niveau 2) et 5 xp en Connaissance de la Magie  
 * Ronald : 5 xp en Connaissance de la Magie, 3 xp en Connaissance des gens  
 * Tristan-Alexis : 5 xp en Connaissance de la Magie et 2 xp en Bagarre
@@ -1129,7 +788,7 @@ Saison d'étude pour les autres personnages :
 * Esperanza :  
  * étudie en laboratoire la bague magique de Pierre de Saverdun (service ordinaire à la collectivité)  
   * 1er TL(InVi) = 10 (Intellego) + 7 (Vim) + 3 (Int) + 4 (Th. Magie) + 2 (Aura) + 1 (routine *Early Riser*) + 0 (jet de tension, 2 dés de désastre, pas de désastre) = 27;  
-  * résultat de la première investigation : [[span style="background-color: yellow;"]][...][[/span]];  
+  * résultat de la première investigation : <mark>[...]</mark>;  
   * 2ème TL(InVi) = 10 (Intellego) + 7 (Vim) + 3 (Int) + 4 (Th. Magie) + 2 (Aura) + 1 (routine *Early Riser*) + 3 (jet de tension) = 30;  
   * résultat de la deuxième investigation : néant;  
   * 2 xp d'exposition en Vim.  
@@ -1138,19 +797,19 @@ Saison d'étude pour les autres personnages :
 * Gobolino : s'entraîne à la massue (4 xp en Arme à 1 main)  
 * Manita : étudie le *tractatus* Corpus *De aliquibus vulneribus atrocibus* (10 xp)
 
-## Automne  ^1214Au
+### Automne  
 [[div style="float: right; width: 512px"]]  
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-07823893&E=JPEG&Deb=715&Fin=715&Param=C)  
 [[size smaller]]Pendant que les autres personnages rentrent d'aventure, Esperanza, pour la troisième fois, connaît les joies de la maternité avec la naissance de Magnus Balthus. Source : Français 95, fol. 354, Elaine allaitant Lancelot (vers 1280-1290), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=07823893&E=715&I=19935&M=imageseule).[[/size]]  
 [[/div]]  
-Séance du 20 août 2011. Petit scénario *Panem et circenses* auquel participent essentiellement Bernard et Jehan. Lors de leur retour dans le Tribunal romain en empruntant le Portail hermétique menant de Harco à Doïsseteppe, les Mages se font aborder par Cherubino de Jerbiton qui leur demandent de lui "prêter" leurs deux Servants afin de participer aux *Ludi Magni* donnés en l'honneur de Jupiter. Les Mages acceptent mais les jeux se révèlent plus tortueux que prévus. Ainsi, les Servants sont amenés à participer à trois épreuves : survivre à travers un labyrinthe; une seconde épreuve que j'ai oubliée ([[span style="background-color: yellow;"]]quelqu'un se rappelle-t-il ?[[/span]]); et une course sur le flanc d'une montagne pour y récupérer un flambeau symbolisant le feu primordial, tandis qu'un aigle fond sur les participants pour tenter de leur déchiqueter les entrailles (cf le mythe de Prométhée). Le mythe, c'est que Cherubino n'a engagé les personnages que pour disposer de concurrents dignes de l'équipe d'Oxioun, le Praeco du Tribunal; mais, pour la dernière épreuve, il demande aux Mages de Villa Manlia d'ordonner à leur Servant (Bernard en l'occurrence), de perdre délibérément l'épreuve, et ce afin d'entrer dans les bonnes grâces d'Oxioun. Les Mages de Villa Manlia se prêtent au jeu, bon gré mal gré.
+Séance du 20 août 2011. Petit scénario *Panem et circenses* auquel participent essentiellement Bernard et Jehan. Lors de leur retour dans le Tribunal romain en empruntant le Portail hermétique menant de Harco à Doïsseteppe, les Mages se font aborder par Cherubino de Jerbiton qui leur demandent de lui "prêter" leurs deux Servants afin de participer aux *Ludi Magni* donnés en l'honneur de Jupiter. Les Mages acceptent mais les jeux se révèlent plus tortueux que prévus. Ainsi, les Servants sont amenés à participer à trois épreuves : survivre à travers un labyrinthe; une seconde épreuve que j'ai oubliée (<mark>quelqu'un se rappelle-t-il ?</mark>); et une course sur le flanc d'une montagne pour y récupérer un flambeau symbolisant le feu primordial, tandis qu'un aigle fond sur les participants pour tenter de leur déchiqueter les entrailles (cf le mythe de Prométhée). Le mythe, c'est que Cherubino n'a engagé les personnages que pour disposer de concurrents dignes de l'équipe d'Oxioun, le Praeco du Tribunal; mais, pour la dernière épreuve, il demande aux Mages de Villa Manlia d'ordonner à leur Servant (Bernard en l'occurrence), de perdre délibérément l'épreuve, et ce afin d'entrer dans les bonnes grâces d'Oxioun. Les Mages de Villa Manlia se prêtent au jeu, bon gré mal gré.
 
 * Bernard : 5 xp Athlétisme et 3 xp en Bagarre  
 * Jehan : 5 xp en Natation (spé. sous l'eau) et 3 xp en Athlétisme
 
 Saison d'étude pour les autres personnages :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Celarius : extrait 3 pions de vis Vim (service de crise à la collectivité)  
  * TL (CrVi ) = 10 (Cr) + 7 (Vi) + 3 (Int) + 5 (Th. Mag.) + 2 (Aura) = 27  
  * Exposition : 2 xp en Théorie de la Magie  
@@ -1179,11 +838,11 @@ Saison d'étude pour les autres personnages :
   * 2 (3) xp d'exposition en Intellego.  
 * Tristan-Alexis : collecte des informations pour compte de son maître (2 xp d'exposition en Connaissance des gens)
 
-## Hiver  ^1214Hi
+### Hiver  
 
 Saison d'étude :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
  * jet de vieillissement (36 ans) :  
   * Total de Vieillissement = 3 (dé de tension) + 4 (âge divisé par 10) - 1 (conditions de vie pour Ambroise) - 0 (Rituel de Longévité) = 6;  
   * Résultat : + 1 an d'âge apparent (36 --> 37).  
@@ -1230,15 +889,15 @@ Saison d'étude :
   * 2 xp d'exposition en Creo.  
 * Tristan-Alexis : étudie la Connaissance des animaux avec son maître (12 xp)
 
-# Année 1215
+## Année 1215
 
-## Printemps  ^1215Pr
+### Printemps  
 
 Visite de Ménard à Villa Manlia. A cette occasion, les Mages s'acquittent du 5ème tribut à Pierre de Saverdun sous la forme de 10 pions *vis* Herbam et 11 pions de *vis* Vim. Les personnages découvrent également que le fils aîné d'Esperanza, Perceval, possède le Don dans de déplaisantes circonstances, caractérisées par la mutilation de Filou.
 
 Saison d'étude :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Bernard : monte la garde (4 xp en Attention)  
 * Celarius : se voit enseigner les sorts *Posing the Silent Question* InMe 20 et *Aura of Rightful Authority* ReMe 20 par Esperanza  
  * TL (InMe) = 5 (In) + 7 (Me) + 3 (Int) + 5 (Th. Mag.) + 2 (Aura) + 1 (Bonus labo Me) + 2 (Routine de labo *Nocturnal*) = 25;  
@@ -1259,7 +918,7 @@ Saison d'étude :
   * résultat de la première investigation : découvre un premier effet CrVi 20 (cf. [Ressources](http://villamanlia.wikidot.com/ressource));  
   * 2ème TL(InVi) = 12 (Intellego) + 5 (Vim) + 3 (Int) + 4 (Th. Magie) + 2 (Aura) + 1 (routine *Early Riser*) + 3 (dé de tension) = 30;  
   * résultat de la deuxième investigation : découvre un deuxième effet PeVi 30 (cf. [Ressources](http://villamanlia.wikidot.com/ressource));  
-  * 2 xp d'exposition en [[span style="background-color: yellow;"]][...][[/span]]  
+  * 2 xp d'exposition en <mark>[...]</mark>  
 * Ronald : étudie le *tractatus* connaissance de la région Italie (8 xp)  
 * Scintillus : Scintillus : extrait 4 pions de *vis* Vim :  
  * TL (CrVi) = 15 (Cr) + 7 (Vi) + 3 (Int) + 4 (Th. Mag.) + 2 (Aura) = 31;  
@@ -1269,14 +928,14 @@ Saison d'étude :
  * 2 xp d'exposition en Théorie de la Magie.  
 * Tristan-Alexis : s'entraîne à l'esquive (4 xp)
 
-## Ete  ^1215Et
+### Ete  
 [[div style="float: right; width: 561px"]]  
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-08100810&E=JPEG&Deb=48&Fin=48&Param=C)  
 [[size smaller]]Est-ce vraiment un oeuf de dragon?... Source : Français 1951, fol. 28, Faune : oeuf d'autruche chauffé par le soleil (XIIIe-XIVe siècle), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=08100810&E=48&I=101649&M=imageseule).[[/size]]  
 [[/div]]
 
 
-Séance du 25 septembre 2011. Scénario [[span style="background-color: yellow;"]][...][[/span]] conté par Renaud auquel participent Ambroise, Celarius, Esperanza, Manita, Ronald, Bernard et Jehan.
+Séance du 25 septembre 2011. Scénario <mark>[...]</mark> conté par Renaud auquel participent Ambroise, Celarius, Esperanza, Manita, Ronald, Bernard et Jehan.
 
 Au solstice d'été, le dragon Thangdrimm ayant élu domicile dans les cavernes de Villa Manlia rejoint ses ancêtres. Son corps se décompose rapidement, et parmi les cendres les Mages trouvent un oeuf irradiant une douce lumière dorée que Scintillus recueille dans son *Sanctum*. La source géothermale magique réalimente à nouveau les thermes de Villa Manlia.
 
@@ -1286,7 +945,7 @@ Manita décide quant à elle de se retirer de la Saga en se rendant à Vienne (d
 
 Saison d'étude :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Bernard : s'entraîne au maniement de l'épée (4 xp en Arme à 1 main)  
 * Celarius :  extrait 3 pions de *vis* Vim (service ordinaire à la collectivité) :  
   * TL (CrVi) = 10 (Cr) + 7 (Vi) + 3 (Int) + 5 (Th. Mag.) + 1 (QG du Labo) + 2 (Aura) = 28;  
@@ -1305,9 +964,9 @@ Saison d'étude :
 * Sigfeín lit la *summa* Muto (16 xp).  
 * Tristan-Alexis : apprend la profession d'Apothicaire à Saint-Gilles (5 xp, passant ainsi au niveau 1)
 
-## Automne 1215  ^1215Au
+### Automne 1215  
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Bernard : monte la garde (4 xp en Attention)  
 * Celarius : enseigne les sorts *Wizard’s Leap* ReCo 15 et *Veil of Invisibility* PeIm 20 à Esperanza :  
  * TL (ReCo) = 11 (Re) + 12 (Co) + 3 (Int) + 5 (Th. Mag.) + 2 (Aura) + 1 (Bonus labo Celarius) + 2 (Routine de labo *Nocturnal*) = 36;  
@@ -1334,7 +993,7 @@ Saison d'étude :
   * 2 xp d'exposition en Théorie de la Magie.  
 * Tristan-Alexis : s'informe sur les positions de l'Eglise pour compte de son maître (2 xp en Ruse)
 
-## Hiver 1215  ^1215Hi
+### Hiver 1215  
 
 Séance du 4 mars 2012. Scénario *[http:*villamanlia.wikidot.com/larme La Larme d'un Dieu antique]// (Acte I) conté par Rafaël auquel participent Esperanza, Scintillus, Sigfeín, Bernard et Jehan (8 xp).
 
@@ -1359,7 +1018,7 @@ Expérience acquise au cours de cette aventure :
 
 Saison d'étude pour les autres personnages : 
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
  * jet de vieillissement (37 ans) :  
   * Total de Vieillissement = 5 (dé de tension) + 4 (âge divisé par 10) - 1 (conditions de vie pour Ambroise) - 0 (Rituel de Longévité) = 8;  
   * Résultat : + 1 an d'âge apparent (37 --> 38).  
@@ -1369,7 +1028,7 @@ Saison d'étude pour les autres personnages :
   * 2 xp d'exposition en Théorie de la Magie  
  * jet de vieillissement (48 ans) :  
   * Total de Vieillissement = 5 (âge divisé par 10) - 1 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + 8 (dé de tension) + 1 (routine *Nocturnal* Pr 1215) = 8;  
-  * Résultat : [[span style="background-color: yellow;"]][...][[/span]]  
+  * Résultat : <mark>[...]</mark>  
   * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
 * Hugues :  
  * étudie le *tractatus* "Connaissance de la Féerie" *De portis secretis Arcadiae* (10 xp)  
@@ -1379,15 +1038,15 @@ Saison d'étude pour les autres personnages :
 * Gobolino : continue à chasser du petit gibier en forêt (4 xp en Chasse)  
 * Tristan-Alexis : étudie les Oghams avec son maître (12 xp, passant ainsi au niveau 2)
 
-# Année 1216
+## Année 1216
 
-## Printemps  ^1216Pr
+### Printemps  
 
 Séance du 17 mars 2012. Scénario *[http:*villamanlia.wikidot.com/chair La Chair de ma Chair]// conté par Nicolas et Rafaël auquel participent Scintillus, Sigfeín, Ambroise, Tristan-Alexis et Jehan (10 xp).
 
 Expérience acquise au cours de cette aventure :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Jehan : 5 xp en Arme à 1 main et 5 xp en Connaissance de l'Ordre d'Hermès  
 * Scintillus : 5 xp en Corpus (passant ainsi à 9), 2 xp en Pénétration et 3 xp en ignem  
 * Sigfeín : 1(2)xp en Intellego, 5xp en Pénétration et 4xp en Concentration, passant ainsi au niveau 2  
@@ -1410,7 +1069,7 @@ Saison d'étude pour les autres personnages :
 [[size smaller]]Les fiançailles de Sigfein et Prométhéa, après que l'attentat de la Reine de la Nuit a été déjoué par la puissance de Sarastro, le Roi de la Cour de Lumière (final de la *Flûte enchantée* de Mozart).[[/size]]  
 [[/div]]
 
-## Ete  ^1216Et
+### Ete  
 
 Séances du 22/04/2012, 26/05/2012, 10/06/2012, 25/08/2012 et du 01/09/2012. Scénario *[http:*villamanlia.wikidot.com/larme La Larme d'un Dieu antique]// (Actes II et III) conté par Rafaël auquel participent Esperanza, Scintillus, Sigfeín, Ambroise, Gobolino, Hugues, Tristan-Alexis, Bernard et Jehan (10 xp).
 
@@ -1418,7 +1077,7 @@ Suite a un triple désastre en ReCo en Arcadie (aura féerique 10), Esperanza se
 
 Expérience acquise au cours de cette aventure :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Bernard : 5 xp en Etiquette (passant ainsi au niveau 1, spé. féeries) et 5 xp en Connaissanc de la Féerie  
 * Esperanza : 4 xp en Finesse (passant ainsi au niveau 2), 5 xp en Parma Magica et 1 xp en maîtrise du sort *Posing the Silent Question* InMe20  
  * jet de vieillissement (42 ans) :  
@@ -1444,7 +1103,7 @@ Saison d'étude pour les autres personnages :
   * TL (CrVi) = 10 (Cr) + 7 (Vi) + 3 (Int) + 5 (Th. Mag.) + 1 (QG du Labo) + 2 (Aura) = 28, affecté d'un coefficient de 2/3 en raison de l'accident de Laboratoire précité;  
   * 2 xp d'exposition en Théorie de la Magie
 
-## Automne  ^1216Au
+### Automne  
 
 Cf. Ete 1216 pour les PJ en Arcadie (10 xp) :
 
@@ -1455,7 +1114,7 @@ Cf. Ete 1216 pour les PJ en Arcadie (10 xp) :
 
 Saison d'étude pour les autres personnages : 
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Celarius : lit la summa Perdo (+ 12 xp), ce qui passe son score à 7  
 * Gobolino :  
  * se rétablit de ses blessures  
@@ -1470,11 +1129,11 @@ Saison d'étude pour les autres personnages :
  * teste les armes des assaillants brabançons : 2 xp en Arme à 1 main.  
 * Tristan-Alexis : s'informe sur les évènements des environs pour compte de son maître (2 xp d'exposition en Connaissance des gens)
 
-## Hiver  ^1216Hi
+### Hiver  
 
 Saison d'étude :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
  * jet de vieillissement (38 ans) :  
   * Total de Vieillissement = 2 (dé de tension) + 4 (âge divisé par 10) - 1 (conditions de vie pour Ambroise) - 0 (Rituel de Longévité) = 5;  
   * Résultat : +1 an d'âge apparent (38 --> 39);  
@@ -1483,7 +1142,7 @@ Saison d'étude :
  * lit la summa Terram (13xp), ce qui passe son score à 4 (3).  
  * jet de vieillissement (49 ans) :  
   * Total de Vieillissement = 5 (âge divisé par 10) - 1 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + 4 (dé de tension) = 3 ;  
-  * Résultat : [[span style="background-color: yellow;"]][...][[/span]]  
+  * Résultat : <mark>[...]</mark>  
   * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
 * Esperanza  
  * élabore son Rituel de Longévité en expérimentant :  
@@ -1524,13 +1183,13 @@ Saison d'étude :
 * Sigfeín : lit la *summa* Perdo (+ 12 xp), ce qui passe son score à 13  
 * Tristan-Alexis : étudie les Oghams avec son maître (12 xp, passant ainsi au niveau 3)
 
-# Année 1217
+## Année 1217
 
-## Printemps  ^1217Pr
+### Printemps  
 
 Saison d'étude :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Bernard : monte la garde (4 xp en Attention)  
 * Celarius : décide d'inventer un sort :  
  * Il s'agit du sort *Pit of the Gaping Earth* PeTe 15 (ArM5, p. 155), sous la seule réserve que le cercle est de 3 pas de largeur et de 18 pieds de profondeur  
@@ -1573,7 +1232,7 @@ Saison d'étude :
  * 2 (3) xp d'exposition en Intellego.  
 * Tristan-Alexis : étudie la *summa* Arts libéraux (7 xp)
 
-## Ete  ^1217Et
+### Ete  
 [[div style="float: right; width: 512px; margin-top: -0.5cm;"]]  
 ![|](http://classes.bnf.fr/ema/images/3/770.jpg)  
 [[size smaller]]Les quatre éléments et les quatre humeurs, l'être humain au centre. Barthélemy l'Anglais, *Le Livre des propriétés des choses*, France (Anjou, Maine), XVe siècle. Source : Paris, [BnF](http://classes.bnf.fr/ema/grands/770.htm), département des Manuscrits, Français 135, fol. 91.[[/size]]  
@@ -1600,7 +1259,7 @@ Expérience acquise au cours de cette aventure :
 
 Saison d'étude pour les autres personnages : 
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Esperanza : invente le sort *Coerce the Spirits of the Night* ReMe 25  
  * effet : similaire au sort éponyme de niveau 20 (ArM5, p. 152) mais en durée Aube/Crépuscule;  
  * TL (ReMe) = 8 (Re) + 17 (Me) + 3 (Int) + 5 (Th. Mag. spéc. Me) + 3 (Aura) + 1 (labo) + 1 (routine *Early Riser*) + 3 (routine *Addled*) + 9 (routine *Triple Overtime*) = 50  —> le sort est donc inventé en une saison;  
@@ -1611,7 +1270,7 @@ Saison d'étude pour les autres personnages :
 * Gobolino : apprend à manipuler la fronde (4 xp en Arme de jet)  
 * Tristan-Alexis : apprend l'Equitation (4 xp)
 
-## Automne  ^1217Au
+### Automne  
 
 Le soir de la Toussaint, Marie la Lavandière se présente au *sanctum* d'Esperanza et lui demande craintivement si celle-ci sait où se trouve son fils Perceval. Il apparaît en effet que Perceval (âgé de 7 ans) et Peir (âgé de 10 ans, fils aîné de Marie et de Didier le Cuisinier, seul survivant de la fratrie) aient l'habitude d'aller jouer ensemble et qu'ils demeurent ce soir introuvables. Les personnages finissent par retrouver Peir, ligoté en position cruciforme au Chêne féérique, une couronne d'épine lui sertissant la tête et les yeux énucléés. Perceval demeure, quant à lui, introuvable, mais il semble avoir été emporté par un puissant démon à l'allure bestiale. Au-dessus de Peir, un message a été grave dans l'écorce de l'arbre à coups de griffe, certaines lettres ayant été teintées en rouge avec le sang de Peir et d'autres en noir là où l'écorce a été brûlée :
 
@@ -1620,7 +1279,7 @@ Le soir de la Toussaint, Marie la Lavandière se présente au *sanctum* d'Espera
 A cet endroit règne désormais une Aura infernale de 1. Par ailleurs, le même soir, Mélusine, la fille d'Esperanza recueillie au couvent de Prouilles, est prise d'une crise de folie lors de laquelle elle s'arrache de ses propres mains les yeux afin de mettre un terme à ses visions d'horreurs. Elle est désormais aveugle.
 
 Saison d'étude :  
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Bernard : s'entraîne au maniement de l'épée (4 xp en Arme à 1 main)  
 * Celarius : décide d'inventer un sort :  
  * Il s'agit du sort *Pit of the Gaping Rock* PeTe 20 (comme *Pit of the Gaping Earth*, ArM5, p. 155, mais avec Cible pierre, le cercle étant de 3 pas de largeur et de 18 pieds de profondeur)  
@@ -1632,7 +1291,7 @@ Saison d'étude :
 * Esperanza :  extrait 3 pions de *vis* Vim (service de crise à la collectivité de retard)  
  * TL (CrVi) = 8 (Cr) + 7 (Vi) + 3 (Int) + 4 (Th. Mag.) + 3 (Aura) = 25;  
  * 2 xp d'exposition en Théorie de la Magie.  
- * jet simple de sécurité : 1 —> [[span style="background-color: yellow;"]][...][[/span]]  
+ * jet simple de sécurité : 1 —> <mark>[...]</mark>  
  * jet d'accoutumance (cf. routine de labo *Addled* Eté 1217) : 8 (jet de tension avec 1 dé de désastre) + 2 (Energie) - 1 (Addicted Personality Trait) = 9 > 3 x 1 -->  pas de conséquences.  
 * Gobolino : continue à s'entraîner à la fronde (4 xp en Arme de jet, passant ainsi au niveau 1)  
 * Jehan : monte la garde (4 xp en Attention, passant ainsi au niveau 4)  
@@ -1640,7 +1299,7 @@ Saison d'étude :
 * Sigfeín : étudie la *summa* Rego (13 xp)  
 * Tristan-Alexis : surveille les environs pour compte de son maître (2 xp d'exposition en Attention, passant ainsi au niveau 2)
 
-## Hiver  ^1217Hi
+### Hiver  
 
 Séance du 20 janvier 2013. Scénario *[[piege|Un piège diabolique]]* conté par Rafaël auquel participent Esperanza, Scintillus, Sigfeín, Bernard et Jehan (10 xp).
 
@@ -1661,18 +1320,18 @@ Expérience acquise au cours de cette aventure :
 * Scintillus : 5 xp en Parma Magica et 5 xp en Théorie de la Magie;  
  * jet de vieillissement (42 ans) :  
   * Total de Vieillissement = 0 (dé de tension sans désastre) + 5 (age/10) - 1 (Conditions de vie) + 3 (routine *Triple Overtime* Pr 1217) - 7 (Rituel de longévité) = 0;  
-  * Résultat : [[span style="background-color: yellow;"]][...][[/span]];  
+  * Résultat : <mark>[...]</mark>;  
   * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
  * 2ème jet de vieillissement (routine *triple Overtime* Pr 1217) :  
   * Total de Vieillissement = 3 (dé de tension sans désastre) + 5 (age/10) - 1 (Conditions de vie) + 3 (routine *Triple Overtime* Pr 1217) - 7 (Rituel de longévité) = 3;  
-  * Résultat : [[span style="background-color: yellow;"]][...][[/span]];  
-* Sigfeín : [[span style="background-color: yellow;"]][...][[/span]]  
+  * Résultat : <mark>[...]</mark>;  
+* Sigfeín : <mark>[...]</mark>  
  * jet de vieillissement (42 ans) du fait de la routine de labo Pr 1217:  
-  * Total de Vieillissement = [[span style="background-color: yellow;"]][...][[/span]] (dé de tension sans désastre) + 5 (age/10) - 1 (Conditions de vie) - 3 (*Strong Faerie Blood*) + 3 (routine *Triple Overtime* Pr 1217) - 0 (Rituel de longévité) = [[span style="background-color: yellow;"]][...][[/span]];  
-  * Résultat : [[span style="background-color: yellow;"]][...][[/span]];
+  * Total de Vieillissement = <mark>[...]</mark> (dé de tension sans désastre) + 5 (age/10) - 1 (Conditions de vie) - 3 (*Strong Faerie Blood*) + 3 (routine *Triple Overtime* Pr 1217) - 0 (Rituel de longévité) = <mark>[...]</mark>;  
+  * Résultat : <mark>[...]</mark>;
 
 Saison d'étude pour les autres personnages :  
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
  * jet de vieillissement (39 ans) :  
   * Total de Vieillissement = 6 (dé de tension) + 4 (âge divisé par 10) - 1 (conditions de vie pour Ambroise) = 9;  
   * Résultat : +1 an d'âge apparent (39 --> 40);  
@@ -1689,13 +1348,13 @@ Saison d'étude pour les autres personnages :
 * Gobolino : épie les environs de l'Alliance (4 xp en Attention)  
 * Tristan-Alexis : étudie la Connaissance des animaux avec son maître (12 xp, passant ainsi au niveau 5)
 
-# Année 1218
+## Année 1218
 
-## Printemps  ^1218Pr
+### Printemps  
 
 Saison d'étude :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Bernard : monte la garde (4 xp en Attention)  
 * Celarius : décide d'inventer le sort *Marche du Messie*  
  * ReCo 15, Base 5 (Move a target slowly in any direction you please, even if target is unsupported), Portée Personnelle, Durée Aube/Crépuscule, Cible Individuelle  
@@ -1717,7 +1376,7 @@ Saison d'étude :
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-7845471&E=JPEG&Deb=1&Fin=1&Param=C)  
 [[size smaller]]La Nécropole Rouge, repère de la Secte de la Servante Ecarlate. Source : Italien 63, fol. 203v, Guido Cavalcanti au cimetière (1427), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=7845471&E=1&I=52865&M=imageseule).[[/size]]  
 [[/div]]  
-## Ete  ^1218Et
+### Ete  
 
 Séances du 11 mai 2013 et du 16 juin 2013. Scénario *La Servante Ecarlate - Acte III - Necropolis* conté par Nicolas auquel participent Celarius, Scintillus, Sigfeín, Bernard et Jehan (10 xp).
 
@@ -1729,7 +1388,7 @@ Expérience acquise au cours de cette aventure :
 * Sigfeín : 5 xp en Enigme et 5 xp en maîtrise de *Curse of the Flying Wound* (*Fast casting*);
  
 Saison d'étude pour les autres personnages :  
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]];  
+* Ambroise : <mark>[...]</mark>;  
 * Esperanza : commence à inventer le sort *Visions of the Infernal Terrors* ReMe 30  
  * effet : similaire au sort éponyme de niveau 30 (ArM5, p. 152) mais en portée Vue et en durée Diamètre;  
  * TL (ReMe) = 8 (Re) + 18 (Me) + 3 (Int) + 5 (Th. Mag. spéc. Me) + 3 (Aura) + 1 (labo) + 1 (routine *Early Riser*) + 3 (routine *Addled*) + 3 (routine *Overtime*) = 45  —> 15 niveaux de sort sont accumulés;  
@@ -1740,11 +1399,11 @@ Saison d'étude pour les autres personnages :
 * Gobolino : s'entraîne à la pêche sous l'eau dans la rivière (4 xp en Natation, spé. retenir sa respiration)  
 * Tristan-Alexis : s'en va conter des ballades aux châtelaines esseulées (4 xp en Charme).
 
-## Automne  ^1218Au
+### Automne  
 
 Saison d'étude :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Bernard : apprend à tirer à l'arc (4 xp en Arcs, spé. Arc Court)  
 * Celarius : recopie au net les sorts suivants :  
  * Danse macabre (ReCo 15) (inventé)  
@@ -1770,13 +1429,13 @@ Saison d'étude :
 * Sigfeín : lit la *summa* Rego (13 xp)  
 * Tristan-Alexis : étudie la *summa* Arts libéraux (7 xp).
 
-## Hiver  ^1218Hi
+### Hiver  
 
 Saison d'étude :  
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
  * jet de vieillissement (40 ans) :  
-  * Total de Vieillissement = [[span style="background-color: yellow;"]][...][[/span]] (dé de tension) + 4 (âge divisé par 10) - 1 (conditions de vie pour Ambroise) - 0 (Rituel de Longévité) = [[span style="background-color: yellow;"]][...][[/span]];  
-  * Résultat : [[span style="background-color: yellow;"]][...][[/span]];  
+  * Total de Vieillissement = <mark>[...]</mark> (dé de tension) + 4 (âge divisé par 10) - 1 (conditions de vie pour Ambroise) - 0 (Rituel de Longévité) = <mark>[...]</mark>;  
+  * Résultat : <mark>[...]</mark>;  
 * Bernard : s'entraîne au combat (4 xp en Arme à 1 main)  
  * jet de vieillissement (35 ans) :  
   * Total de Vieillissement = 4 (dé de tension sans désastre) + 4 (age/10) + 0 (Conditions de vie) = 8;  
@@ -1804,18 +1463,18 @@ Saison d'étude :
  * les 2 sorts sont appris en 1 saison  
  * jet de vieillissement (43 ans) :  
   * Total de Vieillissement = 8 (dé de tension sans désastre) + 5 (age/10) - 1 (Conditions de vie) - 7 (Rituel de longévité) = 5;  
-  * Résultat : [[span style="background-color: yellow;"]][...][[/span]];  
+  * Résultat : <mark>[...]</mark>;  
   * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
 * Sigfeín : lit la *summa* Rego (13 xp)  
 * Tristan-Alexis : étudie les Herbes médicinales avec son Maître (12 xp)
 
-# Année 1219
+## Année 1219
 
-## Printemps  ^1219Pr
+### Printemps  
 
 Saison d'étude :
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Bernard : monte la garde (4 xp en Attention, passant ainsi au niveau 5 dans cette compétence)  
 * Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : investit dans sa bague en argent une charge d'un effet *Ward against Demons* ReVi 35 (Portée Toucher, Durée Diamètre, Cible Individuelle) offrant une protection contre les créatures de Force Infernale inférieure ou égale à 40;  
@@ -1834,7 +1493,7 @@ Saison d'étude :
  * jet simple de désintoxication : 6 + 2 (En)  
 * Tristan-Alexis : surveille les mouvements de l'Eglise pour compte de son maître (2 xp d'exposition en Ruse)
 
-## Ete  ^1219Et
+### Ete  
 
 Séance du 3 août 2013. Scénario *[http:*villamanlia.wikidot.com/fosse La Fosse aux Traîtres]// conté par Rafaël auquel participent Esperanza, Scintillus, Sigfeín, Bernard et Jehan (10 xp).
 
@@ -1850,12 +1509,12 @@ Expérience acquise au cours de cette aventure :
 * Scintillus : 5 xp en connaissance de l'infernal et 5 xp en connaissance des gens  
 * Sigfeín : 5 xp en Connaissance de l'Infernal (passant ainsi au niveau 1, spécialité satanistes) et 5 xp en maîtrise de *Curse of the Flying Wound* (*Fast casting*), passant ainsi au niveau 2  
 Saison d'étude pour les autres personnages :  
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
 * Tristan-Alexis : s'entraîne à l'Equitation (4 xp, passant ainsi au niveau 2).
 
-## Automne  ^1219Au
+### Automne  
 
 Scéances du 28 septembre et du 20 octobre. Scénario *Le Tribunal de la réconciliation* conté par Rafaël auquel participent Esperanza, Scintillus, Sigfeín, Bernard et Jehan (10 xp).
 
@@ -1866,16 +1525,16 @@ Expérience acquise au cours de cette aventure :
 * Scintillus : 5 xp en connaissance de l'infernal et 5 xp en connaissance de l'Ordre d'Hermès  
 * Sigfeín : lit le *Tractatus* Intellego *De rerum ratione* (11 (17) xp en Intellego)  
 Saison d'étude pour les autres personnages :  
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
 * Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Gobolino : s'entraîne à la fronde (4 xp en Arme de jet)  
 * Tristan-Alexis : se procure des ingrédients pour ses potions (4 xp en Négociation)
 
-## Hiver  ^1219Hi
+### Hiver  
 
 [Le Tribunal de la Réconciliation](http://villamanlia.wikidot.com/reconciliation), fin de la première partie de la Saga de Villa Manlia contée par Rafaël, à laquelle participent tous les Mages.
 
-* Ambroise : [[span style="background-color: yellow;"]][...][[/span]]  
+* Ambroise : <mark>[...]</mark>  
  * jet de vieillissement (41 ans) :  
   * Total de Vieillissement = 2 (dé de tension sans désastre) + 5 (âge divisé par 10) - 1 (conditions de vie pour Ambroise) - 0 (Rituel de Longévité) = 6;  
   * Résultat : Age appareznt augmente d'un an;  
@@ -1896,8 +1555,8 @@ Saison d'étude pour les autres personnages :
   * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant);  
   * +1 point de Crépuscule du fait de l'effet MuCo auquel elle se soumet (effet mystique constant).  
  * 2ème jet de vieillissement (routine *Double Overtime* Pr 1219) :  
-  * Total de Vieillissement = [[span style="background-color: yellow;"]][...][[/span]] (dé de tension sans désastre) + 5 (age/10) - 1 (Conditions de vie) + 2 (routine *Double Overtime* Pr 1219) - 9 (Rituel de longévité) = [[span style="background-color: yellow;"]][...][[/span]];  
-  * Résultat : [[span style="background-color: yellow;"]][...][[/span]];  
+  * Total de Vieillissement = <mark>[...]</mark> (dé de tension sans désastre) + 5 (age/10) - 1 (Conditions de vie) + 2 (routine *Double Overtime* Pr 1219) - 9 (Rituel de longévité) = <mark>[...]</mark>;  
+  * Résultat : <mark>[...]</mark>;  
 * Jehan : monte la garde (4 xp en Attention)  
 * Scintillus : Extrait de la Vis :  
  * Total de laboratoire : 3(Int) + 5(Théorie de la magie) + 15(Cr) + 7 (Vi) + 3(aura) = 33 => 4 pions de Vis Vim extrait  

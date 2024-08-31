@@ -1,359 +1,8 @@
-# Aperçu  
-[[table class="wiki-content-table" style="width: 100%;"]]  
-[[row style="background-color: #EEEEEE;"]]  
-[[cell style="width: 33%;"]]  
-**1230**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1231**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1232**  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1230Pr | Printemps]]  
-***La dispute sur l'éternité du monde***  
-(9 xp)  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1230Et | Ete]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1231Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1231Et | Ete]]  
-**Scénario sur *L'Intellect Actif***  
-(8 xp)  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1232Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1232Et | Ete]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1230Au | Automne]]  
-***Le laboratoire perdu d'Hermanus***  
-(9 xp)  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1230Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1231Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1231Hi | Hiver]]  
-***What Lies Beneath***  
-(8 xp)  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1232Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1232Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[table class="wiki-content-table" style="width: 100%;"]]  
-[[row style="background-color: #EEEEEE;"]]  
-[[cell style="width: 33%;"]]  
-**1233**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1234**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1235**  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1233Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1233Et | Ete]]  
-***La Peste Noire***  
-(10 xp)  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1234Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1234Et | Ete]]  
-***Body on the Shore***  
-(6 xp)  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1235Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1235Et | Ete]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1233Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1233Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1234Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1234Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1235Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1235Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[table class="wiki-content-table" style="width: 100%;"]]  
-[[row style="background-color: #EEEEEE;"]]  
-[[cell style="width: 33%;"]]  
-**1236**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1237**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1238**  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1236Pr | Printemps]]  
-***La quête de Consilia***  
-(10 xp)  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1236Et | Ete]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1237Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1237Et | Ete]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1238Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1238Et | Ete]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1236Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1236Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1237Au | Automne]]  
-***La guerre des magiciens***  
-(10 xp)  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1237Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1238Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1238Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[table class="wiki-content-table" style="width: 33%; padding: 0px;"]]  
-[[row style="background-color: #EEEEEE;"]]  
-[[cell]]  
-**1239**  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1239Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1239Et | Ete]]  
-***Au coeur de l'Université Invisible***  
-(8 xp)  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1239Au | Automne]]  
-...  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1239Hi | Hiver]]  
-...  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]
+# Chronologie 1230-1239
 
-# Année 1230
+## Année 1230
 
-## Printemps  ^1230Pr
+### Printemps  
 
 Séance du 28 février 2016. Scénario *La dispute sur l'éternité du monde* conté par Rafaël, auquel participent Bernard, Esperanza, Faustus, Jehan, Scintillus ? et Sigfeín (9 xp).
 
@@ -366,24 +15,24 @@ Séance du 28 février 2016. Scénario *La dispute sur l'éternité du monde* co
 
 Saison d'étude pour les autres personnages:  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Esteban : <mark>[...]</mark>  
+* Gobolino : <mark>[...]</mark>  
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Eté  ^1230Et
+### Eté  
 
 Saison d'étude :
 
 * Bernard : s'entraîne au tir (4 xp en Arcs)  
-* Celarius : [[span style="background-color: yellow;"]][aide Scintillus à créer un objet magique CrIg => 2 XP d'exposition en ...][[/span]]  
+* Celarius : <mark>[aide Scintillus à créer un objet magique CrIg => 2 XP d'exposition en ...]</mark>  
 * Esperanza : commence à inventer le sort *Enslave the Mortal Mind* ReMe 40 (cf. ArM5 p. 152 mais en portée toucher) en expérimentant avec un modificateur de risque de +3  
  * Base 25 (Completely control a person's mind and emotions), R: Touch +1, D: Sun +2, T: Ind;  
  * TL (ReMe) = 3 (Int) + 7 (Th. Mag. spé. Me) + 12 (Re) + 22 (Me) + 3 (Aura) + 1 (routine *Early Riser*) + 10 (jet simple d'expérimentation) + 3 (modif. de risque) = 61 -> 21 niveaux de sort sont accumulés;  
  * jet de tension sur la table d'expérimentation : 8 + 3 (modif. risque) = 11 -> *Modified Effect* -> *The spell or effect's range, duration, target, or potency is increased* -> Le sort est modifié en Portée Voix (sans changer de niveau);  
  * 2 xp d'exposition en Mentem.  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : lit la *summa* Muto (15(8) xp + 3 xp (Book learner), passant ainsi au niveau 17)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
 * Jehan : poursuit son apprentissage de la masse d'armes (4 xp en Arme à deux mains)  
 * Scintillus : Invente l'objet magique "rotissoire de l'enfer" Objet CrIg 40 avec l'aide de Célarius  
  * Caractéristiques :  
@@ -399,9 +48,9 @@ Saison d'étude :
 * Sigfeín : extrait 4 pions de vis Vim pour ses besoins <u>personnels</u>  
  * TL (CrVi) = 13 (Cr) + 12 (Vi) + 3 (Int) + 6 (Th. Mag.) + 3 (Aura) = 37;  
  * 2 xp d'exposition en Vim  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Automne  ^1230Au
+### Automne  
 
 Séances du 9 avril et du 8 mai 2016. Scénario *Le laboratoire perdu d'Hermanus* conté par Rafaël, auquel participent Bernard, Esperanza, Faustus, Jehan, et Sigfeín (9 xp).
 
@@ -413,14 +62,14 @@ Séances du 9 avril et du 8 mai 2016. Scénario *Le laboratoire perdu d'Hermanus
 
 Saison d'étude pour les autres personnages:  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
+* Gobolino : <mark>[...]</mark>  
 * Scintillus : Extraction de Vis Vim :  
  * TL CrVI : 3 (Int) + 6 (Th. Mag.) + 15 (Cr) + 10 (Vi) = 34 => 34/10 = 4 pions du Vis Vim extrait  
  * 2 xp d'exposition en Vim  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Hiver  ^1230Hi
+### Hiver  
 
 Saison d'étude :
 
@@ -430,9 +79,9 @@ Saison d'étude :
   * Résultat : +1 an d'âge apparent (47 -> 48 ans).  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
  * jet de vieillissement (63 ans) :  
-  * Total de Vieillissement = [[span style="background-color: yellow;"]][...][[/span]] (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + [[span style="background-color: yellow;"]][...][[/span]] (dé de tension sans désastre) = [[span style="background-color: yellow;"]][...][[/span]];  
-  * Résultat : [[span style="background-color: yellow;"]][...][[/span]];  
-  * [[span style="background-color: yellow;"]]+1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).[[/span]]  
+  * Total de Vieillissement = <mark>[...]</mark> (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + <mark>[...]</mark> (dé de tension sans désastre) = <mark>[...]</mark>;  
+  * Résultat : <mark>[...]</mark>;  
+  * <mark>+1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).</mark>  
 * Esperanza:  
  * continue à inventer le sort *Enslave the Mortal Mind* ReMe 40 entamé à l'Eté 1230;  
   * TL (ReMe) = 3 (Int) + 7 (Th. Mag. spé. Me) + 12 (Re) + 22 (Me) + 3 (Aura) + 3 (routine *Addled*) + 9 (routine *Triple Overtime*) = 59 -> 19 niveaux de sort sont accumulés -> le sort est inventé;  
@@ -444,13 +93,13 @@ Saison d'étude :
   * Total de Vieillissement = 4 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) + 3 (routine *Triple Overtime* Hiver 1230) - 9 (Rituel de longévité) = 2;  
   * Résultat: pas de vieillissement apparent (59 -> 59 ans);  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : crée la Sphère armillaire élémentaire octroyant un bonus de +1 pour chaque élément  
  * jet de vieillissement (50 ans) :  
   * Total de Vieillissement = 3 (dé de tension sans désastre) + 5 (age/10) - 2 (Conditions de vie) - 7 (Rituel de longévité) =  
   * Résultat : - 1  
   * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
 * Jehan : poursuit son apprentissage de la masse d'armes (4 xp en Arme à 2 mains, passant ainsi au niveau 2)  
  * jet de vieillissement (37 ans) :  
   * Total de Vieillissement = 10 (dé de tension sans désastre) + 4 (age/10) - 1 (Conditions de vie) = 13;  
@@ -463,7 +112,7 @@ Saison d'étude :
  * jet de vieillissement (55 ans) :  
   * Total de Vieillissement = 6 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 7 (Rituel de longévité) = 3;  
   * Résultat : age apparent augmente de 1;  
-  * [[span style="background-color: yellow;"]]+1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).[[/span]]  
+  * <mark>+1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).</mark>  
 * Sigfeín : investit son talisman d'un effet Contrôle des êtres féériques (base 5, + 2 Portée Voix, +2 Durée Aube/Crépuscule) pouvant être utilisé 6 fois par jour, d'une durée limitée à 70 ans  
  * Pénétration totale: 25 (niveau de l'effet) + 22 (bonus de Pénétration)  
  * Niveau de l'investissement: base 5, + 2 Portée Voix, +2 Durée Aube/Crépuscule, + 6 utilisations par jour (+3) et +22 de Pénétration (+11) = 39  
@@ -475,11 +124,11 @@ Saison d'étude :
   * Total de Vieillissement = 16 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) + 1 (*Overtime*) - 3 (*Strong Faerie Blood*) - 11 (Rituel de longévité) = 7;  
   * Résultat : +1 an d'âge apparent (50 —> 51);  
   * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-# Année 1231
+## Année 1231
 
-## Printemps  ^1231Pr
+### Printemps  
 
 Saison d'étude :
 
@@ -487,10 +136,10 @@ Saison d'étude :
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : apprend à maîtriser le sort *Enslave the Mortal Mind* ReMe 40 (5 xp en Maîtrise du sort, passant ainsi au niveau 1, spé. Résistance Magique)  
  * jet d'accoutumance (cf. routine de labo *Addled* Hi 1230): 7 (jet de tension) + 2 (Energie) - 1 (Addicted Personality Trait) = 8 > 3 x 1 -> pas de conséquences.  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : raffine son laboratoire.  
  * 2xp en théorie de la magie  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
 * Jehan : poursuit son apprentissage de la masse d'armes (4 xp en Arme à 2 mains)  
 * Scintillus : Maitrise le sort *Blessing of the child like bless* => 5 xp pour atteindre le niveau 1 (fast casting)  
 * Sigfeín : termine d'investir son talisman d'un effet Contrôle des êtres féériques (base 5, + 2 Portée Voix, +2 Durée Aube/Crépuscule) pouvant être utilisé 6 fois par jour, d'une durée limitée à 70 ans  
@@ -500,41 +149,41 @@ Saison d'étude :
  * Sceau du Mage : des branches fantômes s'enroulent autour de la cible  
  * A cette occasion, Sigfeín active le pouvoir de compréhension lié aux motifs argentés sertissant le talisman (+2 In)  
  * 2 xp d'exposition en Vim  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Eté  ^1231Et
+### Eté  
 
 Séances du 26 juin, 20 août et du 4 septembre 2016. Scénario sur *L'Intellect Actif* conté par Rafaël et Renaud, auquel participent Bernard, Esperanza, Faustus, Jehan et Scintillus (8 xp).
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Esperanza : 5 xp en Mentem et 3 xp en Connaissance de la Magie, passant ainsi au niveau 1  
 * Faustus : 5 xp en Corpus et 3 xp en Pénétration  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
+* Jehan : <mark>[...]</mark>  
 * Scintillus : 4 xp en philosophie et 4 xp en Intellego passant ainsi à 8
 
 Saison d'étude pour les autres personnages:  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
+* Gobolino : <mark>[...]</mark>  
 * Sigfeín : étudie la tapisserie magique de Bellaquin (12(18) xp en Intellego, passant ainsi au niveau 16)  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Automne  ^1231Au
+### Automne  
 
 Saison d'étude :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Rego (niveau 15, qualité 13) : 13 xp en Rego, passant ainsi au niveau 13, plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : lit le tractatus corpus *De corporis et mentis doloribus* (jet de concentration réussi) : 9 xp + 3 xp (Book learner) passant ainsi à 12  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
 * Scintillus : étudie la summa Auram *De caeli et intangabilium siderum studio* (21 xp en Auram passant ainsi au niveau 6)  
 * Sigfeín : apprend d'Athanor les sorts *The Leap of Homecoming* (ReCo 35) et *Clouds of Rain and Thunder* (CrAu 25) (2 xp d'exposition en Corpus)  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Hiver  ^1231Hi
+### Hiver  
 
 Scénario *What Lies Beneath* de Mark Lawford, paru dans *Tales of Mythic Europe*, conté par Rafaël, auquel participent Esperanza, Faustus, Scintillus, Sigfein, Bernard et Jehan (8 xp). Alertés par Celarius, les personnages se rendent à la Grotte des Echos, leur source de *vis* Imaginem située près de l'Alliance brisée de Calebaïs, où ils découvrent le cadavre d'un ivrogne qui s'est égaré dans les marais entourant la grotte. L'Abbaye de Saint-Martin, située à proximité, a en effet entamé de grands travaux d'assèchement desdits marais qui menacent la source de *vis*. Non sans peine, les personnages parviennent à convaincre l'Abbé Richard de la duplicité de frère Daniel et du Père Tobias Van der Maelen, en charge des travaux, tous deux convaincus de satanisme. Ils parviennent néanmoins à s'enfuir.
 
@@ -562,23 +211,23 @@ Scénario *What Lies Beneath* de Mark Lawford, paru dans *Tales of Mythic Europe
 Pour les autres personnages, saison d'étude :
 
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Esteban : <mark>[...]</mark>  
+* Gobolino : <mark>[...]</mark>  
+* Tristan-Alexis : <mark>[...]</mark>
 
-# Année 1232
+## Année 1232
 
-## Printemps  ^1232Pr
+### Printemps  
 
 Saison d'étude :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : entame son périple à travers le Tribunal d'Ibérie -- 7 xp en Connaissance de la péninsule Ibérique, passant ainsi au niveau 1, spécialité "politique"  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : lit le tractatus corpus *De humoribus* : 10 xp + 3 (book learner) passant ainsi à 13  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
 * Scintillus : Se rend à Mae Immobile pour apprendre les sorts suivant d'Athanor :  
  * *Wizard Icy Grip* (PeIg 30)  
  * *Intangible Prying Eyes* (InIm 10) : Base 2, Portée touché (+1), Durée concentration (+1), cible pièce (+2)  
@@ -586,21 +235,21 @@ Saison d'étude :
 * Sigfeín : extrait 4 pions de vis Vim  
  * TL (CrVi) = 13 (Cr) + 12 (Vi) + 3 (Int) + 6 (Th. Mag.) + 3 (Aura) = 37;  
  * 2 xp d'exposition en Vim  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Ete  ^1232Et
+### Ete  
 
 Saison d'étude :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : continue son périple à travers le Tribunal d'Ibérie -- 7 xp en Connaissance de la péninsule Ibérique  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : invente le sort CrAu 10 *Volutes de fumée nauséabonde* :  
  * TL : Cr (6) + Au (10) + In (3) + Th. de la m. spéc. invention de sorts (5) + + Sphère Armillaire (1) + Aura (3) = 28  
  * 2 xp d'exposition en Théorie de la Magie  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
 * Scintillus : Tente de lire *De corporis et mentis doloribus* : 1 (jet simple) + 2(Ene) +2 (concentration) = 5, lecture impossible => Lecture de *De anima*: 12 xp en Mentem, passant ainsi au niveau 5  
 * Sigfeín : investigue la dague cérémonielle et la  coupelle ayant appartenu au défunt Kadwallen de Diedne  
  * TL (InVi) = 15 (In) + 12 (Vi) + 3 (Int) + 6 (Th.Mag.) + 3 (Aura) + 1 (Objets) + 3 (*Overtime*) = 43  
@@ -608,33 +257,33 @@ Saison d'étude :
  * 2(3) xp d'exposition en In  
 * Tristan-Alexis : assiste Sigfeín dans l'investigation des objets de feu Kadwallen (2 xp d'exposition en Oghams).
 
-## Automne  ^1232Au
+### Automne  
 
 Saison d'étude :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : continue son périple à travers le Tribunal d'Ibérie -- 8 xp en Castillan ancien  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : lit le tractatus Théorie de la Magie *De harmonia artium* : 9 xp + 3 (book learner), passant ainsi au niveau 5  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
 * Scintillus : Tente de lire *De corporis et mentis doloribus* : 8 (jet simple) + 2(Ene) +2 (concentration) = 12, lecture réussie : 9 xp en Mentem, passant ainsi au niveau 7  
 * Sigfeín : apprend le sort Magie Voilée (*Shroud Magic*) MuVi 25 dans la *summa* Muto (2 xp d'exposition en Vi)  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Hiver  ^1232Hi
+### Hiver  
 
 Saison d'étude :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
-* Esperanza : continue son périple à travers le Tribunal d'Ibérie ~~ 8 xp en Castillan ancien ~~ et se fixe en l'Alliance de [[span style="background-color: yellow;"]][...][[/span]]  
+* Esperanza : continue son périple à travers le Tribunal d'Ibérie ~~ 8 xp en Castillan ancien ~~ et se fixe en l'Alliance de <mark>[...]</mark>  
  * jet de vieillissement (58 ans):  
   * Total de Vieillissement =  8 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = 3;  
   * Résultat: vieillissement apparent d'un an (59 -> 60 ans);  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus commence à inventer le sort Manteau de Brume MuCo 35 (cf. ArM5 VF p. 202 mais en durée diamètre) en expérimentant avec un modificateur de risque de +3  
  * Base 30, +1 Diamètre;  
  * TL (MuCo) = 3 (Int) + 6 (Th. Mag. spé. invention de sorts) + 20 (Mu) + 13 (Co) + 3 (Aura) + 1 (Study Bonus) + 1 (Sphère armillaire) + 3 (*Overtime*) + 5 (jet simple d'expérimentation) + 3 (modif. de risque) = 58 -> 23 niveaux de sort sont accumulés;  
@@ -644,8 +293,8 @@ Saison d'étude :
   * Total de Vieillissement = 0 (dé de tension sans désastre) + 6 (age/10) + 1 (Overtime) - 2 (Conditions de vie) - 7 (Rituel de longévité) = -2  
   * Résultat : pas de vieillissement apparent (52 —> 47);  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
 * Scintillus :  
  * Tente de lire le tractatus *Lumina in nocte. De aliquibus mysteriis obscuriis in Mari Immobili* : 3(Int)+ 6(Th.Mag.) + 2 (jet simple) =11; Scintillus n'y comprend rien et lit à la place le tractatus *De rerum ratione* => 11 xp en Intellego, passant ainsi au niveau 9  
  * Jet de vieillissement (57 ans) :  
@@ -660,29 +309,29 @@ Saison d'étude :
   * Total de Vieillissement = 3 (dé de tension sans désastre) + 6 (age/10) + 1 (routine Overtime Et 1232) - 2 (Conditions de vie) - 3 (*Strong Faerie Blood*) - 11 (Rituel de longévité) = -6;  
   * Résultat : pas de vieillissement apparent (51 —> 51);  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-# Année 1233
+## Année 1233
 
-## Printemps  ^1233Pr
+### Printemps  
 
 Saison d'étude :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Perdo (niveau 14, qualité 12) : 12 xp en Perdo (passant ainsi au niveau 10), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus continuer d'inventer le sort Manteau de Brume MuCo 35 (cf. ArM5 VF p. 202 mais en durée diamètre) en expérimentant avec un modificateur de risque de +3  
  * Base 30, +1 Diamètre;  
  * TL (MuCo) = 3 (Int) + 6 (Th. Mag. spé. invention de sorts) + 20 (Mu) + 13 (Co) + 3 (Aura) + 1 (Study Bonus) + 1 (Sphère armillaire) = 47 -> 12 niveaux de sort sont accumulés -> le sort est inventé;  
  * 2 xp d'exposition en Muto.  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
 * Scintillus : Tente de lire le tractatus *Lumina in nocte. De aliquibus mysteriis obscuriis in Mari Immobili* : 3(Int)+ 6(Th.Mag.) + 7 (jet simple) =16; Scintillus comprend enfin ce tractatus => 12 xp en Intellego, passant ainsi au niveau 10  
 * Sigfeín : étudie la *summa* Creo (12xp), passant ainsi au niveau 14  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Ete  ^1233Et
+### Ete  
 
 Séance des 17 février 2017, 7 avril 2017, 17 juin 2017, 9 septembre 2017, 7 octobre 2017 et 12 novembre 2017. Scénario *Black Death* de Thomas M. Kane conté par Rafaël, auquel participent Faustus, Scintillus, Sigfein, Bernard et Jehan.
 
@@ -747,8 +396,8 @@ Les personnages se lancent à la poursuite de Damianus, accompagnés par les hab
 
 Les personnages acquièrent au terme de ce scénario 10 xp répartis comme suit :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
+* Esteban : <mark>[...]</mark>  
 * Faustus : 5 xp en maîtrise du sort Manteau de Brume (passant ainsi au niveau 1, spécialité *fastcasting*) et 5 xp en Pénétration (passant ainsi au niveau 4)  
 * Scintillus : 5 xp en connaissance des gens passant ainsi à 2 (12), 2 xp en parma magica passant ainsi à 4(4) et 3xp en pénétration passant ainsi à 3(5)  
 * Sigfeín : 5 xp en Enigme et 5 xp en Connaissance des gens, passant ainsi au niveau 2
@@ -757,46 +406,46 @@ Saison d'étude pour les autres personnages :
 
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Perdo (niveau 14, qualité 12) : 12 xp en Perdo (passant ainsi au niveau 11), plus 1 xp en Co, He, Im et Me (passant ainsi au niveau 20) comme bonus de sa vertu Connaissance Dérivée  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Esteban : <mark>[...]</mark>  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Automne  ^1233Au
+### Automne  
 
 Saison d'étude :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : commence à inventer une variante PeMe 35 de son sort *The Thief of Memory* PeMe 20  
  * Base 15 (Remove a major or long memory from a person's mind), R: Touch +1, D: Inst, C: Struct +3;  
  * TL (PeMe) = 3 (Int) + 7 (Th. Mag. spé. Me) + 11 (Re) + 23 (Me) + 3 (Aura) + 1 (routine *Early Riser*) + 4 (bonus sort similaire) = 52 -> 17 niveaux de sort sont accumulés;  
  * 2 xp d'exposition en Mentem.  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus commence à inventer le sort Funérailles précoces MuCo 30 (semblable au premier sort à ceci près qu'il opère sur un sol de pierre) en expérimentant avec un modificateur de risque de +3  
  * Base 4, Portée Voix +2, Concentration +1, Pierre +1, Part +1, Flexibilité vitesse +1 ;  
  * TL (MuTe) = 3 (Int) + 6 (Th. Mag. spé. invention de sorts) + 20 (Mu) + 10 (Te) + 3 (Aura) + 1 (Study Bonus) + 1 (Sphère armillaire) + 5 (Bonus sort similaire) + 3 (overtime) + 3 (Modif. de risque) + 5  = 54 -> 32 niveaux de sort sont accumulés; le sort est inventé.  
  * jet de tension sur la table d'expérimentation : 7 + 3 (modif. de risque) = 10 -> Découverte : 15 xp en Théorie de la Magie  
  * 2 xp d'exposition en Muto.  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
+* Jehan : <mark>[...]</mark>  
 * Scintillus : Décide d'expérimenter pour inventer le sort *Posing a silent question* InMe 20  
  * TL : 3 (Int) + 7 (Th. Mag. + spécialité) + 10 (In) + 7 (Me) + 3 (aura) + 2 (expérimentation) + 8 = 40 =>sort inventé  
  * Jet sur la table d'expérimentation : 0 (dé de tension sans désastre) + 2 = 2 : no extraordinary effect  
  * 2 xp d'exposition en Intellego, passant ainsi au niveau 10  
 * Sigfeín : extrait 5 pions de vis Vim  
  * TL (CrVi) = 14 (Cr) + 12 (Vi) + 3 (Int) + 6 (Th. Mag.) + 3 (Aura) + 3 (routine *Addled*) = 41;  
- * Jet d'accoutumance [[span style="background-color: yellow;"]][...][[/span]]  
+ * Jet d'accoutumance <mark>[...]</mark>  
  * 2 xp d'exposition en Vim  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Hiver  ^1233Hi
+### Hiver  
 
 Saison d'étude :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
-* Esperanza : saison à la collectivité pour l'Alliance [[span style="background-color: yellow;"]][...][[/span]], 2 xp en Théorie de la Magie  
+* Esteban : <mark>[...]</mark>  
+* Esperanza : saison à la collectivité pour l'Alliance <mark>[...]</mark>, 2 xp en Théorie de la Magie  
  * jet de vieillissement (59 ans):  
   * Total de Vieillissement =  8 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = 3;  
   * Résultat: vieillissement apparent d'un an (60 -> 61 ans);  
@@ -807,7 +456,7 @@ Saison d'étude :
   * Total de Vieillissement = 16 (dé de tension sans désastre) + 6 (age/10) + 1 (Overtime) - 2 (Conditions de vie) - 7 (Rituel de longévité) = 14  
   * Résultat : vieillissement (53 —> 48); 1 point de vieillissement en Vivacité  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
+* Jehan : <mark>[...]</mark>  
 * Scintillus :  
  * S'entraine à maitriser le sort *Posing a silent question*: 5 xp accumulés passant ainsi au niveau 1 (*quiet casting*)  
  *Jet de vieillissement (58 ans) :  
@@ -823,29 +472,29 @@ Saison d'étude :
   * Total de Vieillissement = 16 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 3 (Strong Faerie Blood) - 11 (Rituel de longévité) = 7;  
   * Résultat : +1 an d'âge apparent (51 —> 52);  
   * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-# Année 1234
+## Année 1234
 
-## Printemps  ^1234Pr
+### Printemps  
 
 Saison d'étude :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Perdo (niveau 14, qualité 12) : 12 xp en Perdo (passant ainsi au niveau 12), plus 1 xp en Co, He, Im (passant ainsi au niveau 8) et Me comme bonus de sa vertu Connaissance Dérivée  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus :  
  * étudie la *Summa Rego* (13 xp + 3 *Book Learner*), passant ainsi au niveau 8.  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
+* Jehan : <mark>[...]</mark>  
 * Scintillus : maîtrise le sort *Posing a silent question*: 5 xp, passant ainsi au niveau 1 (5)  
 * Sigfeín : termine d'inventer le sort Chambre d'Invisibilité (PeIm 25) en expérimentant avec un modificateur de risque de +2  
  * Base 4, +1 Toucher, +2 Aube/Crépuscule, +2 Groupe ;  
  * TL (PeIm) = 3 (Int) + 6 (Th. Mag.) + 17 (Pe) + 5 (Im) + 3 (Aura) = 34 -> 9 niveaux de sort sont accumulés et le sort est dès lors inventé.  
  * 2 xp d'exposition en Imaginem.  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Ete  ^1234Et
+### Ete  
 
 Scénario *Body on the Shore* d'Edward Kendrick, publié dans *Sub Rosa #11*, conté par Rafaël le 6 janvier 2018.
 
@@ -855,59 +504,59 @@ Après avoir rencontré Rémi Phraseur, les personnages se rendent au village de
 
 Les personnages acquièrent 6 points d'expérience répartis comme suit :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Perdo (niveau 14, qualité 12) : 12 xp en Perdo (passant ainsi au niveau 13), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : 5 xp en maîtrise du sort *Funérailles précoces* MuTe 30 (passant ainsi au niveau 1, spécialité *Fast casting*) et 1 xp en Rego (passant ainsi au niveau 9)  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Juan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Jehan : <mark>[...]</mark>  
+* Juan : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : 3 xp en Connaissance des gens (passant ainsi au niveau 3) et 3 xp en Connaissance de la Féérie (passant ainsi au niveau 1)  
 * Sigfeín : 4 xp en Attention, passant ainsi au niveau 2, et 2 xp en Imaginem, passant ainsi au niveau 6
 
 Saison d'étude pour les autres personnages :
 
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
-* Esperanza : [[span style="background-color: yellow;"]][...][[/span]]  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Esperanza : <mark>[...]</mark>  
+* Esteban : <mark>[...]</mark>  
+* Gobolino : <mark>[...]</mark>  
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Automne  ^1234Au
+### Automne  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : continue à inventer une variante PeMe 35 de son sort *The Thief of Memory* PeMe 20 (cf. Automne 1233)  
  * Base 15 (Remove a major or long memory from a person's mind), R: Touch +1, D: Inst, C: Struct +3;  
  * TL (PeMe) = 3 (Int) + 7 (Th. Mag. spé. Me) + 13 (Re) + 23 (Me) + 3 (Aura) + 1 (routine *Early Riser*) + 4 (bonus sort similaire) = 54 -> 19 niveaux de sort sont accumulés, le sort est inventé;  
  * 2 xp d'exposition en Mentem.  
 * Esteban : assiste Sigfeín dans l'étude des notes de laboratoire de Carolus (2 xp d'exposition en Scribe)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
 * Faustus : se soigne de sa blessure grave en lisant l'ouvrage biographique de Currito de Jerbiton :  
  * Jet de récupération : 3 (Energie) + 9 (aide magique Sigfeín) + 6 = 18 -> la blessure grave devient moyenne.  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Juan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Jehan : <mark>[...]</mark>  
+* Juan : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : fixe la connexion des arcanes menant à la source de *vis auram* d'Aigues-Mortes; 2 xp d'exposition en Théorie de la magie, passant ainsi au niveau 6  
 * Sigfeín : étudie les notes de laboratoire ayant appartenu à feu Carolus de Jerbiton avec l'assistance d'Esteban (2 xp d'exposition en Vim)  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Hiver  ^1234Hi
+### Hiver  
 
 Saison d'étude :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
-* Esperanza : saison à la collectivité pour l'Alliance [[span style="background-color: yellow;"]][...][[/span]], 2 xp en Théorie de la Magie  
+* Esperanza : saison à la collectivité pour l'Alliance <mark>[...]</mark>, 2 xp en Théorie de la Magie  
  * jet de vieillissement (60 ans):  
   * Total de Vieillissement =  2 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = -3;  
   * Résultat: pas de vieillissement apparent (60 -> 60 ans);  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
 * Esteban : saison de recopiage à Durenmar (2 xp d'exposition en Scribe)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
 * Faustus : apprend l'arabe sous l'enseignement d'Esperanza : 8 xp, passant ainsi au niveau 1  
  * Jet de récupération de la blessure moyenne : 3 (Energie) + 9 (aide magique Sigfein) + 3 = 15 -> la blessure moyenne devient une blessure légère  
  * Jet de récupération de la blessure légère :  3 (Energie) + 9 (aide magique Sigfein) + 3 = 15 -> Faustus guérit de sa blessure  
@@ -915,9 +564,9 @@ Saison d'étude :
   * Total de Vieillissement = 10 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 7 (Rituel de longévité) = 7  
   * Résultat : vieillissement de l'âge apparent (54 —> 49);  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant)  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Juan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Jehan : <mark>[...]</mark>  
+* Juan : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus :  
  * Maitrise le sort *Posing a silent question* : 5 xp passant ainsi au niveau 2 (spéc. *Quiet casting*²)  
  * Jet de vieillissement (59 ans)  
@@ -925,47 +574,47 @@ Saison d'étude :
   * Résultat : + 1 an d'age apparent;  
 * Sigfeín : fixe la connexion des arcanes avec la grotte des Echos (2 xp d'exposition en Vim)
 
-# Année 1235
+## Année 1235
 
-## Printemps  ^1235Pr
+### Printemps  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Rego (niveau 15, qualité 13) : 13 xp en Rego (passant ainsi au niveau 14), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : saison de recopiage à Durenmar (2 xp d'exposition en Scribe)  
 * Faustus : apprend l'arabe sous l'enseignement d'Esperanza (8 xp) passant ainsi au niveau 2;  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : se rend à Aigues-Mortes pour étudier la grotte des brumes et comprendre comment récupérer la Vis Auram; 10 xp en Auram, passant ainsi au niveau 7;  
 * Sigfeín : lit la *summa* Corpus (14 xp), passant ainsi au niveau 14  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]].
+* Tristan-Alexis : <mark>[...]</mark>.
 
-## Été  ^1235Et
+### Été  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Rego (niveau 15, qualité 13) : 13 xp en Rego (passant ainsi au niveau 15), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : saison de recopiage à Durenmar (2 xp d'exposition en Scribe)  
 * Faustus : apprend l'arabe sous l'enseignement d'Esperanza : 8 xp;  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : lit la *summa* Muto (15 xp, l'amenant ainsi au niveau 5)  
 * Sigfeín : lit la *summa* Corpus (14 xp), passant ainsi au niveau 15  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]].
+* Tristan-Alexis : <mark>[...]</mark>.
 
-## Automne  ^1235Au
+### Automne  
 
 Saison d'étude :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : commence à inventer une variante ReMe 35 de son sort *Aura of Rightful Authority* ReMe 20  
  * Base 5, R: Touch +1, D: Sun +2, C: Struct +3;  
@@ -973,19 +622,19 @@ Saison d'étude :
  * 2 xp d'exposition en Mentem.  
 * Esteban : saison de recopiage à Durenmar (2 xp d'exposition en Scribe)  
 * Faustus : apprend l'arabe sous l'enseignement d'Esperanza : 8 xp, passant ainsi normalement au niveau 3. Toutefois, l'étude de la langue arabe éveille en lui un étrange sentiment de déjà vu, et rapidement les bases de la grammaire et du vocabulaire lui reviennent plus vite qu'Esperanza aurait pu les lui enseigner. En un an d'étude assidue, il atteint ainsi, non pas le niveau 3, mais le niveau 4 en Arabe : il parle donc cette langue couramment à défaut d'en maîtriser toutes les nuances. Bel exploit! Et intriguant, également...;  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : apprend le sort "Gif of the Bear's Fortitude (MuCo 25) dans la summa Muto TL= 3 (Int) + 7 (Th. Mag.) + 3 (aura) + 5 (Mu) + 9 (Co) = 27 => sort appris  
 * Sigfeín : lit la *summa* Rego (13 xp), passant ainsi au niveau 13;  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]].
+* Tristan-Alexis : <mark>[...]</mark>.
 
-## Hiver  ^1235Hi
+### Hiver  
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
-* Esperanza : saison à la collectivité pour l'Alliance [[span style="background-color: yellow;"]][...][[/span]], 2 xp en Théorie de la Magie  
+* Esperanza : saison à la collectivité pour l'Alliance <mark>[...]</mark>, 2 xp en Théorie de la Magie  
  * jet de vieillissement (61 ans):  
   * Total de Vieillissement =  0 (dé de tension sans désastre) + 7 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = -4;  
   * Résultat: pas de vieillissement apparent (60 -> 60 ans);  
@@ -997,17 +646,17 @@ Saison d'étude :
   * Total de Vieillissement = 6 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 7 (Rituel de longévité) = 3  
   * Résultat : vieillissement de l'âge apparent (55 —> 50);  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : lit la summa corpus *Commentarii de arte Corporis ad Kitab Al Qanûn fi Al-Tibb* : 14 xp en Corpus passant ainsi à 10 (7)  
 * Sigfeín : lit la *summa* Creo (12 xp);  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]].
+* Tristan-Alexis : <mark>[...]</mark>.
 
-# Année 1236
+## Année 1236
 
-## Printemps  ^1236Pr
+### Printemps  
 Scénario *La quête de Consilia* conté par Rafaël, largement inspiré de *The Four Aspects of Conciatta* (scénario de Mark Lawford publié dans *Legends of Hermes*), auxquels participent Faustus, Scintillus, Sigfein, Jehan, Julio et Marco. Après avoir lu la *Vie de Currito* reçue à l'[été 1234](http://villamanlia.wikidot.com/doc#toc52), Faustus convainc Scintillus et Sigfein de l'accompagner dans un périple dans le Tribunal ibérien afin de reprendre la quête qu'il avait lui-même menée, avant son amnésie, après avoir quitté l'Alliance d'Ad Vim Per Veritatem. 
 
 Les personnages se rendent d'abord ainsi à Saragosse où ils découvrent La Torre No Vista, l'ancien sanctum de Consilia dans lequel se trouve enfermé un fantôme magique, reste de la personnalité brisée de Consilia. Elle se souvient de la visite du jeune Proclus qui, ivre de pouvoir et voulant découvrir les secrets du Muto, l'avait interrogée sur la manière de percer les mystères de l’essence des choses.
@@ -1023,142 +672,142 @@ En réunissant les quatre fragments de l'âme de Consilia, les personnages ont l
 Le scénario vaut aux personnages 20 xp, dont les dix premiers se répartissent comme suit: 
 
 * Faustus : 5 xp en maîtrise du sort Manteau de Brume (fastcasting), passant ainsi au niveau 1, 5 xp en Théorie de la Magie.  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : 5 xp en Théorie de la magie et 5 xp en connaissance de la magie  
 * Sigfeín : 5 xp en Parma Magica et 5 xp en Théorie de la Magie.
 
 Saison d'étude pour les autres personnages :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Muto (niveau 16, qualité 15) : 15 xp en Muto (passant ainsi au niveau 12), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Esteban : <mark>[...]</mark>  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Ete  ^1236Et
+### Ete  
 
 Suite de l'aventure *La quête de Consilia*: 
 
 * Faustus : 5 xp en Pénétration, passant ainsi au niveau 4 , 5 xp en Théorie de la Magie  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : 5 xp en théorie de la magie, 2 xp en connaissance de la féérie et 3 xp en pénétration  
 * Sigfeín : 2 xp en Creo, passant ainsi au niveau 15, 3 xp en Connaissance de la Magie et 5 xp en Connaissance de l'Ordre d'Hermès.
 
 Saison d'étude ordinaire pour les autres personnages :
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Muto (niveau 16, qualité 15) : 15 xp en Muto (passant ainsi au niveau 13), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Esteban : <mark>[...]</mark>  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Automne  ^1236Au
+### Automne  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : continue à inventer une variante ReMe 35 de son sort *Aura of Rightful Authority* ReMe 20 (cf. Automne 1235)  
  * Base 5, R: Touch +1, D: Sun +2, C: Struct +3;  
  * TL (ReMe) = 3 (Int) + 7 (Th. Mag. spé. Me) + 15 (Re) + 23 (Me) + 3 (Aura) + 1 (routine *Early Riser*) + 4 (bonus sort similaire) = 56 -> 21 niveaux de sort sont accumulés, le sort est inventé;  
  * 2 xp d'exposition en Mentem.  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : élabore avec l'aide d'Athanor une nouvelle potion de longévité + 12.  
  * 2 xp d'exposition en Théorie de la Magie.  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : Etudie la summa mentem de Durenmar (12 xp passant ainsi à 8(5))  
 * Sigfeín : étudie la *summa* Terram (13 xp, passant ainsi au niveau 7)  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Hiver  ^1236Hi
+### Hiver  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : assiste Sigfeín dans l'invention du sort *Greater Touch of Midas*;  
- * 2 xp d'exposition en [[span style="background-color: yellow;"]][...][[/span]]  
-* Esperanza : saison à la collectivité pour l'Alliance [[span style="background-color: yellow;"]][...][[/span]], 2 xp en Théorie de la Magie  
+ * 2 xp d'exposition en <mark>[...]</mark>  
+* Esperanza : saison à la collectivité pour l'Alliance <mark>[...]</mark>, 2 xp en Théorie de la Magie  
  * jet de vieillissement (62 ans):  
   * Total de Vieillissement =  0 (dé de tension sans désastre) + 7 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = -4;  
   * Résultat: pas de vieillissement apparent (60 -> 60 ans);  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : lit la *summa* Mentem de Durenmar (12 xp + 3 (*Book Learner*), passant ainsi au niveau 6)  
  * Jet de vieillissement (56 ans)  
  * Total de Vieillissement = 5 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 12 (Rituel de longévité) = - 3.  
  * Résultat : pas de vieillissement apparent (56 —>50) ;  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : étudie la summa mentem de Durenmar (12 xp passant ainsi à 9(8))  
 * Sigfeín : invente, avec l'aide de Celarius, le sort *Greater Touch of Midas* (Creo Terram 25)  
- * TL (CrTe) = 3 (Int) + 6 (Th. Mag.) + 15 (Cr) + 7 (Te) + 3 (Aura) + 3 (Int. Celarius) + 7 (Th. Mag. Celarius) + [[span style="background-color: yellow;"]][...][[/span]] = 50 -> sort inventé;  
+ * TL (CrTe) = 3 (Int) + 6 (Th. Mag.) + 15 (Cr) + 7 (Te) + 3 (Aura) + 3 (Int. Celarius) + 7 (Th. Mag. Celarius) + <mark>[...]</mark> = 50 -> sort inventé;  
  * Sceau : des nervures apparaissent dans la sphère d'or créée;  
  * 2 xp d'exposition en Terram, passant ainsi au niveau 8  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-# Année 1237
+## Année 1237
 
-## Printemps  ^1237Pr
+### Printemps  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : quitte le Tribunal d'Ibérie pour voyager le long des côtes africaines -- 7 xp en Connaissance de l'Afrique Mythique, passant ainsi au niveau 1, spécialité "légendes"  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : étudie la découverte hermétique majeure (cf. Scénario Consilia) : un sort Vim peut agir sur les 4 royaumes (saison 1/2).  
  * 2 xp d'exposition en Théorie de la Magie  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : étudie la summa Intelligo de Durenmar (12 xp passant ainsi à 11(8))  
 * Sigfeín : lit la *summa* Mentem de Durenmar (12 xp, passant ainsi au niveau 8)  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]].
+* Tristan-Alexis : <mark>[...]</mark>.
 
-## Ete  ^1237Et
+### Ete  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : 4 xp en *Animal Handling*  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : lit la *summa* Mentem de Durenmar (12 xp + 3 (*Book Learner*), passant ainsi au niveau 8)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : étudie la summa Intelligo de Durenmar (12 xp passant ainsi à 12(7))  
-* Sigfeín :  apprend d'Athanor les sorts [[span style="background-color: yellow;"]][...][[/span]]  
+* Sigfeín :  apprend d'Athanor les sorts <mark>[...]</mark>  
  * 2 xp d'exposition en Théorie de la Magie  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]].
+* Tristan-Alexis : <mark>[...]</mark>.
 
-## Automne  ^1237Au
+### Automne  
 
 Scénario *Les invasions barbares*, écrit par Nico et Rafaël conté par ce dernier.
 
 L'Alliance de Villa Manlia perd la moitié de ses ressources de *vis* (deux reines!!!), se découvre un nouvel allié puissant en la personne du créature magique qui réalise la synthèse du défunt Manlius et de la personnalité des différents Mages de l'Alliance, et doit subir en raison d'un terrible malentendu une Guerre des Magiciens déclarée par Castra Solis, *Domus Magna* de la Maison Flambeau, dont elle sort victorieuse, au prix de la mort Jehan, étouffé sous les décombres de Villa Manlia. Cette Guerre a également causé la mort de Deleor de Flambeau, qui périt de deux Boules de Flammes Abyssales décochées par Magus Scintillus.
 
 10 xp à répartir comme suit :  
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Faustus : 1 xp en Théorie de la Magie, l'amenant ainsi au niveau 6, 5 xp en Parma, 4 xp en Pénétration.  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : 5 xp en Parma Magica (passant à 4(9)) et 5 xp en pénétration (passant à 3(13))  
 * Sigfeín : 5 xp en Connaissance de la Magie et 5 xp en Connaissance de l'ordre d'Hermès, l'amenant ainsi au niveau 2
 
@@ -1166,209 +815,209 @@ Saison d'étude pour les autres personnages :
 
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : 4 xp en *Animal Handling*, passant ainsi au niveau 1 (spécialité: serpents)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Gobolino : <mark>[...]</mark>  
+* Esteban : <mark>[...]</mark>  
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Hiver  ^1237Hi
+### Hiver  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : termine son périple à travers les côtes d'Afrique et arrive en Egypte ~~ 7 xp en Connaissance de *Lands of the Nile*, passant ainsi au niveau 1 (spécialité: légendes) ~~ et se fixe en l'Alliance du Scarabée  
  * jet de vieillissement (63 ans):  
   * Total de Vieillissement =  4 (dé de tension sans désastre) + 7 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = 0;  
   * Résultat: pas de vieillissement apparent (60 -> 60 ans);  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : extrait de la vis Vim  
  * TL (CrVi) = 3 (Int) + 6 (Th. Mag.) + 6 (Cr) + 8 (Vi) + 3 (Aura) = 26 -> 4 pions de Vis Vim extraits  
  * Jet de vieillissement (57 ans)  
  * Total de Vieillissement = 4 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 12 (Rituel de longévité) = - 4.  
  * Résultat : pas de vieillissement apparent (57 —>50) ;  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : Extrait 4 pions de Vis Vim (TL = 3(Int)+7(Th. Mag)+ 3(aura)+15(Cr)+10(Vi) = 38 => 4 pions) 2 xp d'exposition en Vim passant ainsi au niveau 11  
 * Sigfeín : lit la *summa* Animal (12 xp, passant ainsi au niveau 7)  
  * Jet de vieillissement (59 ans) :  
   * Total de Vieillissement = 7 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 3 (Strong Faerie Blood) - 11 (Rituel de longévité) = -3;  
   * Résultat : pas de vieillissement apparent (52 —> 52);  
   * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-# Année 1238
+## Année 1238
 
-## Printemps  ^1238Pr
+### Printemps  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Muto (niveau 16, qualité 15) : 15 xp en Muto (passant ainsi au niveau 14), plus 1 xp en Co (passant ainsi au niveau 10), He (passant ainsi au niveau 11), Im et Me comme bonus de sa vertu Connaissance Dérivée  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : lit la *summa* Rego, (13 xp + 3 (*Book Learner*), passant ainsi au niveau 10)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : Extrait 4 pions de Vis Vim (TL = 3(Int)+7(Th. Mag)+ 3(aura)+15(Cr)+11(Vi) = 39 => 4 pions) 2 xp d'exposition en Vim passant ainsi au niveau 11(2)  
 * Sigfeín : lit la *summa* Intellego de Durenmar (11(17) xp)  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
 
-## Ete  ^1238Et
+### Ete  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Muto (niveau 16, qualité 15) : 15 xp en Muto (passant ainsi au niveau 15), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : lit la *summa* Rego, (13 xp + 3 (*Book Learner*), passant ainsi au niveau 11)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
-* Scintillus : Se rend à Mare Immobile et apprend d'Athanor : le sort "Perron du Roi de la Montagne" CrTe 30 et [[span style="background-color: yellow;"]][???][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
+* Scintillus : Se rend à Mare Immobile et apprend d'Athanor : le sort "Perron du Roi de la Montagne" CrTe 30 et <mark>[???]</mark>  
  *  
 * Sigfeín : extrait 5 pions de vis Vim pour ses besoins <u>personnels</u>  
  * TL (CrVi) =  15 (Cr) + 13 (Vi) + 3 (Spéc. Labo) + 3 (Int) + 6 (Th. Mag.) + 3 (Aura) = 43;  
  * 2 xp d'exposition en Vim  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Automne  ^1238Au
+### Automne  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : apprend le sort canonique Magie Voilée (*Shroud Magic*) MuVi 25 (cf. ArM5 p.159) dans une *summa* Vim:  
  * Base 20, R: Touch +1, D: Inst, C: Ind;  
  * TL (MuVi) = 3 (Int) + 6 (Th. Mag) + 15 (Mu) + 7 (Vi) + 3 (Aura) + 1 (routine *Early Riser*) = 35 -> 25 niveaux de sort sont accumulés, le sort est inventé;  
  * 2 xp d'exposition en Théorie de la Magie.  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : lit la *summa* Rego, (13 xp + 3 (*Book Learner*), passant ainsi au niveau 13)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : Extrait 4 pions de Vis Vim (TL = 3(Int)+7(Th. Mag)+ 3(aura)+15(Cr)+11(Vi) = 39 => 4 pions) 2 xp d'exposition en Vim passant ainsi au niveau 11(6)  
 * Sigfeín : extrait 5 pions de vis Vim pour ses besoins <u>personnels</u>  
  * TL (CrVi) =  15 (Cr) + 13 (Vi) + 3 (Spéc. Labo) + 3 (Int) + 6 (Th. Mag.) + 3 (Aura) = 43;  
  * 2 xp d'exposition en Vim  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Hiver  ^1238Hi
+### Hiver  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : saison à la collectivité pour l'Alliance du Scarabée, 2 xp en Théorie de la Magie  
  * jet de vieillissement (64 ans):  
   * Total de Vieillissement =  0 (dé de tension sans désastre) + 7 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = -4;  
   * Résultat: pas de vieillissement apparent (60 -> 60 ans);  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus lit le *tractatus* Corpus, (10 xp + 3 Book Learner, l'amenant ainsi au niveau 14)  
  * Total de Vieillissement = 5 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 12 (Rituel de longévité) = - 3.  
  * Résultat : pas de vieillissement apparent (58 —>50) ;  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : Extrait 4 pions de Vis Vim (TL = 3(Int)+7(Th. Mag)+ 3(aura)+15(Cr)+11(Vi) = 39 => 4 pions) 2 xp d'exposition en Vim passant ainsi au niveau 11(8)  
 * Sigfeín : lit la *summa* Mentem de Durenmar (12 xp, passant ainis au niveau 9)  
 * Jet de vieillissement (60 ans) :  
   * Total de Vieillissement = 8 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 3 (Strong Faerie Blood) - 11 (Rituel de longévité) = -2;  
   * Résultat : pas de vieillissement apparent (52 —> 52);  
   * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-# Année 1239
+## Année 1239
 
-## Printemps  ^1239Pr
+### Printemps  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Muto (niveau 16, qualité 15) : 15 xp en Muto (passant ainsi au niveau 16), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus lit la *summa* Creo, (12 xp + 3 (Book Learner), l'amenant ainsi à 8)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : Extrait 4 pions de Vis Vim (TL = 3(Int)+7(Th. Mag)+ 3(aura)+15(Cr)+11(Vi) = 39 => 4 pions) 2 xp d'exposition en Vim passant ainsi au niveau 11(10)  
 * Sigfeín : apprend les sorts Voleur de Mémoire (PeMe 20) et Bénédiction de la félicité infantine (PeMe25) du texte de laboratoire d'Esperanza et de la *summa* Perdo  
  * TL (PeMe) = 17 (Pe) + 9 (Me) + 2 (Qual. Labo) + 3 (Int) + 6 (Th. Mag.) + 3 (Aura) + 3 (routine *Addled*) + 2 (routine *Nocturnal*)= 45;  
- * Jet d'accoutumance [[span style="background-color: yellow;"]][...][[/span]]  
+ * Jet d'accoutumance <mark>[...]</mark>  
  * 2 xp d'exposition en Perdo  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Ete  ^1239Et
+### Ete  
 
 Scénario *Au coeur de l'Université Invisible* écrit par Rafaël, conté les 1er et 29 décembre 2018 et 19 janvier 2019 (8 xp).
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 étudie une *summa* Perdo (niveau 14, qualité 12) : 12 xp en Perdo, plus 1 xp en Co, He, Im (passant ainsi au niveau 9) et Me comme bonus de sa vertu Connaissance Dérivée  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : 5 xp en Parma et 3 xp en Pénétration.  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus :5 xp en Penetration et 3 xp en parma  
 * Sigfeín : 5 xp en Parma Magica et 3 xp en Connaissance de la Magie  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Automne  ^1239Au
+### Automne  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : apprend le sort canonique Nuages de pluie et de tonnerre (*Clouds of Rain and Thunder*) CrAu 25 (cf. ArM5 p.159) dans une *summa* Auram:  
  * Base 3, R: Sight +3, D: Conc +1, C: Group +2;  
  * TL (CrAu) = 3 (Int) + 6 (Th. Mag) + 10 (Cr) + 6 (Au) + 3 (Aura) + 1 (routine *Early Riser*) = 29 -> 29 niveaux de sort sont accumulés, le sort est inventé;  
  * 2 xp d'exposition en Théorie de la Magie.  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : invente avec l'aide d'Athanor le sort *Manteau de Brumes* MuCo (Au) 35 durée concentration :  
  * TL Athanor 56 + Théorie de la Magie Faustus 7 (spécialité invention de sorts) + Intelligence Faustus 3 + Bonus sort similaire 7 = 73 --> le sort est inventé.  
  * 2 xp d'exposition en Muto  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : Extrait 4 pions de Vis Vim (TL = 3(Int)+7(Th. Mag)+ 3(aura)+15(Cr)+11(Vi) = 39 => 4 pions) 2 xp d'exposition en Vim passant ainsi au niveau 12  
 * Sigfeín : apprend le sort Conjuration de la foudre (CrAu 35) de la *summa* Creo  
  * Sceau du Mage: la foudre donne l'apparence de heurter un arbre;  
  * 2 xp d'exposition en Théorie de la Magie  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]
+* Tristan-Alexis : <mark>[...]</mark>
 
-## Hiver  ^1239Hi
+### Hiver  
 
 Saison d'étude : 
 
-* Bernard : [[span style="background-color: yellow;"]][...][[/span]]  
+* Bernard : <mark>[...]</mark>  
 * Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : saison à la collectivité pour l'Alliance du Scarabée, 2 xp en Théorie de la Magie  
  * jet de vieillissement (65 ans):  
   * Total de Vieillissement =  6 (dé de tension sans désastre) + 7 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = 2;  
   * Résultat: pas de vieillissement apparent (60 -> 60 ans);  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Esteban : [[span style="background-color: yellow;"]][...][[/span]]  
+* Esteban : <mark>[...]</mark>  
 * Faustus : termine d'étudier la découverte hermétique majeure (cf. Scénario Consilia) : un sort Vim peut agir sur les 4 royaumes (saison 2/2).  
  * 2 xp d'exposition en Connaissance de la Magie  
  * Jet de vieillissement (58 ans)  
  * Total de Vieillissement = 3 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 12 (Rituel de longévité) = -5.  
  * Résultat : pas de vieillissement apparent (59 —>50) ;  
  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant)  
-* Gobolino : [[span style="background-color: yellow;"]][...][[/span]]  
-* Jehan : [[span style="background-color: yellow;"]][...][[/span]]  
-* Julio : [[span style="background-color: yellow;"]][...][[/span]]  
-* Marco : [[span style="background-color: yellow;"]][...][[/span]]  
+* Gobolino : <mark>[...]</mark>  
+* Jehan : <mark>[...]</mark>  
+* Julio : <mark>[...]</mark>  
+* Marco : <mark>[...]</mark>  
 * Scintillus : Lit la summa Terram *Opes subterraneae* : 13 xp en Te passant ainsi à 8 (5)  
 * Sigfeín : apprend le sort Lord of the Trees (ReHe 25) de la *summa* Rego  
  * Sceau du Mage: La cible semble être un chêne;  
@@ -1377,4 +1026,4 @@ Saison d'étude :
   * Total de Vieillissement = 7 (dé de tension sans désastre) + 7 (age/10) - 2 (Conditions de vie) - 3 (Strong Faerie Blood) - 11 (Rituel de longévité) = 0;  
   * Résultat : pas de vieillissement apparent (52 —> 52);  
   * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant).  
-* Tristan-Alexis : [[span style="background-color: yellow;"]][...][[/span]]  
+* Tristan-Alexis : <mark>[...]</mark>  

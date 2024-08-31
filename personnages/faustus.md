@@ -1,15 +1,11 @@
-[[div]]  
-[[/div]]
-
-
-[[tabview]]
-
-[[tab title="Généralités"]]  
-![[Faustus_cleanup.jpg|]]  
-# Identité  
+# Faustus ex Miscellaneis
+<!-- tabs:start -->
+# **Généralités**
+![](../img/Faustus_cleanup.jpg)]  
+## Identité  
 **Joueur** Gauthier  
 **Nom du personnage** Faustus  
-**Nom de naissance** .....  
+**Nom de naissance** <mark>...</mark>
 **Sexe** Masculin  
 **Date de naissance** 1180  
 **Age** 67 (50 en apparence)  
@@ -17,7 +13,7 @@
 **Confiance** 3  
 **Crépuscule** 4 (7)
 
-# Caractéristiques  
+## Caractéristiques  
 **Int** +3 (analytique)  
 **Per** +2 (à l'affût) (*+3 en corbeau*)  
 **For** 0 (humain lambda) (*-8 en corbeau*)  
@@ -27,14 +23,12 @@
 **Dex** 0 (*+2 en corbeau*)  
 **Viv** +1 (*+5 en corbeau*) (1 vieillissement)
 
-# Réputation
+## Réputation
 
-# Traits de caractère
+## Traits de caractère
 
-[[/tab]]
-
-[[tab title="Vices & Vertus"]]  
-# Vertus  
+# **Vices & Vertus**
+## Vertus  
 **Magie élémentale** : +3 : lorsque le Mage gagne minimum un point d’expérience en Aquam, Auram, Ignem ou Terram, il gagne automatiquement un (et un seul) point d’expérience dans les trois autres Arts. En outre, pour un sort utilisant l’un de ces quatre Arts, aucun malus relatif à l’utilisation d’une autre Forme comme Complément ne s’applique.  
 **Sort rapide** (*Fast caster*) +1 : +3 aux jets d’Initiative  
 **Affinité** (*Puissant Art*) +1 (Muto) : bonus de +3.  
@@ -44,16 +38,15 @@
 **Bonus d’étude** (*Study Bonus*) +1 : Bonus reçus à l’étude de sort quand le mage est entouré du ou des éléments qu’il étudie.  
 **Réflexes éclairs** (*lightning reflexes*) +1 : En cas de totale surprise, dé de tension + rapidité : si +3 alors je peux choisir de réagir. En combat, je gagne +9 en initiative. 
 
-# Vices  
+## Vices  
 **Amnésique**  -3  
 **Ambition au sein de l’ordre d’Hermès** -3  
 **Magie imprévisible** (*Unpredictable Magic*) –1 : lancer un sort implique toujours un jet de tension, même si le sort est maîtrisé et même en cas de sort spontané sans dépenser de Niveau de Fatigue (auquel cas le jet vise uniquement à déterminer s’il y a un désastre).  
 **Cleptomane** -1 : Le mage a la sale manie de subtiliser babioles et breloques amusantes pour se constituer une collection.  
 **Circonstances délétères** (*Deleterious Circumstances*) -1 : Le mage voit ses pouvoirs diminués de moitié dès qu’il se trouve près d’une potence.  
-[[/tab]]
 
-[[tab title="Compétences"]]  
-***Générales :***
+# **Compétences**
+## Générales
 
 **Athlétisme** (en vol) : 2  
 **Attention** (alerte) : 1 (4)  
@@ -71,12 +64,12 @@
 **Natation** (sous l'eau) : 2  
 **Survie** (en forêt) : 2
 
-***Académiques :***
+## Académiques
 
 **Arabe** : 4 (2) (3+1 réminiscence vie passée)  
 **Arts libéraux** (magie cérémonielle) : 1
 
-***Arcanes :***
+## Arcanes
 
 **Finesse** : 3  
 **Philosophie** (Magie rituelle) : 1  
@@ -84,12 +77,9 @@
 **Pénétration** (Perdo) : 5 (29)  
 **Théorie de la Magie** (Invention de sorts) : 6
 
-
-[[/tab]]
-
-[[tab title="Magie"]]  
-# Arts  
-***Techniques :***
+# **Magie**
+## Arts  
+### Techniques
 
 **Creo** : 14 (9)  
 **Intellego** : 5  
@@ -97,7 +87,7 @@
 **Perdo** : 14 (10)  
 **Rego** : 15 (4)
 
-***Formes :***
+### Formes
  
 **Animal** : 12 (3)  
 **Aquam** : 10 (4)  
@@ -110,10 +100,10 @@
 **Terram** : 10 (4)  
 **Vim** : 8
 
-# Sceau du Mage  
+## Sceau du Mage  
 En tant qu’expert du Muto, chacun des sorts que le mage lance évoque l’idée de transformation, de métamorphose. La terre pourra avoir l’apparence ou le son de l’eau, le feu pourra être suivi d’un vent glacé, la pluie pourra changer de couleur….
 
-# Sorts formels et rituels  
+## Sorts formels et rituels  
 **Vague de terre** (*Crest of the Earth Wave p.156*) **ReTe 20** 
 Base 3, Portée Voix +2, Part +1, Taille +2.  
 Une vague de terre prend naissance aux pieds du mage, d’abord étroite, elle atteint 5 pieds de haut et 30 pas de large dès qu’elle s’éloigne de 5 pas du mage. Pour sauter au dessus de la vague, il faut réussir un jet de Dextérité +12. Si non, la vague frappe le combattant, lui causant +10 dégâts.  
@@ -177,6 +167,7 @@ Sceau du mage : L'interlocuteur semble reconnaître dans le visage du mage une v
 
 **Vie évaporée  MuAq Au 20**  
 Base 4, +2 Voix, +1 Diamètre, +1 Partie.  
+
 **Vie évaporée MuAq Au 25** maîtrise 1 (5) : *incantation statique*.  
 Base 4, +3 Vue,  +1 Diamètre, +1 Partie.  
 Transforme les fluides en air. La cible subit +15 dégâts et doit boire dans les minutes qui suivent ou mourir. Compléments au lancer : animal ou corpus.  
@@ -211,18 +202,16 @@ La cible gagne 3 points de Distorsion et doit vérifier s'il entre dans le Crép
 Base 5, +2 Voix, +4 non naturel  
 Des éclairs jaillissent de vos bras écartés dans la direction choisie, infligeant +30 de dégâts à la cible touchée. Rien ne doit se trouver entre vous et la cible. Quiconque se trouvant à proximité doit effectuer un jet de tension à 6+ sur la Taille pour rester debout.
  
-# Rituel de Longévité 
+## Rituel de Longévité 
 
- + 12 
+ Bonus : +12 
 
-# Crépuscule
+## Crépuscule
 
 En 1242, Faustus entre dans le crépuscule suite à un sort CrVi 25 lancé par un mage dans une regio féerique à Constantinople. Il prend 5 points de crépuscule. En ressort assez vite armé du sort subit : CrVi 25 Don de l'énigme amoindri. Ainsi qu'orné d'une cicatrice bénéfique qui a l'avantage de transformer le choc de deux objets métalliques en musique.
 
-[[/tab]]
-
-[[tab title="Laboratoire"]]  
-# Caractéristiques  
+# **Laboratoire**
+## Caractéristiques  
 **Size** 0  
 **Refinement** +1  
 **General Quality** 0  
@@ -232,23 +221,22 @@ En 1242, Faustus entre dans le crépuscule suite à un sort CrVi 25 lancé par u
 **Health** 0  
 **Aesthetics** 0
 
-# Vertus  
+## Vertus  
 **Highly Organized (gratuit)**  
 **Sphère armillaire élémentaire (+1)** +1 Aq, +1 Au, +1 Ig, +1 Te
 
-# Vices  
+## Vices  
 Néant
 
-[[/tab]]
+# **Equipement**
 
-[[tab title="Equipement"]]
+La liste des babioles dérobées par Faustus est trop longue pour en dresser la liste !
 
-[[/tab]]
+# **Background**
+## Description
 
-[[tab title="Background"]]  
-# Description
-
-# Historique  
+## Historique  
+### A l'origine
 La vie de Faustus paraît s'écrire en deux chapitres, deux parties indissociables l'une de l'autre mais dont la première se compose aujourd'hui de pages blanches. Frappé d'amnésie, Faustus transporte avec lui le fardeau de ne plus savoir qui il est. Intégré par défaut à la Maison Ex Miscellaneis ne se souvenant plus de sa Maison d'origine, il promène ses questions partout où il passe.  
 Seuls indices sur son passé, il porte marqué sur sa peau à l'intérieur de son poignet gauche un symbole étrange représentant **deux arbres se mêlant dans la lumière et dans la nuit** ; il est hanté par un prénom : "**Tossanus**" ; enfin, une image lui apparaît souvent en rêve, celle d'une **gigantesque montagne dont le sommet est caché par des nuages menaçants**.
 
@@ -256,36 +244,20 @@ C'est poussé par son désir de retrouver ses souvenirs qu'il revient dans la R�
 
 Il rejoint l'Alliance de Villa Manlia au Printemps 1226. 
 
-**Quête du passé de Faustus :**  
- °En interrogeant la broche d'Anan le Karaïte, Faustus apprend que suite à une *condamnation* il a dû choisir entre la mort par pendaison et l'amnésie. Dilemme épineux proposé, semble-t-il, par une femme qu'une autre vision de la broche permit d'identifier comme **Maga Murion**, prima de la maison Bonisagus. 
+### Quête du passé de Faustus 
+- En interrogeant la broche d'Anan le Karaïte, Faustus apprend que suite à une *condamnation* il a dû choisir entre la mort par pendaison et l'amnésie. Dilemme épineux proposé, semble-t-il, par une femme qu'une autre vision de la broche permit d'identifier comme **Maga Murion**, prima de la maison Bonisagus. 
+- Il semble avoir déjà été dans le temple de Mercure de Doisseteppe. Souvenir étoffé par la vision que subit Sigfein au Printemps 1230 lors de la création d'un sort Imaginem. Selon les dires de Magus Sigfein, Faustus aurait été présent lors de la cérémonie de Relevé du Gant, en décembre 1199, **sous une autre apparence**, la vraie sans doute ! Des recherches dans les registres tenus par Doisseteppe permettent d'identifier deux jeunes mages qui pourraient vraisemblablement être le jeune Faustus. Il s'agit de **Proclus de Bonisagus** (dont le pater est feu Elzear de Bonisagus) ainsi que de **Tarryl de Tremere** (dont le pater est Athalus de Tremere). D'aucun d'eux, nous ne trouvons trace depuis 1199 (si ce n'est lors du Tribunal de 1207, où les registres indiquent que Tarryl aurait été soit présent, soit représenté - cf. représentativité chez les Tremere)
+ - *Au printemps 1230, nous dépêchons un message à Esteban, à Durenmar, lui demandant d'identifier dans les écrits du jeune Proclus ses arts de prédilections, afin de les croiser avec ceux de Faustus et d'identifier les correspondances. Les dates de ces écrits pourront aussi aiguiller notre enquête.*
+- Athanor de Bonisagus, qui le rencontre au Tribunal de l'Hiver 1226, pense l'avoir déjà rencontré.
+- Le greffier d'Harco semble le reconnaître.
+- Lors d'une aventure dans le Royaume Intellego, Faustus est témoin d'une scène du passé : la prestation de serment de Proclus de Bonisagus. On y apprendra que **Proclus est un élémentaliste spécialiste Muto**. 
+- Suite à une demande faite à Esteban, nous apprenons que Proclus aurait écrit un manuscrit concernant les **paramètres des sorts Muto** (Cible, portée, durée). Ce manuscrit est réservé dans la partie strictement interdite au public et Reinhart sous-entend qu'à trop poser de questions, Esteban risque de s'attirer des ennuis. 
+- Nous retrouvons le tractatus de Proclus dans un in-folio daté de plus dans trente ans, précieusement gardé par le quaesitor Juan dans le sanctum secret de feu Magus Sirianus. Le tractatus traite de la découverte qu'aurait faite Proclus du changement de l'eau en air de manière permanente.  Cela n'est pas sans rappeler l'assassinat d'A. à Durenmar, suite à la transformation permanente du beurre en beurre salé.  La découverte de Proclus est-elle la raison de son châtiment? Sirianus est-il mort d'avoir accepté qu'un inconnu se faisant passer pour Faustus mette la main sur le tractatus?  
+- A la suite de l'aventure à l'Alliance d'Ad Vim per Veritatem, Faustus reçoit l'autobiographie de Currito de Jerbiton. Ce livre, abondamment glosé par Proclus en son temps, suit, en filigranes, les pérégrinations de Consilia, épouse de Currito, qui fut à l'origine de l'harmonisation de l'art Vim à toutes les Royaumes (divin, infernal, féerique et magique). Proclus semble, à travers ses annotations, tenter de retracer le parcours de Consilia dont l'Ordre a perdu la trace.
+- Alors qu'il affronte la Consilia infernale,  celle-ci se moque de lui en lui révélant qu'il a trahi Tossanus, son ami de toujours, mais que celui-ci, loin d'être mort, a soif de revanche. Elle prédit à Faustus qu'avant de mourir, il plongera ses yeux dans ceux de Tossanus.
+- Au cours de l'aventure qui nous mena à l'Université Invisible, Faustus rencontre Maga Miranda qu'il se surprit à appeler Mira. C'est dans cette alliance que Proclus et Tossanus vécurent un moment. Il semblerait que Proclus ait eu une liaison avec Miranda. Relation qui se finit brutalement quand **Proclus et Tossanus volèrent des manuscrits de l'alliance (dont les recherches qu'ils faisaient à trois, avec Miranda, sur la permanence de l'art Muto ; vol imputé à Tossanus)**.  
+ - Dans le sanctum de Miranda, Faustus "emprunte" le livre "Histoire de l'Arménie" par l'évêque Faustus de Byzance. Il s'agit d'une version abrégée, traduite en latin du manuscrit original en grec. Cette version a été écrite par Miranda. A l'intérieur, une dédicace signée Proclus mais dont Faustus reconnaît sa propre écriture. La dédicace est un mot d'excuse pour son départ de l'Université Invisible.  
+- A la lecture de l'ouvrage, Faustus est intrigué par un passage qui évoque le lieu où aurait échoué **l'Arche de Noé**. Lieu où se serait rendu l'évêque Faustus de Byzance.
+- A Constantinople, Faustus rencontre Magus Arthus de Criamon. Ouvrage St Nérius, mage pieux (de Criamon) qui a pu combiner sa foi avec son don. Ce mage s'est intéressé au mythe du déluge. Il en aurait fait une description qui cerne de façon précise le lieu de l'Arche de Noé : "L'énigme des enfants du Seigneur". Il y cite des extraits du Livre d'Enoch.  
 
- °Il semble avoir déjà été dans le temple de Mercure de Doisseteppe. Souvenir étoffé par la vision que subit Sigfein au Printemps 1230 lors de la création d'un sort Imaginem. Selon les dires de Magus Sigfein, Faustus aurait été présent lors de la cérémonie de Relevé du Gant, en décembre 1199, **sous une autre apparence**, la vraie sans doute ! Des recherches dans les registres tenus par Doisseteppe permettent d'identifier deux jeunes mages qui pourraient vraisemblablement être le jeune Faustus. Il s'agit de **Proclus de Bonisagus** (dont le pater est feu Elzear de Bonisagus) ainsi que de **Tarryl de Tremere** (dont le pater est Athalus de Tremere). D'aucun d'eux, nous ne trouvons trace depuis 1199 (si ce n'est lors du Tribunal de 1207, où les registres indiquent que Tarryl aurait été soit présent, soit représenté - cf. représentativité chez les Tremere)
- 
- *Au printemps 1230, nous dépêchons un message à Esteban, à Durenmar, lui demandant d'identifier dans les écrits du jeune Proclus ses arts de prédilections, afin de les croiser avec ceux de Faustus et d'identifier les correspondances. Les dates de ces écrits pourront aussi aiguiller notre enquête.*
-
- °Athanor de Bonisagus, qui le rencontre au Tribunal de l'Hiver 1226, pense l'avoir déjà rencontré.
- 
- °Le greffier d'Harco semble le reconnaître.
-
- °Lors d'une aventure dans le Royaume Intellego, Faustus est témoin d'une scène du passé : la prestation de serment de Proclus de Bonisagus. On y apprendra que **Proclus est un élémentaliste spécialiste Muto**. 
-
- °Suite à une demande faite à Esteban, nous apprenons que Proclus aurait écrit un manuscrit concernant les **paramètres des sorts Muto** (Cible, portée, durée). Ce manuscrit est réservé dans la partie strictement interdite au public et Reinhart sous-entend qu'à trop poser de questions, Esteban risque de s'attirer des ennuis. 
-
- °Nous retrouvons le tractatus de Proclus dans un in-folio daté de plus dans trente ans, précieusement gardé par le quaesitor Juan dans le sanctum secret de feu Magus Sirianus. Le tractatus traite de la découverte qu'aurait faite Proclus du changement de l'eau en air de manière permanente.  
-Cela n'est pas sans rappeler l'assassinat d'A. à Durenmar, suite à la transformation permanente du beurre en beurre salé.  
-La découverte de Proclus est-elle la raison de son châtiment? Sirianus est-il mort d'avoir accepté qu'un inconnu se faisant passer pour Faustus mette la main sur le tractatus?  
-
- °A la suite de l'aventure à l'Alliance d'Ad Vim per Veritatem, Faustus reçoit l'autobiographie de Currito de Jerbiton. Ce livre, abondamment glosé par Proclus en son temps, suit, en filigranes, les pérégrinations de Consilia, épouse de Currito, qui fut à l'origine de l'harmonisation de l'art Vim à toutes les Royaumes (divin, infernal, féerique et magique). Proclus semble, à travers ses annotations, tenter de retracer le parcours de Consilia dont l'Ordre a perdu la trace.
-
- °Alors qu'il affronte la Consilia infernale,  celle-ci se moque de lui en lui révélant qu'il a trahi Tossanus, son ami de toujours, mais que celui-ci, loin d'être mort, a soif de revanche. Elle prédit à Faustus qu'avant de mourir, il plongera ses yeux dans ceux de Tossanus.
-
- °Au cours de l'aventure qui nous mena à l'Université Invisible, Faustus rencontre Maga Miranda qu'il se surprit à appeler Mira. C'est dans cette alliance que Proclus et Tossanus vécurent un moment. Il semblerait que Proclus ait eu une liaison avec Miranda. Relation qui se finit brutalement quand **Proclus et Tossanus volèrent des manuscrits de l'alliance (dont les recherches qu'ils faisaient à trois, avec Miranda, sur la permanence de l'art Muto ; vol imputé à Tossanus)**.  
- °Dans le sanctum de Miranda, Faustus "emprunte" le livre "Histoire de l'Arménie" par l'évêque Faustus de Byzance. Il s'agit d'une version abrégée, traduite en latin du manuscrit original en grec. Cette version a été écrite par Miranda. A l'intérieur, une dédicace signée Proclus mais dont Faustus reconnaît sa propre écriture. La dédicace est un mot d'excuse pour son départ de l'Université Invisible.  
-°A la lecture de l'ouvrage, Faustus est intrigué par un passage qui évoque le lieu où aurait échoué **l'Arche de Noé**. Lieu où se serait rendu l'évêque Faustus de Byzance.
-
-°A Constantinople, Faustus rencontre Magus Arthus de Criamon. Ouvrage St Nérius, mage pieux (de Criamon) qui a pu combiner sa foi avec son don. Ce mage s'est intéressé au mythe du déluge. Il en aurait fait une description qui cerne de façon précise le lieu de l'Arche de Noé : "L'énigme des enfants du Seigneur". Il y cite des extraits du Livre d'Enoch.  
-[[/tab]]
-
-[[/tabview]]
-
-[[module Comments]]  
+<!-- tabs:end -->

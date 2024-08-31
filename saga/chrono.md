@@ -1,357 +1,15 @@
+# Chronologie 1200-1209
 Dans cette section, vous trouverez des notes résumant la Geste de la Villa Manlia telle que vécue par les personnages. Si vous recherchez des aventures directement exploitables pour votre Saga, consultez plutôt la page [[scenar |scénarios]].
 
-[[table class="wiki-content-table" style="width: 100%;"]]  
-[[row style="background-color: #EEEEEE;"]]  
-[[cell style="width: 33%;"]]  
-**1200**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1201**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1202**  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1200Pr | Printemps]]  
-**A small favour**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1200Et | Ete]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1201Pr | Printemps]]  
-**Promises, Promises**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1201Et | Ete]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1202Pr | Printemps]]  
-**The Ghoul of St. Lazarre**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1202Et | Ete]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1200Au | Automne]]  
-**L'[[ennemi |Ennemi intérieur]]**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1200Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1201Au | Automne]]  
-**[[trahison|Le Jeu de la Trahison et du Hasard]]**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1201Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1202Au | Automne]]  
-**[[rip|Resquiescat in Pace]]**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1202Hi | Hiver]]  
-**[[Pacta|Pacta sunt servanda]]**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[table class="wiki-content-table" style="width: 100%;"]]  
-[[row style="background-color: #EEEEEE;"]]  
-[[cell style="width: 33%;"]]  
-**1203**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1204**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1205**  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1203Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1203Et | Ete]]  
-**La longue vengeance**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1204Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1204Et | Ete]]  
-**On the Respective Merits of Twilight and Gloaming**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1205Pr | Printemps]]  
-**Festival of the Damned**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1205Et | Ete]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1203Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1203Hi | Hiver]]  
-**[[dialectique|La Dialectique des Armes]]**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1204Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1204Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1205Au | Automne]]  
-**By the Law of the Land**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1205Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[table class="wiki-content-table" style="width: 100%;"]]  
-[[row style="background-color: #EEEEEE;"]]  
-[[cell style="width: 33%;"]]  
-**1206**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1207**  
-[[/cell]]  
-[[cell style="width: 33%;"]]  
-**1208**  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1206Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1206Et | Ete]]  
-**[[foudedieu|Le Fou de Dieu]]**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1207Pr | Printemps]]  
-**Sale caractère**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1207Et | Ete]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1208Pr | Printemps]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1208Et | Ete]]  
-***[http:*villamanlia.wikidot.com/nongratae Personae non gratae]//**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1206Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1206Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1207Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1207Hi | Hiver]]  
-**[[derniertrib|Le Dernier Tribunal]]**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1208Au | Automne]]  
-Saison d'étude  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1208Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[table class="wiki-content-table" style="width: 33%; padding: 0px;"]]  
-[[row style="background-color: #EEEEEE;"]]  
-[[cell]]  
-**1209**  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #99FF66;"]]  
-[[#^1209Pr | Printemps]]  
-**The Night of the Faeries**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFFF66;"]]  
-[[#^1209Et | Ete]]  
-**[[delivrance|La Délivrance d'Esperanza]]**  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="padding: 0px; margin: 0  0px;"]]  
-[[table style="width: 100%;"]]  
-[[row]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #FFAA44;"]]  
-[[#^1209Au | Automne]]  
-**The Bishop's staff**  
-[[/cell]]  
-[[cell style="width: 50%; padding: 0px; margin: 0  0px; background-color: #CCFFFF;"]]  
-[[#^1209Hi | Hiver]]  
-Saison d'étude  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]
+## Année 1200
 
-# Année 1200
-
-## Printemps  ^1200Pr
+### Printemps - A small favour
 
 Séance du 13 avril 2008. Scénario "A small favour" issu de la Saga [Nigrasaxa](http://www.atlas-games.com/pdf_storage/nigrasaxa.pdf), auquel participent Dubinaro, Esperanza et Sigfeín (5 xp). Les personnages sont contactés par le Seigneur Robert d'Aurillac, petit village à deux heures de marche de l'Alliance, en vue de sauver sa fille Mathilde, disparue la veille. Ils délivrent celle-ci de la forêt de Desmissel, un être féérique dont ils obtiennent qu'il veillera sur les récoltes de Robert pendant les 7 prochaines années. Robert consent en échange à céder 10% du produit de ses récoltes pendant cette période à l'Alliance.
 
 Saison d'étude pour Scintillus : étudie une *summa* Creo (12 xp)
 
-## Eté  ^1200Et
+### Eté  
 
 Saison d'étude :  
 * Dubinaro : étudie une *summa* Auram (21 xp, plafonnés au niveau 6)  
@@ -359,47 +17,45 @@ Saison d'étude :
 * Scintillus : étudie une *summa* Vim (12 xp)  
 * Sigfeín : étudie une *summa* Creo (12 xp)
 
-## Automne  ^1200Au
+### Automne - L'Ennemi intérieur
 
-Séance des 12 et 25 mai 2008. Scénario [[ennemi |L'Ennemi intérieur]], création maison, auquel participent Dubinaro, Esperanza, Scintillus et Sigfeín (6 xp). Les personnages doivent enquêter sur une mystérieuse menace qui plane sur leur Alliance.
+Séance des 12 et 25 mai 2008. Scénario [L'Ennemi intérieur](../scenar/ennemi), création maison, auquel participent Dubinaro, Esperanza, Scintillus et Sigfeín (6 xp). Les personnages doivent enquêter sur une mystérieuse menace qui plane sur leur Alliance.
 
-## Hiver  ^1200Hi
+### Hiver  
 
 Saison d'étude :  
 * Dubinaro : étudie une *summa* Creo (12 xp)  
 * Esperanza : étudie une *summa* Vim (12 xp)  
 * Scintillus : invente le sort *Fiat lux et lux facta est* :  
- * similaire à *Lamp without flame* mais avec durée Aube/Crépuscule, CrIg 15 : Crée une lumière aussi intense que la lumière d'un jour nuageux dans un périmètre de 10 pas;  
- * Sceau du Mage : [[span style="background-color: yellow;"]][...][[/span]];  
- * 2 xp d'exposition en Théorie de la Magie.  
+	 * similaire à *Lamp without flame* mais avec durée Aube/Crépuscule, CrIg 15 : Crée une lumière aussi intense que la lumière d'un jour nuageux dans un périmètre de 10 pas;  
+	 * Sceau du Mage : <mark>[...]</mark>;  
+	 * 2 xp d'exposition en Théorie de la Magie.  
 * Sigfeín : étudie une *summa* Auram (21 xp)
 
-# Année 1201
+## Année 1201
 
-[[div style="float: right; width: 710px;"]]  
-![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100099&E=JPEG&Deb=69&Fin=69&Param=C)  
-[[size smaller]]L'Alliance de Mare Immobile, perchée au centre d'un lac mystérieux. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100099&E=69&I=21054&M=imageseule), Français 111, fol. 79, Gauvain et Hector de Mares à l'Isle Perdue, manuscrit du XVe siècle.[[/size]]  
-[[/div]]
+![](https://mandragore.bnf.fr/iiif/ark:/12148/btv1b8100099g/f69/full/full/0/native.jpg)  
+L'Alliance de Mare Immobile, perchée au centre d'un lac mystérieux. Source : [BnF](https://mandragore.bnf.fr/mirador/ark:/12148/btv1b8100099g/f69), Français 111, fol. 79, Gauvain et Hector de Mares à l'Isle Perdue, manuscrit du XVe siècle.
 
-## Printemps  ^1201Pr
+### Printemps - Promises, Promises
 Séances des 25 mai et 8 juin 2008. Scénario [Promises, Promises](http://www.atlas-games.com/pdf_storage/promises_french.pdf), précédé d'un [[prologue]] sauce maison (7 xp). A la requête du *Quaesitor* Dikaïos, les personnages mènent l'enquête à Mare Immobile puis au monastère de Saint-Edmond.
 
-## Eté  ^1201Et
+### Eté  
 
 Saison d'étude :  
 * Dubinaro : étudie une *summa* Creo (12 xp)  
 * Esperanza : étudie une *summa* Connaissance de l'Ordre d'Hermès (10 xp)  
 * Scintillus : étudie un *tractatus* Ignem (9 xp)  
 * Sigfeín commence à inventer le sort *Unraveling the Essence of Magic* InVi 20 en expérimentant :  
- * Base 5, Portée Toucher +1, Durée Instantanée, Cible Individuelle, Technique et Forme +2;  
- * Le sort permet, au contact d'un effet magique, d'en déterminer la puissance approximative ainsi que les Arts utilisés. Fonctionne sur toute magie active;  
- * TL = 22 + 1 (modificateur de risque) + 2 (jet simple d'expérimentation) = 25 --> il accumule donc 5 points, manquent encore 15 points pour inventer le sort;  
- * Résultat de l'expérimentation : 9, vision d'une jeune fille blonde;  
- * 2 xp d'exposition en Théorie de la Magie.
+	 * Base 5, Portée Toucher +1, Durée Instantanée, Cible Individuelle, Technique et Forme +2;  
+	 * Le sort permet, au contact d'un effet magique, d'en déterminer la puissance approximative ainsi que les Arts utilisés. Fonctionne sur toute magie active;  
+	 * TL = 22 + 1 (modificateur de risque) + 2 (jet simple d'expérimentation) = 25 --> il accumule donc 5 points, manquent encore 15 points pour inventer le sort;  
+	 * Résultat de l'expérimentation : 9, vision d'une jeune fille blonde;  
+	 * 2 xp d'exposition en Théorie de la Magie.
 
-## Automne  ^1201Au
+### Automne - Le Jeu de la Trahison et du Hasard
 
-Séances des 8 juin, 5 et 26 juillet 2008. Scénario maison [[trahison|Le Jeu de la Trahison et du Hasard]], auquel participent Dubinaro, Esperanza, Scintillus et Sigfeín (9 xp).
+Séances des 8 juin, 5 et 26 juillet 2008. Scénario maison [Le Jeu de la Trahison et du Hasard](../scenar/trahison), auquel participent Dubinaro, Esperanza, Scintillus et Sigfeín (9 xp).
 
 Les personnages obtiennent de Lariandre 3 pions de *vis* Herbam par an, dont ils en rétrocèdent 2 à Bellaquin en échange de quatre saisons d'étude dans sa bibliothèque, d'une *summa* Rego et de trois *tractatus* (Intellego, Auram et Imaginem). Ils conviennent par ailleurs d'un échange de livres avec Lariandre (échange par Villa Manlia d'une *summa* Auram et d'un *tractatus* Herbam contre une *summa* Terram).
 
@@ -407,28 +63,26 @@ On retiendra également de ce scénario que :
 * Sigfeín "s'engage", plus ou moins malgré lui, à ramener à la Sorcière des Marais trois cheveux de l'être le plus cher au monde au Roi Aldarin  
 * Esperanza se laisse embrasser par la Sorcière des Marais et sent *quelque chose* de poisseux et chaud glisser au fond de son larynx...
 
-## Hiver  ^1201Hi
+### Hiver  
 
 Saison d'étude :  
 * Dubinaro : étudie une *summa* Creo (12 xp)  
 * Esperanza : étudie à Bellaquin une *summa* Intellego (16 xp)  
 * Scintillus : commence à inventer le sort *Shadows of the Fires' Past* InIg 15 en expérimentant :  
- * TL = 26 + 3 (jet simple d'expérimentation) = 29 --> il accumule ainsi 14 points, il en manque encore 1;  
- * Résultat de l'expérimentation : 9, spécial, voir été 1202;  
- * 2 xp d'exposition en Intellego.  
+	 * TL = 26 + 3 (jet simple d'expérimentation) = 29 --> il accumule ainsi 14 points, il en manque encore 1;  
+	 * Résultat de l'expérimentation : 9, spécial, voir été 1202;  
+	 * 2 xp d'exposition en Intellego.  
 * Sigfeín : continue à inventer *Unraveling the Essence of Magic* InVi 20 (cf. été 1201) en expérimentant :  
- * TL = 22 + 3 (modificateur de risque) + 10 = 35 --> il accumule donc les 15 points qui lui manquaient pour inventer le sort;  
- * Sceau du Mage : [[span style="background-color: yellow;"]][...][[/span]];  
- * Résultat de l'expérimentation : 9, décidément, nouvelle vision de la jeune fille blonde!  
- * 2 xp d'exposition en Théorie de la Magie.
+	 * TL = 22 + 3 (modificateur de risque) + 10 = 35 --> il accumule donc les 15 points qui lui manquaient pour inventer le sort;  
+	 * Sceau du Mage : <mark>[...]</mark>;  
+	 * Résultat de l'expérimentation : 9, décidément, nouvelle vision de la jeune fille blonde!  
+	 * 2 xp d'exposition en Théorie de la Magie.
 
-# Année 1202
+## Année 1202
 
-## Printemps  ^1202Pr
-[[div style="float: right; width: 512px;"]]  
-![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100130&E=JPEG&Deb=41&Fin=41&Param=C)  
-[[size smaller]]La goule de Saint Lazarre à Vezay. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100130&E=41&I=26790&M=imageseule), Français 230, fol. 52v, Songe de Simonide de Céos, manuscrit du XVe siècle.[[/size]]  
-[[/div]]
+### Printemps - The Ghoul of St. Lazarre   
+![](https://mandragore.bnf.fr/iiif/ark:/12148/btv1b8100130t/f41.highres)  
+La goule de Saint Lazarre à Vezay. Source : [BnF](https://mandragore.bnf.fr/ark:/12148/cgfbt26790s), Français 230, fol. 52v, Songe de Simonide de Céos, manuscrit du XVe siècle.
 
 Séance du 23 août 2008. Scénario *The Ghoul of St. Lazarre* de John Nephew, publié dans *Festival of the Damned Anniversary Edition*, auquel participent Esperanza, Ronald, Scintillus et Tristan-Alexis (5 xp). Après avoir découvert un cadavre mutilé dans la rivière proche de l'Alliance, les personnages en remontent le cours jusqu'à Vezay où l'on rencontre certaines pratiques pas tout à fait catholiques.
 
@@ -436,66 +90,66 @@ Saison d'étude pour les autres personnages :
 * Dubinaro : étudie une *summa* Creo (12 xp) (encore!)  
 * Sigfeín : étudie à Bellaquin une *summa* Intellego (16 xp)
 
-## Ete  ^1202Et
+### Ete  
 
 Saison d'étude :  
 * Dubinaro : étudie un pion de *vis* Aquam (11 xp)  
 * Esperanza : enseigne à Hugues la Théorie de la Magie  
- * qualité = 0 (Com) + 0 (Enseignement) + 3 + 6 (bonus étudiant unique) = 9 xp en Théorie de la Magie  pour Hugues;  
- * 2 xp d'exposition en Théorie de la Magie pour Hugues.  
+	 * qualité = 0 (Com) + 0 (Enseignement) + 3 + 6 (bonus étudiant unique) = 9 xp en Théorie de la Magie  pour Hugues;  
+	 * 2 xp d'exposition en Théorie de la Magie pour Hugues.  
 * Ronald : s'entraîne au tir à l'arc (4 xp)  
 * Scintillus : termine d'inventer *Shadows of the Fires' Past* InIg 15 en expérimentant pour lequel il lui manquait un point :  
- * TL = 26 ce qui est suffisant, et invente dans la foulée *Tales of the Ashes* InIg 5;  
- * Résultat de l'expérimentation : 9, spécial. Il "entend" les cendres d'un ancien feu sacré, qu'il décide de ranimer dans l'*atrium* de l'Alliance. C'est le feu des dieux du foyer du temps où la villa était occupée par Manlius;  
- * Sceau du Mage (*Shadows of the Fires' Past*) : [[span style="background-color: yellow;"]][...][[/span]];  
- * Sceau du Mage (*Tales of the Ashes*) : [[span style="background-color: yellow;"]][...][[/span]];  
- * 2 xp d'exposition en Théorie de la Magie.  
+	 * TL = 26 ce qui est suffisant, et invente dans la foulée *Tales of the Ashes* InIg 5;  
+	 * Résultat de l'expérimentation : 9, spécial. Il "entend" les cendres d'un ancien feu sacré, qu'il décide de ranimer dans l'*atrium* de l'Alliance. C'est le feu des dieux du foyer du temps où la villa était occupée par Manlius;  
+	 * Sceau du Mage (*Shadows of the Fires' Past*) : <mark>[...]</mark>;  
+	 * Sceau du Mage (*Tales of the Ashes*) : <mark>[...]</mark>;  
+	 * 2 xp d'exposition en Théorie de la Magie.  
 * Sigfeín : étudie la *summa* Creo (12 xp)  
 * Tristan-Alexis : s'en va explorer les forêts féériques de la région (4 xp en Connaissance de la Féerie)
 
-## Automne  ^1202Au
+### Automne - Requiescat in Pace
 
-Séance du 13 septembre 2008. Scénario maison intitulé [[rip|Requiescat in Pace]] auquel participent Hugues, Ronald, Scintillus, Sigfeín, Guillaume et Rigaud (7 xp). En raison des inquiétantes visions de Sigfeín, les personnages se rendent à la châtellenie de Luzac pour enquêter sur de tragiques événements passés.
+Séance du 13 septembre 2008. Scénario maison intitulé [Requiescat in Pace](../scenar/rip) auquel participent Hugues, Ronald, Scintillus, Sigfeín, Guillaume et Rigaud (7 xp). En raison des inquiétantes visions de Sigfeín, les personnages se rendent à la châtellenie de Luzac pour enquêter sur de tragiques événements passés.
 
 Saison d'étude, pour les autres personnages :  
 * Dubinaro : étudie la *summa* Creo (12 xp)  
 * Esperanza : commence à inventer le sort "Question Silencieuse" (*Posing the Silent Question*) InMe 20 en expérimentant :  
- * TL = 29 + 3 (expérimentation) + 7 (dé simple) = 39 ---> il lui manque donc un point pour inventer le sort;  
- * Résultat de l'expérimentation : Découverte (15 xp en *Pénétration*);  
- * 2 xp d'exposition en Théorie de la Magie.  
+	 * TL = 29 + 3 (expérimentation) + 7 (dé simple) = 39 ---> il lui manque donc un point pour inventer le sort;  
+	 * Résultat de l'expérimentation : Découverte (15 xp en *Pénétration*);  
+	 * 2 xp d'exposition en Théorie de la Magie.  
 * Tristan-Alexis : part faire les "courses" pour son maître druidique (2 xp d'exposition en *Survie*) 
 
-## Hiver  ^1202Hi
+### Hiver - Pacta sunt servanda
 
-Séances des 12 et 17 octobre 2008. Scénario maison intitulé [[Pacta|Pacta sunt servanda]] auquel participent Dubinaro, Esperanza, Scintillus, Sigfeín, Bernard et Guillaume (8 xp). Pour regagner la confiance de Desmissel, les personnages décident de libérer une dryade des griffes de l'infâme Pierre de Saverdun.
+Séances des 12 et 17 octobre 2008. Scénario maison intitulé [Pacta sunt servanda](../scenar/pacta) auquel participent Dubinaro, Esperanza, Scintillus, Sigfeín, Bernard et Guillaume (8 xp). Pour regagner la confiance de Desmissel, les personnages décident de libérer une dryade des griffes de l'infâme Pierre de Saverdun.
 
 Saison d'étude pour les autres personnages :  
 * Hugues : se remet de sa blessure grave  
- * jet de vieillissement (45 ans) :  
-  * Total de Vieillissement = 5 (dé de tension sans désastre) + 5 (age/10) - 0 (Conditions de vie) - 0 (Rituel de longévité) = 10  
-  * Résultat : +1 an d'âge d'apparent (45 --> 46), +1 point de Vieillissement en Vivacité (soit 1 point de Décrépitude supplémentaire).  
+	 * jet de vieillissement (45 ans) :  
+	  * Total de Vieillissement = 5 (dé de tension sans désastre) + 5 (age/10) - 0 (Conditions de vie) - 0 (Rituel de longévité) = 10  
+	  * Résultat : +1 an d'âge d'apparent (45 --> 46), +1 point de Vieillissement en Vivacité (soit 1 point de Décrépitude supplémentaire).  
 * Ronald : s'entraîne au tir à l'arc (4 xp)  
 * Tristan-Alexis : s'entraîne à user de sa Musique Enchanteresse (4 xp)
 
-# Année 1203
+## Année 1203
 
-## Printemps  ^1203Pr
+### Printemps  
 
 Saison d'étude :  
 * Celarius : s'entraîne à maîtriser le sort *Strings of the Unwilling Marionette* (5 xp, *Quiet Casting*)  
 * Dubinaro : se rend à Bellaquin où il prend livraison de la *summa* Rego et du *tractatus* Auram qui leur étaient promis, et en profite pour étudier sur place une *summa* Intellego (16 xp)  
 * Esperanza : continue à inventer le sort "Question Silencieuse" (*Posing the Silent Question*) InMe 20 et tente d'inventer dans la foulée  *Sight of the Transparent Motive* InMe 10;  
- * Résultat de l'expérimentation : *Complete failure* pour les deux projets;  
- * Néanmoins 2 xp d'exposition en Théorie de la Magie.  
+	 * Résultat de l'expérimentation : *Complete failure* pour les deux projets;  
+	 * Néanmoins 2 xp d'exposition en Théorie de la Magie.  
 * Hugues : se remet de ses blessures puis se rend à Lariandre où il recopie 8 niveaux de la *summa* Terram qui était promise à Villa Manlia, reste un niveau à recopier (2 xp d'exposition en Profession Scribe)  
 * Ronald : s'entraîne au tir à l'arc (4 xp)  
 * Scintillus : étudie la fameuse *summa* Creo (12 xp)  
 * Sigfeín : étudie des ouvrages de Philosophie naturelle (15 xp en Philosophie)  
 * Tristan-Alexis : s'en va explorer les forêts féeriques de la région (4 xp en Connaissance de la Féerie)
 
-## Eté  ^1203Et
+### Eté - La longue vengeance
 
-Séance du 16 novembre 2008. Scénario maison, conté par Olivier, intitulé *La longue vengeance*[[footnote]]Adaptation d'un scénario éponyme de Tristan Lhomme pour la seconde édition de *Nephilim*, paru dans le *Casus Belli* n°100, décembre 1996, p. 60 et s.[[/footnote]], auquel participent Celarius, Esperanza, Scintillus, Sigfeín, Bernard et Rigaud (8 xp). Pour tester les mages de l'alliance, qu'il envisage de rejoindre, Celarius leur propose d'aller étudier une intéressante malédiction, qui lui avait été renseignée par son *magister* Septimus de Criamon. Ils se rendent donc au village de Saint-Véran, près de Toulouse, où ils délivrent Jean de Saint-Véran de la vengeance toujours inassouvie d'Antonia.
+Séance du 16 novembre 2008. Scénario maison, conté par Olivier, intitulé *La longue vengeance* (adaptation d'un scénario éponyme de Tristan Lhomme pour la seconde édition de *Nephilim*, paru dans le *Casus Belli* n°100, décembre 1996, p. 60 et s.), auquel participent Celarius, Esperanza, Scintillus, Sigfeín, Bernard et Rigaud (8 xp). Pour tester les mages de l'alliance, qu'il envisage de rejoindre, Celarius leur propose d'aller étudier une intéressante malédiction, qui lui avait été renseignée par son *magister* Septimus de Criamon. Ils se rendent donc au village de Saint-Véran, près de Toulouse, où ils délivrent Jean de Saint-Véran de la vengeance toujours inassouvie d'Antonia.
 
 Expérience acquise au cours de cette aventure :  
 * Celarius : 3 xp en Mentem et 5 xp en Vim  
@@ -515,7 +169,7 @@ Au retour de Saint-Véran, Esperanza connaît sa "délivrance". Elle fait un ter
 
 Une ambassade composée d'Esperanza, Scintillus, Ronald et Tristan-Alexis se rend également à Bellaquin pour renégocier avec Priscilla les accords conclus. En échange du droit de recopier eux-mêmes la *summa* Rego dont ils avaient déjà obtenu un exemplaire de piètre qualité, ils s'engagent à payer une tour et un pion de *vis* brute (soit 3 pions Creo, 3 pions Corpus infernaux et déclarés tels, 3 pions Aquam, 1 pion Herbam et 1 pion Vim par saison requise pour recopier la *summa* au-delà de la première).
 
-## Automne  ^1203Au
+### Automne  
 
 Saison d'étude :  
 * Celarius : aménage son *sanctum* dans les ruines situées au nord de l'Alliance (2 xp d'exposition en Théorie de la Magie)  
@@ -527,17 +181,15 @@ Saison d'étude :
 * Ronald : s'entraîne au tir à l'arc (4 xp)  
 * Tristan-Alexis : étudie les Herbes médicinales auprès de son maître (12 xp), comme évoqué sur le [forum](http://villamanlia.wikidot.com/forum/t-106870/devoirs-de-vacances#post-332565)
 
-## Hiver  ^1203Hi
-
-[[div style="float:right; width: 455px;"]]  
+### Hiver - La Dialectique des Armes
+ 
 ![|455](http://medieval.mrugala.net/Villes/Ville%20au%20Moyen-Age.jpg)  
-[[size smaller]]Le débat théologique de Pamiers. Source : une [ville au Moyen Age](http://medieval.mrugala.net/Villes/Ville%20au%20Moyen-Age.htm), Manuscrit Français 364, folio 174.[[/size]]  
-[[/div]]
+Le débat théologique de Pamiers. Source : une [ville au Moyen Age](http://medieval.mrugala.net/Villes/Ville%20au%20Moyen-Age.htm), Manuscrit Français 364, folio 174.
 
-Séances des 27 décembre 2008, 2 et 10 janvier 2009. Scénario maison intitulé *[http:*villamanlia.wikidot.com/dialectique La Dialectique des Armes]* auquel participent Dubinaro, Esperanza, Scintillus, Sigfeín, Bernard et Guillaume (10 xp). Un courrier du *pater* de Dubinaro lui apprend que Claudia, son ancienne maîtresse qui lui a valu sa déchéance au sein de Mare Immobile, aurait été aperçue à Pamiers; il décide de s'y rendre pour enquêter. Là, il rencontre Philippe, neveau d'Enguerrand de Laurac, le sénéchal du Comte Raimond-Roger de Foix, qui cherche justement les Mages de Villa Manlia pour leur proposer une mission consistant à escorter une Bonne Dame, Esclarmonde, du village de Milroques perché au sommet des Alpes jusqu'à la ville de Pamiers et de veiller ensuite au calme au cours du débat qui sera organisé à la fin du mois de janvier 1203 entre les représentants des "bons chrétiens" (cathares) et de l'Eglise catholique. Les personnages acceptent et se mettent en route. Au flanc de la montagne qui doit les mener à Milroques, ils sont pris en embuscade par quatre brigands. En examinant le corps de l'un d'eux, ils découvrent la marque d'un "pentacle griffu" (pentacle dont la cinquième branche se termine en doigt crochu), tatoué sur sa peau. Poursuivant leur route, ils arrivent au village de Milroques où Esclarmonde se remet d'une maladie. Attaqués par les villageois de Milroques dont une force occulte a pris possession et par rien moins qu'un dragon, les personnes se réfugient de justesse dans une grotte dont le dragon barre l'accès. S'enfonçant dans les ténèbres, les personnages émergent dans la vallée de Val Negra. Lumistus, le *pater// de Scintillus qui a la mémoire assez instable, oblige ce dernier à relever le gant pour pouvoir quitter l'Alliance. Avant son départ, Lumistus donne des instructions précises à Scintillus au cas où celui-ci souhaite venir le revoir, mais Scintillus s'emmêle complètement les pinceaux (double désastre en Int + Connaissance de la région). Les personnages se mettent donc en route pour Pamiers. Les trois jours de débats sont ponctués d'incidents d'importance croissante, jusqu'à ce que les personnages finissent par démasquer Esclarmonde, qui n'était autre que Claudia contrôlée par Jérôme de Bonisagus. Pendant ce temps, Hugues d'Ambremer, appelé à la rescousse, remplace au pied levé Esclarmonde au cours du débat et parvient à convaincre de justesse le jury de ne pas trancher entre cathares et catholiques. Retenons la confrontation entre les PJ et Pierre de Saverdun qu'Esperanza accepte, à sa demande, de prendre comme apprenti (!)
+Séances des 27 décembre 2008, 2 et 10 janvier 2009. Scénario maison intitulé *[La Dialectique des Armes](../scenar/dialectique.md)* auquel participent Dubinaro, Esperanza, Scintillus, Sigfeín, Bernard et Guillaume (10 xp). Un courrier du *pater* de Dubinaro lui apprend que Claudia, son ancienne maîtresse qui lui a valu sa déchéance au sein de Mare Immobile, aurait été aperçue à Pamiers; il décide de s'y rendre pour enquêter. Là, il rencontre Philippe, neveau d'Enguerrand de Laurac, le sénéchal du Comte Raimond-Roger de Foix, qui cherche justement les Mages de Villa Manlia pour leur proposer une mission consistant à escorter une Bonne Dame, Esclarmonde, du village de Milroques perché au sommet des Alpes jusqu'à la ville de Pamiers et de veiller ensuite au calme au cours du débat qui sera organisé à la fin du mois de janvier 1203 entre les représentants des "bons chrétiens" (cathares) et de l'Eglise catholique. Les personnages acceptent et se mettent en route. Au flanc de la montagne qui doit les mener à Milroques, ils sont pris en embuscade par quatre brigands. En examinant le corps de l'un d'eux, ils découvrent la marque d'un "pentacle griffu" (pentacle dont la cinquième branche se termine en doigt crochu), tatoué sur sa peau. Poursuivant leur route, ils arrivent au village de Milroques où Esclarmonde se remet d'une maladie. Attaqués par les villageois de Milroques dont une force occulte a pris possession et par rien moins qu'un dragon, les personnes se réfugient de justesse dans une grotte dont le dragon barre l'accès. S'enfonçant dans les ténèbres, les personnages émergent dans la vallée de Val Negra. Lumistus, le *pater// de Scintillus qui a la mémoire assez instable, oblige ce dernier à relever le gant pour pouvoir quitter l'Alliance. Avant son départ, Lumistus donne des instructions précises à Scintillus au cas où celui-ci souhaite venir le revoir, mais Scintillus s'emmêle complètement les pinceaux (double désastre en Int + Connaissance de la région). Les personnages se mettent donc en route pour Pamiers. Les trois jours de débats sont ponctués d'incidents d'importance croissante, jusqu'à ce que les personnages finissent par démasquer Esclarmonde, qui n'était autre que Claudia contrôlée par Jérôme de Bonisagus. Pendant ce temps, Hugues d'Ambremer, appelé à la rescousse, remplace au pied levé Esclarmonde au cours du débat et parvient à convaincre de justesse le jury de ne pas trancher entre cathares et catholiques. Retenons la confrontation entre les PJ et Pierre de Saverdun qu'Esperanza accepte, à sa demande, de prendre comme apprenti (!)
 
 Expérience acquise au cours de cette aventure :  
-* Dubinaro : [[span style="background-color: yellow;"]][...][[/span]]  
+* Dubinaro : <mark>[...]</mark>  
 * Esperanza : 5 xp en Athlétisme et 5 xp en Mentem  
 * Scintillus : 4 xp en Pénétration, 3 xp en Perdo et 3 xp en Corpus  
 * Sigfeín : 5 xp en Perdo et 5 xp en Corpus  
@@ -560,9 +212,9 @@ Saison d'étude pour les autres personnages :
 * Rigaud : enseigne le jet de couteaux à Ronald (9 xp pour lui, 2 xp d'exposition pour le premier)  
 * Tristan-Alexis : étudie la *summa* Théologie (20 xp)
 
-# Année 1204
+## Année 1204
 
-## Printemps  ^1204Pr
+### Printemps  
 
 Saison d'étude :  
 * Celarius : étudie la *summa* Rego (13 xp)  
@@ -576,7 +228,7 @@ Saison d'étude :
  * Résultat de l'expérimentation : *Major flaw*;  
  * 2 xp d'exposition en Théorie de la Magie.
 
-## Ete  ^1204Et
+### Ete  
 [[div style="float: right; width: 501px;"]]  
 ![[cerfblanc.jpg|]]  
 [[size smaller]]Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100099&E=199&I=21191&M=imageseule), Français 111, fol. 205v, Lancelot, Mordred et le Cerf Blanc, manuscrit du XVe siècle.[[/size]]  
@@ -607,7 +259,7 @@ Saison d'étude pour les autres personnages :
 
 A la fin de la saison, Esperanza a le (dé)plaisir de recevoir [une lettre de son père](http://villamanlia.wikidot.com/doc#carlos) lui annonçant ses noces avec Monsieur de Saverdun.
 
-## Automne  ^1204Au
+### Automne  
 
 Saison d'étude :  
 * Ambroise : s'entraîne avec les servants (6 xp en Arme à 1 main en tenant compte de son Affinité)  
@@ -619,10 +271,10 @@ Saison d'étude :
 * Scintillus : extrait 3 pions de *vis* Vim (2 xp d'exposition en Théorie de la Magie)  
 * Sigfeín : enseigne l'Animal à Esperanza  
  * qualité = 1 (Com) + 0 (Enseignement) + 3 + 6 (Bonus étudiant unique) = 10 xp;  
- * 2 xp d'exposition en [[span style="background-color: yellow;"]][...][[/span]].  
+ * 2 xp d'exposition en <mark>[...]</mark>.  
 * Tristan-Alexis : part faire les "courses" pour son maître druidique (2 xp d'exposition en Connaissance de la Féerie)
 
-## Hiver  ^1204Hi
+### Hiver  
 
 [[div style="float:right; width: 512px;"]]  
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100046&E=JPEG&Deb=183&Fin=183&Param=C)  
@@ -656,7 +308,7 @@ Saison d'étude :
 * Sigfeín : termine d'inventer un sort PeCo 25 permettant d'infliger une blessure grave à une cible individuelle à portée de voix  
  * TL = 30 + 2 (modificateur de risque) + 5 (jet simple d'expérimentation) = 37 --> il engrange ainsi 12 points or il ne lui en fallait plus que 8, le sort est donc  inventé.  
  * Résultat de l'expérimentation : 2 + 2 = 4, aucun effet particulier;  
- * Sceau du Mage : [[span style="background-color: yellow;"]][...][[/span]];  
+ * Sceau du Mage : <mark>[...]</mark>;  
  * 2 xp d'exposition en Théorie de la magie.  
 * Tristan-Alexis : étudie les Herbes médicinales auprès de son maître (12 xp)
 
@@ -664,9 +316,9 @@ Séance du 22 mai 2009. Dubinaro, Esperanza, Scintillus et Sigfeín se rendent �
 
 Séance du 23 mai 2009. Evénement d'une importance majeure : Dame Esperanza d'Asturie, Maga Ordinis hermetici, Domi Jerbitonis, Sodalis Villae Manliae, **accepte de prendre pour époux** Pierre, Seigneur de Saverdun, (depuis peu) vassal du Comte de Toulouse Raimond VI, Maître incontesté du retournement de situation (dans tous les sens du terme...) et apprenti de Dame Esperanza, ci-avant plus amplement qualifiée. Esperanza en profite pour réconcilier la famille Saverdun, obtenant de son époux que celui-ci donne à son demi-frère Arnaud un fief situé de l'autre côté des Pyrénées reçu en dot d'Esperanza et placé sous la suzeraineté supérieure de Pierre II, roi d'Aragon.
 
-# Année 1205
+## Année 1205
 
-## Printemps  ^1205Pr
+### Printemps  
 
 Séances des 5 avril et 3 mai 2009. Scénario de Jonathan Tweet intitulé *Festival of the Damned* auquel participent Esperanza, Hadaluna, Ronald, Scintillus, Sigfeín, Bernard et Guillaume (9 xp). Les personnages retournent au village de Vezay où ils sont confrontés à une double menace ainsi qu'à de multiples tentations.
 
@@ -692,7 +344,7 @@ Saison d'étude pour les autres personnages :
 * Hugues : étudie la *summa* Connaissance de l'Orde d'Hermès (10 xp)  
 * Tristan-Alexis : remplit une mission délicate pour Llandon, son maître druidique (2 xp d'exposition en Connaissance de la Féerie)
 
-## Eté  ^1205Et
+### Eté  
 
 Saison d'étude :
 
@@ -706,12 +358,12 @@ Saison d'étude :
 * Hugues : bénéficie de l'enseignement de Ronald en Bagarre (13 xp)  
 * Ronald : enseigne la Bagarre à Hugues  
  * qualité = 2 (Com) + 2 (Enseignement) + 3 + 6 (Bonus étudiant unique) = 13 xp;  
- * 2 xp d'exposition en [[span style="background-color: yellow;"]][...][[/span]].  
+ * 2 xp d'exposition en <mark>[...]</mark>.  
 * Scintillus : lit la *summa* Rego (13 xp en Rego)  
 * Sigfeín : étudie la fameuse *summa* Creo (6 xp, en raison de sa blessure moyenne)  
 * Tristan-Alexis : étudie des ouvrages de Philosophie naturelle (15 xp en Philosophie)
 
-## Automne  ^1205Au
+### Automne  
 
 [[div style="float: right; width: 550px;"]]  
 [[size smaller]]  
@@ -738,7 +390,7 @@ Saison d'étude pour les autres personnages :
 * Scintillus : étudie la *summa* Rego (13 xp)  
 * Tristan-Alexis : se rend à Bellaquin pour s'exercer à la pratique de son art (6 xp en Musique en tenant compte de son affinité)
 
-## Hiver  ^1205Hi
+### Hiver  
 
 Saison d'étude :  
 * Ambroise : s'entraîne au combat avec les servants (6 xp en Arme à 1 main en tenant compte de son Affinité)  
@@ -759,9 +411,9 @@ Saison d'étude :
 * Sigfeín : étudie la *summa* Rego (13 xp)  
 * Tristan-Alexis : étudie les herbes médicinales auprès de son maître (12 xp)
 
-# Année 1206
+## Année 1206
 
-## Printemps  ^1206Pr
+### Printemps  
 
 Saison d'étude :  
 * Ambroise : s'entraîne au combat avec les servants (6 xp en Arme à 1 main en tenant compte de son Affinité)  
@@ -777,13 +429,13 @@ Saison d'étude :
 * Scintillus : étudie la *summa* Creo (12 xp)  
 * Sigfeín : invente en expérimentant le sort "Endurance du Berserker" (*Endurance of the Berserkers*) ReCo 15 mais en durée Diamètre au lieu de Concentration  
  * Base 10, Portée Personnelle, Durée Diamètre +1, Cible Indiviudelle;  
- * TL = [[span style="background-color: yellow;"]][...][[/span]];  
+ * TL = <mark>[...]</mark>;  
  * Résultat de l'expérimentation : 9 (*special or story event* - Sigfeín prend 1 point de Crépuscule, passe par une sorte de Crépuscule éclair mais connait désormais le sort *Spasms of the Uncontrolled Hand* en portée Groupe);  
- * Sceau du Mage : [[span style="background-color: yellow;"]][...][[/span]];  
+ * Sceau du Mage : <mark>[...]</mark>;  
  * 2 xp d'exposition en Rego.  
 * Tristan-Alexis : remplit une mission pour Llandon, son maître druidique (2 xp d'exposition en Connaissance de la Féerie)
 
-## Ete  ^1206Et
+### Ete  
 
 [[div style="float: right; width: 675px;"]]  
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100022&E=JPEG&Deb=78&Fin=78&Param=C)  
@@ -806,7 +458,7 @@ Saison d'étude pour les autres personnages :
 * Celarius : étudie la *summa* Creo qui est *enfin* libre (12 xp) et passe ainsi à un niveau 6  
 * Hadaluna : étudie le sort "Endurance du Berserker" (*Endurance of the Berserker*) ReCo 15 dans la *summa* Rego (2 xp en Corpus)
 
-## Automne  ^1206Au
+### Automne  
 
 Une désagréable mésaventure se produit pour Celarius. Exactement un an après le curieux rêve qu'il avait eu l'année passée, une forme démoniaque s'introduit dans son *sanctum* et tente de l'étouffer. Impuissant en raison de l'obscurité qui entrave ses pouvoirs magiques, il ne doit la vie sauve qu'à Ronald qui, pris d'un pressentiment, vole à son secours dans la nuit. La porte du *sanctum* ouverte, Celarius parvient à échapper à son agresseur par un sort Rego Corpus de téléportation, tandis que Sigfeín, réveillé par les événements, vient à bout de la menace démoniaque à coups de Perdo Vim. Avant que le canal mystique ouvert dans la tête de Celarius, celui-ci tente de lancer un sort Intelligo Imaginem sur la femme dont il perçoit vaguement la présence, mais celle-ci résiste à son sort. A suivre...
 
@@ -816,7 +468,7 @@ Saison d'étude :
  * étudie le sort "Guérison du membre malade" CrCo 30 en vue de pouvoir assurer la "permanence des éclopés" à Saint-Pons;  
  * échauffé par le petit "incident" survenu pendant qu'il dormait, il décide de travailler la nuit cette saison et de garder ainsi l'oeil ouvert (-1 Living Conditions);  
  * TL = 6 (Cr) + 11 (Co) + 3 (Int) + 5 (Th. Mag.) + 3 (Aura) + 2 (Routine de labo *Nocturnal*) = 30, tout juste!  
- * Sceau du mage : [[span style="background-color: yellow;"]][...][[/span]];  
+ * Sceau du mage : <mark>[...]</mark>;  
  * 2 xp d'exposition en Creo et passe ainsi à un niveau 7.  
 * Dubinaro : étudie la *summa* Rego (13 xp)  
 * Esperanza : enseigne la Théorie de la Magie à son apprenti/époux  
@@ -829,7 +481,7 @@ Saison d'étude :
 * Sigfeín : apprend le sort "Guérison du membre malade" CrCo 30 depuis le texte de laboratoire recopié par Margentius (2 xp d'exposition en Théorie de la Magie)  
 * Tristan-Alexis : étudie les herbes médicinales auprès de son maître (12 xp)
 
-## Hiver  ^1206Hi
+### Hiver  
 
 Saison d'étude :  
 * Ambroise : s'entraîne au combat avec les servants (6 xp en Arme à 1 main en tenant compte de son Affinité)  
@@ -858,9 +510,9 @@ Saison d'étude :
 * Sigfeín : se rend à Saint-Pons, pour y recueillir la *vis* et étudier la *summa* Théologie, qu'il emmène (20 xp)  
 * Tristan-Alexis : étudie des ouvrages de Philosophie naturelle (15 xp en Philosophie)
 
-# Année 1207  ^1207Pr
+## Année 1207  
 
-## Printemps
+### Printemps
 
 [[div style="float: right; width: 648px;"]]  
 ![[Fanjeaux.JPG|]]  
@@ -886,7 +538,7 @@ Saison d'étude pour les autres personnages :
 * Tristan-Alexis : remplit une mission pour Llandon, son maître druidique (2 xp d'exposition en Connaissance de la Féerie)  
 * Hadaluna : profite de son retour en forêt pour améliorer sa connaissance féérique (4xp)
 
-## Eté  ^1207Et
+### Eté  
 
 Saison d'étude :  
 * Ambroise : s'entraine à l'arc (4 xp en Arcs)  
@@ -910,12 +562,12 @@ Saison d'étude :
  * Coût : 2 pions Creo (soit Niveau / 10);  
  * Pour déclencher l'effet : prononcer "*Fiat lux, et lux fuit*";  
  * Pour mettre fin à l'effet : prononcer "*Nunc venit nox*" (maintenant vient la nuit);  
- * Sceau du Mage : [[span style="background-color: yellow;"]]...[[/span]];  
+ * Sceau du Mage : <mark>...</mark>;  
  * 2 xp d'exposition en Théorie de la Magie.  
 * Sigfeín : se rend à Saint-Pons, pour y recueillir la *vis* et étudier la *summa* Creo, qu'il emmène (12 xp)  
 * Tristan-Alexis : étudie les herbes médicinales auprès de son maître (12 xp)
 
-## Automne  ^1207Au
+### Automne  
 
 Arrivée de Margentius de Criamon qui annonce qu’il quitte Saint Pons et le tribunal de Provence. Il demande l’hospitalité mais souhaite pour l’heure se retirer afin de méditer. A la date anniversaire des mésaventures de Celarius, celui-ci commence à entendre des murmures et chuchotements provenant du feu magique. S’étant rendu sur place en compagnie de ses sodales, des flammèches s’échappent soudainement et se mettent à danser autour des mages tout en grandissant. Un sort formel InVi lancé par Sigfeín révèle que les flammes génèrent un envoûtement non hermétique de type ReMe, qu’il désactive à l’aide de son sort formel PeVi. Arrive alors un autre Margentius de Criamon! que les PJ identifient comme étant le véritable Margentius suite à un rapide interrogatoire. Les PJ décident alors de démasquer le faux Margentius, mais celui-ci parvient à disparaître juste après avoir été percuté d’un pillum de feu lancé par Scintillus. Retourné à son sanctum, Celarius constate qu’un symbole y est gravé sur la porte, que Margentius identifie comme appartenant à la Marque Noire, secte Criamon d’inspiration infernaliste.
 
@@ -935,7 +587,7 @@ Arrivée de Margentius de Criamon qui annonce qu’il quitte Saint Pons et le tr
 * Sigfeín : extrait 3 pions de *vis* Vim (2 xp d'exposition en Théorie de la Magie)  
 * Tristan-Alexis : s'entraîne à user de sa Musique Enchanteresse (4 xp) 
 
-## Hiver  ^1207Hi
+### Hiver  
 
 [[div style="float: right; width: 512px;"]]  
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100036&E=JPEG&Deb=2&Fin=2&Param=C)  
@@ -983,9 +635,9 @@ Saison d'étude pour les autres personnages :
  * +1 point de Crépuscule du fait de son Rituel de Longévité (effet mystique constant).  
 * Hadaluna : étudie la *summa* Terram (13 xp)
 
-# Année 1208
+## Année 1208
 
-## Printemps  ^1208Pr
+### Printemps  
 
 [[div style="float: right; width: 469px;"]]  
 ![|](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Holbein_Danse_Macabre_16.jpg/469px-Holbein_Danse_Macabre_16.jpg)  
@@ -1023,7 +675,7 @@ La jambe gauche des membres du Groupe Cible échappe totalement à leur contrôl
 * Sigfeín : augmente le raffinement de son laboratoire (2 xp d'exposition en Théorie de la Magie), résultat du jet : 7  
 * Tristan-Alexis : bénéficie de l'enseignement de Ronald en Bagarre (13 xp)
 
-## Eté  ^1208Et
+### Eté  
 
 Séance du 11 octobre 2009. Scénario [[nongratae|Personae non gratae]] conté par Olivier, auquel participent Celarius, Scintillus, Sigfein, Hugues, Bernard et Rigaud (8 xp).
 
@@ -1049,7 +701,7 @@ Saison d'étude pour les autres personnages :
 
 Celarius reçoit une [lettre](http://villamanlia.wikidot.com/doc#toc26).
 
-## Automne  ^1208Au
+### Automne  
 
 [[div style="float:right; width: 645px;"]]  
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-07802571&E=JPEG&Deb=1&Fin=1&Param=C)  
@@ -1079,7 +731,7 @@ Saison d'étude :
  * 2 xp d'exposition en Intellego (ce qui en fait 3 avec son affinité)  
 * Tristan-Alexis : s'entraîne à user de sa Musique Enchanteresse (4xp)
 
-## Hiver  ^1208Hi
+### Hiver  
 
 Saison d'étude :  
 * Ambroise : s'entraine à l'arc (4 xp en arme de jet)  
@@ -1115,9 +767,9 @@ Le Sceau de Celarius se manifeste par le fait que, lorsque l'objet de la haine s
  * Sigfeín gagne encore 2 xp d'exposition en Théorie de la Magie  
 * Tristan-Alexis : lit le *Corpus juris civilis* et le *Decretum* (20 xp en Droit civil et canon)
 
-# Année 1209
+## Année 1209
 
-## Printemps  ^1209Pr
+### Printemps  
 
 Séance du 14 novembre 2009. Scénario *The Night of the Faeries*[[footnote]]Scénario issu du supplément *Faeries* (1ère éd.), pp. 105-117, de S. Link et J. Snead. [[/footnote]] conté par Rafaël, auquel participent tous les personnages sauf Tristan-Alexis (6 xp). Les personnages apprennent que le site de Villa Manlia est utilisé, apparemment tous les 97 ans, comme lieu de réjouissance d'une joyeuse bande d'êtres féériques, comme la contine suivante en conserve l'écho :
 
@@ -1146,7 +798,7 @@ Expérience acquise au cours de cette aventure :
 
 Saison d'étude pour Tristan-Alexis : surveille les diverses évolutions de la féerie pour compte de son maître (2 xp en Attention)
 
-## Ete  ^1209Et
+### Ete  
 
 [[div style="float: right; width: 350px;"]]  
 ![|](http://villamanlia.wikidot.com/local--files/delivrance/ChuteCarcassonne.jpg)  
@@ -1160,8 +812,8 @@ Expérience acquise au cours de cette aventure :
 * Bernard : 5 xp en attention, 4 xp en arme  
 * Dubinaro : 5 xp en Parma Magica, 2 xp en Muto, 1 xp en Ignem  et 1 xp en Terram  
 * Esperanza : 5 xp en Parma Magica, 1 xp en Aquam, 2 xp en Corpus et 1 xp en Vim  
-* Guillaume : [[span style="background-color: yellow;"]][...][[/span]]  
-* Hadaluna : [[span style="background-color: yellow;"]][...][[/span]]  
+* Guillaume : <mark>[...]</mark>  
+* Hadaluna : <mark>[...]</mark>  
 * Hugues : 5 xp en Chirurgie et 4 xp en Etiquette  
 * Ronald : 4xp en bagarre et 5 xp en théorie de la magie  
 * Scintillus : 5 xp en stratégie militaire et 4 xp en concentration  
@@ -1179,7 +831,7 @@ Le Sceau de Celarius se manifeste par le fait que la voix entendue par la Cible 
  * Celarius gagne 2 xp d'exposition en Mentem et passe ainsi au niveau 6  
 * Rigaud : 4 xp en Attention
 
-## Automne  ^1209Au
+### Automne  
 
 Séance du 24 janvier 2010. Interlude intitulé *Le Serment de Manlius*. Alors que l'armée des croisés s'apprête à fondre sur l'Alliance de Villa Manlia, Manlius apparaît aux Mages et leur fait prêter serment - à l'exception d'Hadaluna, retirée dans sa forêt - de défendre cette terre des barbares au péril de leur vie. Il accomplit ensuite un puissant rituel pré-hermétique qui paraît retirer l'Alliance de l'esprit des vulgaires pour une durée de 7 ans. Pendant cette période, les Mages doivent absolument réunir les trois ingrédients leur permettant d'achever le rituel, conformément à la prophétie :
 
@@ -1211,7 +863,7 @@ A la même saison, Esperanza rend visite aux Sages-Femmes de Vezay et obtient d'
 [[size smaller]]Moïse recevant la Loi. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100027&E=39&I=15221&M=imageseule), Français 8, fol. 60v, entre 1320-1330.[[/size]]  
 [[/div]]
 
-Séances du 24 janvier 2010 et du 20 février 2010. Scénario *The Bishop's staff*[[footnote]]Scénario de Michaël de Verteuil issu de la 4ème édition d'Ars Magica, 2002[[/footnote]] conté par Nicolas, auquel participent Celarius, Sigfein et Scintillus, ainsi que Rigaud et Esquivard (8 xp). Au travers de visions envoyées à Sigfein par le Rabbi Isaac, ce dernier demande aux mages de se rendre à Saint-Gilles afin d'y trouver un certain Anan le Karaïte et de "sauver les innocents". Celarius, Scintillus et Sigfein se mettent donc en route accompagnés de Rigaud et du mendiant Esquivar. Après avoir rencontré une vieille folle qui leur déverse un flot de paroles incompréhensibles et être tombés nez à nez avec Miralys de Jerbiton (Sigfein était ravi), les PJ obtiennent un entretien avec l'usurier Anan. Quelle ne fut pas leur surprise lorsqu'ils apprennent qu'Anan est en fait le Primus de Sapientia Aetatum, une Alliance d'Hiver tombée dans l'oubli, partagée entre des mages "classiques" (un Bjornaer, un Tytalus et un Jerbiton), et 3 mages Ex-Miscelanea adeptes de la magie Karaïte (une variante de la magie juive). Après un repas en compagnie de leurs sodales, les PJ entament des négociations en vue d'un échange (c'est Dubi qui va être content, l'Alliance possède une source de vis Muto!) et apprennent également qu'Anan occupe sa fonction actuelle suite à la mystérieuse disparition de l'ancien Primus, Ambrosius de Jerbiton, au début 1208. Ils se mettent alors en route pour leur auberge lorsque 2 jeunes gens les bousculent et prennent la fuite dans une ruelle. Le temps d'éteindre un incendie apparemment allumé par les 2 jeunes hommes en question, les PJ retrouveront leur cadavres. Etrange, pas de cause de mort apparente, à l'exception d'une croix chrétienne profondément gravée dans la chair de leur front. Notons que Sifgein grâce à sa double vue remarque la présence d'une flèche éthérée dans le torse des cadavres, et que Celarius a aperçu ce qui ressemble à un Ange (un dos d'homme doté de 2 grandes ailes blanches) s'enfuir de la scène du crime. L'arrivée de la milice empêchent les PJ de poursuivre leurs investigations et ils rejoignent leur auberge, après avoir constaté l'arrestation par la milice d'un jeune homme terrorisé ... [[span style="background-color: yellow;"]]à compléter par Nicolas[[/span]]
+Séances du 24 janvier 2010 et du 20 février 2010. Scénario *The Bishop's staff*[[footnote]]Scénario de Michaël de Verteuil issu de la 4ème édition d'Ars Magica, 2002[[/footnote]] conté par Nicolas, auquel participent Celarius, Sigfein et Scintillus, ainsi que Rigaud et Esquivard (8 xp). Au travers de visions envoyées à Sigfein par le Rabbi Isaac, ce dernier demande aux mages de se rendre à Saint-Gilles afin d'y trouver un certain Anan le Karaïte et de "sauver les innocents". Celarius, Scintillus et Sigfein se mettent donc en route accompagnés de Rigaud et du mendiant Esquivar. Après avoir rencontré une vieille folle qui leur déverse un flot de paroles incompréhensibles et être tombés nez à nez avec Miralys de Jerbiton (Sigfein était ravi), les PJ obtiennent un entretien avec l'usurier Anan. Quelle ne fut pas leur surprise lorsqu'ils apprennent qu'Anan est en fait le Primus de Sapientia Aetatum, une Alliance d'Hiver tombée dans l'oubli, partagée entre des mages "classiques" (un Bjornaer, un Tytalus et un Jerbiton), et 3 mages Ex-Miscelanea adeptes de la magie Karaïte (une variante de la magie juive). Après un repas en compagnie de leurs sodales, les PJ entament des négociations en vue d'un échange (c'est Dubi qui va être content, l'Alliance possède une source de vis Muto!) et apprennent également qu'Anan occupe sa fonction actuelle suite à la mystérieuse disparition de l'ancien Primus, Ambrosius de Jerbiton, au début 1208. Ils se mettent alors en route pour leur auberge lorsque 2 jeunes gens les bousculent et prennent la fuite dans une ruelle. Le temps d'éteindre un incendie apparemment allumé par les 2 jeunes hommes en question, les PJ retrouveront leur cadavres. Etrange, pas de cause de mort apparente, à l'exception d'une croix chrétienne profondément gravée dans la chair de leur front. Notons que Sifgein grâce à sa double vue remarque la présence d'une flèche éthérée dans le torse des cadavres, et que Celarius a aperçu ce qui ressemble à un Ange (un dos d'homme doté de 2 grandes ailes blanches) s'enfuir de la scène du crime. L'arrivée de la milice empêchent les PJ de poursuivre leurs investigations et ils rejoignent leur auberge, après avoir constaté l'arrestation par la milice d'un jeune homme terrorisé ... <mark>à compléter par Nicolas</mark>
 
 Expérience acquise au cours de cette aventure :  
 * Celarius : 5 xp en Mentem et 3 xp en Vim  
@@ -1225,12 +877,12 @@ Saison d'étude pour les autres personnages :
 * Dubinaro : étudie la *summa* Rego en prévision de l'étude du sort présent dans *le songe de Scipion* (13 xp)  
 * Esperanza : étudie la *summa* Muto (15 xp + 1 xp en Corpus, 1 xp en Herbam, 1 xp en Imaginem et 1 xp en Mentem)  
 * Guillaume : se rétablit...  
-* Hadaluna : [[span style="background-color: yellow;"]][...][[/span]]  
+* Hadaluna : <mark>[...]</mark>  
 * Hugues : 4 xp en Chirurgie  
 * Ronald : va à Saint-Pons pour y gérer ses affaires, avec le Baron, avec l'église et surveiller le bassin et se renseigner sur tout ça (4 xp en connaissance des gens)  
 * Tristan-Alexis : s'entraîne à user de sa Musique Enchanteresse (4xp)
 
-## Hiver  ^1209Hi
+### Hiver  
 
 Saison d'étude :  
 * Ambroise : s'entraine au tir à l'arc (4xp)  
@@ -1251,10 +903,10 @@ Saison d'étude :
  * jet de vieillissement (35 ans) :  
   * Total de Vieillissement = 5 (dé de tension sans désastre) + 4 (age/10) - 1 (Conditions de vie) - 0 (Rituel de longévité) = 8;  
   * +1 an d'âge apparent (35 ~~> 36); +1 an d'âge réel (35 ~~> 36).  
-* Guillaume : [[span style="background-color: yellow;"]][...][[/span]]  
+* Guillaume : <mark>[...]</mark>  
 * Hadaluna : extrait 3 pions de *vis* Vim pour la collectivité  
  * TL(CrVi) = 8 (Cr) + 4 (Vi) + 2 (Int) + 2 (Aura) + 4 (Th. Mag) + 1 (Routine de labo) = 21  
- * 2 xp d'exposition en [[span style="background-color: yellow;"]][...][[/span]]  
+ * 2 xp d'exposition en <mark>[...]</mark>  
 * Hugues :  
  * étudie la *summa* Médecine *Colliget* : 10xp en *Médecine*.  
  * jet de vieillissement (52 ans) :  

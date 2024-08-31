@@ -1,20 +1,19 @@
-[[div]]  
-[[/div]]  
-[[tabview]]
+# Scintillus de Flambeau
+<!-- tabs:start -->
 
-[[tab title="Généralités"]]  
-![[Scintillus_cleanup.jpg|]]  
-# Identité  
+![](../img/Scintillus_cleanup.jpg|)  
+# **Généralités**
+## Identité
 **Joueur** Michaël  
 **Nom du personnage** Scintillus  
-**Nom de naissance** ?  
+**Nom de naissance** <mark>...</mark> 
 **Sexe** Masculin  
 **Date de naissance** 1175  
 **Age** 59  
 **Maison** Flambeau  
 **Confiance** 3  
 **Crépuscule** 2(7)  
-# Caractéristiques  
+## Caractéristiques  
 **Int** +3 (pragmatique)  
 **Per** +1 (inquiet)  
 **For** -1  
@@ -23,14 +22,13 @@
 **Com** -2 (laconique)  
 **Dex** +2 (athlète)  
 **Viv** +1 (bons réflexes)  
-# Traits de caractère  
-A préciser  
-# Réputation  
+## Traits de caractère  
+<mark>A préciser</mark> 
+## Réputation  
 Aucune pour le moment  
-[[/tab]]
 
-[[tab title="Vices & Vertus"]]  
-# Vertus  
+# **Vices & Vertus**
+## Vertus  
 **Affinité** (*Puissant Art*) 0 (Ignem) : bonus de +3  
 **Immunité majeure** (*Greater Immunity*) +3 : immunité totale au feu, qu'il soit d'origine naturelle ou surnaturelle (acquise au cours de son premier Crépuscule)  
 **Forme de prédilection** (*Deft Form*) +1 (Ignem) : pas de pénalités au Total de Lancer de sorts Ignem avec des gestes et/ou voix non standards.  
@@ -39,19 +37,19 @@ Aucune pour le moment
 **Magie formelle flexibe** (*Flexible Formulaic Magic*) +3 : le Mage peut augmenter ou diminuer de maximum 5 niveaux les sorts formels qu'il lance pour en affecter soit la Durée, soit la Portée, soit la Cible  
 **Parent doué** (*Skilled Parens*) +1  
 **Sort rapide** (*Fast caster*) +1 : +3 aux jets d’Initiative  
-**Puissant Médecine**[[footnote]]Vertu mineure accordée par Dame Aldona à l'Ete 1207.[[/footnote]] (*Puissant Medecine*) +1 : bonus de +2 aux jets de Médecine.
+**Puissant Médecine**[^1] (*Puissant Medecine*) +1 : bonus de +2 aux jets de Médecine.
 
-# Vices  
+## Vices  
 **Effet secondaire gênant** (*Warped Magic*) -1 : le lancer d'un sort est accompagné d'un réchauffement des objets à la ronde, en fonction de l'intensité du sort  
 **Magie anarchique** (*Careless Sorcerer*) -1 : doubler le nombre de dés de Désastre en cas de lancer d'un sort  
 **Magie disjointe** (*Disjointed Magic*) -1 : aucun bonus au Total de Laboratoire du fait de la connaissance d'un sort similaire ou du fait d'un enchantement déjà instillé dans un objet.  
 **Mauvaise mémoire** (*Poor Memory*) -1 (noms de lieux)  
 **Obsession** (*Driven*) -3 : "défendre la veuve et l'orphelin" (voir background)  
 **Résistance Magique limitée** (*Limited Magic Resistance*) -1 (Aquam) : le score en Aquam ne joue pas en cas de Résistance Magique
- 
-[[/tab]]
 
-[[tab title="Compétences"]]  
+[^1]: Vertu mineure accordée par Dame Aldona à l'Ete 1207.
+
+# **Compétences**
 **Arts libéraux** (*Artes liberales*) 1 (écriture)  
 **Athlétisme** (*Athletics*) 1 (2)  
 **Attention** (*Awareness*) 2  
@@ -80,15 +78,10 @@ Aucune pour le moment
 **Connaissance du divin** 1  
 **Connaissance de la magie** 1
 
-
-[[/tab]]
-
-[[tab title="Magie"]]  
-[[div style="float:right; margin-left: 20px;"]]  
-![|](http://upload.wikimedia.org/wikipedia/commons/6/61/Phoenix_detail_from_Aberdeen_Bestiary.jpg)  
-[[size smaller]]Le phénix, l'oiseau de feu. Détail du bestiaire d'Aberdeen. Source : [http://commons.wikimedia.org/wiki/Image:Phoenix_detail_from_Aberdeen_Bestiary.jpg Wikimedia Commons].[[/size]]  
-[[/div]]  
-# Arts  
+# **Magie**
+![](http://upload.wikimedia.org/wikipedia/commons/6/61/Phoenix_detail_from_Aberdeen_Bestiary.jpg)  
+Le phénix, l'oiseau de feu. Détail du bestiaire d'Aberdeen. Source : [Wikimedia Commons](http://commons.wikimedia.org/wiki/Image:Phoenix_detail_from_Aberdeen_Bestiary.jpg).
+## Arts  
 **Creo** 15 (4)  
 **Intellego** 13 (5)  
 **Muto** 5  
@@ -105,9 +98,9 @@ Aucune pour le moment
 **Terram** 8(5)  
 **Vim** 12
 
-# Sorts formels et rituels  
+## Sorts formels et rituels  
 **Endurance du berseker** (*Endurance of the Berseker*) ReCo 15 : immunise temporairement le lanceur contre les pénalités découlant de la perte de Niveaux de Fatigue ou de Santé, passés ou futurs. Le sort cesse au cas où le lanceur atteint le Niveau Inconscient. Le sort ne peut être lancé consécutivement qu'un nombre de fois égal à la Taille de la Cible + 2.  
-**Endurance sans fin**  ReCo 20 : immunise temporairement le lanceur contre les pénalités découlant de la perte de Niveaux de Fatigue ou de Santé, passés ou futurs. Le sort cesse au cas où le lanceur atteint le Niveau Inconscient. Le sort ne peut être lancé consécutivement qu'un nombre de fois égal à la Taille de la Cible + 2.  
+**Endurance sans fin** ReCo 20 : immunise temporairement le lanceur contre les pénalités découlant de la perte de Niveaux de Fatigue ou de Santé, passés ou futurs. Le sort cesse au cas où le lanceur atteint le Niveau Inconscient. Le sort ne peut être lancé consécutivement qu'un nombre de fois égal à la Taille de la Cible + 2.  
 **Chaleur de la forge ardentre** (*Heat of the Searing Forge*) CrIg 10 : chauffe une pièce de métal de sorte qu'elle devienne trop chaude au toucher. Un casque ou un poitrail en métal infligent +5 de Dégâts au premier tour, +3 au second et +1 au troisième. De plus petits objets causent moins de dommages. La plupart des armures comportent des pièces en cuir qui confèrent un bonus de +3 à l'Encaissement à la cible.  
 **Lame de la flamme virulente** (*Blade of the Virulent Flame*) CrIg 15 : la lame d'une arme s'enflamme, doublant ses dégâts ou les augmentant de +5 (le plus haut des deux) et est susceptible de bouter le feu. La lame chauffant pendant environ une demi-heure commence à fondre, à moins de reposer pendant une demi-heure.  
 **Eclair de flammes écarlates** (*Flash of the Scarlet Flames*) CrIg 15 : fait exploser un flash de lumière dans les airs. La cible doit réussir un jet d'Energie de 9+ ou être aveuglée pour une minute avant de recommencer le jet  
@@ -143,26 +136,24 @@ Aucune pour le moment
 **Perron du roi de la montagne** CrTe 30  
 **Pit of the gapping earth** PeTe 15
 
-# Crépuscule
+## Crépuscule
 
-A l'hiver 1203, Scintillus est emporté par son premier Crépuscule à l'occasion d'une attaque magique qui prend la forme d'un feu vert crépitant qui lui enserre le corps et qui, au moindre de ses mouvements, le submerge d'énergies magiques incontrôlables. Scintillus décide malgré tout de passer outre et de s'abandonner aux forces du Crépuscule dans l'espoir d'avoir le temps de lancer un Pilum de Feu pour sauver son *sodalis* Dubinaro. Scintillus parvient à comprendre et à intégrer les énergies du Crépuscule dont il ressort presque immédiatement non sans avoir acquis 13 points de Crépuscule. Il en garde comme *cicatrice neutre* le fait que, chaque fois qu'il éprouve une crainte immédiate pour la vie d'autrui - que ce soit pour un ami, un Servant, la veuve, l'orphelin ou autre -, ses doigts, voire tout son corps en fonction de l'intensité de ses émotions, sont parcourus d'un **feu magique vert vif**[[footnote]]Ceci n'est pas étranger au fonctionnement de la magie du Con Dar dans *Wizard's First Rule* de Terry Goodkind.[[/footnote]]. En outre, il en conserve comme *conséquence bénéfique* une **immunité majeure au feu**, le rendant totalement immunisé contre toute forme de feu, qu'il soit d'origine magique ou naturelle.
+A l'hiver 1203, Scintillus est emporté par son premier Crépuscule à l'occasion d'une attaque magique qui prend la forme d'un feu vert crépitant qui lui enserre le corps et qui, au moindre de ses mouvements, le submerge d'énergies magiques incontrôlables. Scintillus décide malgré tout de passer outre et de s'abandonner aux forces du Crépuscule dans l'espoir d'avoir le temps de lancer un Pilum de Feu pour sauver son *sodalis* Dubinaro. Scintillus parvient à comprendre et à intégrer les énergies du Crépuscule dont il ressort presque immédiatement non sans avoir acquis 13 points de Crépuscule. Il en garde comme *cicatrice neutre* le fait que, chaque fois qu'il éprouve une crainte immédiate pour la vie d'autrui - que ce soit pour un ami, un Servant, la veuve, l'orphelin ou autre -, ses doigts, voire tout son corps en fonction de l'intensité de ses émotions, sont parcourus d'un **feu magique vert vif**[^2]. En outre, il en conserve comme *conséquence bénéfique* une **immunité majeure au feu**, le rendant totalement immunisé contre toute forme de feu, qu'il soit d'origine magique ou naturelle.
 
-[[footnoteblock title="Notes"]]  
-[[/tab]]
+[^2]: Ceci n'est pas étranger au fonctionnement de la magie du Con Dar dans *Wizard's First Rule* de Terry Goodkind.
 
-[[tab title="Background"]]  
-# Description  
-# Historique  
-Fils d'une famille paysanne dans une petite seigneurie au pied des Pyrennées. Sa famille, ou du moins une partie d'entre elle, est massacrée par le seigneur des lieux qui accuse son père d'avoir tenté de dissimuler une partie des récoltes pour frauder l'impôt. Obligé de s'enfuir du village, survit tant bien que mal en se cachant dans les Pyrennées. Recueilli, à moitié mort de froid, par un vieux Mage de Val Negra un peu à côté de ses pompes mais qui prend pitié de ce jeune garçon doué du Don. Celui-ci garde de cette expérience traumatique une aversion pour l'exercice arbitraire de l'autorité à l'encontre des faibles.  
-[[/tab]]
+# **Laboratoire**
 
-[[tab title="Laboratoire"]]
-
-+Caractéristiques  
+## Caractéristiques  
 **Rafinement** 1  
 **Taille** 0  
-+Vices et vertues  
-[[/tab]]  
-[[/tabview]]
+## Vices et vertus  
+Néant
+# **Background**
+## Description  
+<mark>A compléter</mark>
 
-[[module Comments]]  
+## Historique  
+Fils d'une famille paysanne dans une petite seigneurie au pied des Pyrennées. Sa famille, ou du moins une partie d'entre elle, est massacrée par le seigneur des lieux qui accuse son père d'avoir tenté de dissimuler une partie des récoltes pour frauder l'impôt. Obligé de s'enfuir du village, survit tant bien que mal en se cachant dans les Pyrennées. Recueilli, à moitié mort de froid, par un vieux Mage de Val Negra un peu à côté de ses pompes mais qui prend pitié de ce jeune garçon doué du Don. Celui-ci garde de cette expérience traumatique une aversion pour l'exercice arbitraire de l'autorité à l'encontre des faibles.  
+
+<!-- tabs:end -->
