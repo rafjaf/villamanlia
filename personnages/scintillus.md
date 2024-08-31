@@ -1,7 +1,7 @@
 # Scintillus de Flambeau
 <!-- tabs:start -->
 
-![](../img/Scintillus_cleanup.jpg|)  
+![](../img/Scintillus_cleanup.jpg)  
 # **Généralités**
 ## Identité
 **Joueur** Michaël  
