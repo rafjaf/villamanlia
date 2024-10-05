@@ -1,4 +1,4 @@
-# Sigfein de Bjornaer
+# Sigfein de Bjornaer aka Myrrdin de Diedne
 <!-- tabs:start -->
 # **Généralités**
 ![](../img/Sigfein_cleanup.jpg)  
