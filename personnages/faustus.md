@@ -4,7 +4,7 @@
 ![](../img/Faustus_cleanup.jpg)]  
 ## Identité  
 **Joueur** Gauthier  
-**Nom du personnage** Faustus  
+**Nom du personnage** Faustus (Tossanus et un peu Proclus)
 **Nom de naissance** <mark>...</mark>
 **Sexe** Masculin  
 **Date de naissance** 1180  
@@ -74,7 +74,7 @@
 **Finesse** : 3  
 **Philosophie** (Magie rituelle) : 1  
 **Parma Magica** (Ignem) : 6 (6)  
-**Pénétration** (Perdo) : 5 (29)  
+**Pénétration** (Perdo) : 6  
 **Théorie de la Magie** (Invention de sorts) : 6
 
 # **Magie**
@@ -91,12 +91,12 @@
  
 **Animal** : 12 (3)  
 **Aquam** : 10 (4)  
-**Auram** : 11 (5)  
-**Corpus** : 14 (9)  
+**Auram** : 11 (10)  
+**Corpus** : 14 (12)  
 **Herbam** : 7  
 **Ignem** : 10 (4)  
 **Imaginem** : 3 (2)  
-**Mentem** : 15 (6)  
+**Mentem** : 16 (5)  
 **Terram** : 10 (4)  
 **Vim** : 8
 
