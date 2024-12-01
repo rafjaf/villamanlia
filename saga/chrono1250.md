@@ -53,7 +53,11 @@ Saison d'étude :
 
 * Celarius : <mark>[...]</mark>  
 * Esperanza : <mark>[...]</mark>  
-* Faustus : <mark>[...]</mark>  
+* Faustus : lit la *summa* Mentem (12 xp + 3 Book learner), l'amenant ainsi à 16 (5).
+  * Jet de vieillissement (69 ans):  
+  * Total de Vieillissement = 6 (dé de tension sans désastre) + 7 (age/10) - 2 (Conditions de vie) - 12 (Rituel de longévité) = -1;  
+  * Résultat : Pas de vieillissement apparent (50 —> 50);
+  * +1 point de Crépuscule du fait de son rituel de longévité (effet mystique constant) 
 * Scintillus : <mark>[...]</mark>  
 * Sigfein: <mark>[...]</mark>
 
@@ -64,7 +68,7 @@ Saison d'étude :
 Séances des 9 mars et 19 avril 2024. Scénarios ***Thord's Feast*** et ***Meet the Dragon*** (9 xp) conté par Nicolas auquel participent Celarius, Faustus, Scintillus et Sigfei :
 
 * Celarius : <mark>[...]</mark>  
-* Faustus : <mark>[...]</mark>  
+* Faustus : 1 xp en Pénétration l'amenant ainsi au niveau 6, 5 xp en Auram, 3 xp en Corpus  
 * Scintillus : <mark>[...]</mark>  
 * Sigfein: <mark>[...]</mark>
 
