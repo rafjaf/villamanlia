@@ -68,7 +68,7 @@ Saison d'étude :
 Séances des 9 mars et 19 avril 2024. Scénarios ***Thord's Feast*** et ***Meet the Dragon*** (9 xp) conté par Nicolas auquel participent Celarius, Faustus, Scintillus et Sigfei :
 
 * Celarius : <mark>[...]</mark>  
-* Faustus : 1 xp en Pénétration l'amenant ainsi au niveau 6, 5 xp en Auram, 3 xp en Corpus  
+* Faustus : 1 xp en Pénétration l'amenant ainsi au niveau 6, 5 xp en Auram (gagnant ainsi 1 xp en Ig, Te et Aq dû à Magie élémentale), 3 xp en Corpus  
 * Scintillus : <mark>[...]</mark>  
 * Sigfein: <mark>[...]</mark>
 
