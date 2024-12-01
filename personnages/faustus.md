@@ -90,14 +90,14 @@
 ### Formes
  
 **Animal** : 12 (3)  
-**Aquam** : 10 (4)  
+**Aquam** : 10 (5)  
 **Auram** : 11 (10)  
 **Corpus** : 14 (12)  
 **Herbam** : 7  
-**Ignem** : 10 (4)  
+**Ignem** : 10 (5)  
 **Imaginem** : 3 (2)  
 **Mentem** : 16 (5)  
-**Terram** : 10 (4)  
+**Terram** : 10 (5)  
 **Vim** : 8
 
 ## Sceau du Mage  
