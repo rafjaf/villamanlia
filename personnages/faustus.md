@@ -11,7 +11,7 @@
 **Age** 67 (50 en apparence)  
 **Maison** ex Miscellaneis  
 **Confiance** 3  
-**Crépuscule** 4 (7)
+**Crépuscule** 4 (8)
 
 ## Caractéristiques  
 **Int** +3 (analytique)  
