@@ -1,13 +1,13 @@
 # Mages
 
-* [Celarius](Villa%20Manlia/personnages/celarius.md) de Criamon (rejoint Villa Manlia au Printemps 1203)  
+* [Celarius](Villa%20Manlia/personnages/Celarius.md) de Criamon (rejoint Villa Manlia au Printemps 1203)  
 * [Dubinaro](dubinaro.md) de Bonisagus<sup>†</sup> (Mage fondateur de Villa Manlia, ex membre de l'Alliance de Mare Immobile)  
 * [Esperanza](esperanza.md) de Jerbiton (Mage fondateur de Villa Manlia, ex membre de l'Alliance de Bellaquin)  
 * [Faustus](faustus.md) ex Miscellaneis (rejoint Villa Manlia au Printemps 1226)  
 * [Hadaluna](hadaluna.md) de Merinita (rejoint Villa Manlia au Printemps 1205)  
 * [Manita](manita.md) de Verditius (rejoint Villa Manlia au Printemps 1210, ex membre de l'Alliance de Bellaquin)  
 * [Scintillus](scintillus.md) de Flambeau (Mage fondateur de Villa Manlia)  
-* [Sigfeín](sigfein.md) de Bjornaer (Mage fondateur de Villa Manlia)
+* [Sigfeín](Sigfein.md) de Bjornaer (Mage fondateur de Villa Manlia)
 
 # Compagnons
 

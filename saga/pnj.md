@@ -180,20 +180,15 @@ Petite châtellenie, en guerre endémique avec le seigneur voisin Huguon.
 * **Luc**: fils de Geoffroi, parti en croisade; depuis lors, son père est sans nouvelles de lui ou de son sort;  
 * **Anna**: la gouvernante de Manon;  
 * **Arnaut<sup>†</sup>**: le magister de Luzac, commanditaire de l'assassinat de Manon aux fins de celer le fruit de l'union extra maritale qu'il entretenait avec elle. Pendu par le seigneur après l'exposition de son crime au grand jour.
-
-[[div style="float: right; width: 424px;"]]  
-![|](http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Savonarola.jpg/424px-Savonarola.jpg)  
-[[size smaller]]Jérôme de Bonisagus. En réalité, portrait du prédicateur [Jérôme Savonarole](http://fr.wikipedia.org/wiki/Savonarole) par Fra Bartolomeo, dans sa cellule au couvent San Marco, 1498. Source : [http://fr.wikipedia.org/wiki/Fichier:Savonarola.jpg Wikicommons].[[/size]]  
-[[/div]]  
-## Mare Immobile et ses environs  ^Mare
-[[div style="float: left; width: 240px; margin-right: 20px;"]]  
-![[Mare%20Immobile.jpg|]]  
-[[size smaller]]Blason de Mare Immobile[[/size]]  
-[[/div]]
+## Mare Immobile et ses environs
+![[MareImmobile.jpg]]
+Blason de Mare Immobile
 
 Cette Alliance tire son nom d’un lac de montagne au milieu duquel elle est bâtie : un lac immense, dont l’eau est en permanence parfaitement immobile, d’un noir profond, impossible pour le regard de crever la surface. Les Servants de l’Alliance y circulent parfois en barque, mais avec de grandes précautions, car ce qui circule sur la surface n’y reste jamais longtemps. Alliance d’été, comptant environ dix Mages, prenant la forme d’un château fortifié dont le toit en tuiles noires rappelle la couleur du lac. Aura Magique de 4.
 
 * **[[jerome|Jérôme de Bonisagus]]**: Mage de *Mare Immobile* ayant effectué son apprentissage en même temps que Dubinaro auprès du même *Magister*, et qui sous ses dehors affables et humbles (toujours habillé d'une simple tunique monacale et ayant choisi de conserver son nom de baptême après avoir relevé le Gant, s'estimant indigne du port d'un nom hermétique), se révèle particulièrement sournois. Lors des évènements entourant le débat théologique qui s'est déroulé à Pamiers, les mages de Villa Manlia ont appris que Jérôme s'est allié aux pouvoirs infernaux. Il est en réalité en possession de, et étudie la *summa Wittockiana*, puissant ouvrage de magie démoniaque que Dubinaro fut suspecté d'avoir dérobé dans le *sanctum* de leur *Magister* Athanor avec la complicité de Claudia, la maîtresse de Dubinaro (voir son [historique](http://villamanlia.wikidot.com/dubinaro)). Devenu très puissant, Jérôme dispose notamment de la faculté de contrôler à distance des êtres humains, grâce à un sceau représentant un pentacle griffu gravé dans le corps des victimes, comme les personnages l'ont découvert au cours du scénario [La Dialectique des Armes](http://villamanlia.wikidot.com/dialectique). La confrontation l'a révélé, en ce compris aux yeux de son ancien *frater*, pour ce qu'il est: un mage rongé par la haine et la jalousie à l'encontre de Dubinaro, dont il a juré la perte, prêt à tout pour parvenir aux fins que lui dictent son ambition dévorante et ses rêves de grandeur. Lors du [Dernier Tribunal de 1207](http://villamanlia.wikidot.com/derniertrib), les personnages se sont révélés incapables de convaincre l'Ordre de la culpabilité de Jérôme, et ont au contraire été condamnés sur plainte de ce dernier pour mise en danger de l'Ordre. Depuis lors, les personnages soupçonnent Jérôme d'être mêlé à la [Mort du Légat](http://villamanlia.wikidot.com/mortlegat) du pape, Pierre de Castelneau, qui se trouve à l'origine de la Croisade lancée contre le Tribunal de Provence et qui menace directement la survie de Villa Manlia, ainsi qu'au [Siège de Bellaquin](http://villamanlia.wikidot.com/siegebellaquin) ayant entraîné la chute de cette puissante Alliance.  
+  ![|](http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Savonarola.jpg/424px-Savonarola.jpg)  
+Jérôme de Bonisagus. En réalité, portrait du prédicateur [Jérôme Savonarole](http://fr.wikipedia.org/wiki/Savonarole) par Fra Bartolomeo, dans sa cellule au couvent San Marco, 1498. Source : [http://fr.wikipedia.org/wiki/Fichier:Savonarola.jpg Wikicommons].
 * **Athanor de Bonisagus**: *Magister* de Dubinaro;  
 * **Sorellus de Verditius**: ancien *Primus inter pares* (premier d'entre ses pairs) du Conseil des Mages de *Mare Immobile*, remplacé par Viridia de Verditius suite à la révélation de la traîtrise de Jérôme;  
 * **Magda**, devenue **Viridia de Verditius** : jeune apprentie de Sorellus à *Mare Immobile*, qui a maintenu son affection à Dubinaro malgré la disgrâce dans laquelle celui-ci était tombé. Elle exerce désormais le rôle de **Prima de Mare Immobile**  
@@ -201,7 +196,6 @@ Cette Alliance tire son nom d’un lac de montagne au milieu duquel elle est bâ
 * **Aurelius**: vieux bibliothécaire;  
 * **Abbé Samson**: dirige le monastère de Saint-Edmond, moins hostile à la magie que ne le sont généralement les membres de l'Eglise. Ayant obtenu de la part d'Ereditus de Jerbiton une pierre magique destinée à protéger l'enceinte du monastère, en échange de divers ouvrages et objets liturgiques, il a néanmoins restitué celle-ci sur l'insistance des mages de Villa Manlia moyennant remise des objets cédés;  
 * **Prieur Jean**: prieur (second après l'abbé) du monastère de Saint-Edmond. Fervent catholique, il se montre très rétif à la pratique de la magie.
-
 ## Pamiers et ses environs  
 * **Abbé Alain**: abbé de l’abbaye Saint-Antonin près de Pamiers, initiateur du débat théologique qui se tint à Pamiers à l'hiver 1203;  
 * **Thibault Tanneur**: premier consul de la ville.
