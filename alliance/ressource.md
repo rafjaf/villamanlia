@@ -1,8 +1,5 @@
-[[div style="float:right; width: 40%"]]  
 *You don't bring backup for the things you know about. You bring backup for the things you don't know about.*  
 — Benedict Jacka, *Cursed: An Alex Verus Novel*, 2012, London, Orbit.  
-[[/div]]  
-~~~~
 
 [[div style="float: right; width: 512px;"]]  
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-08008903&E=JPEG&Deb=1&Fin=1&Param=C)  
@@ -174,6 +171,7 @@ Les réserves de *vis* sont conservées dans les sanctums des Mages selon le tab
 * 3 fioles contenant un liquide noir, renfermant une charge de l'effet *Leap of Homecoming* ReCo 35 (la Connexion des Arcanes doit être dissoute dans le liquide);  
 * 3 sphères en verre contenant un liquide vert (~~[[span style="background-color: yellow;"]]à investiguer en laboratoire[[/span]]~~, cf. Calebais p. 57)  
 * 2 fioles contenant un liquide bleu ([[span style="background-color: yellow;"]]à investiguer en laboratoire[[/span]], cf. Calebais p. 57)
+* Une patte griffue couverte d'écailles dérobée dans le laboratoire de Viscus de Criamon, ==à investiguer en laboratoire==
 
 ## Plantes et créatures magiques
 

@@ -1,5 +1,4 @@
 # Tribunal de Provence  
-[[f>toc]]
 
 ## Arvigna & sa *regio* féerique  
 Vallée entourée de bois sur un versant et de champs sur l'autre, traversée par une rivière, avec un château en son centre. La forêt recèle un passage vers une regio féerique.
@@ -82,19 +81,15 @@ Nouvelle Domus Magna Flambeau, sise dans le Tribunal de Provence, suite à la d�
 * **Exercitus (= tourmenté, inquiet) de Tytalus**;  
 * **Thanatos de Tytalus** : albinos s'habillant entièrement de velours noir, Magister du Dr Mark, frère de Mélisende d'Arvigna;  
 * **Calpurnia de Tytalus** : petite rouquine boulotte juvénile, au tempérament sanguin, adepte de la magie Cr(Re)An(Ig);
-
-
 ## Doïsseteppe  
-[[div style="float: right; width: 240px;"]]  
-![[Doisseteppe.jpg|]]  
-[[size smaller]]Blason de Doïsseteppe. Source : *Les Alliances*, Paris, Descartes, 1994, p. 61[[/size]]  
-[[/div]]  
+![](../img/Doisseteppe.jpg)
+Blason de Doïsseteppe. Source : *Les Alliances*, Paris, Descartes, 1994, p. 61
+
 Puissante Alliance du Tribunal de Provence où se tient tous les 7 ans le Tribunal. La hiérarchie est organisée autour d'un *Pontifex Maximus*, de 6 *flamines* (prêtres supérieurs) et d'un ensemble de *secondares* (prêtres inférieurs).
 
 * **Oxioun de Tytalus** : Primus de Doïsseteppe et son *Pontifex Maximus*, ainsi que *Praeco* du Tribunal de Provence. Porte un bracelet de couleur noire et un autre de couleur sang;  
 * **Remmel** : chef de la *turbula* d'Oxioun de Tytalus, porteur de 7 étoiles gagnées lors des *ludi Magni*;  
 * **Protantus de Guernicus** : le *Princeps Quaesitor* (Doyen des Quaesitores) du Tribunal;  
-* **Davinia ex Miscellaneis** : ancienne du Tribunal de Novgorod qui a rejoint Doïsseteppe il y a plusieurs années déjà et y exerce une influence discrète mais certaine. Davinia est aussi une *flamen* et la première Augure de Doïseteppe. C’est elle qui est chargée d’étudier les mouvements des oiseaux pour décider si les présages sont propices à la tenue du Tribunal. Porte un bracelet couleur nacre et un autre de couleur sang;  
 * **Paulus** : jeune enfant au service de Davinia. Porte un bracelet de couleur nacre et un autre de couleur sang;  
 * **Quaesitor Dikaïos de Guernicus**: à l'occasion d'une visite rendue à l'alliance de Villa Manlia, il a chargé les mages de celle-ci d'une mission officieuse de bons offices consistant à résoudre les questions issues des tractations menées par Ereditus de Jerbiton, ancien *primus* de *Mare Immobile* emporté par le crépuscule dans d'étranges circonstances. Il a notablement échoué, malgré d'importants et durables efforts consentis à cet effet, à démontrer la corruption d'Oxioun, mage de la maison Tytalus. Interrogé à propos de ce douloureux épisode par l'un des mages de l'Alliance de Villa Manlia, ignorants de la question, sur la suggestion de Jérôme, ce Quaesitor a quitté celle-ci en colère. Désormais au service de Sempronia de Guernicus du Tribunal Romain;  
 * **Martin**: le serviteur de Dikaïos;  
@@ -116,9 +111,9 @@ Puissante Alliance du Tribunal de Provence où se tient tous les 7 ans le Tribun
 * **Raimond-Roger**: Comte de Foix, favorable aux Bons Chrétiens. 
 
 ## Grisfaucon  
-Alliance du Tribunal de Provence composée pour moitié de Tremere et pour moitié de Tytali. Elle est caractérisée par deux Primi qui gouvernent en alternance une année sur deux.
+Alliance du Tribunal de Provence à l'origine composée pour moitié de Tremere et pour moitié de Tytali. Elle était caractérisée par deux Primi qui gouvernaient en alternance une année sur deux.
 
-* **Althalus [[footnote]]Clin d'oeil au roman de David & Leigh Eddings, *La Rédemption d'Althalus*, Pocket, 2001.[[/footnote]] de Tremere** : Primus par alternance de GrisFaucon; frère d'Althalys;  
+* **Althalus[^1]  de Tremere** : Primus de Grisfaucon; frère d'Althalys;  
 * **Tyrox de Tremere**;  
 * **Myralys de Jerbiton** : rencontrée à Saint-Pons où elle a échoué à s'appropier le bassin miraculeux pour le compte de l'Alliance de Grisfaucon du fait de l'intervention des mages de Villa Manlia, désormais membre de Grisfaucon depuis le Tribunal de 1207.  
 * **Desdemona de Tremere** : une Mage à la beauté stupéfiante
@@ -181,14 +176,15 @@ Petite châtellenie, en guerre endémique avec le seigneur voisin Huguon.
 * **Anna**: la gouvernante de Manon;  
 * **Arnaut<sup>†</sup>**: le magister de Luzac, commanditaire de l'assassinat de Manon aux fins de celer le fruit de l'union extra maritale qu'il entretenait avec elle. Pendu par le seigneur après l'exposition de son crime au grand jour.
 ## Mare Immobile et ses environs
-![[MareImmobile.jpg]]
+![](../img/MareImmobile.jpg)
+
 Blason de Mare Immobile
 
 Cette Alliance tire son nom d’un lac de montagne au milieu duquel elle est bâtie : un lac immense, dont l’eau est en permanence parfaitement immobile, d’un noir profond, impossible pour le regard de crever la surface. Les Servants de l’Alliance y circulent parfois en barque, mais avec de grandes précautions, car ce qui circule sur la surface n’y reste jamais longtemps. Alliance d’été, comptant environ dix Mages, prenant la forme d’un château fortifié dont le toit en tuiles noires rappelle la couleur du lac. Aura Magique de 4.
 
 * **[[jerome|Jérôme de Bonisagus]]**: Mage de *Mare Immobile* ayant effectué son apprentissage en même temps que Dubinaro auprès du même *Magister*, et qui sous ses dehors affables et humbles (toujours habillé d'une simple tunique monacale et ayant choisi de conserver son nom de baptême après avoir relevé le Gant, s'estimant indigne du port d'un nom hermétique), se révèle particulièrement sournois. Lors des évènements entourant le débat théologique qui s'est déroulé à Pamiers, les mages de Villa Manlia ont appris que Jérôme s'est allié aux pouvoirs infernaux. Il est en réalité en possession de, et étudie la *summa Wittockiana*, puissant ouvrage de magie démoniaque que Dubinaro fut suspecté d'avoir dérobé dans le *sanctum* de leur *Magister* Athanor avec la complicité de Claudia, la maîtresse de Dubinaro (voir son [historique](http://villamanlia.wikidot.com/dubinaro)). Devenu très puissant, Jérôme dispose notamment de la faculté de contrôler à distance des êtres humains, grâce à un sceau représentant un pentacle griffu gravé dans le corps des victimes, comme les personnages l'ont découvert au cours du scénario [La Dialectique des Armes](http://villamanlia.wikidot.com/dialectique). La confrontation l'a révélé, en ce compris aux yeux de son ancien *frater*, pour ce qu'il est: un mage rongé par la haine et la jalousie à l'encontre de Dubinaro, dont il a juré la perte, prêt à tout pour parvenir aux fins que lui dictent son ambition dévorante et ses rêves de grandeur. Lors du [Dernier Tribunal de 1207](http://villamanlia.wikidot.com/derniertrib), les personnages se sont révélés incapables de convaincre l'Ordre de la culpabilité de Jérôme, et ont au contraire été condamnés sur plainte de ce dernier pour mise en danger de l'Ordre. Depuis lors, les personnages soupçonnent Jérôme d'être mêlé à la [Mort du Légat](http://villamanlia.wikidot.com/mortlegat) du pape, Pierre de Castelneau, qui se trouve à l'origine de la Croisade lancée contre le Tribunal de Provence et qui menace directement la survie de Villa Manlia, ainsi qu'au [Siège de Bellaquin](http://villamanlia.wikidot.com/siegebellaquin) ayant entraîné la chute de cette puissante Alliance.  
-  ![|](http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Savonarola.jpg/424px-Savonarola.jpg)  
-Jérôme de Bonisagus. En réalité, portrait du prédicateur [Jérôme Savonarole](http://fr.wikipedia.org/wiki/Savonarole) par Fra Bartolomeo, dans sa cellule au couvent San Marco, 1498. Source : [http://fr.wikipedia.org/wiki/Fichier:Savonarola.jpg Wikicommons].
+  ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Savonarola.jpg/424px-Savonarola.jpg)  
+Jérôme de Bonisagus. En réalité, portrait du prédicateur [Jérôme Savonarole](http://fr.wikipedia.org/wiki/Savonarole) par Fra Bartolomeo, dans sa cellule au couvent San Marco, 1498. Source : [Wikicommons](http://fr.wikipedia.org/wiki/Fichier:Savonarola.jpg).
 * **Athanor de Bonisagus**: *Magister* de Dubinaro;  
 * **Sorellus de Verditius**: ancien *Primus inter pares* (premier d'entre ses pairs) du Conseil des Mages de *Mare Immobile*, remplacé par Viridia de Verditius suite à la révélation de la traîtrise de Jérôme;  
 * **Magda**, devenue **Viridia de Verditius** : jeune apprentie de Sorellus à *Mare Immobile*, qui a maintenu son affection à Dubinaro malgré la disgrâce dans laquelle celui-ci était tombé. Elle exerce désormais le rôle de **Prima de Mare Immobile**  
@@ -429,10 +425,11 @@ Seule Alliance du Tribunal où aboutissent les portails d'Harco.
 
 ## Alliance de Cad Gadu  
 *Domus Magna* de la Maison Ex Miscellaneis  
+* **Davinia ex Miscellaneis** : ancienne du Tribunal de Novgorod qui a rejoint Doïsseteppe il y a plusieurs années déjà et y exerce une influence discrète mais certaine. Davinia est aussi une *flamen* et la première Augure de Doïseteppe. C’est elle qui est chargée d’étudier les mouvements des oiseaux pour décider si les présages sont propices à la tenue du Tribunal. Elle est dorénavant *Prima* de Cad Gadu et de la Maison Ex Miscellaneis. Porte un bracelet couleur nacre et un autre de couleur sang;  
 * **Cybela ex Miscellaneis**: de la tradition des Sorcières de Thessalie, alliée des Mages de Villa Manlia contre Shedim  
-* **Ebroin ex Miscellaneis**: *Primus* faisant fonction, complice de Shedim  
+* ~~**Ebroin ex Miscellaneis**: *Primus* faisant fonction, complice de Shedim~~
 * **Gwhyr ex Miscellaneis**: de la tradition des Columbae  
-* **Immanola ex Miscellaneis**/ ancienne *Prima* faisant fonction, assise et immobile depuis plus d'une décennie par l'effet du Crépuscule  
+* **Immanola ex Miscellaneis**: ancienne *Prima* faisant fonction, assise et immobile depuis plus d'une décennie par l'effet du Crépuscule  
 * **Pralix ex Miscellaneis**: *Prima*, absente depuis plusieurs siècles  
 * **Rhogar ex Miscellanei**: de la tradition de Damhadh-Duidsan, soupçonné d'être l'allié d'Ebroin et de Shedim
 
@@ -494,6 +491,4 @@ Domus Magna Tremere, située dans le Tribunal Transylvanien.
 # Island (prononcé *istlant*, littéralement "pays de glace")  
 * **Vigdis Grimsdottir**:
 
-[[footnoteblock title="Notes"]]
-
-[[module Comments]]  
+[^1]: Clin d'oeil au roman de David & Leigh Eddings, *La Rédemption d'Althalus*, Pocket, 2001.

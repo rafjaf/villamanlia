@@ -1,18 +1,13 @@
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]  
-[[toc]]  
-# Introduction  
+# Le dernier Tribunal
+## Introduction  
 Le présent scénario constitue la concrétisation du premier chapitre *The Tribunal* du supplément *A Midsummer Night’s Dream*. Pour rappel, ce scénario a pour objet de confronter les personnages au Tribunal chargé de prendre officiellement position sur la croisade imminente que la papauté s’apprête à lancer sur le Midi en réaction à l’hérésie cathare. 
 
 Le supplément de White Wolf comporte une description intéressante de l’Alliance de Doïsseteppe et du déroulement du Tribunal, mais il faut bien se rendre à l’évidence : si l’ambiance est bien rendue, l’essentiel fait défaut. En effet, il restait au Conteur à développer le contenu proprement dit du scénario, en faisant en sorte que les personnages soient concrètement impliqués dans les intrigues du Tribunal. C’est ce que je me suis efforcé de faire avec le présent scénario.
 
 Evidemment, c’est le genre de scénario qu’il est difficile pour un autre Conteur d’utiliser tel quel, puisqu’il est étroitement lié à cette Saga. J’espère néanmoins que ceci pourra servir de source d’inspiration. A cet effet, je fournis ci-après quelques indications sur les PNJ récurrents de la Saga, auxquelles une [page distincte](http://villamanlia.wikidot.com/pnj) est également consacrée.
 
-[[div style="float: right; width: 570px;"]]  
-![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100226&E=JPEG&Deb=6&Fin=6&Param=C)  
-[[size smaller]]Eve cueillant le fruit défendu de la connaissance. A moins qu'il ne s'agisse de Dubinaro et Claudia? Source : manuscrit du XVe siècle, [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100226&E=6&I=25906&M=imageseule) Français 188, fol. 6v.[[/size]]  
-[[/div]]
+![](https://mandragore.bnf.fr/iiif/ark:/12148/btv1b81002268/f6/full/full/0/native.jpg)  
+Eve cueillant le fruit défendu de la connaissance. A moins qu'il ne s'agisse de Dubinaro et Claudia? Source : manuscrit du XVe siècle, [BnF](https://mandragore.bnf.fr/mirador/ark:/12148/btv1b81002268/f6) Français 188, fol. 6v.
 
 # L’envers du décor
 
