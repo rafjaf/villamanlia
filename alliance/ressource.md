@@ -167,10 +167,10 @@ Les réserves de *vis* sont conservées dans les sanctums des Mages selon le tab
 * Des feuilles séchées servant à concocter un breuvage féerique endormissant ([[span style="background-color: yellow;"]]niveau de l'effet inconnu[[/span]])  
 * Un médaillon magique permettant à Scintillus de contrôler la personne qui le porte ([[span style="background-color: yellow;"]]niveau de l'effet inconnu[[/span]])  
 * Une **bougie** offerte à Sigfein par Dame Aldona, qui une fois allumée appelle cette dernière à l'aide (conservée dans le sanctum de Sigfein)  
-* Une outre d'eau de la fontaine magique de Calebais ([[span style="background-color: yellow;"]]à investiguer en laboratoire[[/span]])  
+* Une outre d'eau de la fontaine magique de Calebais (<mark>à investiguer en laboratoire</mark>)  
 * 3 fioles contenant un liquide noir, renfermant une charge de l'effet *Leap of Homecoming* ReCo 35 (la Connexion des Arcanes doit être dissoute dans le liquide);  
-* 3 sphères en verre contenant un liquide vert (~~[[span style="background-color: yellow;"]]à investiguer en laboratoire[[/span]]~~, cf. Calebais p. 57)  
-* 2 fioles contenant un liquide bleu ([[span style="background-color: yellow;"]]à investiguer en laboratoire[[/span]], cf. Calebais p. 57)
+* 3 sphères en verre contenant un liquide vert qui lancent sur celui qui les boit *Gift of the Frogs’ Legs* (ReCo15)  
+* 2 fioles contenant un liquide bleu (<mark>à investiguer en laboratoire</mark>, cf. Calebais p. 57)
 * Une patte griffue couverte d'écailles dérobée dans le laboratoire de Viscus de Criamon, <mark>à investiguer en laboratoire</mark>
 
 ## Plantes et créatures magiques
