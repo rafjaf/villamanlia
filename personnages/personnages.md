@@ -7,7 +7,7 @@
 * [Hadaluna](hadaluna.md) de Merinita (rejoint Villa Manlia au Printemps 1205)  
 * [Manita](manita.md) de Verditius (rejoint Villa Manlia au Printemps 1210, ex membre de l'Alliance de Bellaquin)  
 * [Scintillus](scintillus.md) de Flambeau (Mage fondateur de Villa Manlia)  
-* [Sigfeín](Sigfein.md) de Bjornaer (Mage fondateur de Villa Manlia)
+* [Sigfeín](sigfein.md) de Bjornaer (Mage fondateur de Villa Manlia)
 
 # Compagnons
 

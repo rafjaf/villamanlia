@@ -1,4 +1,4 @@
-# Sigfein de Bjornaer aka Myrrdin de Diedne
+# Sigfein de Bjornaer
 <!-- tabs:start -->
 # **Généralités**
 ![](../img/Sigfein_cleanup.jpg)  
@@ -24,16 +24,15 @@
 **For** +4 (+2 de base, +2 Peau de pierre) (pectoraux massifs)  
 **Ené** +4 (+2 de base, +2 Peau de pierre) (vigoureux)  
 **Pré** –3 (effacé)  
-**Com** +1 (sens de l'humour)  
-**Dex** -1 (+1 de base, -2 Peau de pierre) <mark>(félin)</mark>
+**Com** 0
+**Dex** -1 (+1 de base, -2 Peau de pierre) <mark>(félin)</mark> 
 **Viv** 0 (+2 de base, -2 Peau de pierre) <mark>(énergique)</mark>
 
+N.B. : Sigfein a perdu son sens de l'humour (Communication +1) pour avoir tenté de trahir son serment envers Shadrit ex Miscellaneis
 ## Traits de caractère  
 <mark>A compléter</mark>
-
 ## Réputation
 Aucune pour le moment  
-
 # **Vices & Vertus**
 ## Vertus  
 **Affinité mineure** (Intellego)  
@@ -43,8 +42,7 @@ Aucune pour le moment
 **Magie de Diedne** (*Diedne Magic*) +3 : en cas de sort spontané, diviser par deux le total de lancer ne coûte aucun Niveau de Fatigue; s’il est néanmoins dépensé, l’Art applicable le plus bas est doublé  
 **Sang féérique puissant** (*Strong Faerie Blood*) +3 (nymphe des airs) : jets de vieillissement ne commencent qu’à 50 ans et bonus de –3; yeux féériques de couleur violette (don de Double Vue et vision dans le noir ou la pénombre); ailettes dans le dos; + 2 de bonus pour les jets impliquant une action dans les airs  
 **Source de *vis* personnelle** (*Personal vis source*) +1 (Corpus)  
-**Imposition des mains mineure**[^1] (*Lesser Purifying Touch*) +1 <mark>...</mark> : Vous pouvez guérir <mark>...</mark> d'un simple toucher moyennant la dépense d'un niveau de fatigue. 
-
+**Imposition des mains mineure** (*Lesser Purifying Touch*) +1 <mark>...</mark> : Vous pouvez guérir <mark>...</mark> d'un simple toucher moyennant la dépense d'un niveau de fatigue. 
 ## Vices  
 **Accoutumance à la Magie** (*Magic addiction*) –3 : après un jet de tension pour le lancer d’un sort, qu’il soit ou non réussi, faire un jet de Int + Concentration contre la moitié du niveau du sort (ou le niveau visé en cas de désastre). En cas d’échec, il faut soit lancer un sort formel d’un niveau au moins égal à celui du sort précédent, soit un sort spontané en dépensant un Niveau de Fatigue. Un nouveau jet d’Int + Concentration est requis avec un bonus de +3 pour chaque jet après le premier.  
 **Aucun sens de l’orientation** (*No sense of direction*) –1  
