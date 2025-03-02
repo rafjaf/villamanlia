@@ -1,6 +1,6 @@
 # Mages
 
-* [Celarius](Villa%20Manlia/personnages/Celarius.md) de Criamon (rejoint Villa Manlia au Printemps 1203)  
+* [celarius](celarius.md) de Criamon (rejoint Villa Manlia au Printemps 1203)  
 * [Dubinaro](dubinaro.md) de Bonisagus<sup>†</sup> (Mage fondateur de Villa Manlia, ex membre de l'Alliance de Mare Immobile)  
 * [Esperanza](esperanza.md) de Jerbiton (Mage fondateur de Villa Manlia, ex membre de l'Alliance de Bellaquin)  
 * [Faustus](faustus.md) ex Miscellaneis (rejoint Villa Manlia au Printemps 1226)  
@@ -28,4 +28,4 @@ Mais au fond, c'est quoi cette manie de la particule?! Les joueurs auraient-ils 
 # Autres personnages
 
 * Filou, le [chat magique](chat%20) de Dubinaro  
-* Danko, le loup féérique qui veille sur Hadaluna  
+* Danko, le loup féérique qui veille sur Hadaluna 
