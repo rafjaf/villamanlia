@@ -81,6 +81,7 @@ Nouvelle Domus Magna Flambeau, sise dans le Tribunal de Provence, suite à la d�
 * **Exercitus (= tourmenté, inquiet) de Tytalus**;  
 * **Thanatos de Tytalus** : albinos s'habillant entièrement de velours noir, Magister du Dr Mark, frère de Mélisende d'Arvigna;  
 * **Calpurnia de Tytalus** : petite rouquine boulotte juvénile, au tempérament sanguin, adepte de la magie Cr(Re)An(Ig);
+* **Myralys de Jerbiton** : rencontrée à Saint-Pons où elle a échoué à s'approprier le bassin miraculeux pour le compte de l'Alliance de Grisfaucon du fait de l'intervention des mages de Villa Manlia, devenue membre de Grisfaucon depuis le Tribunal de 1207. Elle l'a quittée pour Castra Solis avec Althalys  
 ## Doïsseteppe  
 ![](../img/Doisseteppe.jpg)
 Blason de Doïsseteppe. Source : *Les Alliances*, Paris, Descartes, 1994, p. 61
@@ -115,7 +116,6 @@ Alliance du Tribunal de Provence à l'origine composée pour moitié de Tremere 
 
 * **Althalus[^1]  de Tremere** : Primus de Grisfaucon; frère d'Althalys;  
 * **Tyrox de Tremere**;  
-* **Myralys de Jerbiton** : rencontrée à Saint-Pons où elle a échoué à s'appropier le bassin miraculeux pour le compte de l'Alliance de Grisfaucon du fait de l'intervention des mages de Villa Manlia, désormais membre de Grisfaucon depuis le Tribunal de 1207.  
 * **Desdemona de Tremere** : une Mage à la beauté stupéfiante
 
 Remarque : depuis sa création, les Tremere de Grisfaucon ont pris le contrôle de Lariandre, et les Tytali ont quitté Grisfaucon pour rejoindre Castra Solis.

@@ -27,7 +27,7 @@ Dans cette section du site consacrée à la Saga proprement dite, vous trouverez
 * Quelques [documents](saga/doc.md) (correspondance, parchemins...) obtenus par les personnages au cours de leurs aventures  
 * Une section relative aux délibérations des séances du [Tribunal](saga/tribunal.md) de Provence auxquels ont assisté les Mages  
 * Une rubrique ["Ils l'ont vraiment dit!"](saga/betisier.md)  
-* Une liste des [PNJ](saga/PNJ.md) (personnages non joueurs) importants dans la Saga.
+* Une liste des [pnj](saga/pnj.md) (personnages non joueurs) importants dans la Saga.
 
 Vous pouvez également consulter les pages consacrées à l'[Alliance](alliance/alliance.md) de Villa Manlia, aux [personnages](personnages/personnages.md) incarnés par les joueurs ainsi qu'à diverses [ressources](ressources/ressources.md) utiles pour les Conteurs.
 

@@ -1,5 +1,5 @@
 # Chronologie 1200-1209
-Dans cette section, vous trouverez des notes résumant la Geste de la Villa Manlia telle que vécue par les personnages. Si vous recherchez des aventures directement exploitables pour votre Saga, consultez plutôt la page [[scenar |scénarios]].
+Dans cette section, vous trouverez des notes résumant la Geste de la Villa Manlia telle que vécue par les personnages. Si vous recherchez des aventures directement exploitables pour votre Saga, consultez plutôt la page [[../scenar/scenar|scénarios]].
 
 ## Année 1200
 
@@ -19,7 +19,7 @@ Saison d'étude :
 
 ### Automne - L'Ennemi intérieur
 
-Séance des 12 et 25 mai 2008. Scénario [L'Ennemi intérieur](../scenar/ennemi), création maison, auquel participent Dubinaro, Esperanza, Scintillus et Sigfeín (6 xp). Les personnages doivent enquêter sur une mystérieuse menace qui plane sur leur Alliance.
+Séance des 12 et 25 mai 2008. Scénario [L'Ennemi intérieur](../scenar/ennemi.md), création maison, auquel participent Dubinaro, Esperanza, Scintillus et Sigfeín (6 xp). Les personnages doivent enquêter sur une mystérieuse menace qui plane sur leur Alliance.
 
 ### Hiver  
 
@@ -38,7 +38,7 @@ Saison d'étude :
 L'Alliance de Mare Immobile, perchée au centre d'un lac mystérieux. Source : [BnF](https://mandragore.bnf.fr/mirador/ark:/12148/btv1b8100099g/f69), Français 111, fol. 79, Gauvain et Hector de Mares à l'Isle Perdue, manuscrit du XVe siècle.
 
 ### Printemps - Promises, Promises
-Séances des 25 mai et 8 juin 2008. Scénario [Promises, Promises](http://www.atlas-games.com/pdf_storage/promises_french.pdf), précédé d'un [[prologue]] sauce maison (7 xp). A la requête du *Quaesitor* Dikaïos, les personnages mènent l'enquête à Mare Immobile puis au monastère de Saint-Edmond.
+Séances des 25 mai et 8 juin 2008. Scénario [Promises, Promises](http://www.atlas-games.com/pdf_storage/promises_french.pdf), précédé d'un [[../scenar/prologue]] sauce maison (7 xp). A la requête du *Quaesitor* Dikaïos, les personnages mènent l'enquête à Mare Immobile puis au monastère de Saint-Edmond.
 
 ### Eté  
 
@@ -55,7 +55,7 @@ Saison d'étude :
 
 ### Automne - Le Jeu de la Trahison et du Hasard
 
-Séances des 8 juin, 5 et 26 juillet 2008. Scénario maison [Le Jeu de la Trahison et du Hasard](../scenar/trahison), auquel participent Dubinaro, Esperanza, Scintillus et Sigfeín (9 xp).
+Séances des 8 juin, 5 et 26 juillet 2008. Scénario maison [Le Jeu de la Trahison et du Hasard](../scenar/trahison.md), auquel participent Dubinaro, Esperanza, Scintillus et Sigfeín (9 xp).
 
 Les personnages obtiennent de Lariandre 3 pions de *vis* Herbam par an, dont ils en rétrocèdent 2 à Bellaquin en échange de quatre saisons d'étude dans sa bibliothèque, d'une *summa* Rego et de trois *tractatus* (Intellego, Auram et Imaginem). Ils conviennent par ailleurs d'un échange de livres avec Lariandre (échange par Villa Manlia d'une *summa* Auram et d'un *tractatus* Herbam contre une *summa* Terram).
 
@@ -109,7 +109,7 @@ Saison d'étude :
 
 ### Automne - Requiescat in Pace
 
-Séance du 13 septembre 2008. Scénario maison intitulé [Requiescat in Pace](../scenar/rip) auquel participent Hugues, Ronald, Scintillus, Sigfeín, Guillaume et Rigaud (7 xp). En raison des inquiétantes visions de Sigfeín, les personnages se rendent à la châtellenie de Luzac pour enquêter sur de tragiques événements passés.
+Séance du 13 septembre 2008. Scénario maison intitulé [Requiescat in Pace](../scenar/rip.md) auquel participent Hugues, Ronald, Scintillus, Sigfeín, Guillaume et Rigaud (7 xp). En raison des inquiétantes visions de Sigfeín, les personnages se rendent à la châtellenie de Luzac pour enquêter sur de tragiques événements passés.
 
 Saison d'étude, pour les autres personnages :  
 * Dubinaro : étudie la *summa* Creo (12 xp)  
@@ -121,7 +121,7 @@ Saison d'étude, pour les autres personnages :
 
 ### Hiver - Pacta sunt servanda
 
-Séances des 12 et 17 octobre 2008. Scénario maison intitulé [Pacta sunt servanda](../scenar/pacta) auquel participent Dubinaro, Esperanza, Scintillus, Sigfeín, Bernard et Guillaume (8 xp). Pour regagner la confiance de Desmissel, les personnages décident de libérer une dryade des griffes de l'infâme Pierre de Saverdun.
+Séances des 12 et 17 octobre 2008. Scénario maison intitulé [Pacta sunt servanda](../scenar/pacta.md) auquel participent Dubinaro, Esperanza, Scintillus, Sigfeín, Bernard et Guillaume (8 xp). Pour regagner la confiance de Desmissel, les personnages décident de libérer une dryade des griffes de l'infâme Pierre de Saverdun.
 
 Saison d'étude pour les autres personnages :  
 * Hugues : se remet de sa blessure grave  
@@ -442,7 +442,7 @@ Saison d'étude :
 [[size smaller]]Le banquet donné par le Roi Aldarin. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100022&E=78&I=14918&M=imageseule), Français 3, fol. 246, Festin d'Assuérus, manuscrit du XVe siècle.[[/size]]  
 [[/div]]
 
-Séances des 26 et 27 mai 2009. Scénario [[foudedieu|Le Fou de Dieu]] très largement adapté d'un scénario éponyme de Tristan Lhomme publié dans le *Casus Belli* n°85, février-mars 1985, p. 44 et s, auquel participent l'ensemble des personnages (à l'exception de Celarius et Hadaluna) (9 xp). Les Mages sont invités à Lariandre en vue de célébrer le retour de l'été et participer au grand banquet organisé par le Roi Aldarin. Les réjouissances sont interrompues par l'arrivée du *Quaesitor* Dikaios, capturé par les êtres féériques et persuadé d'être tombé aux mains des personnages corrompus par le démon. Ceux-ci le libèrent après avoir tenté de le convaincre de leur innocence et de la culpabilité de Jérôme. En outre, sous l'effet du vin féérique, Sigfein révèle que sa véritable identité n'est autre que Myrddin de Diedne. Magnolia de Merinita promet de n'en rien révéler; Dikaios s'éloigne quant à lui sans un mot; quant aux Tremere, ils semblent ne s'être aperçus de rien. Parallèlement à cela, les compagnons enquêtent à Pamiers sur ce qui paraît bien être une campagne de déstabilisation de l'Alliance. Ils remontent la piste jusqu'à frère Nicolas, prieur du couvent de Saint-Augustin, qui tente d'assassiner l'abbé Alain et d'en rejeter la responsabilité sur Ronald et Ambroise. Ceux-ci sont jugés par un tribunal ecclésiastique composé des trois légats du pape, Arnaud-Amaury, abbé de Cîteaux, Pierre de Castelneau et Raoul de Fontfroide. Grâce à une brillante plaidoirie d'Hugues ainsi qu'à l'intervention des Mages, les personnages sont innocentés, le coupable démasqué et - l'Eglise ayant horreur du sang (*Ecclesia abhorret a sanguine*) - remis au bras séculier afin d'être brûlé en place publique. Enfin, Hugues manque de se faire condamner également pour ses croyances hétérodoxes, mais est sauvé *in extremis* par frère Dominique, sous-prieur d'Osma (le future Saint-Dominique), qui procède à sa [réconciliation](http://villamanlia.wikidot.com/doc#hugues) à la communauté des Chrétiens.
+Séances des 26 et 27 mai 2009. Scénario [[../scenar/foudedieu|Le Fou de Dieu]] très largement adapté d'un scénario éponyme de Tristan Lhomme publié dans le *Casus Belli* n°85, février-mars 1985, p. 44 et s, auquel participent l'ensemble des personnages (à l'exception de Celarius et Hadaluna) (9 xp). Les Mages sont invités à Lariandre en vue de célébrer le retour de l'été et participer au grand banquet organisé par le Roi Aldarin. Les réjouissances sont interrompues par l'arrivée du *Quaesitor* Dikaios, capturé par les êtres féériques et persuadé d'être tombé aux mains des personnages corrompus par le démon. Ceux-ci le libèrent après avoir tenté de le convaincre de leur innocence et de la culpabilité de Jérôme. En outre, sous l'effet du vin féérique, Sigfein révèle que sa véritable identité n'est autre que Myrddin de Diedne. Magnolia de Merinita promet de n'en rien révéler; Dikaios s'éloigne quant à lui sans un mot; quant aux Tremere, ils semblent ne s'être aperçus de rien. Parallèlement à cela, les compagnons enquêtent à Pamiers sur ce qui paraît bien être une campagne de déstabilisation de l'Alliance. Ils remontent la piste jusqu'à frère Nicolas, prieur du couvent de Saint-Augustin, qui tente d'assassiner l'abbé Alain et d'en rejeter la responsabilité sur Ronald et Ambroise. Ceux-ci sont jugés par un tribunal ecclésiastique composé des trois légats du pape, Arnaud-Amaury, abbé de Cîteaux, Pierre de Castelneau et Raoul de Fontfroide. Grâce à une brillante plaidoirie d'Hugues ainsi qu'à l'intervention des Mages, les personnages sont innocentés, le coupable démasqué et - l'Eglise ayant horreur du sang (*Ecclesia abhorret a sanguine*) - remis au bras séculier afin d'être brûlé en place publique. Enfin, Hugues manque de se faire condamner également pour ses croyances hétérodoxes, mais est sauvé *in extremis* par frère Dominique, sous-prieur d'Osma (le future Saint-Dominique), qui procède à sa [réconciliation](http://villamanlia.wikidot.com/doc#hugues) à la communauté des Chrétiens.
 
 Expérience acquise au cours de cette aventure :  
 * Ambroise : 2 xp en Commandement, 5 xp en Connaissance des gens et 2 xp en Droit Civil et Canon  
@@ -677,7 +677,7 @@ La jambe gauche des membres du Groupe Cible échappe totalement à leur contrôl
 
 ### Eté  
 
-Séance du 11 octobre 2009. Scénario [[nongratae|Personae non gratae]] conté par Olivier, auquel participent Celarius, Scintillus, Sigfein, Hugues, Bernard et Rigaud (8 xp).
+Séance du 11 octobre 2009. Scénario [[../scenar/nongratae|Personae non gratae]] conté par Olivier, auquel participent Celarius, Scintillus, Sigfein, Hugues, Bernard et Rigaud (8 xp).
 
 Expérience acquise au cours de cette aventure :  
 * Bernard : 5 xp en Connaissance de la Féerie et 3 xp en Connaissance des gens  

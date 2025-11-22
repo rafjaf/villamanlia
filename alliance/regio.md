@@ -3,7 +3,7 @@
 [[size smaller]]L'escalier mystique menant d'un niveau à l'autre de la *regio*. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100039&E=100&I=16627&M=imageseule), département des Manuscrits, Français 50, fol. 193v, Présentation de Marie au Temple (1463).[[/size]]  
 [[/div]]
 
-Lorsqu'à l'automne 1216, les Mages de Villa Manlia ont accompli la [[presages#^toc0|Prophétie de Manlius]], les Dieux antiques sont intervenus en leur faveur afin de les protéger de la Croisade. Ainsi, l'Aura magique qui régnait au lieu où a été fondée leur Alliance a donné naissance à une véritable *regio*, au troisième niveau de laquelle l'Alliance s'est trouvée transportée.
+Lorsqu'à l'automne 1216, les Mages de Villa Manlia ont accompli la [[../scenar/presages#^toc0|Prophétie de Manlius]], les Dieux antiques sont intervenus en leur faveur afin de les protéger de la Croisade. Ainsi, l'Aura magique qui régnait au lieu où a été fondée leur Alliance a donné naissance à une véritable *regio*, au troisième niveau de laquelle l'Alliance s'est trouvée transportée.
 
 Le présent parchemin a pour but de consigner les informations que les Mages sont parvenus, peu à peu, à recueillir à propos de cet étrange phénomène.
 

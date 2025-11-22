@@ -13,7 +13,7 @@
 
 * [Ambroise](ambroise.md) l'Eclair  
 * [Gobolino](gobolino.md) "doigts agiles" (rejoint Villa Manlia à l'Automne 1212)  
-* [Henri](henri.md) l'Apprenti (recueilli par Villa Manlia à l'Automne 1241)  
+* [Henri](Jeux%20de%20rôles/Villa%20Manlia/personnages/henri.md) l'Apprenti (recueilli par Villa Manlia à l'Automne 1241)  
 * [Hugues](hugues.md) d'Ambremer<sup>†</sup> (rejoint Villa Manlia au Printemps 1202)  
 * [Mathilde](mathilde.md) d'Aurillac (rejoint Villa Manlia au Printemps 1226)  
 * [Ronald](ronald.md) Lenteterre<sup>†</sup> (rejoint Villa Manlia à l'Automne 1201)  
@@ -23,9 +23,9 @@ Mais au fond, c'est quoi cette manie de la particule?! Les joueurs auraient-ils 
 
 # Servants
 
-[Test](Test.md)
+[Test](../../../Computer/Obsidian/Test.md)
 
 # Autres personnages
 
-* Filou, le [chat magique](chat%20) de Dubinaro  
+* Filou, le [chat magique](chat.md) de Dubinaro  
 * Danko, le loup féérique qui veille sur Hadaluna 

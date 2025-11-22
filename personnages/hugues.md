@@ -157,7 +157,7 @@ Désormais isolé de la communauté intellectuelle, Tanchus dévore tout livre s
 se voit enseigner la *Théorie de la magie* par Esperanza : 9xp en *Théorie de la Magie* (spécialité : *invention de sorts*).
 
 ## Automne 1202  
-participe au scénario [[rip|Resquiescat in Pace]] (7xp) :  
+participe au scénario [[../scenar/rip|Resquiescat in Pace]] (7xp) :  
 * 5xp en *Connaissance de la Magie* pour avoir été confronté à des manifestations d'origine magique + 2xp en *Arme à deux mains* pour avoir combattu;  
 * blessure grave au combat.
 
@@ -185,7 +185,7 @@ part à Bellaquin recopier les 11 premiers niveaux de la *summa* Rego *De gubern
 ## Hiver 1203  
 termine de recopier la *summa* Rego *De gubernatione mundi* et utilise le temps restant pour l'enluminer.
 
-est appelé en urgence à Pamiers pour prendre part à un débat théologique au cours du scénario [[dialectique|La Dialectique des Armes]] (5xp) :  
+est appelé en urgence à Pamiers pour prendre part à un débat théologique au cours du scénario [[../scenar/dialectique|La Dialectique des Armes]] (5xp) :  
 * 5xp en *Equitation* (spécialité : vitesse) pour avoir chevauché à bride abattue;  
 * gagne 1 point permanent de *Confiance* suite à son éloquent discours;  
 * acquière la réputation de *Bon Chrétien*(1) à Pamiers mais aussi celle d'*Hérétique*(1) aux yeux de l'Eglise du fait de la présence de l'Evêque Foulques.
@@ -231,7 +231,7 @@ jet de vieillissement (48 ans) :
 étudie la *summa* Médecine *Colliget* : 10xp en *Médecine*.
 
 ## Ete 1206  
-participe au scénario [[foudedieu|Le Fou de Dieu]] (9xp):  
+participe au scénario [[../scenar/foudedieu|Le Fou de Dieu]] (9xp):  
 * 5xp en *Athlétisme* (spécialité : courir) pour avoir poursuivi des assaillants, 2xp en *Droit Civil et Canon* pour avoir participé à un procès écclésiastique et 2xp en *Arme à deux mains* pour avoir combattu;  
 * sa réputation d'*Hérétique* au sein de l'Eglise et de *Bon Chrétien* à Pamiers passent au niveau 2 suite au procès auquel il a participé comme avocat de la défense.  
 
@@ -268,7 +268,7 @@ jet de vieillissement (50 ans) :
 s'entraîne à nager dans la rivière : 4 xp en *Natation*. 
 
 ## Ete 1208  
-participe au scénario [[nongratae|Personae non gratae]] (8xp) : 5xp en *Connaissance de la Féerie* (spécialité : forêts féeriques) pour avoir cotoyer les êtres féeriques de la forêt de Sadrissel et 3xp en *Survie*.
+participe au scénario [[../scenar/nongratae|Personae non gratae]] (8xp) : 5xp en *Connaissance de la Féerie* (spécialité : forêts féeriques) pour avoir cotoyer les êtres féeriques de la forêt de Sadrissel et 3xp en *Survie*.
 
 ## Automne 1208  
 recopie à nouveau le *tractatus* Théorie de la Magie/Connaissance de la Magie *Le Songe de Scipion* : 2xp d'exposition en *Profession Scribe*.

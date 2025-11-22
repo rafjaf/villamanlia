@@ -1,4 +1,4 @@
-![[VillaManlia.jpg|1346]]
+![[../img/VillaManlia.jpg|1346]]
 
 [Télécharger](http://villamanlia.wikidot.com/local--files/plan/VillaManlia.doc) le plan en format Word.
 

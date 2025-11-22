@@ -96,15 +96,15 @@ Les personnages ne doivent pas lutter, les deux cavaliers s’arrêteront juste 
 
 Ils s’arrêtent à l’entrée du village, et font attendre les personnages jusqu’à l’arrivée de Marie, la chef intendante (24 ans, blonde, pas le don). Elle les accompagne dans la ville jusqu’au château. Elle demande à un garde d’aller quérir Jean le grand et Jean le petit, deux apprentis qui serviront de guides au personnages, et qui resteront toujours avec eux  seulement sous cette condition les mages de villa Manlia pourront rentrer dans le Château, la partie la plus protégée d’Albison. Lorsqu’ils sont autorisés à rentrer avec les deux Jean (nouvel *Aegis* pour le château, d’un niveau supérieur à celui de la grande zone initiale), Marie retourne à ses occupations, sous le regard triste de Jean le petit, aussi appelé Jean qui pleure. Le plus grand des deux aime faire la conversation, il est très enthousiaste à l’idée de rester avec les personnages, et il se présente comme Jean qui rit.  
 Il posera des questions sur le fonctionnement de leur alliance (saisons à la collectivité, utilisation de *vis* à des fins personnelles, disponibilité des livres de l’alliances, relation avec leur Ddomus Magna respective, contradiction entre le but de leur maison et le but de leur alliance, etc); sur le tribunal de Provence (présence des Tremere, poids politique, chute de Bellaquin, coalition des alliances plus petites, etc.); sur le rôle des femmes mages (solidarité féminine, félicitations à Manita, après lui avoir demandé son age, pour être déjà une mage à part entière, aussi jeune, -> drague).  
-Ses buts : si très bonne relation avec les personnages, il pourrait peut-être être envoyé dans Villa Manlia à long terme, pour y exercer une influence Tremere et à titre personnel: progresser plus vite! Intérêt à ce que Manita tombe amoureuse de lui, vu leurs ages ce serait compatible! Sinon il est très jovial et aimerait passer sous l’apprentissage d’un maître du Certamen (cf. [[pnjAlbison |Liste des PNJ de l'aventure]]).
+Ses buts : si très bonne relation avec les personnages, il pourrait peut-être être envoyé dans Villa Manlia à long terme, pour y exercer une influence Tremere et à titre personnel: progresser plus vite! Intérêt à ce que Manita tombe amoureuse de lui, vu leurs ages ce serait compatible! Sinon il est très jovial et aimerait passer sous l’apprentissage d’un maître du Certamen (cf. [[pnjalbison|Liste des PNJ de l'aventure]]).
 
 Jean le petit est amoureux de Marie, mais n’en parlera pas, et Jean le grand respecte ce silence vis-à-vis des PJ (en tout cas initialement).
 
-Mercus recevra les personnages assez rapidement, et les dernières évolutions du procès leur seront communiquées. Murbella est en très mauvaise posture, « malgré ses tentatives pour l’aider »: épisode de la source de *vis*, en justifiant son absence, il a fait apparaître malencontreusement une infraction de Murbella, qui a apparemment tenté de s’approprier une source de *vis* à l’insu des Tremere, alors que celle-ci était en litige entre deux alliances. Cf [[chronologieAlbison |La chronologie des événements précédents ayant un impact sur l'aventure]].  
+Mercus recevra les personnages assez rapidement, et les dernières évolutions du procès leur seront communiquées. Murbella est en très mauvaise posture, « malgré ses tentatives pour l’aider »: épisode de la source de *vis*, en justifiant son absence, il a fait apparaître malencontreusement une infraction de Murbella, qui a apparemment tenté de s’approprier une source de *vis* à l’insu des Tremere, alors que celle-ci était en litige entre deux alliances. Cf [[chronologiealbison|La chronologie des événements précédents ayant un impact sur l'aventure]].  
 Mais son message sonne faux, il a déforcé Murbella intentionnellement. Mais son rôle officiel est de parler pour les membres de son clan.  
 Il explique le déroulement du procès : 1 fois par semaine, une réunion de deux heures après le dîner où tous les mages assistent. Ceux qui veulent prendre la parole doivent se signaler à l’avance et au début, à renouveler chaque lune, il y a une procédure à suivre, en buvant de l’eau magique et en déclarant ne pas en avoir bu après. Il déconseille de mentir effrontément lors des auditions, mais il signale que la nuance entre mensonge et vérité n’est pas noire ou blanc, mais assez progressive, il y a toujours moyen de ne dire que des vérités partielles, des demi mensonges, et faut juger quel degré de vérité ou de mensonge sera acceptable. Il leur dit ça en sachant que les mages de Villa Manlia seront des alliés des Tremere de Lariandre.
 
-En sortant du bureau de Mercus, les personnages rencontrent Eslamar, une maga très autoritaire et antipathique, qui vient se renseigner voyant des nouveaux venus. Voir [[pnjAlbison |Liste des PNJ de l'aventure]].
+En sortant du bureau de Mercus, les personnages rencontrent Eslamar, une maga très autoritaire et antipathique, qui vient se renseigner voyant des nouveaux venus. Voir [[pnjalbison|Liste des PNJ de l'aventure]].
 
 Après, les personnages sont conduits à leurs appartements et sont libres de faire ce qu’ils veulent, à condition d’être escortés et de ne jamais rentrer en contact avec les mages de Lariandre. Ils sont donc libres d’enquêter sur ce qu’ils veulent, les différentes intrigues de ce scénario étant mélangées dans les faits.
 
@@ -112,7 +112,7 @@ Après, les personnages sont conduits à leurs appartements et sont libres de fa
 
 La description de cette alliance est une production personnelle, je n’ai pas trouvé de description sur le net. Mais je me suis basé sur la description de la maison Tremere dans le supplément Ars Magica. L’alliance en elle-même a donc été imaginée en fonction de l’aventure.
 
-Albison est une alliance au zénith de son été, et a acquis beaucoup d’influence ces dernières décennies. Tellement qu’elle risquerait –selon certains Tremere- de commencer à faire de l’ombre à Coeris, la Domus Magna Tremere. Cela explique l’absence du Primus (cf. [[chronologieAlbison |La chronologie des événements précédents ayant un impact sur l'aventure]]).
+Albison est une alliance au zénith de son été, et a acquis beaucoup d’influence ces dernières décennies. Tellement qu’elle risquerait –selon certains Tremere- de commencer à faire de l’ombre à Coeris, la Domus Magna Tremere. Cela explique l’absence du Primus (cf. [[chronologiealbison|La chronologie des événements précédents ayant un impact sur l'aventure]]).
 
 Comment Albison a-t-elle acquis une telle puissance ?  
 Initialement, ce n’était qu’une très modeste alliance de printemps, basée près d’un cercle de pierres magique. Mais lors de la guerre du Schisme, cette alliance a bénéficié de tout l’intérêt de Coeris, qui voulait développer une place forte à proximité de la plus grande concentration de Diedne de la région: le Mont Saint-Michel (cf. le supplément Ars Magica sur la Normandie pour plus de détails sur le Mont Saint-Michel).  
@@ -163,7 +163,7 @@ En mettant Murbella sur la touche de la sorte, Mercus s’assure son intérim. D
 Son but en fait initialement n’est pas de prendre la place de Murbella au conseil restreint, il ne pense pas cela possible, mais il veut charger Murbella le plus possible pour lui nuire (rivalité) et aussi pour vider tous les cadavres des placards de son clan, ce qui lui permet sur le long terme de ne pas se trouver en mauvaise posture au mauvais moment, et donc avoir plus de chances à l’avenir de prendre une position stratégique.
 
 <u>La lettre d’Astragol</u>  
-Il est mort il y a déjà un petit temps (cf. [[chronologieAlbison |La chronologie des événements précédents ayant un impact sur l'aventure]]) très facile de trouver sa tombe, vu que c’était un des conseillers dirigeant Albison en l’absence du primus. Pour voir son cadavre et donc entrer en contact avec son fantôme, il faut déceler sa tombe. Il ne se souvient pas de toutes les lettres floues qu’il a écrite, mais en fait celui qui a envoyé la lettre incomplète c’est Mercus. Il sait que le temps joue en faveur des Tremere de Lariandre, même si ces derniers pensent le contraire.  
+Il est mort il y a déjà un petit temps (cf. [[chronologiealbison|La chronologie des événements précédents ayant un impact sur l'aventure]]) très facile de trouver sa tombe, vu que c’était un des conseillers dirigeant Albison en l’absence du primus. Pour voir son cadavre et donc entrer en contact avec son fantôme, il faut déceler sa tombe. Il ne se souvient pas de toutes les lettres floues qu’il a écrite, mais en fait celui qui a envoyé la lettre incomplète c’est Mercus. Il sait que le temps joue en faveur des Tremere de Lariandre, même si ces derniers pensent le contraire.  
 Autre moyen de résoudre l’énigme de cette lettre : les Tremere en général (y compris Astragol) font toujours deux copies des lettres qu’ils envoient. Une copie est dans les archives des Tremere (très difficile d’accès) et l’autre est restée dans le sanctum d’Astragol, pas encore vidé car pas utilisé tant qu’un nouveau membre du conseil restreint n’est pas nommé. Ce sanctum est donc assez peu surveillé (mais cela reste un sactum tout de même).
 
 <u>La ligue des femmes</u>  
@@ -221,11 +221,11 @@ Il remercie les mages de Villa Manlia, leur reprend le coquillage et le replace 
 
 ## Chronologie et résumé succin des événements précédents le procès.
 
-[[chronologieAlbison |La chronologie des événements précédents ayant un impact sur l'aventure]]
+[[chronologiealbison|La chronologie des événements précédents ayant un impact sur l'aventure]]
 
 ## Liste des PNJ avec une courte description.
 
-[[pnjAlbison |Liste des PNJ de l'aventure]]
+[[pnjalbison|Liste des PNJ de l'aventure]]
 
 ## Dessin d’Albison: le château et la ville, vus de haut.
 

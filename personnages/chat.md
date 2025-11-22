@@ -8,7 +8,7 @@
 **Sexe** Masculin  
 **Date de naissance** 1198  
 **Age** 3  
-**Titre/Profession** Chat magique (compagnon de [[Dubinaro]])  
+**Titre/Profession** Chat magique (compagnon de [[dubinaro]])  
 **Force Magique** 13  
 **Taille** -3  
 **Confiance** 1  

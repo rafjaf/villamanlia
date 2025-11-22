@@ -190,7 +190,9 @@ Le souci de conserver l'autonomie des Tribunaux (qui trouve son fondement dans l
 * Le Code impose de respecter les **décisions des Tribunaux**. Afin de maintenir la distinction entre crimes de haute et de basse justice, cette disposition vise uniquement les condamnations et décisions individuelles prononcées à l'égard d'un Mage, mais non les règles de portée générale constitutives du Code périphérique (*HoH:TL*, p. 46). 
 * Le Code interdit de **priver un Mage de ses pouvoirs magiques**. Afin de permettre aux Tribunaux de régler par voie de décisions générales l'acquisition des sources de *vis* et de trancher ces questions par voie de *certamen*, les biens possédés par un Mage ne sont donc pas considérés comme ses pouvoirs magiques au sens du Code, mais protégés par le Code périphérique (*contra* *HoH:TL*, p. 46).  
 * Le Code donne **à chaque Mage une voix** au Tribunal. Ceci n'empêche cependant pas le recours à la technique du mandat, qui constitue le fondement technique sur la base duquel les Tremere demeurent en possession du sceau de leurs *filii* (*HoH:TL*, p. 48).
-
+### Code périphérique
+Les règles suivantes s'appliquent au sein du Tribunal de Provence :
+- Tout Mage convaincu d'appartenir à la Maison **Diedne** est expulsé de plein droit de l'Ordre. La règle date évidemment de la Guerre du Schisme et n'a jamais été abrogée depuis lors.
 ## Droit procédural
 
 La procédure applicable devant un Tribunal décrite dans *HoH:TL*, p. 56 et s., est sans doute assez bien construite, mais peu amusante. Dans le Tribunal de Provence, à tout le moins, je considère que les choses se passent de manière beaucoup **plus informelle**, ce qui permet de rajouter du piment au déroulement des scénarii. Ainsi, une accusation peut être portée jusqu'à l'ouverture du Tribunal, la seule contrainte étant de payer un tribut au Praeco pour "frais administratifs". De plus, le Tribunal est souverain pour trancher tant les questions de droit que de fait : une enquête préalable par les Quaesitores est possible mais laissée à la libre discrétion du Princeps Quaesitor, et le Tribunal n'est pas lié par les constations faites au cours d'une telle enquête.

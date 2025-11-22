@@ -6,12 +6,12 @@ Il s'agit de scénarios que j'ai déjà joués dans cette Saga et qui ont plus o
 
 Les scénarios qui suivent, noués bout à bout, forment une trame assez lâche qui a conduit l'Alliance de Villa Manlia du Printemps à l'Eté. Cette première partie de la Saga, qui couvre la période 1200-1219, a tourné essentiellement autour du personnage de Jérôme de Bonisagus, frère d'apprentissage de Dubinaro, qui représente le "côté obscur" dans la mesure où il a sombré dans le satanisme sous l'influence d'un ouvrage démoniaque, la *summa Wittockiana*. L'histoire s'inspire de la la Saga officielle *A Midsummer Night's Dream* mais amende et complète celle-ci sur de nombreux points.
 
-* Background : le passé de [[jerome|Jérôme de Bonisagus]].  
+* Background : le passé de [[../saga/jerome|Jérôme de Bonisagus]].  
 * L'[[ennemi |Ennemi intérieur]], un scénario qui confronte les personnages à une mystérieuse menace et leur permet de mieux connaître leur Alliance.  
 * Un [[prologue]] au scénario *[Promises, Promises](https://www.atlas-games.com/pdf_storage/promises_french.pdf )* d'Atlas Games.  
 * [[trahison|Le Jeu de la Trahison et du Hasard]], un scénario qui confronte les personnages à une série de dilemmes.  
 * [[rip|Resquiescat in Pace]], l'histoire d'un amour impossible et d'une soif de vengeance inassouvie.  
-* [[Pacta|Pacta sunt servanda]], un scénario sur le thème du respect de  la parole donnée.  
+* [[pacta|Pacta sunt servanda]], un scénario sur le thème du respect de  la parole donnée.  
 * [[dialectique|La Dialectique des Armes]], un complot machiavélique sur fond de débats théologiques entre catholiques et cathares.  
 * [[foudedieu|Le Fou de Dieu]], quelques idées pour compléter l'excellent scénario éponyme paru dans le *Casus Belli*.  
 * [[derniertrib|Le Dernier Tribunal]], la mise en œuvre du premier chapitre du supplément *A Midsummer Night's Dream*  
