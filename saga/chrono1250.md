@@ -199,7 +199,7 @@ A l'issue de ce scénario mouvementé :
 - Anan le Karaïte est condamné à mort pour l'assassinat du Praeco et du Princeps Quaesitor, et est exécuté par les hoplites
 - Myralis de Jerbiton est condamnée par contumace à payer 100 pions de *vis* d'ici le prochain Tribunal, sous peine d'expulsion de l'Ordre. Elle est fugitive et latitante
 - Althalus de Tremere perd ses sceaux au profit de Julian de Tremere, et s'exile au Tribunal de Transylvanie
-- Les Mages de Villa Manlia sont acquittés des accusations portées par la Commission quaesitoriale (qui se réserve néanmoins d'encore faire rapport au Tribunal romain)
+- Les Mages de Villa Manlia sont acquittés des accusations portées par la Commission quaesitoriale (qui se réserve d'encore faire rapport au Tribunal romain)
 - Alézaïs de Merenita est désignée nouvelle Praeco du Tribunal de Provence
 - Cassandra de Guernicus est désignée nouvelle Princeps Quaesitor du Tribunal de Provence
 - L'Alliance de Villa Manlia signe un traité d'adhésion à l'Alliance de Doïsseteppe en qualité de chapitre.

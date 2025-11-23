@@ -21,6 +21,9 @@
 		loadNavbar: true,
 		name: 'Villa Manlia',
 		relativePath: true,
+		requestHeaders: {
+			'Cache-Control': 'no-store'
+		},
 		timeUpdater: {
 			text: "`Dernière mise à jour : {docsify-updated}`",
 			formatUpdated: "{DD}/{MM}/{YYYY}",
