@@ -11,7 +11,7 @@
 **Age** 67 (50 en apparence)  
 **Maison** ex Miscellaneis  
 **Confiance** 3  
-**Crépuscule** 4 (8)
+**Crépuscule** 4 (9)
 
 ## Caractéristiques  
 **Int** +3 (analytique)  
@@ -49,15 +49,15 @@
 ## Générales
 
 **Athlétisme** (en vol) : 2  
-**Attention** (alerte) : 1 (4)  
+**Attention** (alerte) : 2 
 **Bagarre** (esquive) : 2  
-**Concentration** (méditation) : 3  
+**Concentration** (méditation) : 3 (15)  
 **Connaissance des gens** : 2  
 **Connaissance de la région de Provence** : 2  
 **Connaissance de la Magie** : 1  
 **Connaissance de l’ordre d’Hermès** (passé) : 3  
 **Doigts agiles** (cleptomanie) : 2  
-**Discrétion** (cleptomanie) : 1 (7)  
+**Discrétion** (cleptomanie) : 2  
 **Étiquette** : 1  
 **Langue d’Oc** : 5  
 **Latin** (latin hermétique) : 4  
@@ -73,7 +73,7 @@
 
 **Finesse** : 3  
 **Philosophie** (Magie rituelle) : 1  
-**Parma Magica** (Ignem) : 6 (6)  
+**Parma Magica** (Ignem) : 6 (10)  
 **Pénétration** (Perdo) : 6  
 **Théorie de la Magie** (Invention de sorts) : 6
 

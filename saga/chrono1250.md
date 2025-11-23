@@ -66,7 +66,7 @@ Saison d'étude pour Esperanza :
 
 Séances du 25 mai. Scénario ***La Rédemption de Sophie*** (7 xp) conté par Rafaël auquel participent Esperanza, Faustus, Scintillus, Sigfein :
 * Esperanza : <mark>[...]</mark>  
-* Faustus : <mark>[...]</mark>  
+* Faustus : 5xp en Concentration et 2xp en Discrétion. 
 * Scintillus : <mark>[...]</mark>  
 * Sigfein: <mark>[...]</mark>
 
@@ -76,7 +76,7 @@ Saison d'étude :
 
 Séances des 8 juin, 31 août et 5 octobre 2024. Scénario ***A Tale of Two Primi*** (10 xp) conté par Rafaël auquel participent Esperanza, Faustus, Scintillus, Sigfein :
 * Esperanza : <mark>[...]</mark>  
-* Faustus : <mark>[...]</mark>  
+* Faustus : 5xp en Concentration, 4xp en Attention et 1xp en Discrétion l'amenant ainsi au niveau 2.  
 * Scintillus : <mark>[...]</mark>  
 * Sigfein: <mark>[...]</mark>
 
@@ -188,7 +188,7 @@ Saison d'étude :
 
 Séances des 11 avril,  16 mai, 12 juillet, 30 août et 22 novembre 2025. Scénario ***Guerre de succession*** conté par Rafaël auquel participent Faustus, Scintillus et Sigfein (10 xp) :
 * Celarius : <mark>[...]</mark>  
-* Faustus : <mark>[...]</mark> 
+* Faustus : 5xp en Concentration, 1xp en Attention l'amenant ainsi à 2, 4xp en Parma Magica. 
 * Scintillus :  <mark>[...]</mark>   
 * Sigfein :  <mark>[...]</mark>  
 
