@@ -1,5 +1,9 @@
 # Traité d’adhésion de l’Alliance de Villa Manlia à Doïsseteppe  
 
+| ![](https://upload.wikimedia.org/wikipedia/commons/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg) |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| Magna carta (source : [Wikepedia](https://en.wikipedia.org/wiki/Magna_Carta))                                            |
+
 Sachent tous, tant présents que à venir, que l’an de l’Incarnation du Seigneur mil deux cent cinquante et quatre, au temps du solstice d’hiver prochain venant, le Conseil intérieur de l’Alliance de Doïsseteppe, mû par le désir d’ordonner plus fermement la paix et la discipline entre les Mages d’Hermès et d’étendre en juste mesure sa seigneurie spirituelle et magique, a consenti et arrêté les présentes lettres touchant l’union et affiliation de l’Alliance de Villa Manlia, laquelle, de bon gré et sans contrainte, requit d’être reçue comme chapitre dépendant de Doïsseteppe, sauf en ses usages et coutumes propres, qui lui demeurent autant qu’ils ne viennent point contre le bien et profit de Doïsseteppe.
 
 Le Conseil intérieur de Doïsseteppe, tel qu’il est constitué en ce temps du Princeps Quaesitor Protantus de Guernicus, Charles Van Huse de Tytalus, Lupus Mortus de Flambeau, Cherubino de Jerbiton, Yulgot de Tremere et Alexander DuQuill de Verditius, a juré et confirmé les dispositions qui s’ensuivent et qui seront tenues fermes et stables durant le temps prescrit, sauf juste cause de dissolution comme il est dit plus bas.
