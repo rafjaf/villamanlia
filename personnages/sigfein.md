@@ -19,16 +19,16 @@
 * l'image de Criamon apparaît fugacement en superposition lors du lancer de sorts Vim  
 
 ## Caractéristiques  
-**Int** +3 (créatif)  
-**Per** +1 (oeil perçant)  
-**For** +4 (+2 de base, +2 Peau de pierre) (pectoraux massifs)  
-**Ené** +4 (+2 de base, +2 Peau de pierre) (vigoureux)  
-**Pré** –3 (effacé)  
-**Com** 0
-**Dex** -1 (+1 de base, -2 Peau de pierre) <mark>(félin)</mark> 
-**Viv** 0 (+2 de base, -2 Peau de pierre) <mark>(énergique)</mark>
+- **Int** +3 (créatif)  
+- **Per** +1 (oeil perçant)  
+- **For** +4 (+2 de base, +2 Peau de pierre) (pectoraux massifs)  
+- **Ené** +4 (+2 de base, +2 Peau de pierre) (vigoureux)  
+- **Pré** –3 (effacé)
+- **Com** 0 (\*)
+- **Dex** -1 (+1 de base, -2 Peau de pierre) <mark>(félin)</mark>
+- **Viv** 0 (+2 de base, -2 Peau de pierre) <mark>(énergique)</mark>
 
-N.B. : Sigfein a perdu son sens de l'humour (Communication +1) pour avoir tenté de trahir son serment envers Shadrit ex Miscellaneis
+(\*) Sigfein a perdu son sens de l'humour (Communication +1) pour avoir tenté de trahir son serment envers Shadrit ex Miscellaneis
 ## Traits de caractère  
 <mark>A compléter</mark>
 ## Réputation

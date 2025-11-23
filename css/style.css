@@ -43,3 +43,7 @@ section.content h6:before {content: counter(ch6)". ";}
 .sidebar-nav ul ul ul ul ul li a:before {content: counter(sch5, upper-alpha)". ";}
 .sidebar-nav ul ul ul ul ul ul li a:before {content: counter(sch6)". ";}
  
+ /* Heading styling : less paddings */
+.markdown-section h2 {padding: 20px 0 0 0!important}
+.markdown-section h3 {padding: 20px 0 0 0!important}
+.markdown-section h4 {padding: 20px 0 0 0!important}
