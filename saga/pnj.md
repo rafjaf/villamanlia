@@ -94,8 +94,9 @@ Puissante Alliance du Tribunal de Provence où se tient tous les 7 ans le Tribun
 * **Martin**: le serviteur de Dikaïos;  
 * **Quaesitor Hectorus de Guernicus**: rencontré à Saint-Pons, chargé par l'Ordre d'Hermès de mener une enquête sur le mage Margentius.  
 * ~~**Erat Caecus**~~ : célèbre hoplite aveugle de la maison Flambeau. Parti dans le Crépuscule final.  
-* **Cherubino de Jerbiton** : Membre du Conseil intérieur. Porte un bracelet de couleur nacre et un autre de couleur verte.   
+* **Cherubino de Jerbiton** : membre du Conseil intérieur. Porte un bracelet de couleur nacre et un autre de couleur verte.   
 * **Cassandra de Guernicus** : *Princeps Quaesitor* depuis l'hiver 1254. 
+* **Lupus Mortus de Flambeau** : membre du Conseil intérieur, doté d'yeux magiques prélevés sur le cadavre d'une créature magique qu'il a tuée de ses propres mains lors du relevé du gant.
 * **Alézaïs de Merinita** : Praeco du Tribunal de Provence depuis l'hiver 1254
 
 
@@ -104,8 +105,8 @@ Puissante Alliance du Tribunal de Provence où se tient tous les 7 ans le Tribun
 | Oxioun de Tytalus face à Anan le Karaïte et sa petite-fille Sarah | Protantus de Guernicus    | Alézaïs de Merinita       |
 | ![](../img/Cherubino.png)                                         | ![](../img/Paulus.png)    | ![](../img/Cassandra.png) |
 | Cherubino de Jerbiton                                             | Paulus ex Miscelleaneis   | Cassandra de Guernicus    |
-|                                                                   | ![](../img/Eleanor.png)   |                           |
-|                                                                   | Eleanor de Mercere        |                           |
+| ![](../img/LupusMortus.png)                                       | ![](../img/Eleanor.png)   |                           |
+| Lupus Mortus de Flambeau                                          | Eleanor de Mercere        |                           |
 
 ## Eglise en général  
 * **Arnaud-Amaury**: abbé de Cîteaux, légat du pape;  
