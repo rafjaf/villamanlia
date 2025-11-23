@@ -19,6 +19,7 @@
 	* [Ressources](/alliance/ressource.md)  
 	* [Salle du Conseil (Forum)](/alliance/forum.md)  
 	* [Tour des Mages](/alliance/tour-des-mages.md)  
+	* [Traité d'adhésion à Doïsseteppe](alliance/traite.md)
 * [Personnages](/personnages/personnages.md)  
 	* [Magus Celarius](/personnages/celarius.md)  
 	* [Maga Esperanza](/personnages/esperanza.md)  
