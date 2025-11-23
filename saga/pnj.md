@@ -11,10 +11,10 @@ Vallée entourée de bois sur un versant et de champs sur l'autre, traversée pa
 * **Villard**: chevalier, compagnon de chasse d'Ambroise;  
 * **Cerf Blanc**: majestueux cerf au pelage comme la neige et aux sabots de nacre, puissant gardien de la regio féerique;  
 * **Dame Pétunia**: nymphe florale de la regio féerique, fervente adepte des massages;  
-* **Prince Boronovilimocopor**: [[span style="background-color: yellow;"]][...][[/span]];  
-* **Seigneur Cyrielle** : [[span style="background-color: yellow;"]][...][[/span]];  
+* **Prince Boronovilimocopor**: <mark>[...]</mark>;  
+* **Seigneur Cyrielle** : <mark>[...]</mark> 
 * **Seigneur Perceval**: actuel seigneur de la regio féerique suite à l'intervention des PJ dans le conflit qui l'opposait au Seigneur Cyrielle;  
-* **Seigneur Théobald<sup>†</sup>**: ancien seigneur de la regio avant qu'on ne lui coupe la tête.
+* ~~**Seigneur Théobald~~** : ancien seigneur de la regio avant qu'on ne lui coupe la tête.
 
 ## Auch et ses environs (Saint-Pons)  
 * **Albert**: cousin de Marie la lavandière, fermier et propriétaire du domaine sur lequel se situe le bassin de Saint-Pons;  
@@ -30,21 +30,18 @@ Vallée entourée de bois sur un versant et de champs sur l'autre, traversée pa
 * **Germaine**: Plantureuse tenancière de l'auberge "La truie farcie".
 
 ## Bellaquin  
-[[div style="float: right; width: 240px;"]]  
-![[Bellaquin.jpg|]]  
-[[size smaller]]Blason de Bellaquin. Source : *Les Alliances*, Paris, Descartes, 1994, p. 55[[/size]]  
-[[/div]]  
-[[div style="float: left; width: 526px; margin-right: 20px;"]]  
+
 ![|](http://villamanlia.wikidot.com/local--files/pnj/Priscilla.jpg)  
-[[size smaller]]Priscilla de Jerbiton, accompagnée de sa servante Silvia et de son apprentie, future Esperanza de Jerbiton. Miniature réalisée il y a bien longtemps, à une époque où Priscilla était encore svelte et  n'avait pas encore acquis autant de... majesté. Source : Allégorie : Dame France priant, manuscrit de 1484, [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=07841610&E=1&I=44021&M=imageseule), Français 5054, fol. 35v[[/size]]  
-[[/div]]  
+
+Priscilla de Jerbiton, accompagnée de sa servante Silvia et de son apprentie, future Esperanza de Jerbiton. Miniature réalisée il y a bien longtemps, à une époque où Priscilla était encore svelte et  n'avait pas encore acquis autant de... majesté. Source : Allégorie : Dame France priant, manuscrit de 1484, [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=07841610&E=1&I=44021&M=imageseule), Français 5054, fol. 35v
+
 Alliance détruite par l'armée des croisés, avec le concours - magique - déterminant de Pierre de Saverdun et de l'infâme Jérôme de Bonisagus.  
 * **Priscilla de Jerbiton**: l'extavangante *mater* d’Esperanza, une Mage toujours habillée de vêtements amples et de couleurs chatoyantes, à la voix forte et expressive, qui traite la plupart des gens comme ses domestiques. Membre, aux côtés de Tolomae et d'Henri Lebarre, du *triumvirat* dirigeant Bellaquin. Fort impliquée dans les intrigues de la région, elle a tenté de convaincre le dernier Tribunal de 1207 – sans succès – que l’Ordre d’Hermès devait s’allier avec la noblesse cathare pour résister à la Croisade. Proche du comte Raymond VI de Toulouse. Passée maître des Arts Rego, Imaginem et Mentem.  
-* **Tolomae de Jerbiton<sup>†</sup>** : le « sage » de l’Alliance. Généralement vêtu d’une longue toge blanche, doté d’un visage entre deux âges et d’un regard perçant. C’est un érudit, qui s’est spécialisé dans l’étude de toutes sortes de domaines pointus, et notamment les relations entre les quatre dimensions (magique, féerique, divine et infernale). Spécialiste des Arts Intellego et Corpus. Tué par Pierre de Saverdun au Printemps 1210 lors de l'assaut final des croisés sur Bellaquin;  
-* **Henri Lebarre de Jerbiton<sup>†</sup>** : sans doute le moins doué du triumvirat sur le plan magique, il est en revanche apprécié pour l’aisance de ses relations avec les vulgaires. On le méprend aisément pour un noble de la région – ce qu’il est d’ailleurs –, engoncé dans son armure et passant ses journées à chasser et à guerroyer. C’est lui qui représente l’Alliance dans le cadre des ses relations féodo-vassaliques (Bellaquin est vassale du comte de Toulouse, suzeraine de deux seigneurs locaux et exerce également le ban à l’égard de deux ou trois villages des environs). Adepte du Terram. Tué d'une flèche dans la gorge par l'armée des croisés au Printemps 1210;  
+* **~~Tolomae de Jerbiton~~** : le « sage » de l’Alliance. Généralement vêtu d’une longue toge blanche, doté d’un visage entre deux âges et d’un regard perçant. C’est un érudit, qui s’est spécialisé dans l’étude de toutes sortes de domaines pointus, et notamment les relations entre les quatre dimensions (magique, féerique, divine et infernale). Spécialiste des Arts Intellego et Corpus. Tué par Pierre de Saverdun au Printemps 1210 lors de l'assaut final des croisés sur Bellaquin;  
+* **~~Henri Lebarre de Jerbiton~~** : sans doute le moins doué du triumvirat sur le plan magique, il est en revanche apprécié pour l’aisance de ses relations avec les vulgaires. On le méprend aisément pour un noble de la région – ce qu’il est d’ailleurs –, engoncé dans son armure et passant ses journées à chasser et à guerroyer. C’est lui qui représente l’Alliance dans le cadre des ses relations féodo-vassaliques (Bellaquin est vassale du comte de Toulouse, suzeraine de deux seigneurs locaux et exerce également le ban à l’égard de deux ou trois villages des environs). Adepte du Terram. Tué d'une flèche dans la gorge par l'armée des croisés au Printemps 1210;  
 * **Augusta de Jerbiton** : la « rivale » traditionnelle de Priscilla. Augusta n’est jamais parvenue à s’emparer du pouvoir à Bellaquin, peut-être par manque d’intelligence politique, peut-être en raison de son caractère emporté, mais elle fédère généralement derrière elle ce qu’on peut qualifier de  « parti d’opposition ». Sur la question cathare, elle était partisane d’une politique nettement moins belliqueuse envers l’Eglise, s’efforçant d’entretenir avec les prélats locaux d’assez bonnes relations;  
-* **~~Netaraxus~~ Noxeris ex Miscellaneis<sup>†</sup>** : un Mage assez secret qui a rejoint l’Alliance sur l’invitation de Tolomae. Malgré sa longue appartenance à l’Alliance dont il est membre depuis une cinquantaine d’années, il se tient à l’écart des intrigues pour lesquelles il ne dissimule pas son mépris et l’on sait au fond très peu de choses de lui. Certains murmurent qu’il pratique des formes de magie interdite, d’autres l’accusent à mots couverts de nécromancie. Jusqu’à présent, Tolomae a toujours pris sa défense, sans que l’on sache vraiment pour quelle raison. Littéralement explosé par Tertullia lors du siège de Bellaquin au Printemps 1210, celle ci l'ayant frappé dans le dos du sort *Conjuration de la Foudre*;  
-* **Tertullia de Jerbiton<sup>†</sup>** : une Mage discrète et réservée. On dit qu’elle s’intéresse à la philosophie des premiers chrétiens; en tout cas, elle est réputée pour son ascétisme, touchant à peine à la nourriture, veillant des nuits entières dans son *sanctum* et ne se désaltérant qu’à l’eau de la Fontaine aux Mille Echos, dans la cour de l’Alliance. Spécialiste de l’Auram et de l’Imaginem. Tuée d'une flèche tirée par Ronald lors du siège de Bellaquin au Printemps 1210 alors qu'elle affrontait Tolomae sur les remparts;  
+* **~~Noxeris (alias Netaraxus) ex Miscellaneis~~** : un Mage assez secret qui a rejoint l’Alliance sur l’invitation de Tolomae. Malgré sa longue appartenance à l’Alliance dont il est membre depuis une cinquantaine d’années, il se tient à l’écart des intrigues pour lesquelles il ne dissimule pas son mépris et l’on sait au fond très peu de choses de lui. Certains murmurent qu’il pratique des formes de magie interdite, d’autres l’accusent à mots couverts de nécromancie. Jusqu’à présent, Tolomae a toujours pris sa défense, sans que l’on sache vraiment pour quelle raison. Littéralement explosé par Tertullia lors du siège de Bellaquin au Printemps 1210, celle ci l'ayant frappé dans le dos du sort *Conjuration de la Foudre*;  
+* **~~Tertullia de Jerbiton~~** : une Mage discrète et réservée. On dit qu’elle s’intéresse à la philosophie des premiers chrétiens; en tout cas, elle est réputée pour son ascétisme, touchant à peine à la nourriture, veillant des nuits entières dans son *sanctum* et ne se désaltérant qu’à l’eau de la Fontaine aux Mille Echos, dans la cour de l’Alliance. Spécialiste de l’Auram et de l’Imaginem. Tuée d'une flèche tirée par Ronald lors du siège de Bellaquin au Printemps 1210 alors qu'elle affrontait Tolomae sur les remparts;  
 * **Perfectus de Verditius** : *pater* de Manita. Il a rejoint Bellaquin il y a une vingtaine d’années pour en étudier les nombreux artefacts. C’est un homme petit, chauve et myope comme une taupe, contraint de recourir à toutes sortes d’objets enchantés pour avancer dans les couloirs de l’Alliance sans se cogner aux objets et aux gens. Il ne regarde jamais ses interlocuteurs en face quand il leur parle de sa voix monotone et pédante à la fois. Maître de l’orfèvrerie et des Arts Creo, Muto et Terram, il aurait pu être une grande source d’inspiration pour Manita. Tout au long de son apprentissage, celle-ci a espéré et cru qu’après qu’elle aurait relevé le gant, il accepterait enfin de la traiter en égale et de lui transmettre une partie de ses connaissances, plutôt que de l’utiliser comme une sorte de Servante de luxe; mais, trois ans après être devenue Mage à part entière, elle doit bien se rendre à l’évidence et constater que son *pater*, avec ses manies, son obsession du détail et son regard fuyant, n’a plus rien à lui apprendre depuis longtemps;  
 * **Artephius de Tremere**  
 * **Davnavolus de Bonisagus**  
@@ -56,17 +53,17 @@ Préalablement au siège de Bellaquin, les Mages Augusta de Jerbiton, Perfectus 
 ## Blanc Mesnil  
 Alliance établie dans un ancien monastère fortifié, édifié au-dessus d'un réseau de cavernes produisant des pions Terram et Aquam, désormais largement condamné à la demande du Bougon, être féerique qui y a élu domicile.
 
-* **Elzéhar de Bonisagus<sup>†</sup>** : Primus de Blanc Mesnil, membre fondateur de l'Alliance;  
+* **~~Elzéhar de Bonisagus~~** : Primus de Blanc Mesnil, membre fondateur de l'Alliance;  
 * **Clarembeau de Jerbiton** : membre fondateur de l'Alliance;  
 * **Ulfius de Flambeau** : membre fondateur de l'Alliance, en différend avec Méraugis, qui l'accusait de lui voler ses connaissances, avant le suicide de ce dernier;  
-* **Méraugis de Verditius<sup>†</sup>** : quatrième membre fondateur de l'Alliance, aux prises avec Ulfius qu'il avait fait déférer - sans succès - au Conseil des Mages pour l'avoir retrouvé dans son *sanctum*, avant de se suicider, victime des sortilèges du Bougon;  
+* **~~Méraugis de Verditius~~** : quatrième membre fondateur de l'Alliance, aux prises avec Ulfius qu'il avait fait déférer - sans succès - au Conseil des Mages pour l'avoir retrouvé dans son *sanctum*, avant de se suicider, victime des sortilèges du Bougon;  
 * **Ferraud de Bonisagus** : ancien apprenti d'Elzéhar;  
 * **Severian de Bonisagus**  
 * **Urbain de Bonisagus**  
 * **Jocelyn de Criamon**  
 * **Galescin de Merinita**  
 * **Thorold d'Ex Miscellaneis** : geignard toujours à la recherche de *vis*, qui s'affirme spolié par les distributions opérées par Elzéhar;  
-* **Dodiniel<sup>†</sup>** : apprenti de Severian, qui le traite très durement, voire injustement d'après plusieurs autres Mages. Il semble qu'Abaddon de Tytalus ait, d'une manière ou d'une autre, récupéré ses cendres et les ait versées dans une urne funéraire placée dans la Chambre des Illusions, ce qui lui permet de donner au fantôme de Dodiniel l'illusion qu'il est encore en vie.  
+* **~~Dodiniel~~** : apprenti de Severian, qui le traite très durement, voire injustement d'après plusieurs autres Mages. Il semble qu'Abaddon de Tytalus ait, d'une manière ou d'une autre, récupéré ses cendres et les ait versées dans une urne funéraire placée dans la Chambre des Illusions, ce qui lui permet de donner au fantôme de Dodiniel l'illusion qu'il est encore en vie.  
 * **Gormond** : apprenti - peu assidu - d'Urbain. 
 
 ## Castra Solis  
@@ -78,26 +75,37 @@ Nouvelle Domus Magna Flambeau, sise dans le Tribunal de Provence, suite à la d�
 * **Kaeso de Flambeau** : Mage impétueux qui n'hésite pas à rappeler les membres de sa Maison à leurs devoirs  
 * **Deleor de Flambeau** : tué au cours de la Guerre des Magiciens lancée contre Villa Manlia en 1237  
 * **Althalys de Tytalus** : ex-Prima par alternance de Grisfaucon; soeur d'Althalus;  
-* **Exercitus (= tourmenté, inquiet) de Tytalus**;  
+* **~~Exercitus de Tytalus~~**;  
 * **Thanatos de Tytalus** : albinos s'habillant entièrement de velours noir, Magister du Dr Mark, frère de Mélisende d'Arvigna;  
-* **Calpurnia de Tytalus** : petite rouquine boulotte juvénile, au tempérament sanguin, adepte de la magie Cr(Re)An(Ig);
-* **Myralys de Jerbiton** : rencontrée à Saint-Pons où elle a échoué à s'approprier le bassin miraculeux pour le compte de l'Alliance de Grisfaucon du fait de l'intervention des mages de Villa Manlia, devenue membre de Grisfaucon depuis le Tribunal de 1207. Elle l'a quittée pour Castra Solis avec Althalys  
+* **~~Calpurnia de Tytalus~~** : petite rouquine boulotte juvénile, au caractère sanguin, adepte de la magie Cr(Re)An(Ig). En raison de ses compétences et de son tempérament, considérée comme l'une des leurs par de nombreux Mages de la Maison Flambeau.
+* **Myralys de Jerbiton** : rencontrée à Saint-Pons où elle a échoué à s'approprier le bassin miraculeux pour le compte de l'Alliance de Grisfaucon du fait de l'intervention des mages de Villa Manlia, devenue membre de Grisfaucon depuis le Tribunal de 1207. Elle l'a quittée pour Castra Solis avec Althalys. En fuite depuis l'hiver 1254 à la suite de sa condamnation par le Tribunal à payer 100 pions de *vis* d'amende pour avoir magiquement espionné Althalys de Tytalus au profit d'Althalus de Tremere.  
 ## Doïsseteppe  
 ![](../img/Doisseteppe.jpg)
+
 Blason de Doïsseteppe. Source : *Les Alliances*, Paris, Descartes, 1994, p. 61
 
 Puissante Alliance du Tribunal de Provence où se tient tous les 7 ans le Tribunal. La hiérarchie est organisée autour d'un *Pontifex Maximus*, de 6 *flamines* (prêtres supérieurs) et d'un ensemble de *secondares* (prêtres inférieurs).
 
-* **Oxioun de Tytalus** : Primus de Doïsseteppe et son *Pontifex Maximus*, ainsi que *Praeco* du Tribunal de Provence. Porte un bracelet de couleur noire et un autre de couleur sang;  
+* **~~Oxioun de Tytalus~~** : Primus de Doïsseteppe et son *Pontifex Maximus*, ainsi que *Praeco* du Tribunal de Provence. Porte un bracelet de couleur noire et un autre de couleur sang. Parti dans le Crépuscule final à l'hiver 1254.  
 * **Remmel** : chef de la *turbula* d'Oxioun de Tytalus, porteur de 7 étoiles gagnées lors des *ludi Magni*;  
-* **Protantus de Guernicus** : le *Princeps Quaesitor* (Doyen des Quaesitores) du Tribunal;  
+* ~~**Protantus de Guernicus**~~ : *Princeps Quaesitor* (Doyen des Quaesitores) du Tribunal. Mort d'un *cultellus* planté dans le coeur à l'hiver 1254.  
 * **Paulus** : jeune enfant au service de Davinia. Porte un bracelet de couleur nacre et un autre de couleur sang;  
-* **Quaesitor Dikaïos de Guernicus**: à l'occasion d'une visite rendue à l'alliance de Villa Manlia, il a chargé les mages de celle-ci d'une mission officieuse de bons offices consistant à résoudre les questions issues des tractations menées par Ereditus de Jerbiton, ancien *primus* de *Mare Immobile* emporté par le crépuscule dans d'étranges circonstances. Il a notablement échoué, malgré d'importants et durables efforts consentis à cet effet, à démontrer la corruption d'Oxioun, mage de la maison Tytalus. Interrogé à propos de ce douloureux épisode par l'un des mages de l'Alliance de Villa Manlia, ignorants de la question, sur la suggestion de Jérôme, ce Quaesitor a quitté celle-ci en colère. Désormais au service de Sempronia de Guernicus du Tribunal Romain;  
+* **Quaesitor Dikaïos de Guernicus**: à l'occasion d'une visite rendue à l'alliance de Villa Manlia, il a chargé les mages de celle-ci d'une mission officieuse de bons offices consistant à résoudre les questions issues des tractations menées par Ereditus de Jerbiton, ancien *primus* de *Mare Immobile* emporté par le crépuscule dans d'étranges circonstances. Il a notablement échoué, malgré d'importants et durables efforts consentis à cet effet, à démontrer la corruption d'Oxioun, mage de la maison Tytalus. Interrogé à propos de ce douloureux épisode par l'un des mages de l'Alliance de Villa Manlia, ignorants de la question, sur la suggestion de Jérôme, ce Quaesitor a quitté celle-ci en colère. Désormais au service de Sempronia de Guernicus du Tribunal Romain.  
 * **Martin**: le serviteur de Dikaïos;  
-* **Quaesitor Hectorus de Guernicus**: rencontré à Saint-Pons, chargé par l'Ordre d'Hermès de mener une enquête sur le mage Margentius;  
-* **Erat Caecus** : célèbre hoplite aveugle de la maison Flambeau;  
-* **Cherubino de Jerbiton** : *Flamen* à l'apparence juvénile. Porte un bracelet de couleur nacre et un autre de couleur verte;  
-* **Cassandra de Guernicus**: *Quaesitor*. 
+* **Quaesitor Hectorus de Guernicus**: rencontré à Saint-Pons, chargé par l'Ordre d'Hermès de mener une enquête sur le mage Margentius.  
+* ~~**Erat Caecus**~~ : célèbre hoplite aveugle de la maison Flambeau. Parti dans le Crépuscule final.  
+* **Cherubino de Jerbiton** : Membre du Conseil intérieur. Porte un bracelet de couleur nacre et un autre de couleur verte.   
+* **Cassandra de Guernicus** : *Princeps Quaesitor* depuis l'hiver 1254. 
+* **Alézaïs de Merinita** : Praeco du Tribunal de Provence depuis l'hiver 1254
+
+
+| ![](../img/OxiounAnan.png)                                        | ![](../img/Protantus.png) | ![](../img/Alézaïs.png)   |
+| ----------------------------------------------------------------- | ------------------------- | ------------------------- |
+| Oxioun de Tytalus face à Anan le Karaïte et sa petite-fille Sarah | Protantus de Guernicus    | Alézaïs de Merinita       |
+| ![](../img/Cherubino.png)                                         | ![](../img/Paulus.png)    | ![](../img/Cassandra.png) |
+| Cherubino de Jerbiton                                             | Paulus ex Miscelleaneis   | Cassandra de Guernicus    |
+|                                                                   | ![](../img/Eleanor.png)   |                           |
+|                                                                   | Eleanor de Mercere        |                           |
 
 ## Eglise en général  
 * **Arnaud-Amaury**: abbé de Cîteaux, légat du pape;  
@@ -114,7 +122,7 @@ Puissante Alliance du Tribunal de Provence où se tient tous les 7 ans le Tribun
 ## Grisfaucon  
 Alliance du Tribunal de Provence à l'origine composée pour moitié de Tremere et pour moitié de Tytali. Elle était caractérisée par deux Primi qui gouvernaient en alternance une année sur deux.
 
-* **Althalus[^1]  de Tremere** : Primus de Grisfaucon; frère d'Althalys;  
+* **Althalus[^1]  de Tremere** : ancien Primus de Grisfaucon; frère d'Althalys. Exilé en 1254 dans le Tribunal de Transylvanie après avec perdu ses sceaux dans un *certamen* avec Julian.  
 * **Tyrox de Tremere**;  
 * **Desdemona de Tremere** : une Mage à la beauté stupéfiante
 
@@ -126,14 +134,9 @@ Autre personnage anciennement lié à Grisfaucon :
 
 
 ## Lariandre et ses environs  
-[[div style="float: left; width: 203px; margin-right: 20px;"]]  
+
 ![|](http://villamanlia.wikidot.com/local--files/pnj/Sorciere.jpg)  
-[[size smaller]]La Sorcière des Marais.[[/size]]  
-[[/div]]  
-[[div style="float: right; width: 240px;"]]  
-![[Lariandre.jpg|]]  
-[[size smaller]]Blason de Lariandre. Source : *Les Alliances*, Paris, Descartes, 1994, p. 50[[/size]]  
-[[/div]]
+La Sorcière des Marais.
 
 Alliance de Printemps située au coeur de la forêt féerique de Sadrissel, dépendant administrativement de sa maison mère Albison du Tribunal de Normandie.
 
@@ -142,10 +145,6 @@ Alliance de Printemps située au coeur de la forêt féerique de Sadrissel, dép
 * **Valfraine de Tremere**: le rat de bibliothèque, distrait, maladroit, qui se pète toujours la gueule du haut des arbres, aurait vaincu Priscilla de Jerbiton en *certamen*, seul de l'Alliance à avoir incontestablement récupéré son sceau après avoir battu Murbella en *certamen* au Tribunal de l'hiver 1207, parti pour Coeris en 1212, nommé *Primus* de Lariandre à son retour;  
 * **Dominic et Restaralin de Tremere**: jeunes jumeaux, espiègles et farfelus, complètement contaminés par l’hystérie féérique;  
 * **Magnolia de Merinita**: autrefois bien disposée envers les mages de Villa Manlia, auxquels elle prêtait volontiers son concours, elle a depuis lors trahi leur confiance en se faisant l'instrument des machinations de Murbella ayant eu pour effet le vol suivi de la destruction de deux livres des Mages de Villa Manlia, ce qui s'explique par sa psychologie fragile (elle craint d'être expulsée de l'Alliance si elle déplaît aux Tremere). Spécialiste Herbam, intarissable quand il s’agir de parler de la forêt et de ses merveilles, livrant parfois des secrets sans comprendre leur importance. Pas du tout le genre des Tremere, mais ceux-ci la respectent. A passé 120 ans dans une *regio* féerique de la forêt de Sadrissel dont elle est ressortie... vieillie, mais plus sage.
-
-<u>Liée à Lariandre, sa maison mère Albison du Tribunal de Normandie (voir plus haut)</u> :  
-* **Murbella de Tremere** (surnommée Murbac par Sigfeín): ressemble à une enfant de six ans; c’était une puissante magicienne à la recherche du secret de la jeunesse éternelle; se moquant d’elle, les êtres féériques la lui ont accordée – ils l’ont rajeunie jusqu’à ce qu’elle redevienne bébé ! Elle est donc maintenant une Mage enfermée dans un corps d’enfant, jusqu’à ce qu’elle grandisse à nouveau.  
-* **Mercus de Tremere** : envoyé à Lariandre par Albison afin d'y remettre bon ordre suite aux agissements de Murbella.
 
 <u>Forêt de Sadrissel</u> :  
 * **Roi Aldarin**: roi de la Forêt de Sadrissel, membre de la Cour de Lumière;  
@@ -183,8 +182,6 @@ Blason de Mare Immobile
 Cette Alliance tire son nom d’un lac de montagne au milieu duquel elle est bâtie : un lac immense, dont l’eau est en permanence parfaitement immobile, d’un noir profond, impossible pour le regard de crever la surface. Les Servants de l’Alliance y circulent parfois en barque, mais avec de grandes précautions, car ce qui circule sur la surface n’y reste jamais longtemps. Alliance d’été, comptant environ dix Mages, prenant la forme d’un château fortifié dont le toit en tuiles noires rappelle la couleur du lac. Aura Magique de 4.
 
 * **[[jerome|Jérôme de Bonisagus]]**: Mage de *Mare Immobile* ayant effectué son apprentissage en même temps que Dubinaro auprès du même *Magister*, et qui sous ses dehors affables et humbles (toujours habillé d'une simple tunique monacale et ayant choisi de conserver son nom de baptême après avoir relevé le Gant, s'estimant indigne du port d'un nom hermétique), se révèle particulièrement sournois. Lors des évènements entourant le débat théologique qui s'est déroulé à Pamiers, les mages de Villa Manlia ont appris que Jérôme s'est allié aux pouvoirs infernaux. Il est en réalité en possession de, et étudie la *summa Wittockiana*, puissant ouvrage de magie démoniaque que Dubinaro fut suspecté d'avoir dérobé dans le *sanctum* de leur *Magister* Athanor avec la complicité de Claudia, la maîtresse de Dubinaro (voir son [historique](http://villamanlia.wikidot.com/dubinaro)). Devenu très puissant, Jérôme dispose notamment de la faculté de contrôler à distance des êtres humains, grâce à un sceau représentant un pentacle griffu gravé dans le corps des victimes, comme les personnages l'ont découvert au cours du scénario [La Dialectique des Armes](http://villamanlia.wikidot.com/dialectique). La confrontation l'a révélé, en ce compris aux yeux de son ancien *frater*, pour ce qu'il est: un mage rongé par la haine et la jalousie à l'encontre de Dubinaro, dont il a juré la perte, prêt à tout pour parvenir aux fins que lui dictent son ambition dévorante et ses rêves de grandeur. Lors du [Dernier Tribunal de 1207](http://villamanlia.wikidot.com/derniertrib), les personnages se sont révélés incapables de convaincre l'Ordre de la culpabilité de Jérôme, et ont au contraire été condamnés sur plainte de ce dernier pour mise en danger de l'Ordre. Depuis lors, les personnages soupçonnent Jérôme d'être mêlé à la [Mort du Légat](http://villamanlia.wikidot.com/mortlegat) du pape, Pierre de Castelneau, qui se trouve à l'origine de la Croisade lancée contre le Tribunal de Provence et qui menace directement la survie de Villa Manlia, ainsi qu'au [Siège de Bellaquin](http://villamanlia.wikidot.com/siegebellaquin) ayant entraîné la chute de cette puissante Alliance.  
-  ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Savonarola.jpg/424px-Savonarola.jpg)  
-Jérôme de Bonisagus. En réalité, portrait du prédicateur [Jérôme Savonarole](http://fr.wikipedia.org/wiki/Savonarole) par Fra Bartolomeo, dans sa cellule au couvent San Marco, 1498. Source : [Wikicommons](http://fr.wikipedia.org/wiki/Fichier:Savonarola.jpg).
 * **Athanor de Bonisagus**: *Magister* de Dubinaro;  
 * **Sorellus de Verditius**: ancien *Primus inter pares* (premier d'entre ses pairs) du Conseil des Mages de *Mare Immobile*, remplacé par Viridia de Verditius suite à la révélation de la traîtrise de Jérôme;  
 * **Magda**, devenue **Viridia de Verditius** : jeune apprentie de Sorellus à *Mare Immobile*, qui a maintenu son affection à Dubinaro malgré la disgrâce dans laquelle celui-ci était tombé. Elle exerce désormais le rôle de **Prima de Mare Immobile**  
@@ -192,14 +189,14 @@ Jérôme de Bonisagus. En réalité, portrait du prédicateur [Jérôme Savonaro
 * **Aurelius**: vieux bibliothécaire;  
 * **Abbé Samson**: dirige le monastère de Saint-Edmond, moins hostile à la magie que ne le sont généralement les membres de l'Eglise. Ayant obtenu de la part d'Ereditus de Jerbiton une pierre magique destinée à protéger l'enceinte du monastère, en échange de divers ouvrages et objets liturgiques, il a néanmoins restitué celle-ci sur l'insistance des mages de Villa Manlia moyennant remise des objets cédés;  
 * **Prieur Jean**: prieur (second après l'abbé) du monastère de Saint-Edmond. Fervent catholique, il se montre très rétif à la pratique de la magie.
+
+| ![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Savonarola.jpg/424px-Savonarola.jpg)  <br>Jérôme de Bonisagus. En réalité, portrait du prédicateur [Jérôme Savonarole](http://fr.wikipedia.org/wiki/Savonarole) par Fra Bartolomeo, dans sa cellule au couvent San Marco, 1498. Source : [Wikicommons](http://fr.wikipedia.org/wiki/Fichier:Savonarola.jpg). | ![](../img/Athanor.png) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Jérôme de Bonisagus                                                                                                                                                                                                                                                                                                                                                       | Athanor de Bonisagus    |
+
 ## Pamiers et ses environs  
 * **Abbé Alain**: abbé de l’abbaye Saint-Antonin près de Pamiers, initiateur du débat théologique qui se tint à Pamiers à l'hiver 1203;  
 * **Thibault Tanneur**: premier consul de la ville.
-
-[[div style="float: right;"]]  
-![[Anan.jpg|]]  
-[[size smaller]]Anan le Karaïte, représenté en Hermès Trismégiste[[/size]]  
-[[/div]]
 
 ## Saint-Gilles-du-Gard  
 * **Rémi Phraseur** : le gérant bavard et prétentieux de l'échoppe de Villa Manlia
@@ -208,7 +205,7 @@ Jérôme de Bonisagus. En réalité, portrait du prédicateur [Jérôme Savonaro
 Alliance d'Hiver presque tombée dans l'oubli - quoique pas totalement puisque Grisfaucon semble entretenir avec elle un courant d'échange de pions Muto -, établie dans le quartier juif de la ville de Saint-Gilles-du-Gard, connue pour être propriétaire d'une des plus riches sources de *vis* Muto de la région. Semble en passe de redevenir une Alliance d'Ete grâce au sang neuf des Mages Karaïtes.
 
 * **Ambrosius de Jerbiton** : Ancien *Pontifex* de l'Alliance, qu'il a quitté à l'Hiver 1209 après avoir été libéré par les Mages de Villa Manlia de la *regio* magique dans laquelle il était prisonnier. Il décide alors de se rendre à Valnastium, Domus Magna Jerbiton, afin de poursuivre ses recherches sur les liens entre la musique enchanteresse et le Mentem;  
-* **Anan bin Daoud d'Ex-Miscellaneis** : Mage Karaïte, Sénateur et *Pontifex* f.f. de l'Alliance. Polygame, et connu des vulgaires comme un usurier.  
+* ~~**Anan bin Daoud d'Ex-Miscellaneis**~~ : Mage Karaïte, Sénateur et *Pontifex* f.f. de l'Alliance. Polygame, et connu des vulgaires comme un usurier.  
 * **Barabas de Bjornaer** : brute épaisse ayant pour animal de cœur un ours malodorant. Spécialiste en Muto. Membre du Conseil.  
 * **Eo de Tytalus** : svelte et charismatique lanceur de couteaux d'apparence trompeusement juvénile, victime d'une expérimentation ratée sur une potion de longévité l'ayant enfermé dans un état mental second. Membre du Conseil. Exerce une fascination douteuse sur Benjamin, et probablement également sur Pantos.  
 * **Ibrahim d'Ex-Miscellaneis** : Mage Karaïte, premier apprenti formé par Anan et son gendre, membre du Conseil.  
@@ -217,15 +214,23 @@ Alliance d'Hiver presque tombée dans l'oubli - quoique pas totalement puisque G
 * **Pantos de Jerbiton** : ancien apprenti d'Ambrosius, adepte des rendez-vous nocturnes dans les jardins de l'Alliance. Membre du Conseil suite au départ d'Ambrosius.  
 * **Rebecca** : fille d'Anan et épouse de Ibrahim; possède le Don mais n'a pas reçu d'éducation hermétique ou karaïte; tente désespérément d'enfanter un héritier mâle.
 
-## Saverdun et ses environs  ^Saverdun
+
+| ![](../img/Anan.png)                 |
+| ------------------------------------ |
+| Anan ex Miscellaneis, dit le Karaïte |
+
+
+## Saverdun et ses environs 
 * **Pierre de Saverdun**: jeune seigneur de Saverdun, il se présente comme l'allié de *Bellaquin* dont il avait toutefois secrètement juré la perte. En sous-main, il tentait d'orchestrer sa chute, et a envoyé son serviteur Ménard contacter le nouvel évêque de Toulouse, réputé d'une orthodoxie intransigeante, à cette fin. C'est dans ce contexte qu'il rencontre les personnages à l'automne 1201 au cours du scénario [Le Jeu de la Trahison et du Hasard](http://villamanlia.wikidot.com/trahison). Outre certains objets magiques (notamment un anneau à saphir bleu, probable réceptacle de sorts Mentem), qui lui viennent de sa mère Sybille, qui n'a pas terminé son apprentissage, il possède le Don. A sa demande, il a néanmoins été accepté (contre rémunération à convenir) comme apprenti d'Esperanza et a à ce titre rejoint l'Alliance de Villa Manlia à l'hiver 1202 au cours du scénario [Pacta sunt servanda](http://villamanlia.wikidot.com/pacta). A l'[hiver 1204](http://villamanlia.wikidot.com/chrono#hi1204), il épouse Esperanza qui devient Dame de Saverdun. Mais les choses se compliquent au [printemps 1207](http://villamanlia.wikidot.com/chrono#pr1207) lorsque, usant de la prérogative de sa Maison, Jérôme de Bonisagus revendique comme apprenti Pierre de Saverdun. Ce transfert d'autorité est entériné par le [Dernier Tribunal](http://villamanlia.wikidot.com/derniertrib) de l'hiver 1207. A l'[automne 1209](http://villamanlia.wikidot.com/chrono#au1209), Esparanza, toujours amoureuse de mari et ancien apprenti, s'arrange pour tomber enceinte des oeuvres de celui-ci. Saverdun participe au printemps 1210 au [Siège de Bellaquin](http://villamanlia.wikidot.com/siegebellaquin) et la chute de celle-ci. Pierre de Saverdun peut être décrit comme suit :  
-[[div class="citation"]]  
+
 > Le vaillant a l'enfourchure très grande,  
 > Les hanches étroites, les côtés larges,  
 > La poitrine forte et joliment moulée,  
 > Les épaules vastes, le regard très clair,  
-> La face hardie, les cheveux bouclés[[footnote]]Source : [La Chanson de Roland](http://lachansonderoland.d-t-x.com/), vers 3157-3161.[[/footnote]]  
-[[/div]]  
+> La face hardie, les cheveux bouclés
+
+Source : [La Chanson de Roland](http://lachansonderoland.d-t-x.com/), vers 3157-3161.
+
 * **Ménard**: serviteur nain, bossu, hideux et malfaisant de Pierre de Saverdun (ancien serviteur de Sybille). Souffre-douleur favori de Sigfeín;  
 * **Arnaud** et **Séverine de Saverdun**: demis-frère et soeur cadets de Pierre de Saverdun, issus d'un second lit, qu'il avait fait enfermer à la suite d'un différend peut-être orchestré concernant Guenièvre. Résidants désormais en Asturie sur les terres que constituaient la dot d'Esperanza;  
 * **Guenièvre**: belle dryade aux cheveux des couleurs de la forêt, habitant un arbre situé au bas d'une cascade formant un bassin. Sous l'emprise d'un sort, elle avait été amenée à remettre son coeur à Pierre de Saverdun, qui lui avait promis de l'échanger contre le sien mais l'a en réalité conservé pour soumettre la créature de Féerie à sa volonté.
@@ -234,18 +239,14 @@ Alliance d'Hiver presque tombée dans l'oubli - quoique pas totalement puisque G
 * **Foulques**, dit **Folquet** (en provençal): ancien trouvère de Marseille devenu abbé du Thoronet puis récemment désigné évêque de Toulouse, il s'avère d'une extrême intransigeance à l'égard de ce qui lui apparaît hétérodoxe. En particulier, il nourrit une défiance pour le comte Raimond-Roger de Foix, converti au catharisme, et ne ménage pas le comte Raymond VI de Toulouse, qu'il taxe de laxisme envers l'hérésie rampante;  
 * **Raymond VI**: Comte de Toulouse.
 
-[[div style="float: right; width: 240px;"]]  
-![[Val%20Negra.jpg|]]  
-[[size smaller]]Blason de Val Negra. Source : *Les Alliances*, Paris, Descartes, 1994, p. 69[[/size]]  
-[[/div]]  
 ## Val Negra  
 Alliance d'Hiver tombée dans l'oubli, située au coeur d'un montagne à l'intérieure de laquelle règne une puissante aura magique de niveau 9!
 
 * **Abaddon de Tytalus**: ce mage, maître des illusions, est responsable de la bibliothèque de Val Negra. Il se présente habituellement sous plusieurs apparences, dont un squelette parlant, à telle enseigne que nul ne sait précisément sous combien d'exemplaires il se déplace. Il est également le gardien de l'*Os Tenebrarum*, un artefact défiant les lois hermétiques se présentant sous la forme d'une grille aspirant toute énergie infernale à proximité;  
 * **Astella de Merinita**: cette maga s'occupe du jardin magique de Val Negra, l'une de ses merveilles, où elle veille jalousement sur le bon état des plantes dont elle prend soin, et goûte très peu le mal infligé à celles-ci;  
-* **Lumistus de Flambeau<sup>†</sup>**: *Magister* de Scintillus, ce mage flambeau déjà âgé a une certaine propension à l'oubli, notamment en ce qui concerne le relevé du gant de son apprenti. Abaddon a récupéré ses centres dans une urne funéraire placée dans la Chambre des Illusions, où le fantôme de Lumistus, à moitié amnésique, poursuit son existence sous l'identité de "Flambeau" (ayant oublié jusqu'à son nom).  
+* **~~Lumistus de Flambeau~~**: *Magister* de Scintillus, ce mage flambeau déjà âgé a une certaine propension à l'oubli, notamment en ce qui concerne le relevé du gant de son apprenti. Abaddon a récupéré ses centres dans une urne funéraire placée dans la Chambre des Illusions, où le fantôme de Lumistus, à moitié amnésique, poursuit son existence sous l'identité de "Flambeau" (ayant oublié jusqu'à son nom).  
 * **Temsilius de Criamon**:  
-* **Vancasitum de Flambeau**: ce mage extrêmement âgé, d'une puissance redoutable, ne paraît plus avoir toute sa tête, et est continuellement perdu dans ses pensées. Il a pour familier un vieil hibou un peu décati;  
+* **~~Vancasitum de Flambeau~~**: ce mage extrêmement âgé, d'une puissance redoutable, ne paraît plus avoir toute sa tête, et est continuellement perdu dans ses pensées. Il a pour familier un vieil hibou un peu décati;  
 * **Remus**: autocrate de l'extérieur;  
 * **Romulus**: autocrate de l'intérieur.
 
@@ -275,7 +276,7 @@ Château noyé dans les brumes, situé dans une *regio* magique de niveau 10, la
 * **Theobold de Tremere**
 
 ## Caverne des Ombres Tourmentées (*The Cave of Twisting Shadows*)  
-Domus Magna Criamon (DMC), située dans le Tribunal des Hautes Alpes. [[span style="background-color: yellow;"]]à compléter[[/span]]
+Domus Magna Criamon (DMC), située dans le Tribunal des Hautes Alpes. 
 
 * **Darius de Criamon** : pater de Muscaria, ses dernières recherches portent sur des nourritures et boissons aux propriétés magiques;  
 * **Hera** : autocrate fantôme de la DMC;  
@@ -284,7 +285,8 @@ Domus Magna Criamon (DMC), située dans le Tribunal des Hautes Alpes. [[span sty
 * **Muscaria de Criamon** : filia Darius de Criamon, Prima de la maison Criamon. Assassinée rituellement en 1244  
 * **Positim de Criamon** : prédécesseur de la Prima La;  
 * **Regina de Bonisagus** : résidente;  
-* **Viscus de Criamon** : adepte de l'haruspice, de préférence avec les entrailles d'animaux magiques (voir féeriques).
+* **~~Viscus de Criamon~~** : adepte de l'haruspice, de préférence avec les entrailles d'animaux magiques (voir féeriques). Piétiné par un centaure après avoir été immobilisé par les Mages de Villa Manlia.
+* **Priscilla de Jerbiton** : actuelle Prima de la Maison Criamon, choisie comme solution de compromis.
 
 ## *Societas Luporum* (Alliance des Loups)  
 * **Magnus Balthus de Tremere** : fils cadet d'Esperanza  
@@ -298,10 +300,8 @@ Domus Magna Criamon (DMC), située dans le Tribunal des Hautes Alpes. [[span sty
 * **Ewelina de Jerbiton** : Secunda Major, actuellement dans le Tribunal de Transylavanie
 
 # Tribunal d'Ibérie  
-[[div style="float:right; width: 650px;"]]  
-![|](http://cartelen.louvre.fr/pub/fr/image/31044_p0003396.001.jpg)  
-[[size smaller]]Selima de Flambeau, dansant pour Sigfein la danse du Jinn. En réalité, *La Décollation de Saint Jean-Baptiste et le Banquet d'Hérode*, par Fra Angelico, vers 1427-1428, représentant la danse des sept voiles que Salomé effectue pour obtenir du Roi Hérode la tête de Saint Jean-Baptiste. Source : Paris, [Louvre](http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=1216&langue=fr), R.F. 196.[[/size]]  
-[[/div]]
+![](https://collections.louvre.fr/media/cache/large/0000000021/0000066165/0000142023_OG.JPG)
+Selima de Flambeau, dansant pour Sigfein la danse du Jinn. En réalité, *La Décollation de Saint Jean-Baptiste et le Banquet d'Hérode*, par Fra Angelico, vers 1427-1428, représentant la danse des sept voiles que Salomé effectue pour obtenir du Roi Hérode la tête de Saint Jean-Baptiste. Source : Paris, [Louvre](http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=1216&langue=fr), R.F. 196.
 
 ## Barcelone: cour de Pierre II d'Aragon, dit le Catholique  
 * **Balthus de Flambeau** : Mage imposant à la barbe noire et à la voix gutturale, ancien amant de Priscilla de Jerbiton, conseiller militaire de Pierre II d'Aragon;  
@@ -340,6 +340,7 @@ Pour ce qui suit, voir également [Les PNJ d'Albison](http://villamanlia.wikidot
 * **Mercus de Tremere** : autrefois dépêché à Lariandre pour y remettre bon ordre, aujourd'hui chef de clan f.f. en l'absence de Murbella, et donc responsable de Lariandre et membre du Conseil élargi;  
 * **Asgard de Tremere** : membre du Conseil élargi, poussiéreux et maniéré, responsable de la bibliothèque, propension à tenir des registes sur tout et n'importe quoi;  
 * **Diptos de Tremere** : membre du Conseil élargi, responsable des aspects logistiques; très bon ami de **Longar de Tremere**, le responsable de la caravane qui fait régulièrement le trajet entre Albison et ses alliances filles;  
+* **Murbella de Tremere** (surnommée Murbac par Sigfeín): ressemble à une enfant de six ans; c’était une puissante magicienne à la recherche du secret de la jeunesse éternelle; se moquant d’elle, les êtres féériques la lui ont accordée – ils l’ont rajeunie jusqu’à ce qu’elle redevienne bébé ! Elle est donc maintenant une Mage enfermée dans un corps d’enfant, jusqu’à ce qu’elle grandisse à nouveau.  
 * **Eslamar de Tremere** : membre du clan de Stybat, voix prépondérante du "club des femmes" en l'absence de Fina et Murbella;  
 * **Sapiens de Bonisagus**: chercheur sur le CREO*, il consulte à Albison des ouvrages rédigés par Tremere lui-même sur cette "sixième technique". Pour avoir cet accès, il a permis la possibilité d'un abandon de la prérogative de Boniagus dans tout le tribunal de Normandie, ce qui engendre certaines moqueries de la part de jeunes Tremere;  
 * **Isore de Mercere** : possède le Don, obèse et soupçonné d'alcoolisme, gère occasionnellement les toques rouges qui passent fréquemment à Albison;  
@@ -354,7 +355,7 @@ Ville côtière à la Mer du Nord.
 
 ## Université Invisible  
 Alliance située à Paris et dédiée à la recherche de la connaissance et à la magie expérimentale  
-* **Miranda de Bonisagus** : Prima de l'Alliance. Vieille femme ridée aux cheveux gris (sa potion de longévité fonctionne mais avec un défaut : son âge apparent augmente malgré tout). Vers 1200, quand Proclus a découvert l'Université Invisible, il y a rencontré deux personnages-clef : Tossanus, un Mentemiste de son âge, et Miranda, plus âgée qu'eux (à l'époque d'une cinquantaine d'années, mais sa potion de longévité de l'époque fonctionnait et n'en laissait rien paraître). Miranda était en quelque sorte leur mentor. C'est elle qui les a mis sur la piste de l'Arche de Noé, grâce à une copie de l'*Histoire de l'Arménie* rédigée en grec, dont elle avait entamé une traduction en latin. Les trois Mages ont longuement débattu de la marche à suivre : Miranda s'intéressait à la question essentiellement comme à un sujet théorique; et puis, une relation affective s'est nouée avec Tossanus, ce dernier espérant ce faisant obtenir de plus grandes informations et lever les réserves de Miranda. Le résultat fut ambigu : car, si Tossanus obtint ce faisant de plus amples informations, plus le temps s'écoulait, et plus Miranda, s'attachant à Tossanus, retardait l'issue de la traduction et ses recherches, afin de retarder son départ qu'elle savait inévitable. Un beau jour, Tossanus convainquit Proclus de partir sans regarder en arrière, en dérobant le manuscrit (inachevé) de Miranda. Plus tard, Proclus fut pris de remord et fit rédiger une copie abrégée du manuscrit latin qu'il renvoya à Miranda en guise d'excuse. Elle se faisait appeler "Mira" par Tossanus. Tossanus lui a lancé un puissant sort Muto Mentem qui détruit de manière permanente son esprit  
+* ~~**Miranda de Bonisagus**~~ : Prima de l'Alliance. Vieille femme ridée aux cheveux gris (sa potion de longévité fonctionne mais avec un défaut : son âge apparent augmente malgré tout). Vers 1200, quand Proclus a découvert l'Université Invisible, il y a rencontré deux personnages-clef : Tossanus, un Mentemiste de son âge, et Miranda, plus âgée qu'eux (à l'époque d'une cinquantaine d'années, mais sa potion de longévité de l'époque fonctionnait et n'en laissait rien paraître). Miranda était en quelque sorte leur mentor. C'est elle qui les a mis sur la piste de l'Arche de Noé, grâce à une copie de l'*Histoire de l'Arménie* rédigée en grec, dont elle avait entamé une traduction en latin. Les trois Mages ont longuement débattu de la marche à suivre : Miranda s'intéressait à la question essentiellement comme à un sujet théorique; et puis, une relation affective s'est nouée avec Tossanus, ce dernier espérant ce faisant obtenir de plus grandes informations et lever les réserves de Miranda. Le résultat fut ambigu : car, si Tossanus obtint ce faisant de plus amples informations, plus le temps s'écoulait, et plus Miranda, s'attachant à Tossanus, retardait l'issue de la traduction et ses recherches, afin de retarder son départ qu'elle savait inévitable. Un beau jour, Tossanus convainquit Proclus de partir sans regarder en arrière, en dérobant le manuscrit (inachevé) de Miranda. Plus tard, Proclus fut pris de remord et fit rédiger une copie abrégée du manuscrit latin qu'il renvoya à Miranda en guise d'excuse. Elle se faisait appeler "Mira" par Tossanus. Tossanus lui a lancé un puissant sort Muto Mentem qui détruit de manière permanente son esprit  
 * **Giulia de Jerbiton** : Mage qui mène des recherches sur le passé et le futur, et confond allègrement l'un et l'autre par l'effet du Crépuscule. Accusée à tort par Hectorus de l'agression subie par Miranda, mais acquittée grâce aux Mages de Villa Manlia.  
 * **Tristan de Bonisagus** : jeune homme affable, disciple de Trianoma, rongé par l'ambition. Il espérait gagner en notoriété en étant admis à l'Université, mais se rend compte qu'il n'a pas la patience requise pour la recherche fondamentale. Aussi accepte-t-il avec plaisir le marché que lui offre Hectorus : inviter Faustus à l'Université pour y poursuivre les recherches de Proclus; l'espionner, et tout rapporter à Hectorus
 
@@ -382,7 +383,7 @@ Domus Magna de Bonisagus
 * **Rheinart** : bibliothécaire édenté et véritable mémoire de Durenmar
 
 ## Autres  
-* **Carolus de Bonisagus<sup>†</sup>** : auteur de la *lancea magica*, invention magique basée sur une faille de la *parma magica* délibérément introduite par Bonisagus et Trianoma. Il s'est proclamé Rex de l'Ordre d'Hermès et a été éliminé par les Mages de Villa Manlia sur instructions de Murion.
+* **~~Carolus de Bonisagus~~** : auteur de la *lancea magica*, invention magique basée sur une faille de la *parma magica* délibérément introduite par Bonisagus et Trianoma. Il s'est proclamé Rex de l'Ordre d'Hermès et a été éliminé par les Mages de Villa Manlia sur instructions de Murion.
 
 # Tribunal de Rome
 
@@ -451,7 +452,6 @@ Alliance située dans le Monastère de Christopoulos à Constantinople
 * **Theodoret de Criamon**  
 * **Trasaricus de Criamon**
 
-
 ## Divers  
 * **Iphygenia de Bonisagus** : membre de la Garde de Prétorienne nourissant des soupçons sur Faustus et ayant décidé de l'éliminer sans l'aval de la Garde. En 1244, les personnages lui ont lavé le cerveau et supprimé ses soupçons sur Faustus... ce qui l'a plongée dans une sorte de folie et l'a conduite à attaquer Hectorus magiquement! Murion a tenté d'étouffer l'affaire.
 
@@ -462,7 +462,7 @@ Domus Magna Tremere, située dans le Tribunal Transylvanien.
 
 * **Africanus de Tremere** : contact de Sempronia de Guernicus;  
 * **Olympia de Tremere** : filia Africanus de Tremere, hautaine et arrogante;  
-* **Alphonsius de Tremere** : [[span style="background-color: yellow;"]][...][[/span]];  
+* **Alphonsius de Tremere** : <mark>[...]</mark>
 * **Grimald de Tremere** : filius Edelmir de Tremere, responsable de l'accueil des visiteurs de Coeris, vaincu en *certamen* par Scintillus;
 
 # Ordre d'Hermès en général  

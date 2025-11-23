@@ -1,7 +1,6 @@
 [[div style="float: right; width: 424px;"]]  
 ![|](http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Savonarola.jpg/424px-Savonarola.jpg)  
-[[size smaller]]Jérôme de Bonisagus. En réalité, portrait du prédicateur [Jérôme Savonarole](http://fr.wikipedia.org/wiki/Savonarole) par Fra Bartolomeo, dans sa cellule au couvent San Marco, 1498. Source : [http://fr.wikipedia.org/wiki/Fichier:Savonarola.jpg Wikicommons].[[/size]]  
-[[/div]]  
+Jérôme de Bonisagus. En réalité, portrait du prédicateur [Jérôme Savonarole](http://fr.wikipedia.org/wiki/Savonarole) par Fra Bartolomeo, dans sa cellule au couvent San Marco, 1498. Source : [Wikicommons](http://fr.wikipedia.org/wiki/Fichier:Savonarola.jpg) .
 Quelques mots sur Jérôme de Bonisagus, la Nemesis des personnages au cours de la première partie de la Saga de Villa Manlia.
 
 Jérôme réside à Mare Immobile, l’ancienne Alliance de Dubinaro. Elle tire son nom d’un lac de montagne au milieu duquel elle est bâtie : un lac immense, dont l’eau est en permanence parfaitement immobile, d’un noir profond, impossible pour le regard de crever la surface. Les Servants de l’Alliance y circulent parfois en barque, mais avec de grandes précautions, car ce qui circule sur la surface n’y reste jamais longtemps.

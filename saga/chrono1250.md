@@ -195,7 +195,7 @@ Séances des 11 avril,  16 mai, 12 juillet, 30 août et 22 novembre 2025. Scéna
 A l'issue de ce scénario mouvementé :
 - Le Praeco Oxioun de Tytalus est parti dans le Crépuscule Final après avoir été poignardé dans le dos
 - Le Princeps Quaesitor Protantus de Guernicus est occis par un *cultellus* planté dans le coeur
-- Exercitus de Tytalus et Calpurnia de Flambeau sont assassinés par Fastus, enterrés sous l'effondrement d'une galerie souterraine
+- Exercitus de Tytalus et Calpurnia de Tytalus sont assassinés par Fastus, enterrés sous l'effondrement d'une galerie souterraine
 - Anan le Karaïte est condamné à mort pour l'assassinat du Praeco et du Princeps Quaesitor, et est exécuté par les hoplites
 - Myralis de Jerbiton est condamnée par contumace à payer 100 pions de *vis* d'ici le prochain Tribunal, sous peine d'expulsion de l'Ordre. Elle est fugitive et latitante
 - Althalus de Tremere perd ses sceaux au profit de Julian de Tremere, et s'exile au Tribunal de Transylvanie
