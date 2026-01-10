@@ -1,3 +1,4 @@
+# La malédiction de Gemotte
 Avant d’arriver en pays d’Oïl, avec un assez bon succès en Perception + Attention, les personnages peuvent remarquer qu’ils sont dans une région où pas mal de fermes sont à l’abandon (deux ou trois depuis le dernier village).
 
 Au détour d’un chemin, un homme élégamment vêtu semble attendre sur le bas côté de la route. Il laisse les personnages passer, et leur adresse la parole s’ils ont continué leur chemin. Si les personnages lui adressent la parole, il ne dira d’abord rien, se contentera de les observer, puis, dans les deux cas, leur dira :  
