@@ -1,9 +1,5 @@
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
-
 # Introduction  
-[[f>toc]]
+
 
 Ce scénario constitue un prélude au scénario [ Promises, Promises](http://www.atlas-games.com/pdf_storage/promises_french.pdf) d’Atlas Games. Ce dernier scénario est assez sympathique mais il présente l’inconvénient d’être difficilement utilisable dans une Saga existante. J’en ai donc quelque peu modifié le contexte pour l’adapter à ma Saga.
 
@@ -34,8 +30,8 @@ En réalité, si Dikaïos est là, c’est pour demander un service… mais pas 
 
 L’idéal serait que Dikaïos ait un bon motif pour contraindre les personnages à lui rendre ce petit « service ». Il suffit de leur mettre sous le nez une violation du Code, fût-elle mineure, qu’ils aient commise, ou mieux, dont il n’est pas impossible qu’il l’ait commise. On se comprend… En l’espèce, Dikaïos posera de nombreuses questions embarrassantes aux personnages. Dans ma Saga :  
 * Pour quelle raison avoir fondé votre propre Alliance (en se tournant en particulier vers Dubinaro, qui a quitté Mare Immobile) ?  
-* Quelle est l’origine du nom de Sigfeín ? Pour quelle raison a-t-il quitté son ancien Tribunal ? Savez-vous qu’il existe encore des Mages Diedne en liberté ? Savez-vous pour quelle raison la Maison Diedne a été exterminée ? Avez-vous déjà eu des relations avec le démon ? Est-il vrai que vous ayez kidnappé une jeune enfant de huit ans pour la livrer aux puissances de l’Enfer ? (allusion au scénario *A small favour* issu de la Saga *[http:*www.atlas-games.com/pdf_storage/nigrasaxa.pdf Nigrasaxa]//)  
-* Quelles sont vos relations avec la Maison Mercere ? Savez-vous que les Toques Rouges jouissent des mêmes privilèges qu’un Mage doté du Don ? Avez-vous déjà molesté une Toque Rouge ? Considérez-vous que placer des serpents dans la sacoche d’une Toque Rouge constitue une tentative d’agression ? (allusion à l’épisode avec Aestrius dans le scénario *[http:*villamanlia.wikidot.com/ennemi L’Ennemi intérieur]//)  
+* Quelle est l’origine du nom de Sigfeín ? Pour quelle raison a-t-il quitté son ancien Tribunal ? Savez-vous qu’il existe encore des Mages Diedne en liberté ? Savez-vous pour quelle raison la Maison Diedne a été exterminée ? Avez-vous déjà eu des relations avec le démon ? Est-il vrai que vous ayez kidnappé une jeune enfant de huit ans pour la livrer aux puissances de l’Enfer ? (allusion au scénario *A small favour* issu de la Saga *[Nigrasaxa](http://www.atlas-games.com/pdf_storage/nigrasaxa.pdf)*)  
+* Quelles sont vos relations avec la Maison Mercere ? Savez-vous que les Toques Rouges jouissent des mêmes privilèges qu’un Mage doté du Don ? Avez-vous déjà molesté une Toque Rouge ? Considérez-vous que placer des serpents dans la sacoche d’une Toque Rouge constitue une tentative d’agression ? (allusion à l’épisode avec Aestrius dans le scénario *[L’Ennemi intérieur](ennemi.md)*)  
 * Enfin, sa carte maîtresse : Comment vous approvisionnez-vous en nourriture ? Quelles sont vos relations avec la noblesse locale ? Savez-vous qu’un Quaesitor dispose du droit de soumettre tout *sodalis* à la magie Intellego et que mentir à un Quaesitor constitue une violation du Code hermétique et, par voie de conséquence, du serment hermétique passible d’une Guerre des Magiciens ? Est-il vrai que vous ayez conclu un accord avec le Seigneur Robert pour réclamer une partie de ses récoltes en échange d’une part de celles-ci ? (nouvelle allusion à *A small favour*)
 
 Histoire d’inciter les PJ à faire vite, Dikaïos entend bien rester dans l’Alliance jusqu’à leur retour !
@@ -49,10 +45,13 @@ La route est longue à travers les montagnes, quoique sans péripétie particuli
 Ne pas oublier de mentionner le village qui se trouve au bord du lac, car c’est sur ce village qu’Ereditus est autorisé à lever des taxes en vertu de l’accord conclu avec l’abbé de Saint-Edmond.
 
 # Mare Immobile  
-[[div style="float: right; width: 710px;"]]  
-![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100099&E=JPEG&Deb=69&Fin=69&Param=C)  
-[[size smaller]]L'Alliance de Mare Immobile, perchée au centre d'un lac mystérieux. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100099&E=69&I=21054&M=imageseule), Français 111, fol. 79, Gauvain et Hector de Mares à l'Isle Perdue, manuscrit du XVe siècle.[[/size]]  
-[[/div]]  
+<div style="float: right; width: 710px;">
+
+![](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100099&E=JPEG&Deb=69&Fin=69&Param=C)
+
+<small>L'Alliance de Mare Immobile, perchée au centre d'un lac mystérieux. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100099&E=69&I=21054&M=imageseule), Français 111, fol. 79, Gauvain et Hector de Mares à l'Isle Perdue, manuscrit du XVe siècle.</small>
+
+</div>
 C’est l’ancienne Alliance du personnage d’Olivier. Elle tire son nom d’un lac de montagne au milieu duquel elle est bâtie : un lac immense, dont l’eau est en permanence parfaitement immobile, d’un noir profond, impossible pour le regard de crever la surface. Les Servants de l’Alliance y circulent parfois en barque, mais avec de grandes précautions, car ce qui circule sur la surface n’y reste jamais longtemps. Alliance d’été, comptant environ dix Mages, prenant la forme d’un château fortifié dont le toit en briques noires rappelle la couleur du lac.
 
 Arrivés à hauteur du lac, une barque sort des eaux, attend que les visiteurs embarqueent et les mène jusqu’au sombre château. La double porte s’ouvre, un Servant que Dubinaro reconnaît (un certain Marc) escorte les personnages jusqu’à un coin du château d’ordinaire utilisé comme réserve de nourriture : l’endroit est spartiate, d’autant que Dubinaro n’ignore pas que l’Alliance possède également des appartements somptueux pour les visiteurs de marque. Le Servant est glacial quoique courtois, il ne veut manifestement pas engager la conversation. Sur le chemin, d’autres Servants, dont Aurelius, le vieux bibliothécaire, évite de croiser leur regard.
@@ -70,12 +69,5 @@ A la sortie du *sanctum*, Jérôme félicite les personnages, Dikaïos est assur
 
 Il ne reste plus qu’à enchaîner avec le scénario « officiel » !
 
-[[>]]  
-Rafaël Jafferali  
-[[/>]]
-
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
-
-[[module Comments]]  
+---
+Rafaël Jafferali

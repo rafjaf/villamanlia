@@ -1,4 +1,3 @@
-[[f>toc]]  
 # Introduction  
 Ce scénario se joue *intra muros*, dans les murs de l’Alliance. Il vise à permettre aux joueurs de mieux connaître celle-ci, en interprétant notamment leurs Mages et quelques Servants occupés à leurs tâches quotidienne.
 
@@ -71,11 +70,5 @@ Rendons à César… :
 * L’interruption des personnages au milieu de la lecture du grimoire, et la bête qui surgit, ne sont pas sans lien avec la scène de la Moria (*Le Seigneur des Anneaux* de J.R.R. Tolkien)  
 * L’idée du monstre qui incarne les peurs des personnages est tirée de l'épouvantard (*boggart*) dans le roman de J.K. Rowling, *The prisoner of Azkaban*
 
-[[>]]  
-Rafaël Jafferali  
-[[/>]]  
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
-
-[[module Comments]]  
+---
+Rafaël Jafferali

@@ -1,9 +1,4 @@
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
-
 # Dramatis Personae  
-[[f>toc]]
 
 Dans la petite seigneurie de Luzac (une palissade en bois entourant le village et au centre un petit castel pas terrible, aura divine de 2) :  
 * Blanche, l'épouse du châtelain, morte en couche en mettant au monde Héloïse.  
@@ -17,16 +12,19 @@ Dans la petite seigneurie de Luzac (une palissade en bois entourant le village e
 * Six brigands à la solde du précepteur. Comment ? Quand il est arrivé au château, il s'est fait intercepter par eux sur la route et a sauvé sa peau en passant un deal avec eux : il se sert du coffre de la seigneurie pour les payer, et en échange ils lui rendent de menus services (effrayer les paysans qui ne paient pas la tonlieu, calmer les serfs trop revendicatifs, etc.). Dans la région, on murmure qu'ils sont à la solde du seigneur mais celui-ci ignore évidemment ce qu'il en est. Caractéristiques de combat : For +2, Ené +2, Dex +2, Viv +2, Small Weapon (Mace) 5, Bagarre (Esquive) 5, Mace Init +3, Atq +11, Dgt +10, Esquive +8, Encaissement (Heavy Leather + Tough Guy) +7.
 
 # Prolégomènes  
-[[div style="float:right; width: 447px;"]]  
-![|](http://classes.bnf.fr/ema/audio/img3/c067.jpg)  
-[[size smaller]]Valère Maxime, *Faits et dits mémorables*, France, XVe siècle. Source : Paris, [BnF](http://classes.bnf.fr/ema/audio/grands/c067.htm), département des Manuscrits, Français 6185 fol. 117.[[/size]]  
-[[/div]]
+<div style="float:right; width: 447px;">
+
+![](http://classes.bnf.fr/ema/audio/img3/c067.jpg)
+
+<small>Valère Maxime, *Faits et dits mémorables*, France, XVe siècle. Source : Paris, [BnF](http://classes.bnf.fr/ema/audio/grands/c067.htm), département des Manuscrits, Français 6185 fol. 117.</small>
+
+</div>
 
 Un beau jour, il y a neuf ans, le précepteur arrive au château. Il parvient rapidement à convaincre le châtelain, un peu perdu depuis la mort de sa femme, que ses enfants ne peuvent espérer trouver mari / se faire apprécier des autres chevaliers qu'en étant dotés de la meilleure éduction. Très vite, il exerce une véritable attraction sur Manon, à qui il donne des cours. Manon tombe folle amoureuse de lui, ils se voient en cachette. Anna a des soupçons, tente de la dissuader, mais Manon s'énerve, prend ses distances par rapport à sa gouvernante, confidente de toujours.
 
-Un jour, alors que le seigneur est parti chasser avec Luc et qu'Anna et Héloïse sont parties je ne sais où, Arnaut se  glisse dans la chambre de Manon et lui fait l'amour. Manon tombe enceinte, dissimule sa condition pendant plusieurs mois, puis n'y tenant plus, en parle à Arnaut, fait des plans sur la comète, se persuade qu'il faut tout déclarer à son père, qu'il pardonnera tout et lui permettra de l'épouser. Arnaut panique, il se voit perdre sa place, finir sur le gibet.
+Un jour, alors que le seigneur est parti chasser avec Luc et qu'Anna et Héloïse sont parties je ne sais où, Arnaut se glisse dans la chambre de Manon et lui fait l'amour. Manon tombe enceinte, dissimule sa condition pendant plusieurs mois, puis n'y tenant plus, en parle à Arnaut, fait des plans sur la comète, se persuade qu'il faut tout déclarer à son père, qu'il pardonnera tout et lui permettra de l'épouser. Arnaut panique, il se voit perdre sa place, finir sur le gibet.
 
-Ce soir-là, une troupe de troubadours, jongleurs, etc. sont venus égayer le château. Arnaut donne rendez-vous à Manon à l'orée du bois proche du château où ils se sont déjà retrouvés plusieurs fois. Manon s'éclipse discrètement au cours de la soirée, mais au lieu du rendez-vous, elle trouve les six brigands qui l'attendent. Ils la violent tour à tour et l'égorgent. A la fin, l'un des brigands arrache le pendentif qu'elle portait autour du cou, une perle sertie dans une fleur en argent[[footnote]]Source d'inspiration : le pendentif d'Arwen dans le film du *Seigneur des Anneaux*.[[/footnote]].
+Ce soir-là, une troupe de troubadours, jongleurs, etc. sont venus égayer le château. Arnaut donne rendez-vous à Manon à l'orée du bois proche du château où ils se sont déjà retrouvés plusieurs fois. Manon s'éclipse discrètement au cours de la soirée, mais au lieu du rendez-vous, elle trouve les six brigands qui l'attendent. Ils la violent tour à tour et l'égorgent. A la fin, l'un des brigands arrache le pendentif qu'elle portait autour du cou, une perle sertie dans une fleur en argent (Note : source d'inspiration : le pendentif d'Arwen dans le film du *Seigneur des Anneaux*).
 
 De son côté, Arnaut a persuadé Jean qu'il devrait se mettre à la recherche Manon, qui est sans doute sortie prendre l'air et glisse un ruban de celle-ci dans la poche du sot. Celui-ci la cherche au bord de la rivière qui coule au pied du château. Puis, lorsqu'on découvre en fin de soirée (et de beuverie…) la disparition de Manon, Arnaut organise les recherches, accuse publiquement Jean dont la culpabilité apparaît quand on retrouve le ruban sur lui. Il est pendu au gibet le lendemain et les recherches, infructueuses, conduisent à la conclusion que le corps de Manon a dû être emporté par la rivière dans laquelle Jean l'aura poussée.
 
@@ -37,7 +35,7 @@ Mais, traumatisée par les événements, l'âme de Manon ne parvient pas à quit
 L'un des personnages va entrer en connexion et être " hanté " par l'âme de Manon. Fonctionne sans doute mieux avec un compagnon. Plusieurs causes sont possibles : sensibilité accrue d'un personnage doté de Double Vue ou de Visions; désastre Mentem, Imaginem ou Intellego; ou simplement, en traversant une forêt, soudain un cheval ou un chien s'affole, un personnage croit apercevoir une jeune femme en habits de fête, tout de blanc vêtue, qui s'enfuit dans les bois. Il retrouve l'animal dans une clairière, la dame a disparu, il s'en va; mais elle restera avec lui.
 
 Manon se manifeste sous la forme de rêves, d'abord vagues puis de plus en plus précis et de plus en plus complets. Elle revit sa dernière soirée. Dans ces rêves, le personnage voit par les yeux de Manon. Le rêve complet - que le personnage n'aura que vers la fin du scénario - se déroule comme suit :  
-* La fête au château. Tournent les violons tournent[[footnote]]Ce scénario doit beaucoup à la chanson éponyme de Jean-Jacques Goldman.[[/footnote]], le vin, l'hydromel coulent à flots. Des bruits, des rires, des chansons, des danses. Le rêve se répète chaque nuit, et le personnage se réveille en sueur sans savoir pourquoi, la peur et même la douleur au ventre. Le rêve continue mais le personnage ne s'en rappelle pas.  
+* La fête au château. Tournent les violons tournent (Note : ce scénario doit beaucoup à la chanson éponyme de Jean-Jacques Goldman), le vin, l'hydromel coulent à flots. Des bruits, des rires, des chansons, des danses. Le rêve se répète chaque nuit, et le personnage se réveille en sueur sans savoir pourquoi, la peur et même la douleur au ventre. Le rêve continue mais le personnage ne s'en rappelle pas.  
 * Après quelques semaines, se réveille avec une plaie ouverte, une blessure légère (un coup de couteau). D'autres coups viendront s'il le faut.  
 * En se concentrant, le personnage parviendra à reconnaître la bannière du seigneur à l'arrière-plan de la salle. Avec des recherches il devrait être possible de retrouver le château. Alternativement, dans le rêve, on porte un toast au châtelain.  
 * Elle danse avec le sot du village, elle l'appelle Jean d'une voix flûtée et rit de bonheur. Elle croise son reflet dans un miroir.  
@@ -82,13 +80,5 @@ Rebondissement possible : accusé publiquement, Arnaut n'a plus rien à perdre e
 
 Happy end : le pendentif recouvre sa couleur d'origine. Si Héloïse comprend ce qui s'est passé, elle voudra remercier le personnage envoûté en lui remettant le pendentif en souvenir de sa sœur. Il contient 5 pions Mentem.
 
-[[>]]  
-Rafaël Jafferali  
-[[/>]]
-
-[[footnoteblock title="Notes"]]  
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
-
-[[module Comments]]  
+---
+Rafaël Jafferali

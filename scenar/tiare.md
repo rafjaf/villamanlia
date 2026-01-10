@@ -1,10 +1,6 @@
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
-
-[[f>toc]]  
 # Introduction  
-Le présent scénario, qui s’inscrit dans le cadre d’une Saga ayant pour toile de fond la croisade lancée contre les Cathares du Sud de la France au début du XIIIe siècle, constitue une fresque ambitieuse visant à associer les personnages aux développements diplomatiques et militaires des années 1212-1213, ayant culminés avec la Bataille de Muret lors de laquelle le roi Pierre II d’Aragon a trouvé la mort. Il vise également à octroyer aux personnages le second ingrédient nécessaire pour accomplir la [Prophétie de Manlius](http://villamanlia.wikidot.com/chrono#1209Au).
+# Introduction  
+Le présent scénario, qui s’inscrit dans le cadre d’une Saga ayant pour toile de fond la croisade lancée contre les Cathares du Sud de la France au début du XIIIe siècle, constitue une fresque ambitieuse visant à associer les personnages aux développements diplomatiques et militaires des années 1212-1213, ayant culminés avec la Bataille de Muret lors de laquelle le roi Pierre II d’Aragon a trouvé la mort. Il vise également à octroyer aux personnages le second ingrédient nécessaire pour accomplir la [Prophétie de Manlius](../saga/chrono.md).
 
 Ce scénario se décompose en cinq parties :  
 * Acte I. De Toulouse en Aragon. Les personnages sont invités à escorter le comte Raimond VI de Toulouse dans une mission diplomatique le conduisant auprès du roi Pierre II d’Aragon, dernier espoir des Provençaux dans leur lutte contre les Croisés.  
@@ -17,12 +13,12 @@ Je n’ai pas hésité à mêler, dans ce long récit, des éléments empruntés
 
 # Acte I. De Toulouse en Aragon  
 ## L'arrivée de Priscilla  
-[Priscilla de Jerbiton](http://villamanlia.wikidot.com/pnj#toc6) se présente aux portes de l'Alliance avec sa servante Silvia. Nous sommes au mois de septembre 1212 et Priscilla a bien changé depuis que les personnages l'ont vue pour la dernière fois. Après [la Chute de Bellaquin](http://villamanlia.wikidot.com/siegebellaquin), elle a "pris le maquis" et est entrée au service du comte de Toulouse. Trois années de privation ont donné à son visage des traits émaciés et endurcis, elle a perdu du poids, mais n'a rien perdu de sa morgue.
+[Priscilla de Jerbiton](../saga/pnj.md) se présente aux portes de l'Alliance avec sa servante Silvia. Nous sommes au mois de septembre 1212 et Priscilla a bien changé depuis que les personnages l'ont vue pour la dernière fois. Après [la Chute de Bellaquin](siegebellaquin.md), elle a "pris le maquis" et est entrée au service du comte de Toulouse. Trois années de privation ont donné à son visage des traits émaciés et endurcis, elle a perdu du poids, mais n'a rien perdu de sa morgue.
 
 Sans détour, elle annonce au Conseil des Mages que l'heure est grave. Certes, à l'été 1211, Toulouse a résisté au siège entrepris par les Croisés (auquel ont participé le nouvel abbé de Saint-Antonin ainsi que Dominique de Guzman), mais Montfort a eu tôt fait de mener une contre-offensive qui a mis à feu et à sang toute la région, y compris sur les terres du comte de Foix. Saverdun s'est soulevée puis a été reprise par la force. Montfort achève actuellement de pacifier la région et prendra bientôt ses quartier d'hiver à Pamiers, à quelques lieues à peine de l'Alliance des personnages. Enfin, il y a fort à craindre que, si rien n'est fait, Toulouse, déjà encerclée, tombera l'année prochaine.  
-Priscilla a dès lors convaincu Raimond VI de jouer sa dernière carte: se rendre en personne auprès du Roi d'Aragon, Pierre II, et de l'implorer d'intervenir dans le conflit. Il faudra en appeler aux liens du sang: Raimond est l'époux d'Eléonore, la sœur du roi, et son fils Raimondet a épousé Sancie, l'autre sœur du roi, qui est donc à un double titre le beau-frère du comte de Toulouse. Sans son intervention, les dots, ainsi que les domaines des futurs héritiers de ses soeurs, risquent de tomber aux mains des ignobles Français. Mais il y a plus: Montfort a déjà montré, en s'emparant des terres de Trencavel, lors de [la prise de Carcassonne](http://villamanlia.wikidot.com/delivrance#toc5), qu'il faisait bien peu de cas des droits du seigneur supérieur, qui était en l'occurrence Pierre II. Mais, si jamais Toulouse tombait aux mains des Croisés, le seigneur supérieur serait en toute hypothèse le Roi de France, et cette terre sortirait définitivement de l'orbite catalane. Enfin, Pierre II vient de remporter une importante victoire contre les Almohades, et a maintenant les mains libres pour s'occuper de la Provence.
+Priscilla a dès lors convaincu Raimond VI de jouer sa dernière carte: se rendre en personne auprès du Roi d'Aragon, Pierre II, et de l'implorer d'intervenir dans le conflit. Il faudra en appeler aux liens du sang: Raimond est l'époux d'Eléonore, la sœur du roi, et son fils Raimondet a épousé Sancie, l'autre sœur du roi, qui est donc à un double titre le beau-frère du comte de Toulouse. Sans son intervention, les dots, ainsi que les domaines des futurs héritiers de ses soeurs, risquent de tomber aux mains des ignobles Français. Mais il y a plus: Montfort a déjà montré, en s'emparant des terres de Trencavel, lors de [la prise de Carcassonne](delivrance.md), qu'il faisait bien peu de cas des droits du seigneur supérieur, qui était en l'occurrence Pierre II. Mais, si jamais Toulouse tombait aux mains des Croisés, le seigneur supérieur serait en toute hypothèse le Roi de France, et cette terre sortirait définitivement de l'orbite catalane. Enfin, Pierre II vient de remporter une importante victoire contre les Almohades, et a maintenant les mains libres pour s'occuper de la Provence.
 
-L'idée est donc que Raimond s'en aille plaider sa cause auprès de Pierre II d'Aragon. Pour éviter que Simon ne tente de s'interposer, il quittera Toulouse avec une escorte minimale et traversera les Pyrénées encore cet automne. Mais Priscilla se méfie de [Jérôme de Bonisagus](http://villamanlia.wikidot.com/pnj#toc17) et craint qu'il ne tente d'attenter à la vie de Raimond pendant le voyage. C'est là qu'interviennent les personnages: Priscilla souhaite qu'ils escortent le comte de Toulouse pendant le voyage et veillent à la sécurité de l'ambassade. Après tout, leur fait-elle remarquer, c'est dans leur intérêt bien compris: aussi puissant les sortilèges qui ont jusqu'à présent su protéger Villa Manlia, si Toulouse devait tomber, plus rien ne se dresserait désormais pour entraver la soif d'ambition de Montfort... et de Jérôme de Bonisagus.
+L'idée est donc que Raimond s'en aille plaider sa cause auprès de Pierre II d'Aragon. Pour éviter que Simon ne tente de s'interposer, il quittera Toulouse avec une escorte minimale et traversera les Pyrénées encore cet automne. Mais Priscilla se méfie de [Jérôme de Bonisagus](../saga/pnj.md) et craint qu'il ne tente d'attenter à la vie de Raimond pendant le voyage. C'est là qu'interviennent les personnages: Priscilla souhaite qu'ils escortent le comte de Toulouse pendant le voyage et veillent à la sécurité de l'ambassade. Après tout, leur fait-elle remarquer, c'est dans leur intérêt bien compris: aussi puissant les sortilèges qui ont jusqu'à présent su protéger Villa Manlia, si Toulouse devait tomber, plus rien ne se dresserait désormais pour entraver la soif d'ambition de Montfort... et de Jérôme de Bonisagus.
 
 Si on lui demande pourquoi elle n'y va pas elle-même, une chose extraordinaire se produit: Priscilla se met à rougir et bredouille: « Mais enfin, tu sais bien que je ne peux plus me rendre dans le Tribunal d'Ibérie! » Elle se reprend en ajoutant que, de toute façon, il faut bien qu'en l'absence du comte, quelqu'un assure la vacance du pouvoir, et elle a toujours été douée pour combler les vides!
 
@@ -38,14 +34,17 @@ A peine les personnages ont-ils accepté cette mission que Filou se met à miaul
 Priscilla s'étonne: ce château perché en haut d'un sommet, on dirait Magvillus...
 
 ## La traversée des Pyrénées  
-Pour accompagner le comte, outre les personnages et trois hommes d'arme, Adelbert de Noves et Dragonnet le Pieux (cf le scénario [La Mort d'un Légat](http://villamanlia.wikidot.com/mortlegat)).  
+Pour accompagner le comte, outre les personnages et trois hommes d'arme, Adelbert de Noves et Dragonnet le Pieux (cf le scénario [La Mort d'un Légat](mortlegat.md)).  
 Le trajet se déroule au départ sans encombre. Les routes sont peu fréquentées, la progression est bonne. A un moment, les personnages se sentent épiés sans pouvoir en indiquer la source. Mais, soudain, dans les montagnes, une vipère infernale (envoyée par Jérôme) se dresse sur la route du comte: celui-ci, pétrifié d'effroi, la regarde impuissant qu'elle le morde. La blessure semble anodine, mais évolue mal: la jambe gonfle, le comte ne sait bientôt plus marcher, puis il se met à délirer, sombre dans le coma... Ses hommes sont désemparés. La magie ordinaire ne peut l'aider. Heureusement, dans un village où l'on fait halte, un vagabond aveugle peut parler aux personnages d'une source miraculeuse à quelques jours à peine de marche. Enchaîner avec le scénario *The Pool of Nylasaira* tiré du supplément *Faeries: A Complete Handbook of the Seelie* (1ère édition d’Ars Magica).                  
 
 # Acte II.  
-[[div style="float:right; width: 650px;"]]  
-![|](http://cartelen.louvre.fr/pub/fr/image/31044_p0003396.001.jpg)  
-[[size smaller]]Selima de Flambeau, dansant pour Sigfein la danse du Jinn. En réalité, *La Décollation de Saint Jean-Baptiste et le Banquet d'Hérode*, par Fra Angelico, vers 1427-1428, représentant la danse des sept voiles que Salomé effectue pour obtenir du Roi Hérode la tête de Saint Jean-Baptiste. Source : Paris, [Louvre](http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=1216&langue=fr), R.F. 196.[[/size]]  
-[[/div]]  
+<div style="float:right; width: 650px;">
+
+![](http://cartelen.louvre.fr/pub/fr/image/31044_p0003396.001.jpg)
+
+<small>Selima de Flambeau, dansant pour Sigfein la danse du Jinn. En réalité, <em>La Décollation de Saint Jean-Baptiste et le Banquet d'Hérode</em>, par Fra Angelico, vers 1427-1428, représentant la danse des sept voiles que Salomé effectue pour obtenir du Roi Hérode la tête de Saint Jean-Baptiste. Source : Paris, <a href="http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=1216&langue=fr">Louvre</a>, R.F. 196.</small>
+
+</div>
 ## A la Cour du Roi d'Aragon  
 L'accueil de Pierre II est chaleureux mais la partie est loin d'être gagnée d'avance. Lui et le comte de Toulouse s'enferment pour négocier. Pendant ce temps, les personnages rencontrent Balthus, qui demandent des nouvelles à Esperanza de Priscilla. Comme elle ne se rappelle plus de lui, il avoue qu'il s'en doutait, que c'est tout à fait le style de Priscilla de couvrir les traces de ses échecs. Balthus est un peu nostalgique mais demande a Esperanza de dire à sa *mater* que si c'était à refaire, il agirait de la même manière. Arrive alors Selima, une superbe femme aux cheveux noir de jais et à la souplesse d'une danseuse, qui n'est pas sans rappeler Esperanza. Un flamme dans les yeux, elle demande à Esperanza de rappeler à sa *mater* que sa promesse tient toujours.
 
@@ -66,10 +65,13 @@ Adaptation du Chapitre II du supplément *A Midsummer Night’s Dream*.
 
 # Acte IV. Le Tribunal romain  
 ## A la Cour du Pape  
-[[div style="float:right; width: 509px; margin: 10px"]]  
-![|](http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Innozenz3.jpg/509px-Innozenz3.jpg)  
-[[size smaller]]Portrait d'Innocent III tiré d'une fresque au cloître de Sacro Speco (XIII<sup>e</sup> siècle). Source : [http://fr.wikipedia.org/wiki/Fichier:Innozenz3.jpg Wikipedia].[[/size]]  
-[[/div]]
+<div style="float:right; width: 509px; margin: 10px;">
+
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Innozenz3.jpg/509px-Innozenz3.jpg)
+
+<small>Portrait d'Innocent III tiré d'une fresque au cloître de Sacro Speco (XIII<sup>e</sup> siècle). Source : <a href="http://fr.wikipedia.org/wiki/Fichier:Innozenz3.jpg">Wikipedia</a>.</small>
+
+</div>
 
 
 C’est l’occasion de faire découvrir aux personnages le faste de la curie romaine. Conformément aux indications du comte Raimond, les personnages ne devraient pas lâcher les ambassadeurs de Pierre II d’une semelle (leur faire craindre que, s’il en allait autrement, ceux-ci risqueraient de d’obtenir du pape une décision dans le seul intérêt de Pierre plutôt que de Raimond). L’implication des personnages est essentielle pour la suite de l’intrigue.  
@@ -105,18 +107,18 @@ Il s’agit, bien évidemment, d’un piège. En effet, en passant sous le joug 
 
 Les personnages circulent dans l’Alliance jusqu’à ce qu’ils arrivent en vue du temple de la Justice, à l’intérieur duquel il semble y avoir une certaine animation (on peut même entendre « Villa Manlia » dans un éclat de voix). Il y a deux gardes à l’entrée, mais qui n’ont pas reçu l’instruction d’arrêter les personnages. En réalité, c’est le procès des personnages qui est en cours ! Ils arrivent juste au moment où Isauricus s’est rassis et où le préteur (Hortensius) est en train de lire sa sentence :
 
-[[div class="citation"]]  
+<div class="citation">
 > « (…) Attendu que les éléments portés à Notre connaissance attestent ainsi de l’existence d’indices graves d’une violation majeure du Code hermétique ;  
 > Qu’il y a lieu de craindre que les accusés ne tentent de se soustraire à la mainmise de la Justice hermétique ;  
 > Et attendu que les accusés se sont placés de leur plein gré sous la juridiction de Magvillus ;  
 > Par ces motifs, statuant in necessitate et abstentia reorum,  
 > Faisons défense à Dubinaro de Bonisagus, Esperanza de Jerbiton, Scintillus de Flambeau et Sigfein de Bjornaer de quitter le Tribunal romain sans notre autorisation ;  
 > Et leur ordonnons de se présenter devant Nous, selon la convocation qu’il leur sera adressée, afin d’être entendus en leurs dires et moyens sur les accusations portées contre eux. »  
-[[/div]]
+</div>
 
 La séance est ensuite immédiatement levée, et les personnages ont tout juste l’occasion de voir Dama disparaître avec Isauricus dans l’un des cercles intérieurs de l’Alliance auquel l’accès leur est interdit.
 
-Une Mage approche alors les personnages. Il s’agit de Sempronia, une jeune Quaesitor appartenant au parti des *populares* [[footnote]]Pour les intrigues internes à Magvillus, je me suis inspiré de la situation politique à l’époque de Cicéron et Catilina. Cons. notamment à ce propos les excellents romans de R. Harris, *Imperium* et *Lustrum*.[[/footnote]], belle, distinguée et passionnée, marchant pieds nus, dont la magie est liée aux arts du chant et de la danse. Comme Isauricus, elle brigue le poste de consul. Elle explique aux personnages qu’ils se sont fait berner; qu’Isauricus, qui appartient au parti des *optimates*, c’est-à-dire des conservateurs, veut faire des personnages un exemple de sa fermeté dans le cadre de sa candidature au poste de consul de Magvillus. Sempronia est prête à intercéder dans le procès à intervenir pour le compte des personnages, à condition qu’ils soient prêts à lui rendre un service. Elle sait que le parti d’Isauricus inondent les électeurs de cadeaux sous forme de pions de *vis* et que son principal fournisseur de *vis* n’est autre qu’Antonio, le Mage de Verditius déjà évoqué. Elle veut faire tomber Antonio qu’elle soupçonne d’avoir vendu des objets prohibés à un prince de l’Eglise. Elle demande aux personnages d’enquêter sur Antonio et de se procurer les preuves de son commerce illicite. A sa connaissance, il doit les avoir dans son palais, dans lequel il faut s’introduire pour y dérober les preuves et les rapporter à Sempronia.
+Une Mage approche alors les personnages. Il s’agit de Sempronia, une jeune Quaesitor appartenant au parti des *populares* (Note : pour les intrigues internes à Magvillus, je me suis inspiré de la situation politique à l’époque de Cicéron et Catilina. Cons. notamment à ce propos les excellents romans de R. Harris, *Imperium* et *Lustrum*), belle, distinguée et passionnée, marchant pieds nus, dont la magie est liée aux arts du chant et de la danse. Comme Isauricus, elle brigue le poste de consul. Elle explique aux personnages qu’ils se sont fait berner; qu’Isauricus, qui appartient au parti des *optimates*, c’est-à-dire des conservateurs, veut faire des personnages un exemple de sa fermeté dans le cadre de sa candidature au poste de consul de Magvillus. Sempronia est prête à intercéder dans le procès à intervenir pour le compte des personnages, à condition qu’ils soient prêts à lui rendre un service. Elle sait que le parti d’Isauricus inondent les électeurs de cadeaux sous forme de pions de *vis* et que son principal fournisseur de *vis* n’est autre qu’Antonio, le Mage de Verditius déjà évoqué. Elle veut faire tomber Antonio qu’elle soupçonne d’avoir vendu des objets prohibés à un prince de l’Eglise. Elle demande aux personnages d'enquêter sur Antonio et de se procurer les preuves de son commerce illicite. A sa connaissance, il doit les avoir dans son palais, dans lequel il faut s'introduire pour y dérober les preuves et les rapporter à Sempronia.
 
 Les personnages n’ont pas trop le choix. En surveillant la résidence d’Antonio, ils peuvent en effet constater les allées et venues de plusieurs prélats, dont d’ailleurs le chancelier Giovanni Conti di Segni. Le palais est grand, sombre et inquiétant, on y trouve des objets étranges, des statues qui ont l’air de suivre les visiteurs de l’œil, des oiseaux en or qui se mettent à gazouiller quand on approche, etc. Evidemment, il y a ici tellement d’enchantements que les personnages finiront bien par être surpris par le Verditius. Celui-ci fait preuve d’un calme étonnant. Il souhaite connaître la raison de la visite des personnages (en réalité, il s’en doute) et leur propose finalement un marché. Il est prêt à oublier l’incident et même à introduire les personnages auprès du pape via le chancelier Giovanni Conti di Segni, à condition que les personnages lui rendent un service : s’emparer d’un puissant artefact – une bêche – qui se trouve enfouie quelque part dans les catacombes au sud de Rome.
 
@@ -139,16 +141,19 @@ Comment rencontrer le Pape et, ainsi, le convaincre d’intercéder auprès de l
 
 Comment échapper aux poursuites hermétiques?  
 * Grâce à Sempronia  
-* En surprenant une conversation entre Isauricus et quelqu'un d'autre, hors de Magvillus (par exemple avec Antonio). En effet, en entendant sa voix, les personnages reconnaissent celle d'un des personnages encapuchonnés ayant pris part à la cérémonie de Mithra à Doissetteppe lors du [Dernier Tribunal](http://villamanlia.wikidot.com/derniertrib). Or, nul ne voudrait élire à la tête de Magvillus une taupe de Doissetteppe! Ne reste qu'à le faire chanter ou le décrédibiliser. Explique aussi pourquoi il en veut tant aux personnages: ceux-ci s'opposent à la politique de Doisssetteppe.
+* En surprenant une conversation entre Isauricus et quelqu'un d'autre, hors de Magvillus (par exemple avec Antonio). En effet, en entendant sa voix, les personnages reconnaissent celle d'un des personnages encapuchonnés ayant pris part à la cérémonie de Mithra à Doissetteppe lors du [Dernier Tribunal](derniertrib.md). Or, nul ne voudrait élire à la tête de Magvillus une taupe de Doissetteppe! Ne reste qu'à le faire chanter ou le décrédibiliser. Explique aussi pourquoi il en veut tant aux personnages: ceux-ci s'opposent à la politique de Doisssetteppe.
 
 A l’issue de cette étape du scénario, le pape émet une bulle dans laquelle il entérine entièrement les propositions de Pierre II d’Aragon et ordonne ainsi une suspension de la Croisade. Les personnages seraient-ils parvenus à leurs fins ?...
 
 # Acte V. La bataille de Muret  
 ## L’échec du front diplomatique  
-[[div style="float:right; width: 448px; margin: 10px;"]]  
-![|](http://upload.wikimedia.org/wikipedia/commons/b/bb/Battle_of_Muret.jpg)  
-[[size smaller]]La Bataille de Muret, enluminure du XIV<sup>e</sup> siècle, BnF, *Grandes Chroniques de France*, Manuscrit français 2813, fol. 252v. Source : [http://fr.wikipedia.org/wiki/Fichier:Battle_of_Muret.jpg Wikipedia].[[/size]]  
-[[/div]]  
+<div style="float:right; width: 448px; margin: 10px;">
+
+![](http://upload.wikimedia.org/wikipedia/commons/b/bb/Battle_of_Muret.jpg)
+
+<small>La Bataille de Muret, enluminure du XIV<sup>e</sup> siècle, BnF, <em>Grandes Chroniques de France</em>, Manuscrit français 2813, fol. 252v. Source : <a href="http://fr.wikipedia.org/wiki/Fichier:Battle_of_Muret.jpg">Wikipedia</a>.</small>
+
+</div>
 Les personnages repartent de Rome avec Hispan et Me Colomb au début décembre 1212, sont de retour à Barcelone à la fin du mois et franchissement à nouveau les Pyrénées en compagnie de Pierre II et Raymond VI (M. Roquebert, *o.c.*, p. 90 et s.). Le roi Pierre II s’installe à Toulouse et informe Simon de Montfort et Arnaud-Amaury qu’il désire s’entretenir avec eux en vue d’un règlement pacifique du conflit. Les personnages peuvent assister aux négociations mais Priscilla leur propose de regagner leur Alliance et promet de les tenir au courant par courriers réguliers. (Elle préfère ne pas les avoir dans les pattes…)  
 Rendez-vous est pris entre Toulouse et Lavaur – à Verfeil, tout près des ruines de Bellaquin… Le 14 janvier, le roi rencontre Arnaud-Amaury et demande la restitution des comtés de Toulouse, Comminges et Foix. Arnaud-Amaury demande au roi de mettre par écrit ses propositions, le roi réclame en échange une trêve militaire d’une semaine, qui est acceptée. Le roi rentre le 16 janvier à Toulouse où il rédige ses propositions, dans la droite ligne de ce qu’il a demandé au pape. Le 18 janvier, l’assemblée de Lavaur, composée de nombreux prélats, évêques, etc., refuse tout net. Il se déclare incompétent pour discuter du sort de Raimond de Toulouse, au motif que la compétence relèverait du pape, et en profite pour accabler celui-ci. Le concile de Lavaur allègue en effet (M. Roqubert, *o.c.*, p. 125) que Raimond VI étant sous le coup d’une excommunication, il ne peut être entendu par eux, sauf mandat spécial du pape.
 
@@ -189,17 +194,7 @@ Pendant ce temps, la bataille s’engage dans la plaine. Puisqu’Ambroise a la 
 Montfort et la cavalerie sortent de Muret qu’ils contournent vers l’est, font mine de s’enfuir, puis chargent en trois corps sur les aragonnais. Le choc avec la première vague des milices confondérées, menée par le comte de Foix, est brutale. Les croisés passent au travers et se portent à la rencontre de la deuxième vague des confédérés au milieu de laquelle se trouve Ambroise sous les armes du roi d’Aragon. Duel entre Ambroise et Saverdun, mais celui-ci s’aperçoit qu’Ambroise n’est pas le roi, le crie à ses troupes. Pour se désengager, Saverdun recourt – évidemment – à une ruse : Fluffy apparaît soudain derrière Ambroise et enfonce un poignard dans le flanc de son cheval, qui se cabre puis par au galop dans la mêlée. Avec un sourire sardonique, Saverdun se met en quête du roi, lequel s’écrie : « Je suis le roi ! », et est achevé par Saverdun. Un grand cri de victoire traverse l’armée des Croisés.  
 L’armée aragonaise et toulousaine est mise en déroute, Juan est tué, Priscilla et Raimond s’enfuient tant bien que mal en barque, de même que Balthus, qui hésite jusqu’au dernier moment. 
 
-C’en est fini des espoirs nourris par le parti toulousain…  
-[[div]]
+C’en est fini des espoirs nourris par le parti toulousain…
 
-[[/div]]  
-[[>]]  
-Rafaël Jafferali  
-[[/>]]
-
-[[footnoteblock title="Notes"]]  
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
-
-[[module Comments]]  
+---
+Rafaël Jafferali

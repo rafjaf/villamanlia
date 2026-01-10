@@ -1,18 +1,16 @@
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]  
-[[div style="float:right; width: 40%"]]  
+<div style="float:right; width: 40%">
 Carmen, je suis comme un homme ivre,  
 si je cède, si je me livre,  
 ta promesse, tu la tiendras,  
 ah! si je t'aime, Carmen, Carmen, tu m'aimeras!  
 — Bizet, *Carmen*, Acte I, Scène X  
-[[/div]]  
-~~~~
 
-[[f>toc]]  
+</div>
+
+---
+
 # Introduction  
-Le présent scénario constitue la suite des scénarios *A small favour* issu de la saga *[http:*www.atlas-games.com/pdf_storage/nigrasaxa.pdf Nigrasaxa]* (au cours duquel les personnages ont délivré Mathilde, la fille du Seigneur Robert d’Aurillac, de la forêt du Seigneur féerique Desmissel après avoir convenu avec celui-ci qu’il veillerait pendant sept années sur les récoltes du Seigneur Robert) et *[L’Ennemi intérieur](http://villamanlia.wikidot.com/ennemi)// (au cours duquel Sigfeín s’est par mégarde engagé vis-à-vis de la Sorcière des Marais de Lariandre à lui rapporter trois cheveux de l’être auquel le Roi Aldarin tient le plus au monde – serment qu’il n’a pas tenu –, et où les personnages ont fait la connaissance de Pierre de Saverdun ainsi que de Priscilla de Jerbiton).
+Le présent scénario constitue la suite des scénarios *A small favour* issu de la saga *[Nigrasaxa](http://www.atlas-games.com/pdf_storage/nigrasaxa.pdf)* (au cours duquel les personnages ont délivré Mathilde, la fille du Seigneur Robert d’Aurillac, de la forêt du Seigneur féerique Desmissel après avoir convenu avec celui-ci qu’il veillerait pendant sept années sur les récoltes du Seigneur Robert) et *[L’Ennemi intérieur](ennemi.md)* (au cours duquel Sigfeín s’est par mégarde engagé vis-à-vis de la Sorcière des Marais de Lariandre à lui rapporter trois cheveux de l’être auquel le Roi Aldarin tient le plus au monde – serment qu’il n’a pas tenu –, et où les personnages ont fait la connaissance de Pierre de Saverdun ainsi que de Priscilla de Jerbiton).
 
 Son adaptation à une autre Saga requerra donc quelques efforts mais ne devrait pas s’avérer insurmontable. Il suffit, en effet, que les personnages aient conclu un pacte avec les êtres féeriques et aient ultérieurement offensé d’autres membres du Peuple des fées. Pour le reste, il n’est pas indispensable que les personnages connaissent déjà Pierre de Saverdun et Priscilla de Jerbiton, même si cela ajoute bien sûr de la saveur à la rencontre.  
 # Un seigneur mécontent  
@@ -39,7 +37,7 @@ Et si périlleuse et si profonde
 Que toute créature en ce monde.  
 Si elle y était tombée,  
 Aurait été perdue comme dans l'océan.//  
-— Chrétien de Troyes, *[http:*europa.perso.cegetel.net/lancelot/lancelot/lancelot02.htm Lancelot ou le Chevalier à la charrette]//
+— Chrétien de Troyes, *[Lancelot ou le Chevalier à la charrette](http://europa.perso.cegetel.net/lancelot/lancelot/lancelot02.htm)*
 
 Sur le pont se tient un chevalier tout en armure, dont même la tête est recouverte d’un casque de forme oblongue. Une grande épée est plantée dans le pont entre ses jambes et ses mains reposent sur sa paume. En s’approchant, les personnages entendent comme des reniflement, des grognements. C’est que, sous le casque de l’armure, se cache une tête de sanglier : ce n’est que par l’odorat que le chevalier perçoit les personnages. Le casque est tellement grand qu’il ne semble laisser aucune place pour le regard…
 
@@ -67,16 +65,16 @@ L’ancien seigneur de Saverdun a eu un premier fils nommé Pierre. La mère de 
 A la mort de son père, sa seconde épouse l’ayant suivi de près dans la tombe, Pierre de Saverdun a hérité de la seigneurie. Possède-t-il le don ? Toujours est-il qu’il a appris, peu à peu, à maîtriser les pouvoirs de la bague. Dedans est enfermé un esprit magique puissant, qui lui permet de commander à d’autres esprits, magiques ou féeriques. C’est ainsi qu’il a son service Fluffy, un lutin malicieux (voy. infra). Sous ses airs amusants, Fluffy est un redoutable conseiller, qui a éveillé dans le cœur de Pierre l’ambition qui s’y trouvait en germe. Il l’a ainsi convaincu de se débarrasser d’André et de Séverine, au prétendu motif qu’ils le jalousaient et voulaient s’emparer de son pouvoir. Par ailleurs, Fluffy l’a convaincu que s’il épousait une fée, il pourrait la dépouiller de ses pouvoirs et accroître ainsi son influence. Avec l’aide de Fluffy, Pierre s’est ainsi rendu à la cascade enchantée où il a séduit une Dryade, lui promettant son cœur en échange du sien; la Dryade l’a mené à un arbre au sein duquel elle y a pris son cœur, mais Pierre a alors utilisé les pouvoirs de sa bague pour soumettre la Dryade à sa volonté et, maître de son cœur, il l’a contrainte à le suivre. Tout cela remonte au printemps dernier.
 
 Revenu au château, André est immédiatement tombé amoureux de la Dryade, que Pierre a baptisé Guenièvre. André ignorait au départ sa véritable nature; mais, à mesure que le printemps et l’été passaient et que la Dryade se trouvait séparée de son cœur et de sa forêt, ses forces faiblissent et elle se fait plus docile. Bientôt, elle sera entièrement sous la coupe de Pierre de Saverdun. Celui-ci a décidé d’attendre, sur les conseils de Fluffy, l’hiver, et plus précisément le 25 décembre pour épouser Guenièvre, car en ce jour de naissance du Christ, la fée sera la plus faible, et Pierre sera enfin maître de ses pouvoirs. André s’est néanmoins introduit dans les appartements de Guenièvre de qui il a appris sa vraie nature; elle lui a également révélé que Pierre a enfermé son cœur dans un coffre dont il porte en permanence la clef autour du cou, mais elle ignore où ce coffre a été dissimulé. André a sa petite idée sur la question : il a surpris une conversation entre Pierre et Ménard, le premier ordonnant au second de se rendre dans la vieille forêt au cœur de laquelle se trouve un château hanté, et au cœur de ce château une cour, et au milieu de la cour un puits, au fonds duquel il est chargé de jeter le coffre. (A nouveau, c’est Fluffy qui lui a donné cette idée.) André décide alors d’aider Guenièvre à s’évader, mais grâce à la surveillance de Fluffy, il se fait cueillir par dix gardes armés, accusé de haute trahison et jeté dans les geôles du château. Séverine, prévenue par son frère que celui-ci allait tenter de libérer Guenièvre (mais ignorant pour quels motifs), a tout juste le temps de s’enfuir. Depuis, elle erre aux abords du château en cherchant à libérer son frère.  
-[[div style="float: right; width: 512px"]]  
-![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-7839135&E=JPEG&Deb=1&Fin=1&Param=C)  
-[[size smaller]]Le tournoi de Saverdun. Source : Tournoi du Chastel aux Puceles (1463), Français 99, fol. 265v, [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=7839135&E=1&I=20336&M=imageseule).[[/size]]  
-[[/div]]  
+
 ## La cascade abandonnée  
 C’est une jolie cascade, mais l’atmosphère en est troublée : à côté, à flanc de montagne, il y a un chêne dont les entrailles sont béantes et calcinées. C’est là que ce se trouvait le cœur, mais l’arbre est sur le point de mourir. Sur une branche de l’arbre, une pie voleuse se moque des personnages en leur disant que s’ils voulaient s’emparer du cœur de la Dryade, ils arrivent trop tard, car un autre les a devancés ! Dans son nid, elle a conservé un morceau d’étoffe rouge du prince venu jusqu’ici; mais les personnages ont intérêt à lui offre quelque chose de brillant en échange !
 
 En voyageant dans la région, les personnages apprendront bien vite la nouvelle dont tout le monde parle : une grande fête se prépare, car Pierre de Saverdun est sur le point de se marier.
 
 # La ville de Saverdun en effervescence
+
+![](https://mandragore.bnf.fr/iiif/ark:/12148/btv1b78391350/f1.highres)
+<small>Le tournoi de Saverdun. Source : Tournoi du Chastel aux Puceles (1463), Français 99, fol. 265v, [BnF](https://mandragore.bnf.fr/ark:/12148/cgfbt20336f).</small>
 
 La ville est en liesse dans les jours qui précèdent la cérémonie de mariage et la fête de Noël. Les personnages doivent trouver un moyen de (i) s’approcher de Guenièvre, qui leur apprendra qu’elle ne peut s’enfuir sans avoir récupéré son cœur, et (ii) dérober la clef en or qui pend autour du cou de Pierre de Saverdun. Plusieurs approches sont possibles :  
 * Participer à la joute équestre à laquelle assistent Pierre de Saverdun et sa promise. Trois lances sont utilisées, et ensuite combat à l’épée. Le meilleur chevalier remportera une superbe épée, une récompense en argent, et aura le droit de dîner à la table du seigneur le soir.  
@@ -94,11 +92,11 @@ Les personnages s’engouffrent dans une forêt d’où se dégage une impressio
 
 Surgit devant eux un lutin, chaussé de bottes vertes et portant une tunique orange flamboyant. Dans son dos est repliée une paire d’ailes rouge vif. Retirant son chapeau, il s’incline longuement devant les personnages et offre de les guider à travers la forêt. C’est un piège ! Nommé Fluffy, ce petit lutin est à la solde de Pierre de Saverdun. Il conduit les personnages à travers bois jusqu’à proximité d’un torrent de montagne dont on entend le mugissement à portée; soudain, le sol s’effondre sous les pieds des personnages, qui tombent dans une fondrière. Le lutin, se penchant sur le bord, leur conseille de garder leur calme et, surtout, de ne pas bouger, il s’en va chercher de l’aide ! En fait de quoi, il s’empresse de détourner le courant du torrent pour noyer les personnages. Voilà ce qu’on appelle être serviable…
 
-## Le château aux mille trésors  ^chateau
+## Le château aux mille trésors
 Les personnages arrivent enfin à un château inquiétant, perché au sommet d’une colline entre des monts déchiquetés. Il règne en ces lieux un calme mortel. Aucun son ne se fait entendre. Le pont-levis est abaissé, et au-dessus de l’entrée, gravés dans la pierre, figure un blason représentant un dragon enserrant un trésor en se mordant la queue ainsi que l’avertissement suivant :
 
-= *Bona mea nemo invidet, nisi insanus*  
-= (Nul, si ce n’est un fou, ne convoite mes richesses)
+> *Bona mea nemo invidet, nisi insanus*  
+> (Nul, si ce n’est un fou, ne convoite mes richesses)
 
 Un jet d’Intelligence + Connaissance de la région permet de savoir que :  
 * Désastre : un dragon hante ces lieux, et s’apprête à dévorer tout aventurier qui convoiterait son trésor.  
@@ -124,12 +122,5 @@ Caractéristiques des squelettes : Force Magique 5 (résistance aux sorts affect
 Si les personnages retournent à la cascade pour y replacer le cœur, ils assistent à la scène suivante à travers la brume produite par la cascade : dans l’église, alors que Pierre et Guenièvre marchent vers le chœur, tout d’un coup, une vive lumière irradie de Guenièvre, les portes de l’église sont ouvertes à la volée par un grand courant d’air, et soudain Guenièvre disparaît, emportée par le vent, renversant les bancs et les gens sur son passage. Happy end !
 
 
-[[>]]  
-Rafaël Jafferali  
-[[/>]]
-
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
-
-[[module Comments]]  
+---
+Rafaël Jafferali

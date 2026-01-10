@@ -1,6 +1,6 @@
 # Hiver 1214
 
-Ce Tribunal a été ajourné *sine die* par décision du Praeco, comme exposé [http:// ici], confirmant ainsi la funeste [prédiction](http://villamanlia.wikidot.com/derniertrib) d'Erat Caecus. 
+Ce Tribunal a été ajourné *sine die* par décision du Praeco (lien manquant), confirmant ainsi la funeste [prédiction](../scenar/derniertrib.md) d'Erat Caecus.
 
 Cette situation ô combien regrettable précipite le Tribunal dans une situation de non-droit et permet ainsi commodément à certains, au premier chef desquels Jérôme de Bonisagus bien entendu, de poursuivre leurs noirs desseins à l'abri de la légalité hermétique.
 
@@ -13,233 +13,21 @@ Au cours de celui-ci, les Mages de Villa Manlia apprennent que Priscilla, revenu
 
 Au cours de ce Tribunal, les points suivants ont été délibérés. 
 
+| Alliance | Restitution broche | Source Bellaquin | Jérôme de Bonisagus | Néant |
+| --- | --- | --- | --- | --- |
+| Doïseteppe (18) | 5O - 13N | 14O - 4N | 4O - 9N | - |
+| Mercere et Guernicus (5) | - | - | 2O | - |
+| Grisfaucon (9) | 3O - 6N | 5O - 4N | 6O - 4N | - |
+| Lariandre (5) | 4O - 1N | 5O - 0N | 4O - 0N | - |
+| Mare Immobile (11) | 11O - 0N | 0O - 11N | 0O - 11N | - |
+| Nouvelle Bellaquin (12) | 0O - 12N | 12O - 0N | 12O - 0N | - |
+| Sapientia Aetatum (7) | 7O - 0N | 7O - 0N | 7O - 0N | - |
+| Val Negra (4) | - | - | - | - |
+| Villa Manlia (4) | 0O - 4N | 4O - 0N | 4O - 0N | - |
+| Divers (5) | 2O - 3N | 4O - 1N | 3O - 1N | - |
+| **TOTAL (76)** | 32O - 39N | 46O - 25N | 42O - 25N | - |
 
-[[table]]  
-[[row]]  
-[[hcell style="border: 1px solid silver; background-color: #99FF66;"]]  
-Alliance  
-[[/hcell]]  
-[[cell style="border: 1px solid silver; background-color: #00FFFF" colspan="2"]]  
-Délibérations  
-*in rem*  
-[[/hcell]]  
-[[hcell style="border: 1px solid silver; background-color: #00FFFF"]]  
-Délibérations  
-*in personam*  
-[[/hcell]]  
-[[hcell style="border: 1px solid silver; background-color: #00FFFF;"]]  
-Délibérations  
-*in ordinem*  
-[[/hcell]]  
-[[/row]]  
-[[row]]  
-[[hcell style="border: 1px solid silver; background-color: #FFFF00;"]]  
-Délibération  
-[[/hcell]]  
-[[cell style="border: 1px solid silver; background-color: #FFFF00"]]  
-Restitution broche  
-[[/cell]]  
-[[cell style="border: 1px solid silver; background-color: #FFFF00"]]  
-Source Bellaquin  
-[[/cell]]  
-[[cell style="border: 1px solid silver; background-color: #FFFF00"]]  
-Jérôme de Bonisagus  
-[[/cell]]  
-[[cell style="border: 1px solid silver; background-color: #FFFF00"]]  
-Néant  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="border: 1px solid silver; background-color: #D3D3D3"]]  
-Doïseteppe (18)  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-5O - 13N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-14O - 4N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-4O - 9N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="border: 1px solid silver; background-color: #D3D3D3"]]  
-Mercere et  
-Guernicus (5)  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-2O  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="border: 1px solid silver; background-color: #D3D3D3"]]  
-Grisfaucon (9)  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-3O - 6N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-5O - 4N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-6O - 4N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="border: 1px solid silver; background-color: #D3D3D3"]]  
-Lariandre (5)  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-4O - 1N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-5O - 0N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-4O - 0N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="border: 1px solid silver; background-color: #D3D3D3"]]  
-Mare Immobile (11)  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-11O - 0N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-0O - 11N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-0O - 11N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="border: 1px solid silver; background-color: #D3D3D3"]]  
-Nouvelle Bellaquin (12)  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-0O - 12N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-12O - 0N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-12O - 0N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="border: 1px solid silver; background-color: #D3D3D3"]]  
-Sapientia Aetatum (7)  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-7O - 0N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-7O - 0N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-7O - 0N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="border: 1px solid silver; background-color: #D3D3D3"]]  
-Val Negra (4)  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="border: 1px solid silver; background-color: #D3D3D3"]]  
-Villa Manlia (4)  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-0O - 4N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-4O - 0N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-4O - 0N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="border: 1px solid silver; background-color: #D3D3D3"]]  
-Divers (5)  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-2O - 3N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-4O - 1N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-3O - 1N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[/row]]  
-[[row]]  
-[[cell style="border: 1px solid silver; background-color: #FF0000"]]  
-**TOTAL (76)**  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-32O - 39N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-46O - 25N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
-42O - 25N  
-[[/cell]]  
-[[cell style="border: 1px solid silver"]]  
--  
-[[/cell]]  
-[[/row]]  
-[[/table]]
-
-Le releve détaillé des délibérations, *certamens* et autres questions abordées se trouve [[[|ici](http://villamanlia.wikidot.com/reconciliation)]].
+Le releve détaillé des délibérations, *certamens* et autres questions abordées se trouve [ici](../scenar/reconciliation.md).
 
 
 # Hiver 1226
@@ -249,4 +37,4 @@ A l'occasion de ce Tribunal, les Mages de Villa Manlia apprennent que différent
 Les points qui suivent ont fait l'objet d'une délibération.
 
 
-La portée précise de ces questions et les autres éléments notables sont détaillées [[http |://|ici]].  
+La portée précise de ces questions et les autres éléments notables sont détaillées (lien manquant).
