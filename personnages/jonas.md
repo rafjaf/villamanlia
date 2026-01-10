@@ -48,10 +48,10 @@
 **Connaissance de Saint-Gilles-du-Gard**(*Saint-Gilles-du-Gard Lore*) (communauté juive) 2  
 **Connaissance des gens**(*Folk Ken*) (citadins) 3  
 **Dissimulation**(*Stealth*) (se chacher) 2  
-**Hébreu**(*Hebrew*) ([[span style="background-color: yellow;"]][...][[/span]]) 5  
+**Hébreu**(*Hebrew*) ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 5  
 **Natation**(*Swim*) (plonger) 2
 
 # Background  
 Cf. le scénario de la 4ème édition *The Bishop's Staff* de Michaël de Verteuil, Atlas Games, 2002.
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

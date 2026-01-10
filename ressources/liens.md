@@ -1,10 +1,4 @@
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
-
 # L'Europe historique  
-[[f>toc]]
-
 ## Généralités
 
 * Les très intéressants [dossiers pédagogiques illustrés](http://classes.bnf.fr/classes/pages/indress1.htm) de la Bibliothèque nationale de France ainsi que [Mandragore](http://mandragore.bnf.fr/html/accueil.html), sa base de donnée des manuscrits enluminés  
@@ -16,12 +10,11 @@
 * R. Pernoud, *Pour en finir avec le Moyen Age*, Paris, Seuil (Points Histoire), 1977, 152 p. Sur un ton polémique, l'auteur dénonce quelques idées reçues sur le Moyen Age (des gens frustres et ignares qui croyaient que la Terre était plate).
 
 ## Architecture  
-[[div style="float: right; width: 585px;"]]  
-![|](http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cleric-Knight-Workman.jpg/585px-Cleric-Knight-Workman.jpg)  
-[[size smaller]]Représentation des trois ordres sur lesquels repose la société médiévale : les *oratores*, ceux qui prient; les *bellatores*, ceux qui combattent; et les *laboratores*, ceux qui travaillent la terre. Source : [http://commons.wikimedia.org/wiki/Image:Cleric-Knight-Workman.jpg Wikimedia Commons].[[/size]]  
-[[/div]]
-
-* A. de Caumont, *[http:*www.google.be/books?id=4dADAAAAYAAJ&printsec=frontcover&dq=editions:0mtZcUEA-mEiq7Pi&hl=fr#PPA6,M1 Abécédaire ou rudiment d'archéologie. Architecture civile et militaire]//, Paris, Derache, Didron et Dentu, Caen, Hardel et Rouen, Le Brument, 1853, 494 p. Ce livre contient de nombreux plans de monastères, habitations privées, palais épiscopaux, etc. qui permettront aux Conteurs de se documenter facilement sur l'architecture médiévale. Compte tenu de l'ancienneté de l'ouvrage, on ne peut bien évidemment pas être sûr qu'il est encore tout à fait à la pointe des recherches historiques, mais cela devrait faire l'affaire pour décrire l'Europe mythique.
+<div style="float: right; width: 585px;">
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cleric-Knight-Workman.jpg/585px-Cleric-Knight-Workman.jpg)  
+<small>Représentation des trois ordres sur lesquels repose la société médiévale : les *oratores*, ceux qui prient; les *bellatores*, ceux qui combattent; et les *laboratores*, ceux qui travaillent la terre. Source : [Wikimedia Commons](http://commons.wikimedia.org/wiki/Image:Cleric-Knight-Workman.jpg).</small>  
+</div>
+* A. de Caumont, *[Abécédaire ou rudiment d'archéologie. Architecture civile et militaire](http://www.google.be/books?id=4dADAAAAYAAJ&printsec=frontcover&dq=editions:0mtZcUEA-mEiq7Pi&hl=fr#PPA6,M1)*, Paris, Derache, Didron et Dentu, Caen, Hardel et Rouen, Le Brument, 1853, 494 p. Ce livre contient de nombreux plans de monastères, habitations privées, palais épiscopaux, etc. qui permettront aux Conteurs de se documenter facilement sur l'architecture médiévale. Compte tenu de l'ancienneté de l'ouvrage, on ne peut bien évidemment pas être sûr qu'il est encore tout à fait à la pointe des recherches historiques, mais cela devrait faire l'affaire pour décrire l'Europe mythique.
 
 ## Eglise
 
@@ -31,7 +24,7 @@
 
 ## Languedoc et Cathares
 
-* Les très nombreux *[http:*www.societes-savantes-toulouse.asso.fr/samf/fanjeaux/ndeb.htm Cahiers de Fanjeaux]//, qui publient chaque année les résultats d'un colloque portant sur un thème lié à l'histoire religieuse du Midi de la France entre le XIe et le XVe siècle (ex. les Cathares, les universités dans le Languedoc au XIIIe siècle, les pélerinages, le judaïsme, etc.)  
+* Les très nombreux *[Cahiers de Fanjeaux](http://www.societes-savantes-toulouse.asso.fr/samf/fanjeaux/ndeb.htm)*, qui publient chaque année les résultats d'un colloque portant sur un thème lié à l'histoire religieuse du Midi de la France entre le XIe et le XVe siècle (ex. les Cathares, les universités dans le Languedoc au XIIIe siècle, les pélerinages, le judaïsme, etc.)  
 * J. Berlioz (dir.), *Le pays cathare. Les religions médiévales et leurs expressions méridionales*, Paris, Seuil (Points Histoire), 2000, 313 p.  
 * L. Macé, *Les comtes de Toulouse et leur entourage. XIIe-XIIIe siècles. Rivalités, alliances et jeux de pouvoir*, Toulouse, Editions Privat, 2003, 445 p.  
 * J. Hine Mundy, *Men and Women at Toulouse in the Age of the Cathars*, Ontario, Pontifical Institute of Medieval Studies, 1990, 235 p.  
@@ -136,11 +129,3 @@ Au fil du net, voici ce que j'ai trouvé :
 ## Suppléments officiels
 
 Outre la page officielle d'[Atlas Games](http://www.atlas-games.com/arm5/index.php), voy. la critique très détaillée de [Jérôme Darmont](http://darmont.free.fr/arm/?page=arm-critiques).
-
-[[footnoteblock]]
-
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
-
-[[module Comments]]  

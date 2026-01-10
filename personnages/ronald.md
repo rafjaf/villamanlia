@@ -1,8 +1,8 @@
-[[div]]  
-[[/div]]  
-[[tabview]]
+<div>
+</div>
+[tabview](tabview.md)
 
-[[tab title="Généralités"]]  
+[tab title="Généralités"](tab%20title%3D%22G%C3%A9n%C3%A9ralit%C3%A9s%22.md)  
 # Identité  
 **Joueur** Olivier  
 **Nom du personnage** Ronald de Saint-Pons  
@@ -24,9 +24,9 @@
 **Com** +2  
 **Dex** +2  
 **Viv** +2  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Vices & Vertus"]]  
+[tab title="Vices & Vertus"](tab%20title%3D%22Vices%20%26%20Vertus%22.md)  
 # Vertus  
 **Caractéristique améliorée** (*Improved characteristic*) +1 (Int)  
 **Caractéristique améliorée** (*Improved characteristic*) +1 (For)  
@@ -40,9 +40,9 @@
 **Désillusion** (*Delusion*) +1   Ronald croit (est persuadé) d'être un mage, or il n'a pas le don.  
 **Faveur** (*Favors*) +3   Ronald doit encore une faveur aux mages de Bellaquin qui l'ont affranchi pour qu'il devienne serviteur guerrier.
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Compétences"]]  
+[tab title="Compétences"](tab%20title%3D%22Comp%C3%A9tences%22.md)  
 **Arts libéraux** (*Artes liberales*) 2  
 **Athlétisme** (*Athletics*) 2  
 **Attention** (*Awareness*) 2  
@@ -75,15 +75,15 @@
 **Survie** (*Survival*) 1 (5)  
 **Théologie** 2 (5)  
 **Théorie de la magie** 2  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Aptitudes surnaturelles"]]  
+[tab title="Aptitudes surnaturelles"](tab%20title%3D%22Aptitudes%20surnaturelles%22.md)  
 **Double vue** (*Second sight*) 2  
 **Prémonitions** (*Premonitions*) 2
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Background"]]  
+[tab title="Background"](tab%20title%3D%22Background%22.md)  
 # Description  
 Ronald est un homme robuste, assez imposant, et volontaire. Il a le contact facile et est à l'aise en société, quel que soit la catégorie sociale de ses interlocuteurs.  
 # Historique  
@@ -99,11 +99,11 @@ Son ambition lui avait déjà permis de quitter son statut de serf pour celui d'
 
 Après un an passé à étudier plutôt qu'à escorter les mages, Ronald n'a plus l'intention d'être un simple serviteur comme les autres. Les mages de Bellaquin sont lassés de son comportement, et cherchent un stratagème pour se débarrasser de ce "mage" qui encombre la bibliothèque sans même avoir le don. Ils arriveront bien à l'envoyer dans une autre Alliance, mais pas sans lui rappeler qu'ils l'ont sorti de sa servitude, et qu'ils pourront lui demander une (grosse) faveur s'ils ont besoin de ses services...
 
-[[/tab]]
+[tab](/tab.md)
 
 
-[[/tabview]]
+[tabview](/tabview.md)
 
 ------  
-[[include Olivier]]  
+[include Olivier](include%20Olivier.md)  
 ------  

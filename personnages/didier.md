@@ -31,7 +31,7 @@
 **Habitant d'une Alliance**(*Covenfolk*) 0 : Vous êtes membre du personnel d'une alliance; votre niveau de vie est déterminé par les ressources de l'alliance qui vous entretient.
 
 ## Vices  
-**Obsession: curiosité)**(*Obsession: curiosity*) -1 : [[span style="background-color: yellow;"]][...][[/span]]
+**Obsession: curiosité)**(*Obsession: curiosity*) -1 : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)
 
 # Compétences  
 **Athlétisme**(*Athletics*) (grimper) 2  
@@ -48,6 +48,6 @@
 **Survie**(*Survival*) (forêts) 2
 
 # Background  
-[[span style="background-color: yellow;"]][...][[/span]]
+[span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

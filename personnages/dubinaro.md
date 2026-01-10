@@ -1,12 +1,12 @@
-[[div]]  
-[[/div]]  
-[[tabview]]
+<div>
+</div>
+[tabview](tabview.md)
 
-[[tab title="Généralités"]]  
-[[div style="float: right; width: 512px; margin-top: -0.5cm;"]]  
+[tab title="Généralités"](tab%20title%3D%22G%C3%A9n%C3%A9ralit%C3%A9s%22.md)  
+<div style="float: right; width: 512px; margin-top: -0.5cm;">
 ![|](http://classes.bnf.fr/ema/images/3/770.jpg)  
-[[size smaller]]Les quatre éléments et les quatre humeurs, l'être humain au centre. Barthélemy l'Anglais, *Le Livre des propriétés des choses*, France (Anjou, Maine), XVe siècle. Source : Paris, [BnF](http://classes.bnf.fr/ema/grands/770.htm), département des Manuscrits, Français 135, fol. 91.[[/size]]  
-[[/div]]  
+<small>Les quatre éléments et les quatre humeurs, l'être humain au centre. Barthélemy l'Anglais, *Le Livre des propriétés des choses*, France (Anjou, Maine), XVe siècle. Source : Paris, [BnF](http://classes.bnf.fr/ema/grands/770.htm), département des Manuscrits, Français 135, fol. 91.</small>  
+</div>
 # Identité  
 **Joueur** Olivier  
 **Nom du personnage** Dubinaro  
@@ -36,9 +36,9 @@ Médiateur +1
 # Réputation  
 Aucune pour le moment
  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Vices & Vertus"]]  
+[tab title="Vices & Vertus"](tab%20title%3D%22Vices%20%26%20Vertus%22.md)  
 # Vertus  
  **Affinité** (*Puissant Ability*) 0 (Théorie de la Magie) : bonus de +2  
 **Affinité** (*Puissant Art*) +1 (Muto) : bonus de +3  
@@ -52,14 +52,14 @@ Aucune pour le moment
 **Focus Magique Mineur** (*Minor Magical Focus*) (constructions) 0 : lors du lancer d'un sort ou du calcul d'un Total de Laboratoire ayant trait aux constructions, l'Art le plus faible est doublé.  
 # Vices  
 **Arts incompatibles** (*Incompatible Arts*) –1 : *Perdo* et *Mentem* sont incompatibles pour Dubinaro, ainsi que *Perdo* et *Imaginem*  
-**Companion animal magique** (*Animal companion*) –1 ([[chat]])  
+**Companion animal magique** (*Animal companion*) –1 ([chat](chat.md))  
 **Enfance protégée** (*Sheltered upbringing*) –1 : le Mage a grandi complètement séparé de la société, en ne connaissant que son mentor et les autres membres de l'Alliance de celui-ci. Récemment, il a découvert un monde entièrement nouveau peuplé d'étrangers, et cette découverte le dépasse. En fonction de son caractère, il peut réagir avec mépris, peur ou émerveillement. Il est incapable de fonctionner normalement parce qu'il ne parvient pas à comprendre la plupart des coutumes humaines  
 **Ennemi** (*Enemies*) –3 : son *frater discipulus*, Jérôme de Bonisagus  
 **Incompréhensible** (*Incomprehensible*) –1 : diviser par deux le Total d’Etude ou de Laboratoire de toute personne apprenant du personnage  
 **Optimiste** (*Optimistic*) –3  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Compétences"]]  
+[tab title="Compétences"](tab%20title%3D%22Comp%C3%A9tences%22.md)  
 **Arts libéraux** (*Artes liberales*) 2  
 **Athlétisme** (*Athletics*) 2  
 **Attention** (*Awareness*) 2  
@@ -84,9 +84,9 @@ Aucune pour le moment
 **Survie** (*Survival*) 2  
 **Théorie de la Magie** (*Magic Theory*) 4 + 2 (création de sort)
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Magie"]]  
+[tab title="Magie"](tab%20title%3D%22Magie%22.md)  
 # Arts  
 **Creo** 16  
 **Intellego** 9 (1)  
@@ -136,9 +136,9 @@ Ces transformations sont similaires à des effets MuCo(Au, Aq, Ig, Te). A titre 
 
 Il en retire également une **Cicatrice positive** : dans une aura infernale, Dubinaro prend une apparence juvénile (celle qu'il avait lors de la disparition de Claudia).
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Background"]]  
+[tab title="Background"](tab%20title%3D%22Background%22.md)  
 # Description  
 Jean Duval, plus connu sous le nom de Dubinaro, est un homme aux cheveux châtains et aux yeux noisettes. La première chose qui frappe quand on le rencontre, c'est son côté jovial: il a une bonne bouille sympathique, un large sourire et semble tout prendre du bon côté. Un large front lui donne un côté intelligent, mais son regard semble assez naïf et curieux d'apprendre.
 
@@ -154,9 +154,9 @@ Deux ou trois ans avant la fin de leur apprentissage, une Servante est arrivée 
 Dubinaro n'apprendra qu'à l'hiver 1203 que Claudia était en fait manipulée par Jérôme...
 
 Ajoutons que celui-ci, contrairement aux usages, a souhaité gardé son nom de naissance après avoir relevé le gant. On y a vu une marque d’humilité. Il s’habille d’ailleurs toujours de vêtements étonnamment sobres, une simple robe grise…  
-[[/tab]]  
-[[/tabview]]
+[tab](/tab.md)  
+[tabview](/tabview.md)
 
 ------  
-[[include Olivier]]  
+[include Olivier](include%20Olivier.md)  
 ------  

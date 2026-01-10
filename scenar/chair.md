@@ -1,21 +1,18 @@
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
-
-[[f>toc]]
-
+[>](%3E.md)  
+[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
+[>](/%3E.md)
 # Introduction
 
-Ce scénario fait suite à l'épisode intitulé *[http:*villamanlia.wikidot.com/proces On ne vous attendait plus!]// lors duquel les personnages ont participé, bien malgré eux, à la redécouverte de la Roue de Feu, un puissant artéfact créé au cours de la Guerre du Schisme par les Tremere et ayant le pouvoir de détecter les Mages de Diedne grâce à la nature particulière de leur Don.
+Ce scénario fait suite à l'épisode intitulé *[On ne vous attendait plus!](./proces.md)// lors duquel les personnages ont participé, bien malgré eux, à la redécouverte de la Roue de Feu, un puissant artéfact créé au cours de la Guerre du Schisme par les Tremere et ayant le pouvoir de détecter les Mages de Diedne grâce à la nature particulière de leur Don.
 
 A la fin de cet épisode précédent, l'artéfact a été emporté à Coeris par les Tremere. Le présent scénario vise à le faire ressortir de l'ombre... 
 
-Le scénario se base abondemment sur l'historique de l'un des personnages, [Magus Sigfein](http://villamanlia.wikidot.com/sigfein), qui, tout en prétendant être un Mage de la Maison Bjornaer, dissimule en réalité ses origines Diedne. Ce scénario voit ressurgir de son passé son *pater*, un véritable Bjornaer mais ayant toujours eu des sympathies pour la Maison Diedne (cf l'historique de Sigfein).
+Le scénario se base abondemment sur l'historique de l'un des personnages, [Magus Sigfein](../personnages/sigfein.md), qui, tout en prétendant être un Mage de la Maison Bjornaer, dissimule en réalité ses origines Diedne. Ce scénario voit ressurgir de son passé son *pater*, un véritable Bjornaer mais ayant toujours eu des sympathies pour la Maison Diedne (cf l'historique de Sigfein).
 
 # Concept
 
 L’idée, c’est que le *pater* de Sigfein soit poursuivi jusque dans le Tribunal de Provence par différentes factions :  
-* une envoyé de Magvillus - Dama de Guernicus (cf le scénario *[http:*villamanlia.wikidot.com/tiare#toc10 La Tiare et le Glaive]//;  
+* une envoyé de Magvillus - Dama de Guernicus (cf le scénario *[La Tiare et le Glaive](./tiare.md)//;  
 * un envoyé des Tremere, Martel, à savoir un descendant de ceux qui ont exécuté le père de Sigfein.  
 Bien sûr, ils ignorent que ce dernier appartient à la Maison Diedne. A ce stade du moins...
 
@@ -29,11 +26,11 @@ A l’hiver 1215, Sigfried se rend donc à Coeris pour y subtiliser la Roue de F
 
 Dama se met en chasse, mais évidemment Coeris s’estime personnellement concernée et mandate donc de son côté  un Tremere anti-Diedne, en ligne directe de celui qui a descendu le pater de Sigfein. Important : les Tremere ignorent l’identité du voleur !
 
-Mais à l’hiver 1215, [message tous azimuts envoyé par Magvillus](http://villamanlia.wikidot.com/doc#toc48) : un puissant artéfact, la Roue de Feu, a été dérobé. Toute personne en possession d’information à ce sujet est tenue d’en informer Magvillus. A défaut, elle fera l'objet d’une Marche des Magiciens contre X.
+Mais à l’hiver 1215, [message tous azimuts envoyé par Magvillus](../saga/doc.md) : un puissant artéfact, la Roue de Feu, a été dérobé. Toute personne en possession d’information à ce sujet est tenue d’en informer Magvillus. A défaut, elle fera l'objet d’une Marche des Magiciens contre X.
 
 # Impliquer Villa Manlia
 
-Il y a deux bêtes dans la région. L’une est « maléfique » et tue des animaux (cf l'acte II du scénario [La Larme d'un Dieu antique](http://villamanlia.wikidot.com/larme#toc11)). L’autre est Sigfried. Comment l’apprendre ?  
+Il y a deux bêtes dans la région. L’une est « maléfique » et tue des animaux (cf l'acte II du scénario [La Larme d'un Dieu antique](./larme.md)). L’autre est Sigfried. Comment l’apprendre ?  
 * Interlude conté par Nicolas : Ronald reconnaît Myralys à Aurillac. En fait, elle enquête sur la présence ou la manifestation d’une bête terrible dans la région.  
 * Interlude conté par Rafaël : Le bétail de Villa Manlia est éventré. Mais les sorts échoueront  probablement car la RM est suffisamment forte.  
 * Ambroise croise Guy de Turenne à Arvigna qui lui annonce, tout fier, qu’il part chasser la bête. Grisfaucon l’apprendra ainsi grâce à la soeur de Thanatos. Donc, Guy de Turenne n’est pas à la solde des Tytali, ce sont les Tytali qui essaient de le doubler.
@@ -82,17 +79,15 @@ Soumettre à Sigfein un choix douloureux : choisir entre son *pater* et la Roue
 Sigfein se retrouve à un moment face à face seul avec son maître. Celui-ci le supplie de l’achever, pour (i) éviter qu’il ne soit capturé et le trahisse et (ii) détruire la Roue de Feu. La *pater* ne peut pas le faire lui-même (l’instinct animal de conservation). Pendant qu’ils discutent et que Sigfein hésite, débarque tout le monde : les Quaesitor, les Tremere, Guy de Turenne, les Tytali... C’est la confusion générale. Aucun sort offensif, mais chacun veut être le premier à capturer le cerf. Les Tytali sont borderline, ils utilisent des sorts herbam, rego... rien qui puisse blesser les autres Mages, mais néanmoins tout qui puisse ralentir les autres. cf aussi un sort PeTe (trou dans la terre), des sorts Imaginem, etc. Les Tytali lancent des pilums de feu sur le cerf (ils veulent le tuer), mais la Quaesitor le défend car elle le veut vivant !
 
 Finalement le *pater* est immobilisé par le Tremere, mais le combat continue. C’est alors que Sigfein doit se décider : soit tuer le maître, soit prendre le risque d’attendre que la Quaesitor le retransforme en humain, et alors le Tremere déclenchera le mécanisme. Le *pater* pourra s’échapper... mais la Roue de Feue sera alors (définitivement?) retombée aux mains des Tremere, les pires ennemis de la Maison Diedne. Triste dilemne pour Magus Sigfein!
-
-[[div]]
-
-[[/div]]  
-[[>]]  
+<div>
+</div>
+[>](%3E.md)  
 Nicolas & Rafaël  
-[[/>]]
+[>](/%3E.md)
 
-[[footnoteblock title="Notes"]]  
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
+[footnoteblock title="Notes"](footnoteblock%20title%3D%22Notes%22.md)  
+[>](%3E.md)  
+[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
+[>](/%3E.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

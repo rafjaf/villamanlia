@@ -14,7 +14,7 @@ Séance du 28 février 2016. Scénario *La dispute sur l'éternité du monde* co
 * Sigfeín : 5xp en Connaissance du Divin, passant ainsi au niveau 1, et 3xp en Parma Magica
 
 Saison d'étude pour les autres personnages:  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esteban : <mark>[...]</mark>  
 * Gobolino : <mark>[...]</mark>  
 * Tristan-Alexis : <mark>[...]</mark>
@@ -61,7 +61,7 @@ Séances du 9 avril et du 8 mai 2016. Scénario *Le laboratoire perdu d'Hermanus
 * Sigfeín : 5xp en Parma Magica, passant ainsi au niveau 5, et 4xp en Attention, passant ainsi au niveau 1
 
 Saison d'étude pour les autres personnages:  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esteban : <mark>[...]</mark>  
 * Gobolino : <mark>[...]</mark>  
 * Scintillus : Extraction de Vis Vim :  
@@ -77,7 +77,7 @@ Saison d'étude :
  * jet de vieillissement (47 ans) :  
   * Total de Vieillissement = 2 (dé de tension sans désastre) + 5 (age/10) - 1 (Conditions de vie) = 6;  
   * Résultat : +1 an d'âge apparent (47 -> 48 ans).  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
  * jet de vieillissement (63 ans) :  
   * Total de Vieillissement = <mark>[...]</mark> (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + <mark>[...]</mark> (dé de tension sans désastre) = <mark>[...]</mark>;  
   * Résultat : <mark>[...]</mark>;  
@@ -133,7 +133,7 @@ Saison d'étude :
 Saison d'étude :
 
 * Bernard : reprend son entraînement au tir (4 xp en Arcs)  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : apprend à maîtriser le sort *Enslave the Mortal Mind* ReMe 40 (5 xp en Maîtrise du sort, passant ainsi au niveau 1, spé. Résistance Magique)  
  * jet d'accoutumance (cf. routine de labo *Addled* Hi 1230): 7 (jet de tension) + 2 (Energie) - 1 (Addicted Personality Trait) = 8 > 3 x 1 -> pas de conséquences.  
 * Esteban : <mark>[...]</mark>  
@@ -162,7 +162,7 @@ Séances du 26 juin, 20 août et du 4 septembre 2016. Scénario sur *L'Intellect
 * Scintillus : 4 xp en philosophie et 4 xp en Intellego passant ainsi à 8
 
 Saison d'étude pour les autres personnages:  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esteban : <mark>[...]</mark>  
 * Gobolino : <mark>[...]</mark>  
 * Sigfeín : étudie la tapisserie magique de Bellaquin (12(18) xp en Intellego, passant ainsi au niveau 16)  
@@ -173,7 +173,7 @@ Saison d'étude pour les autres personnages:
 Saison d'étude :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Rego (niveau 15, qualité 13) : 13 xp en Rego, passant ainsi au niveau 13, plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : <mark>[...]</mark>  
 * Faustus : lit le tractatus corpus *De corporis et mentis doloribus* (jet de concentration réussi) : 9 xp + 3 xp (Book learner) passant ainsi à 12  
@@ -210,7 +210,7 @@ Scénario *What Lies Beneath* de Mark Lawford, paru dans *Tales of Mythic Europe
 
 Pour les autres personnages, saison d'étude :
 
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esteban : <mark>[...]</mark>  
 * Gobolino : <mark>[...]</mark>  
 * Tristan-Alexis : <mark>[...]</mark>
@@ -222,7 +222,7 @@ Pour les autres personnages, saison d'étude :
 Saison d'étude :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : entame son périple à travers le Tribunal d'Ibérie -- 7 xp en Connaissance de la péninsule Ibérique, passant ainsi au niveau 1, spécialité "politique"  
 * Esteban : <mark>[...]</mark>  
 * Faustus : lit le tractatus corpus *De humoribus* : 10 xp + 3 (book learner) passant ainsi à 13  
@@ -242,7 +242,7 @@ Saison d'étude :
 Saison d'étude :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : continue son périple à travers le Tribunal d'Ibérie -- 7 xp en Connaissance de la péninsule Ibérique  
 * Esteban : <mark>[...]</mark>  
 * Faustus : invente le sort CrAu 10 *Volutes de fumée nauséabonde* :  
@@ -262,7 +262,7 @@ Saison d'étude :
 Saison d'étude :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : continue son périple à travers le Tribunal d'Ibérie -- 8 xp en Castillan ancien  
 * Esteban : <mark>[...]</mark>  
 * Faustus : lit le tractatus Théorie de la Magie *De harmonia artium* : 9 xp + 3 (book learner), passant ainsi au niveau 5  
@@ -277,7 +277,7 @@ Saison d'étude :
 Saison d'étude :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : continue son périple à travers le Tribunal d'Ibérie ~~ 8 xp en Castillan ancien ~~ et se fixe en l'Alliance de <mark>[...]</mark>  
  * jet de vieillissement (58 ans):  
   * Total de Vieillissement =  8 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = 3;  
@@ -318,7 +318,7 @@ Saison d'étude :
 Saison d'étude :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Perdo (niveau 14, qualité 12) : 12 xp en Perdo (passant ainsi au niveau 10), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : <mark>[...]</mark>  
 * Faustus continuer d'inventer le sort Manteau de Brume MuCo 35 (cf. ArM5 VF p. 202 mais en durée diamètre) en expérimentant avec un modificateur de risque de +3  
@@ -347,7 +347,7 @@ Le quatrième et dernier étage de l'Aiguille est composé de plusieurs pièces,
 
 Parmi les différents *sancta* du quatrième étage, les personnages identifient ceux, contigus et communicants, des frères Vann, entièrement vides, ainsi que celui de Syrianus de Bonisagus, ancien *primus* de l'Alliance, comme abandonné en l'état. Dans celui-ci, Faustus découvre une lettre de Syrianus datée de décembre 1232, achevée mais non envoyée, par laquelle il répond à un certain... Magus Faustus de Villa Manlia qu'il tient à sa disposition le manuscrit dont celui-ci souhaite obtenir copie. Une seconde lettre sur le bureau, datée du printemps 1232 et signée Magus Faustus ex Miscellaneis - mais dans une écriture que Faustus ne reconnaît pas - demande à Syrianus à pouvoir obtenir une copie d'un manuscrit de Proclus contenant une étude de l'Art Muto. De manière quelque peu abrupte pour une requête de ce type, "Faustus" n'offre aucun paiement en rémunération de ce service.
 
-En fouillant le *sanctum* de Syrianus, les Mages de Villa Manlia découvrent également 6 pions de *vis* Mentem, prennent connaissance du [testament de Syrianus](http://villamanlia.wikidot.com/doc#toc49) et pensent pouvoir reconstituer la composition de l'Alliance d'Ad Vim Per Veritatem comme suit :  
+En fouillant le *sanctum* de Syrianus, les Mages de Villa Manlia découvrent également 6 pions de *vis* Mentem, prennent connaissance du [testament de Syrianus](./doc.md) et pensent pouvoir reconstituer la composition de l'Alliance d'Ad Vim Per Veritatem comme suit :  
 * Syrianus de Bonisagus, *primus*  
 * Les deux frères Vann de Bjornaer, exilés  
 * Damianus de Jerbiton, oncle du Baron de Montrouge  
@@ -404,7 +404,7 @@ Les personnages acquièrent au terme de ce scénario 10 xp répartis comme suit 
 
 Saison d'étude pour les autres personnages :
 
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Perdo (niveau 14, qualité 12) : 12 xp en Perdo (passant ainsi au niveau 11), plus 1 xp en Co, He, Im et Me (passant ainsi au niveau 20) comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : <mark>[...]</mark>  
 * Gobolino : <mark>[...]</mark>  
@@ -416,7 +416,7 @@ Saison d'étude pour les autres personnages :
 Saison d'étude :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : commence à inventer une variante PeMe 35 de son sort *The Thief of Memory* PeMe 20  
  * Base 15 (Remove a major or long memory from a person's mind), R: Touch +1, D: Inst, C: Struct +3;  
  * TL (PeMe) = 3 (Int) + 7 (Th. Mag. spé. Me) + 11 (Re) + 23 (Me) + 3 (Aura) + 1 (routine *Early Riser*) + 4 (bonus sort similaire) = 52 -> 17 niveaux de sort sont accumulés;  
@@ -443,7 +443,7 @@ Saison d'étude :
 Saison d'étude :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esteban : <mark>[...]</mark>  
 * Esperanza : saison à la collectivité pour l'Alliance <mark>[...]</mark>, 2 xp en Théorie de la Magie  
  * jet de vieillissement (59 ans):  
@@ -481,7 +481,7 @@ Saison d'étude :
 Saison d'étude :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Perdo (niveau 14, qualité 12) : 12 xp en Perdo (passant ainsi au niveau 12), plus 1 xp en Co, He, Im (passant ainsi au niveau 8) et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : <mark>[...]</mark>  
 * Faustus :  
@@ -498,14 +498,14 @@ Saison d'étude :
 
 Scénario *Body on the Shore* d'Edward Kendrick, publié dans *Sub Rosa #11*, conté par Rafaël le 6 janvier 2018.
 
-L'Alliance reçoit [deux lettres](http://villamanlia.wikidot.com/doc#et1234) par Toque Rouge. L'une d'elles, envoyée par Remi Phraseur, l'exploitant de leur commerce à Saint-Gilles-du-Gard, les prient d'élucider le mystère de la mort de son oncle, André Phraseur, retrouvé noyé sur la plage d'Aigues-Mortes, comme prophétisé par une diseuse de bonnes aventures quelques mois plus tard. Or, la prophétie prédisait également la mort du seigneur Gilbert Monterey.
+L'Alliance reçoit [deux lettres](./doc.md) par Toque Rouge. L'une d'elles, envoyée par Remi Phraseur, l'exploitant de leur commerce à Saint-Gilles-du-Gard, les prient d'élucider le mystère de la mort de son oncle, André Phraseur, retrouvé noyé sur la plage d'Aigues-Mortes, comme prophétisé par une diseuse de bonnes aventures quelques mois plus tard. Or, la prophétie prédisait également la mort du seigneur Gilbert Monterey.
 
 Après avoir rencontré Rémi Phraseur, les personnages se rendent au village de pêcheurs d'Aigues-Mortes. Ils y interrogent deux femmes qui récoltent des algues sur la plage, Lydia et Charlotte. Ils parlent également à Régine, la femme du village qui y jouit de la plus grande autorité. Ils apprennent au travers de ces conversations l'existence de la grotte aux brumes, située à une heure de marche du village, le long de la côte. Il s'agit d'une grotte contenant des pierres à la température brûlante et qui, à marée basse, diffuse une brume enchantée qui peut être utilisée comme source de *vis* brute Auram (1 pion par an). Les personnages prennent une Connexion des Arcanes vers ce lieu. Dans la brume, Sigfein a la vision de la menace qui pèse sur le seigneur Gilbert. En brûlant de la *vis*, les personnages dissipent la brume et rejoignent ainsi rapidement le village. Le seigneur Gilbert a failli être noyé. Quand la brume s’est dissipée, le meurtrier - Stéphane - l’a abandonné à moitié inconscient. Les personnages remontent au château en compagnie de Richard et Michaël. Ils interrogent Michaël, le seigneur et Maude, l'ancienne dame de compagnie de Dame Alicia. Ils descendent au village pour interroger Stéphane, l’interceptent alors que celui-ci voulait se rendre au château pour achever le seigneur, se battent avec lui et le font traduire devant la justice du seigneur.
 
 Les personnages acquièrent 6 points d'expérience répartis comme suit :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Perdo (niveau 14, qualité 12) : 12 xp en Perdo (passant ainsi au niveau 13), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : <mark>[...]</mark>  
 * Faustus : 5 xp en maîtrise du sort *Funérailles précoces* MuTe 30 (passant ainsi au niveau 1, spécialité *Fast casting*) et 1 xp en Rego (passant ainsi au niveau 9)  
@@ -517,7 +517,7 @@ Les personnages acquièrent 6 points d'expérience répartis comme suit :
 
 Saison d'étude pour les autres personnages :
 
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : <mark>[...]</mark>  
 * Esteban : <mark>[...]</mark>  
 * Gobolino : <mark>[...]</mark>  
@@ -528,7 +528,7 @@ Saison d'étude pour les autres personnages :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : continue à inventer une variante PeMe 35 de son sort *The Thief of Memory* PeMe 20 (cf. Automne 1233)  
  * Base 15 (Remove a major or long memory from a person's mind), R: Touch +1, D: Inst, C: Struct +3;  
  * TL (PeMe) = 3 (Int) + 7 (Th. Mag. spé. Me) + 13 (Re) + 23 (Me) + 3 (Aura) + 1 (routine *Early Riser*) + 4 (bonus sort similaire) = 54 -> 19 niveaux de sort sont accumulés, le sort est inventé;  
@@ -549,7 +549,7 @@ Saison d'étude :
 Saison d'étude :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : saison à la collectivité pour l'Alliance <mark>[...]</mark>, 2 xp en Théorie de la Magie  
  * jet de vieillissement (60 ans):  
   * Total de Vieillissement =  2 (dé de tension sans désastre) + 6 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = -3;  
@@ -581,7 +581,7 @@ Saison d'étude :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Rego (niveau 15, qualité 13) : 13 xp en Rego (passant ainsi au niveau 14), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : saison de recopiage à Durenmar (2 xp d'exposition en Scribe)  
 * Faustus : apprend l'arabe sous l'enseignement d'Esperanza (8 xp) passant ainsi au niveau 2;  
@@ -598,7 +598,7 @@ Saison d'étude :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Rego (niveau 15, qualité 13) : 13 xp en Rego (passant ainsi au niveau 15), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : saison de recopiage à Durenmar (2 xp d'exposition en Scribe)  
 * Faustus : apprend l'arabe sous l'enseignement d'Esperanza : 8 xp;  
@@ -615,7 +615,7 @@ Saison d'étude :
 Saison d'étude :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : commence à inventer une variante ReMe 35 de son sort *Aura of Rightful Authority* ReMe 20  
  * Base 5, R: Touch +1, D: Sun +2, C: Struct +3;  
  * TL (ReMe) = 3 (Int) + 7 (Th. Mag. spé. Me) + 15 (Re) + 23 (Me) + 3 (Aura) + 1 (routine *Early Riser*) + 4 (bonus sort similaire) = 56 -> 21 niveaux de sort sont accumulés;  
@@ -633,7 +633,7 @@ Saison d'étude :
 ### Hiver  
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : saison à la collectivité pour l'Alliance <mark>[...]</mark>, 2 xp en Théorie de la Magie  
  * jet de vieillissement (61 ans):  
   * Total de Vieillissement =  0 (dé de tension sans désastre) + 7 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = -4;  
@@ -657,7 +657,7 @@ Saison d'étude :
 ## Année 1236
 
 ### Printemps  
-Scénario *La quête de Consilia* conté par Rafaël, largement inspiré de *The Four Aspects of Conciatta* (scénario de Mark Lawford publié dans *Legends of Hermes*), auxquels participent Faustus, Scintillus, Sigfein, Jehan, Julio et Marco. Après avoir lu la *Vie de Currito* reçue à l'[été 1234](http://villamanlia.wikidot.com/doc#toc52), Faustus convainc Scintillus et Sigfein de l'accompagner dans un périple dans le Tribunal ibérien afin de reprendre la quête qu'il avait lui-même menée, avant son amnésie, après avoir quitté l'Alliance d'Ad Vim Per Veritatem. 
+Scénario *La quête de Consilia* conté par Rafaël, largement inspiré de *The Four Aspects of Conciatta* (scénario de Mark Lawford publié dans *Legends of Hermes*), auxquels participent Faustus, Scintillus, Sigfein, Jehan, Julio et Marco. Après avoir lu la *Vie de Currito* reçue à l'[été 1234](./doc.md), Faustus convainc Scintillus et Sigfein de l'accompagner dans un périple dans le Tribunal ibérien afin de reprendre la quête qu'il avait lui-même menée, avant son amnésie, après avoir quitté l'Alliance d'Ad Vim Per Veritatem. 
 
 Les personnages se rendent d'abord ainsi à Saragosse où ils découvrent La Torre No Vista, l'ancien sanctum de Consilia dans lequel se trouve enfermé un fantôme magique, reste de la personnalité brisée de Consilia. Elle se souvient de la visite du jeune Proclus qui, ivre de pouvoir et voulant découvrir les secrets du Muto, l'avait interrogée sur la manière de percer les mystères de l’essence des choses.
 
@@ -681,7 +681,7 @@ Le scénario vaut aux personnages 20 xp, dont les dix premiers se répartissent 
 Saison d'étude pour les autres personnages :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Muto (niveau 16, qualité 15) : 15 xp en Muto (passant ainsi au niveau 12), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : <mark>[...]</mark>  
 * Gobolino : <mark>[...]</mark>  
@@ -702,7 +702,7 @@ Suite de l'aventure *La quête de Consilia*:
 Saison d'étude ordinaire pour les autres personnages :
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Muto (niveau 16, qualité 15) : 15 xp en Muto (passant ainsi au niveau 13), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : <mark>[...]</mark>  
 * Gobolino : <mark>[...]</mark>  
@@ -714,7 +714,7 @@ Saison d'étude ordinaire pour les autres personnages :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : continue à inventer une variante ReMe 35 de son sort *Aura of Rightful Authority* ReMe 20 (cf. Automne 1235)  
  * Base 5, R: Touch +1, D: Sun +2, C: Struct +3;  
  * TL (ReMe) = 3 (Int) + 7 (Th. Mag. spé. Me) + 15 (Re) + 23 (Me) + 3 (Aura) + 1 (routine *Early Riser*) + 4 (bonus sort similaire) = 56 -> 21 niveaux de sort sont accumulés, le sort est inventé;  
@@ -766,7 +766,7 @@ Saison d'étude :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : quitte le Tribunal d'Ibérie pour voyager le long des côtes africaines -- 7 xp en Connaissance de l'Afrique Mythique, passant ainsi au niveau 1, spécialité "légendes"  
 * Esteban : <mark>[...]</mark>  
 * Faustus : étudie la découverte hermétique majeure (cf. Scénario Consilia) : un sort Vim peut agir sur les 4 royaumes (saison 1/2).  
@@ -784,7 +784,7 @@ Saison d'étude :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : 4 xp en *Animal Handling*  
 * Esteban : <mark>[...]</mark>  
 * Faustus : lit la *summa* Mentem de Durenmar (12 xp + 3 (*Book Learner*), passant ainsi au niveau 8)  
@@ -813,7 +813,7 @@ L'Alliance de Villa Manlia perd la moitié de ses ressources de *vis* (deux rein
 
 Saison d'étude pour les autres personnages : 
 
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : 4 xp en *Animal Handling*, passant ainsi au niveau 1 (spécialité: serpents)  
 * Gobolino : <mark>[...]</mark>  
 * Esteban : <mark>[...]</mark>  
@@ -824,7 +824,7 @@ Saison d'étude pour les autres personnages :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : termine son périple à travers les côtes d'Afrique et arrive en Egypte ~~ 7 xp en Connaissance de *Lands of the Nile*, passant ainsi au niveau 1 (spécialité: légendes) ~~ et se fixe en l'Alliance du Scarabée  
  * jet de vieillissement (63 ans):  
   * Total de Vieillissement =  4 (dé de tension sans désastre) + 7 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = 0;  
@@ -855,7 +855,7 @@ Saison d'étude :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Muto (niveau 16, qualité 15) : 15 xp en Muto (passant ainsi au niveau 14), plus 1 xp en Co (passant ainsi au niveau 10), He (passant ainsi au niveau 11), Im et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : <mark>[...]</mark>  
 * Faustus : lit la *summa* Rego, (13 xp + 3 (*Book Learner*), passant ainsi au niveau 10)  
@@ -872,7 +872,7 @@ Saison d'étude :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Muto (niveau 16, qualité 15) : 15 xp en Muto (passant ainsi au niveau 15), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : <mark>[...]</mark>  
 * Faustus : lit la *summa* Rego, (13 xp + 3 (*Book Learner*), passant ainsi au niveau 11)  
@@ -891,7 +891,7 @@ Saison d'étude :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : apprend le sort canonique Magie Voilée (*Shroud Magic*) MuVi 25 (cf. ArM5 p.159) dans une *summa* Vim:  
  * Base 20, R: Touch +1, D: Inst, C: Ind;  
  * TL (MuVi) = 3 (Int) + 6 (Th. Mag) + 15 (Mu) + 7 (Vi) + 3 (Aura) + 1 (routine *Early Riser*) = 35 -> 25 niveaux de sort sont accumulés, le sort est inventé;  
@@ -912,7 +912,7 @@ Saison d'étude :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : saison à la collectivité pour l'Alliance du Scarabée, 2 xp en Théorie de la Magie  
  * jet de vieillissement (64 ans):  
   * Total de Vieillissement =  0 (dé de tension sans désastre) + 7 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = -4;  
@@ -941,7 +941,7 @@ Saison d'étude :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : étudie une *summa* Muto (niveau 16, qualité 15) : 15 xp en Muto (passant ainsi au niveau 16), plus 1 xp en Co, He, Im et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : <mark>[...]</mark>  
 * Faustus lit la *summa* Creo, (12 xp + 3 (Book Learner), l'amenant ainsi à 8)  
@@ -960,7 +960,7 @@ Saison d'étude :
 Scénario *Au coeur de l'Université Invisible* écrit par Rafaël, conté les 1er et 29 décembre 2018 et 19 janvier 2019 (8 xp).
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 étudie une *summa* Perdo (niveau 14, qualité 12) : 12 xp en Perdo, plus 1 xp en Co, He, Im (passant ainsi au niveau 9) et Me comme bonus de sa vertu Connaissance Dérivée  
 * Esteban : <mark>[...]</mark>  
 * Faustus : 5 xp en Parma et 3 xp en Pénétration.  
@@ -977,7 +977,7 @@ Scénario *Au coeur de l'Université Invisible* écrit par Rafaël, conté les 1
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : apprend le sort canonique Nuages de pluie et de tonnerre (*Clouds of Rain and Thunder*) CrAu 25 (cf. ArM5 p.159) dans une *summa* Auram:  
  * Base 3, R: Sight +3, D: Conc +1, C: Group +2;  
  * TL (CrAu) = 3 (Int) + 6 (Th. Mag) + 10 (Cr) + 6 (Au) + 3 (Aura) + 1 (routine *Early Riser*) = 29 -> 29 niveaux de sort sont accumulés, le sort est inventé;  
@@ -1001,7 +1001,7 @@ Saison d'étude :
 Saison d'étude : 
 
 * Bernard : <mark>[...]</mark>  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : saison à la collectivité pour l'Alliance du Scarabée, 2 xp en Théorie de la Magie  
  * jet de vieillissement (65 ans):  
   * Total de Vieillissement =  6 (dé de tension sans désastre) + 7 (age/10) - 2 (Conditions de vie) - 9 (Rituel de longévité) = 2;  

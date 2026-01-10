@@ -1,11 +1,11 @@
-[[div]]  
-[[/div]]  
-[[tabview]]
+<div>
+</div>
+[tabview](tabview.md)
 
-[[tab title="Généralités"]]  
-[[div style="float: right; width: 558px; margin-top: -1.25cm;"]]  
+[tab title="Généralités"](tab%20title%3D%22G%C3%A9n%C3%A9ralit%C3%A9s%22.md)  
+<div style="float: right; width: 558px; margin-top: -1.25cm;">
 ![|](http://villamanlia.wikidot.com/local--files/manita/Manita.jpg)  
-[[/div]]  
+</div>
 # Identité  
 **Joueur** Eva  
 **Nom du personnage** Manita  
@@ -35,9 +35,9 @@ Renfermée
 Impulsive  
 Curieuse
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Vices & Vertus"]]  
+[tab title="Vices & Vertus"](tab%20title%3D%22Vices%20%26%20Vertus%22.md)  
 # Vertus  
 **Improved Characteristics** +1  
 **Improved Characteristics** +1  
@@ -49,9 +49,9 @@ Curieuse
 **Blatant Gift** -3  
 **Ennemy** -3  
 **Vow** (chasteté) -1  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Compétences"]]  
+[tab title="Compétences"](tab%20title%3D%22Comp%C3%A9tences%22.md)  
 **Langue d'Oc** 5  
 **Latin** 4  
 **Théorie de la Magie** (création d'objets magiques) 4 (4)  
@@ -74,9 +74,9 @@ Curieuse
 **Pénétration** (Rego) 1  
 **Connaissance du divin** 1  
 **Théologie** 1  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Magie"]]  
+[tab title="Magie"](tab%20title%3D%22Magie%22.md)  
 # Arts  
 **Creo** 7 (5)  
 **Intellego** 12 (3)  
@@ -111,9 +111,9 @@ Néant
 
 # Crépuscule  
 Au printemps 1211, en chemin vers la Normandie et le procès de Murbella, Manita fait un double désastre en ReHe, lors d'un combat contre des créatures féériques dans le château maudit de Jemotte. Suite à son plongeon (volontaire) dans le Crépuscule, elle perd 6xp en Artisanat (bois) et garde la cicatrice suivante : à son contact ou lorsqu'elle est sur le point de les toucher, les plantes vivantes se rétractent.  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Equipement"]]  
+[tab title="Equipement"](tab%20title%3D%22Equipement%22.md)  
 Un bourdon de pèlerin, donc l'extrémité inférieure a été taillée en pointe et durcie au feu, et dont l'extrémité supérieure a été sculptée d'entrelacs élégants permettant par ailleurs une meilleure prise, et parmi lesquels on peut remarquer le signe XP, à savoir le monogramme du Christ. 
 
 **Compétence associée** : Arme à deux mains  
@@ -129,9 +129,9 @@ Un bourdon de pèlerin, donc l'extrémité inférieure a été taillée en point
 
 **Charge totale** 2  
 **Encombrement** 1  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Background"]]  
+[tab title="Background"](tab%20title%3D%22Background%22.md)  
 # Description  
 Manita fait 1m62 pour 48kg, ce qui fait d'elle une personne assez fluette. Ses cheveux bruns sont toujours coupés courts, et ses grands yeux violets mettent tout le monde mal à l'aise. Elle s'habille avec des vêtements simples et très sobres, sous lesquels elle dissimule une quantité assez conséquente de colliers et de bracelets. Seules ses bagues, elles aussi nombreuses, sont visibles et la distinguent d'une humble domestique.
 
@@ -143,8 +143,8 @@ Maria était également chargée de faire les courses au village. Les gens s’�
 Pour l’ordination, tout le couvent était en ébullition. Les plus riches familles de la région furent invitées, et Maria pria de tout son cœur que les Morlay ne la reconnaissent pas malgré les quatre années écoulées et l’abandon progressif de son physique d’enfant. Tout semblait bien se passer, jusqu’à ce qu’elle surprenne du coin de l’œil un écuyer la désigner du menton et glisser un mot à l’oreille de son voisin. Elle sentit son estomac se nouer lorsqu’elle vit le voisin en question se pencher à son tour vers la comtesse de Morlay, qui tressaillit et scruta intensément dans sa direction. Le cœur au bord des lèvres, elle vit enfin la comtesse tirer l’abbesse par la manche et les deux femmes disparaître ensemble. Elle était perdue. L’abbesse se ferait un plaisir de la livrer à la justice du comte, qui était un généreux donateur du couvent et à qui elle ne pouvait rien refuser. Elle comprit qu’il lui fallait fuir le soir même, par un passage qu’elle avait trouvé bien longtemps auparavant.  
 Mais dès qu’elle se trouva hors des murs, elle sentit deux bras l’entourer. Ce n’était pas un invité, mais un simple voyageur qui avait trouvé refuge au couvent la veille et avait aussi assisté à la cérémonie. Celui-ci lui proposa de l’emmener avec lui et de lui apprendre à contrôler sa magie et à la mettre à profit. C’est ainsi que Maria entra en apprentissage auprès de son pater, Perfectus de Verditius. Lorsqu’elle releva le gant, elle changea son nom en Manita. 
 
-[[/tab]]
+[tab](/tab.md)
 
-[[/tabview]]
+[tabview](/tabview.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

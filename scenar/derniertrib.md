@@ -4,7 +4,7 @@ Le présent scénario constitue la concrétisation du premier chapitre *The Trib
 
 Le supplément de White Wolf comporte une description intéressante de l’Alliance de Doïsseteppe et du déroulement du Tribunal, mais il faut bien se rendre à l’évidence : si l’ambiance est bien rendue, l’essentiel fait défaut. En effet, il restait au Conteur à développer le contenu proprement dit du scénario, en faisant en sorte que les personnages soient concrètement impliqués dans les intrigues du Tribunal. C’est ce que je me suis efforcé de faire avec le présent scénario.
 
-Evidemment, c’est le genre de scénario qu’il est difficile pour un autre Conteur d’utiliser tel quel, puisqu’il est étroitement lié à cette Saga. J’espère néanmoins que ceci pourra servir de source d’inspiration. A cet effet, je fournis ci-après quelques indications sur les PNJ récurrents de la Saga, auxquelles une [page distincte](http://villamanlia.wikidot.com/pnj) est également consacrée.
+Evidemment, c’est le genre de scénario qu’il est difficile pour un autre Conteur d’utiliser tel quel, puisqu’il est étroitement lié à cette Saga. J’espère néanmoins que ceci pourra servir de source d’inspiration. A cet effet, je fournis ci-après quelques indications sur les PNJ récurrents de la Saga, auxquelles une [page distincte](../saga/pnj.md) est également consacrée.
 
 ![](https://mandragore.bnf.fr/iiif/ark:/12148/btv1b81002268/f6/full/full/0/native.jpg)  
 Eve cueillant le fruit défendu de la connaissance. A moins qu'il ne s'agisse de Dubinaro et Claudia? Source : manuscrit du XVe siècle, [BnF](https://mandragore.bnf.fr/mirador/ark:/12148/btv1b81002268/f6) Français 188, fol. 6v.
@@ -13,19 +13,19 @@ Eve cueillant le fruit défendu de la connaissance. A moins qu'il ne s'agisse de
 
 ## Les machinations de Jérôme
 
-Jérôme de Bonisagus est le « grand méchant » de notre Saga (voy. l’historique de [Dubinaro](http://villamanlia.wikidot.com/dubinaro)). Il entend bien profiter du Tribunal pour accuser les personnages d’avoir compromis l’Ordre par leurs actions. 
+Jérôme de Bonisagus est le « grand méchant » de notre Saga (voy. l’historique de [Dubinaro](../personnages/dubinaro.md)). Il entend bien profiter du Tribunal pour accuser les personnages d’avoir compromis l’Ordre par leurs actions. 
 
-Ainsi, il compte leur reprocher d’avoir participé au débat de Pamiers lors du scénario *[http:*villamanlia.wikidot.com/dialectique La Dialectique des Armes]*, d’avoir ouvertement utilisé la magie fût-ce pour sauver la vie de l’abbé Alain et de s’être enfin compromis dans l’enquête des légats du Pape dans le scénario  *[Le Fou de Dieu](http://villamanlia.wikidot.com/foudedieu)//. Il réclame, à titre de sanction, leur expulsion de l’Ordre.
+Ainsi, il compte leur reprocher d’avoir participé au débat de Pamiers lors du scénario *[La Dialectique des Armes](./dialectique.md)*, d’avoir ouvertement utilisé la magie fût-ce pour sauver la vie de l’abbé Alain et de s’être enfin compromis dans l’enquête des légats du Pape dans le scénario  *[Le Fou de Dieu](./foudedieu.md)//. Il réclame, à titre de sanction, leur expulsion de l’Ordre.
 
-Magda, jeune apprentie issue de la même Alliance que Jérôme (voir le [prologue](http://villamanlia.wikidot.com/prologue) au scénario *Promises, Promises*) pourra-t-elle avertir les personnages ? Par ailleurs, ceux-ci pourraient vouloir se faire des appuis avant le Tribunal proprement dit. C’est même l’essentiel du scénario.
+Magda, jeune apprentie issue de la même Alliance que Jérôme (voir le [prologue](./prologue.md) au scénario *Promises, Promises*) pourra-t-elle avertir les personnages ? Par ailleurs, ceux-ci pourraient vouloir se faire des appuis avant le Tribunal proprement dit. C’est même l’essentiel du scénario.
 
-Les personnages sont dans une situation délicate. Ils contre-attaquent peut-être en accusant Jérôme de satanisme. Si c’est le cas, Jérôme réplique bien sûr en rappelant les liens de Dubinaro avec Claudia, la disparition de la *summa* Wittockiana, etc. La balance semble pencher en faveur des personnages lorsque soudain le Quaesitor Dikaïos (voir le [prologue](http://villamanlia.wikidot.com/prologue) au scénario *Promises, Promises*) intervient en leur faveur… et là, c’est la fin de tout ! Oxioun, le *Praeco* du Tribunal, lance un regard à un Mage de Doïsseteppe, qui s’empresse de rappeler la bévue passée de Dikaïos, met en évidence la faiblesse de son système d’attaque. En effet, le Quaesitor Dikaïos a eu la mauvaise idée de s’attaquer autrefois à Oxioun en l’accusant de satanisme. L’accusation n’a jamais pu être prouvée, et la réputation de Dikaïos est depuis largement ternie. Le débat en est complètement déplacé. Le Tribunal vote, acquitte largement Jérôme et condamne peut-être même les personnages à une amende exemplaire.
+Les personnages sont dans une situation délicate. Ils contre-attaquent peut-être en accusant Jérôme de satanisme. Si c’est le cas, Jérôme réplique bien sûr en rappelant les liens de Dubinaro avec Claudia, la disparition de la *summa* Wittockiana, etc. La balance semble pencher en faveur des personnages lorsque soudain le Quaesitor Dikaïos (voir le [prologue](./prologue.md) au scénario *Promises, Promises*) intervient en leur faveur… et là, c’est la fin de tout ! Oxioun, le *Praeco* du Tribunal, lance un regard à un Mage de Doïsseteppe, qui s’empresse de rappeler la bévue passée de Dikaïos, met en évidence la faiblesse de son système d’attaque. En effet, le Quaesitor Dikaïos a eu la mauvaise idée de s’attaquer autrefois à Oxioun en l’accusant de satanisme. L’accusation n’a jamais pu être prouvée, et la réputation de Dikaïos est depuis largement ternie. Le débat en est complètement déplacé. Le Tribunal vote, acquitte largement Jérôme et condamne peut-être même les personnages à une amende exemplaire.
 
-En outre, Jérôme porte bien évidemment plainte pour violation de ses prérogatives de Bonisagus, les personnages ayant refusé de lui livrer Pierre de Saverdun comme apprenti (voy. les événements du [printemps 1207](http://villamanlia.wikidot.com/chrono#toc36)). Voilà qui risque d’attiser l’ire de tout l’Ordre…
+En outre, Jérôme porte bien évidemment plainte pour violation de ses prérogatives de Bonisagus, les personnages ayant refusé de lui livrer Pierre de Saverdun comme apprenti (voy. les événements du [printemps 1207](../saga/chrono.md)). Voilà qui risque d’attiser l’ire de tout l’Ordre…
 
 ## Le plan sournois de Lariandre
 
-Lariandre est une Alliance de printemps, décrite dans le supplément *Les Alliances* de la troisième édition, installée au milieu de la forêt féérique de Sadrissel au sud de Toulouse, et composée principalement de Tremere. Les personnages ont noué des liens d’amitié avec elle depuis le scénario *[http:*villamanlia.wikidot.com/trahison Le Jeu de la Trahison et du Hasard]//, où figure également une brève description des six Mages composant l’Alliance. Mais il est temps que les PJ découvrent à quel point les Tremere peuvent être sournois !
+Lariandre est une Alliance de printemps, décrite dans le supplément *Les Alliances* de la troisième édition, installée au milieu de la forêt féérique de Sadrissel au sud de Toulouse, et composée principalement de Tremere. Les personnages ont noué des liens d’amitié avec elle depuis le scénario *[Le Jeu de la Trahison et du Hasard](./trahison.md)//, où figure également une brève description des six Mages composant l’Alliance. Mais il est temps que les PJ découvrent à quel point les Tremere peuvent être sournois !
 
 Lariandre veut obtenir son indépendance d’Albison, sa maison mère située dans le Tribunal de Normandie. Justement, ça tombe bien, celle-ci a délégué Murbella pour voter avec le sceau des Tremere de Lariandre et exercer son droit de regard sur l’Alliance-fille. Mais celle-ci va lui tendre un piège !
 
@@ -46,8 +46,7 @@ L’Alliance de Bellaquin est également décrite dans le supplément *Les Allia
 
  
 Bellaquin ne veut qu’une chose : rallier un maximum de monde à son objectif d’entraîner l’Ordre dans une guerre ouverte avec les ennemis du catharisme. A cet effet, Priscilla de Jerbiton, l’un des membres du triumvirat qui dirige l’Alliance, s’apprête à lire au Tribunal la lettre adressée par le pape le 29 mai 1207 au Comte de Toulouse, Raymond VI, confirmant son excommunication :
-
-[[div style="width: 700px; font-family: Vivaldi; font-size: 16pt;"]]  
+<div style="width: 700px; font-family: Vivaldi; font-size: 16pt;">
 > A noble homme Raymond comte de Toulouse : l’esprit d’un conseil plus sage.  
 >  
 > Si nous pouvions ouvrir votre cœur, nous y trouverions et nous vous y ferions voir les abominations détestables que vous avez commises ; mais parce qu’il paroît plus dur que la pierre, on pourra à la vérité le frapper par les paroles du salut ; mais difficilement y pourra-t-on pénétrer. Ah ! quel orgueil s’est emparé de votre cœur, et quelle est votre folie, homme pernicieux, de ne vouloir pas conserver la paix avec vos voisons, et de vous écarter des loix divines, pour vous joindre aux ennemis de la foy ? Comptez-vous pour peu de choses d’être à charge aux hommes ; voulez-vous l’être encore à Dieu, et n’avez-vous pas sujet de craindre les châtiments temporels pour tant de crimes, si vous n’appréhendez les flammes éternelles ? Prenez garde, méchante homme, et craignez que par les hostilitez que vous exercez contre votre prochain, et par l’injure que vous faites à Dieu en favorisant l’hérésie, vous ne vous attiriez une double vengeance pour votre double prévarication. (…)  
@@ -57,28 +56,23 @@ Bellaquin ne veut qu’une chose : rallier un maximum de monde à son objectif d
 > C’est donc avec raison que nos légats vous ont excommunié, et qu’ils ont jeté l’interdit sur tous vos domaines ; (…) nous confirmons leur sentence, et nous ordonnons qu’elle soit inviolablement observée, jusqu’à ce que vous ayez fait une satisfaction convenable. Cependant, quoique vous ayiez péché grièvement, tant contre Dieu que contre l’église en général, que contre vous-même en particulier, suivant l’obligation où nous sommes de redresser ceux qui s’égarent, nous vous avertissons, et nous vous commandons par le souvenir du jugement de Dieu, de faire une prompte pénitence proportionnée à vos fautes, afin que vous méritiez d’obtenir le bienfait de l’absolution. Si-non, comme nous ne pouvons laisser impunie une si grande injure faite à l’église universelle, et même à Dieu, sachez que nous vous ferons ôter les domaines que vous tenez de l’église Romaine ; et si cette punition ne vous fait pas rentrer en vous-même, nous enjoindrons à tous les princes voisins de s’élever contre vous, comme contre un ennemi de J.C. et un persécuteur de l’Eglise ; avec permission à chacun de retenir toutes les terres dont il pourra s’emparer sur vous, afin que le pais ne soit plus infecté d’hérésie sous votre domination. La fureur du seigneur ne s’arrêtera pas encore : sa main s’étendra sur vous pour vous écraser : elle vous fera sentir qu’il vous sera difficile de vous soustraire à sa colère que vous avez provoquée.  
 >  
 > Donné à S. Pierre de Rome le 29. de Mai de la dixième année de notre pontificat [1207].  
-[[/div]]
-
-[[div style="width: 700px;"]]  
-(Source : C. DE VIC et J. VAISSETE, *[http:*books.google.com/books?id=RNw4AAAAIAAJ&pg=PA99&dq=Le+meurtre+de+ce+l%C3%A9gat+enflamma+le+z%C3%A8le+d%27Innocent&hl=fr#v=onepage&q=Le%20meurtre%20de%20ce%20l%C3%A9gat%20enflamma%20le%20z%C3%A8le%20d%27Innocent&f=false Histoire générale de Languedoc]//, t. V, Toulouse, Payat, 1862, p. 99 et s.)  
-[[/div]]
-
+</div>
+<div style="width: 700px;">
+(Source : C. DE VIC et J. VAISSETE, *[Histoire générale de Languedoc](http://books.google.com/books?id=RNw4AAAAIAAJ&pg=PA99&dq=Le+meurtre+de+ce+l%C3%A9gat+enflamma+le+z%C3%A8le+d%27Innocent&hl=fr#v=onepage&q=Le%20meurtre%20de%20ce%20l%C3%A9gat%20enflamma%20le%20z%C3%A8le%20d%27Innocent&f=false)//, t. V, Toulouse, Payat, 1862, p. 99 et s.)  
+</div>
 Néanmoins, Priscilla craint que cela ne suffise pas à emporter la conviction du Tribunal, car celui-ci pourrait objecter que le Comte a fort bien pu se repentir après cette lettre. Priscilla a dès lors envoyé sa servante, Silvia, en France pour obtenir une copie de la lettre du 17 novembre 1207 envoyée par le pape au Roi et aux barons de France. Cette lettre confirme que la croisade apparaît désormais comme inéluctable :
-
-[[div style="width: 700px; font-family: Vivaldi; font-size: 16pt;"]]  
+<div style="width: 700px; font-family: Vivaldi; font-size: 16pt;">
 > (...) Puisque ceux qui sont dans l'erreur ne veulent pas entendre nos raisons, bravent nos menaces et s'excluent de nos bienfaits, et puisqu'aucun remède n'a d'effet sur le mal, que celui-ci soit extirpé par le fer. Que ceux qui méprisent la censure ecclésiastique soient contraints par le bras du pouvoir séculier (...) Nous demandons votre aide. Il fait que les sectateurs de la perversité hérétique soient écrasés par la vertu de votre puissance, et que les malheurs de la guerre les ramènent au moins à la notion de vérité. (...)  
-[[/div]]
-
-[[div style="width: 700px;"]]  
+</div>
+<div style="width: 700px;">
 (Source : M. Roquebert, *L’épopée cathare. I. L’invasion 1198-1212*, s.l., Perrin (Tempus), 2006 (1ère éd. 1970), p. 293 et s.  
-[[/div]]
-
-(En réalité, le Roi de France, Philippe-Auguste, a accueilli assez froidement cet appel aux armes. Il faudra les événements tragiques de janvier 1208, abordés dans le scénario *[http:*villamanlia.wikidot.com/mortlegat La Mort d’un Légat]//, pour que les armées françaises répondent à l’appel de la papauté.)
+</div>
+(En réalité, le Roi de France, Philippe-Auguste, a accueilli assez froidement cet appel aux armes. Il faudra les événements tragiques de janvier 1208, abordés dans le scénario *[La Mort d’un Légat](./mortlegat.md)//, pour que les armées françaises répondent à l’appel de la papauté.)
 
 Toutefois, au grand dam de Priscilla, Silvia tarde à revenir… ce n’est pas étonnant : elle est revenue, mais Oxioun, le *Praeco* du Tribunal et de Doïsseteppe, qui souhaite faire échouer les plans de Bellaquin (comme exposé dans le supplément *A Midsummer Night’s Dream*), la retient dans ses appartements. Oh ! pas contre son gré ! car ce serait une violation manifeste du Code; mais en lui faisant miroiter toutes ses richesses, toutes les merveilles de sa bibliothèque, car elle est soi-disant destinée à devenir une grande magicienne. Silvia y croit dur comme fer, libérée temporairement du joug oppressant de Priscilla; celle-ci la cherche partout, mais ce sont les personnages qui la retrouvent, alors qu’ils longent les appartements du *Praeco* ils entendent sa voix et en les voyant, Silvia, toute heureuse, les invite dans lesdits appartements. Les PJ sauront-ils garder la tête sur les épaules ? Pendant ce temps, Priscilla s’inquiète, car une tempête de neige a commencé à l’extérieur. Elle craint que Silvia n’y soit prise au piège…
 
 ## La transformation d’Esperanza  
-Cet interlude constitue une étape dans le processus qui aboutira au scénario *[http:*villamanlia.wikidot.com/delivrance La Délivrance d’Esperanza]//.
+Cet interlude constitue une étape dans le processus qui aboutira au scénario *[La Délivrance d’Esperanza](./delivrance.md)//.
 
 Tolomae examine à nouveau Esperanza. La transformation se prépare, mais les signes sont encore extrêmement discrets. Tolomae l’examine puis, pour en avoir le cœur net, lui demande de lancer un sort sur un Servant; et, quand celui-ci se met à parler, si l’on amplifie la voix, et on entend comme un léger sifflement (le sceau du Mage d’Esperanza se transforme…). Tolomae fait également apparaître une souris blanche et, au lieu de pousser des hurlements, Esperanza se sent étrangement saliver. Enfin, une vive lueur blanche lui fait rétrécir les pupilles comme celles d’un serpent… Il n’en faut pas plus pour que Tolomae comprenne ce qui se passe. Il demande à Priscilla de distraire Esperanza et en profite pour prendre à part les autres Mages de Villa Manlia pour les mettre en garde, leur dire que le processus de transformation est en cours, qu’il faut s’efforcer de le ralentir en tenant Esperanza à l’écart des auras féériques, que son comportement risque de se transformer, et qu’en dernier ressort, il faut lui administrer cette potion qui la plongera dans un coma artificiel : c’est dangereux, mais peut-être la seule solution; il détient peut-être la solution pour la sauver, mais ne veut l’appliquer qu’en ultime ressort.
 
@@ -104,7 +98,7 @@ Althalus convainc par ailleurs le Quaesitor Hectorus de demander l’expulsion d
 
 Si les personnages cherchent à gagner des appuis avant le Tribunal, ils apprennent assez rapidement qu’une force avec laquelle il faut compter est celle de Davinia ex Miscellaneis, ancienne du Tribunal de Novgorod qui a rejoint Doïsseteppe il y a plusieurs années déjà et y exerce une influence discrète mais certaine. On peut la trouver en train de se baigner, nue, dans les eaux glacées des thermes, deux serviteurs se tenant prêts à lui tendre un peignoir non sans qu’elle ait eu le temps d’exhiber ses charmes aux personnages. Elle est prête à leur promettre l’acquittement à une condition : qu’ils lui rendent un petit service…
 
-Il s’agit de s’introduire dans une cérémonie secrète, celle du [ Culte de Mithra](http://fr.wikipedia.org/wiki/Culte_de_Mithra), interdit aux femmes. Davinia met à la disposition des personnages une robe sombre munie d’une coule. Un sort Imaginem ne sert à rien, les avertit-elle, car nombreux sont les prêtres de Mithra qui percent ce genre de déguisement à jour d’un coup d’œil. En revanche, elle est parvenue à découvrir le mot de passe de ce soir : Fidelio[[footnote]]Allusion évidemment à *Eyes Wide Shut*.[[/footnote]]… Elle remet aux personnages un crâne (évidemment un moyen d'espionage) que ceux-ci doivent placer dans une niche, et leur conseille de disparaître avant le début de la cérémonie proprement dite – et, surtout, d’être discrets.
+Il s’agit de s’introduire dans une cérémonie secrète, celle du [ Culte de Mithra](http://fr.wikipedia.org/wiki/Culte_de_Mithra), interdit aux femmes. Davinia met à la disposition des personnages une robe sombre munie d’une coule. Un sort Imaginem ne sert à rien, les avertit-elle, car nombreux sont les prêtres de Mithra qui percent ce genre de déguisement à jour d’un coup d’œil. En revanche, elle est parvenue à découvrir le mot de passe de ce soir : Fidelio*(Note : Allusion évidemment à *Eyes Wide Shut*.)*… Elle remet aux personnages un crâne (évidemment un moyen d'espionage) que ceux-ci doivent placer dans une niche, et leur conseille de disparaître avant le début de la cérémonie proprement dite – et, surtout, d’être discrets.
 
 Les personnages entrent sans difficulté dans le temple. Ambiance *Eyes Wide Shut*. Il y a, au centre, un puits sans fond consacré à Mithra. Avant le début proprement dit de la cérémonie, chacun s’avance à son tour pour faire une offrande au dieu. L’un a apporté un feu-follet de la forêt de Sadrissel, qui se débat en cage; tel autre Mage tient fermement une laisse argentée qui mène à un changelin, qui a pour le moment l’apparence d’un adorable enfant qui tend un regard éploré vers les personnages, mais n’hésitera pas à se transformer en monstre difforme s’il s’approche trop; tel autre encore apporte des richesses et des pierreries d’Orient.
 
@@ -125,12 +119,10 @@ Les personnages peuvent également croiser la route du sinistre Erat Caecus de F
 A la fin du Tribunal, il se lèvera pour annoncer que c’est le dernier Tribunal, que dans sept ans il prédit qu’aucun Tribunal ne se tiendra car les Mages vivront dans la peur, la mort, etc. Il n’a pas tout à fait tort !
 
 # Déroulement des festivités  
-[[div style="float: right; width: 512px;"]]  
+<div style="float: right; width: 512px;">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100036&E=JPEG&Deb=2&Fin=2&Param=C)  
-[[size smaller]]L'assemblée des Mages du Tribunal de Provence. Source : [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-8&M=imageseule), Français 31, fol. 32, Romains discutant, manuscrit du XIVe siècle.[[/size]]  
-[[/div]]
-
-
+<small>L'assemblée des Mages du Tribunal de Provence. Source : [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-8&M=imageseule), Français 31, fol. 32, Romains discutant, manuscrit du XIVe siècle.</small>  
+</div>
 ## L’Avant-Tribunal  
 * Priscilla évoque déjà ses plans de parler au Tribunal de la menace qui pèse sur l’Ordre, demande aux PJ leur soutien, et leur fait entendre qu’ils pourraient bien avoir besoin du sien en retour. A cet égard, elle se moque des personnages pour avoir fait confiance aux Tremere : ceux-ci remettent en cause les accords passés !  
 * Magda annonce aux personnages que Jérôme a l’intention de les faire exclure de l’Ordre. Elle leur conseille de trouver des appuis auprès des autres Mages.  
@@ -166,16 +158,15 @@ A la fin du Tribunal, il se lèvera pour annoncer que c’est le dernier Tribuna
 ## Délibérations *in Ordinem*  
 * Priscilla tente de convaincre l’Ordre de la nécessité d’une réaction concertée et armée contre le Pape. Veto éventuel de Protantus.  
 * Intervention d’Erat Caecus et de sa sinistre prophétie.  
-[[div]]
-
-[[/div]]  
-[[>]]  
+<div>
+</div>
+[>](%3E.md)  
 Rafaël Jafferali  
-[[/>]]
+[>](/%3E.md)
 
-[[footnoteblock title="Notes"]]  
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
+[footnoteblock title="Notes"](footnoteblock%20title%3D%22Notes%22.md)  
+[>](%3E.md)  
+[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
+[>](/%3E.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

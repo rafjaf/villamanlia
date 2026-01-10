@@ -1,8 +1,8 @@
-[[div]]  
-[[/div]]  
-[[tabview]]
+<div>
+</div>
+[tabview](tabview.md)
 
-[[tab title="Généralités"]]  
+[tab title="Généralités"](tab%20title%3D%22G%C3%A9n%C3%A9ralit%C3%A9s%22.md)  
 # Identité  
 **Joueur** Renaud  
 **Nom du personnage** Tristan-Alexis de Montségur  
@@ -17,9 +17,9 @@
 **Confiance** 2  
 **Crépuscule** 0
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Caractéristiques"]]  
+[tab title="Caractéristiques"](tab%20title%3D%22Caract%C3%A9ristiques%22.md)  
 # Caractéristiques  
 **Int** +3  
 **Per** 0  
@@ -29,9 +29,9 @@
 **Com** +1 (chant)  
 **Dex** +2 (doigts agiles)  
 **Viv** +1 (esquive)  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Vices & Vertus"]]  
+[tab title="Vices & Vertus"](tab%20title%3D%22Vices%20%26%20Vertus%22.md)  
 # Vertus  
 **Sang de fées** (Sidhe) +1  
 **Musique envoûtante** (*Enchanting music*) (harpe/lyre) +1  
@@ -39,7 +39,7 @@
 **Puissant Ability** (enchanting music) +1  
 **Connaissance des animaux (origine féerique)**(*Animal Ken*) (oiseaux) +1  
 **Educated** +1  
-**Improved[[footnote]]Suite au contact avec la nymphe florale Pétunia de la regio féerique d'Arvigna, la vertu *Venus' blessing* de Tristan-Alexis s'en est trouvée renforcée, le bonus passant de +3 à +4.[[/footnote]] Venus' blessing** +1 : Bonus de +4 aux jets de Communication et Présence avec des personnages sexuellement compatibles dans des conditions appropriées.
+**Improved*(Note : Suite au contact avec la nymphe florale Pétunia de la regio féerique d'Arvigna, la vertu *Venus' blessing* de Tristan-Alexis s'en est trouvée renforcée, le bonus passant de +3 à +4.)* Venus' blessing** +1 : Bonus de +4 aux jets de Communication et Présence avec des personnages sexuellement compatibles dans des conditions appropriées.
 
 # Vices
 
@@ -49,9 +49,9 @@
 
 **Wanderer** 0
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Compétences"]]  
+[tab title="Compétences"](tab%20title%3D%22Comp%C3%A9tences%22.md)  
 # Compétences générales  
 **Attention** (*Awareness*) 2  
 **Athlétisme** (grimper) 2 (5)  
@@ -99,14 +99,14 @@ $insert LaTeX equation here$**Enseignement** 2
 **Encombrement** - 2 
 
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Background"]]  
+[tab title="Background"](tab%20title%3D%22Background%22.md)  
 # Description  
 # Historique  
-[[/tab]]
+[tab](/tab.md)
 
 
-[[/tabview]]
+[tabview](/tabview.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

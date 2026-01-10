@@ -1,10 +1,9 @@
 *You don't bring backup for the things you know about. You bring backup for the things you don't know about.*  
 — Benedict Jacka, *Cursed: An Alex Verus Novel*, 2012, London, Orbit.  
-
-[[div style="float: right; width: 512px;"]]  
+<div style="float: right; width: 512px;">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-08008903&E=JPEG&Deb=1&Fin=1&Param=C)  
-[[size smaller]]Allégorie de la Richesse, XVe siècle. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=08008903&E=1&I=39922&M=imageseule), Français 1174, fol. 26v.[[/size]]  
-[[/div]]  
+<small>Allégorie de la Richesse, XVe siècle. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=08008903&E=1&I=39922&M=imageseule), Français 1174, fol. 26v.</small>  
+</div>
 # Sources de *vis* brute
 
 * Plantes cultivées dans le péristyle: 4 pions **Creo** par an  
@@ -109,12 +108,12 @@ Les réserves de *vis* sont conservées dans les sanctums des Mages selon le tab
 * Un anneau magique (conservé dans le sanctum d'Esperanza) :  
 > **Ring of the Flying Sun**  
 > A copper ring inscribed on the inner surface with strange letters and symbols.  
-> Whoever wears this ring, holds it up in the sunlight, and says “Jumabim” can fly at speeds of up to fifty miles per hour. The user, however, can only fly when sunlight shines on him. If he flies under a cloud, he will lose altitude rapidly and then drop like a stone within thirty seconds. ([ReCo 30](http://villamanlia.wikidot.com/forum/t-183733/printemps-1208#post-593961))  
+> Whoever wears this ring, holds it up in the sunlight, and says “Jumabim” can fly at speeds of up to fifty miles per hour. The user, however, can only fly when sunlight shines on him. If he flies under a cloud, he will lose altitude rapidly and then drop like a stone within thirty seconds. ([ReCo 30](./forum.md/t-183733/printemps-1208#post-593961))  
 * Une magnifique paire de **bottes** de couleur verte, dignes d'un seigneur, ornées de boucles dorées, taillées dans un cuir à la fois souple et résistant, offertes par le Roi Aldarin à Sigfeín  (conservée dans le sanctum de ce dernier) :  
 > Elles sont très agréable à porter aux pieds, celui qui les revêt se sent comme sur un petit nuage, prêt à bondir de succès en succès. Elles confèrent à leur porteur un bonus de +1 à tous ses jets de Vivacité, y compris les jets d'Esquive, et diminuent d'un dé de désastre les lancers pour ces jets. Enfin, elles permettent à leur porteur de progresser deux fois plus rapidement que d'ordinaire sans se fatiguer.  
 * La **coupe d'adieu** de Magnolia pour Sigfeín (conservée dans son Sanctum):  
 > Cette coupe en bois, de facture toute simple, dégage une agréable odeur de fleurs lorsqu'on y verse de l'eau.  
-> Elle pourrait avoir d'autres propriétés ([[span style="background-color: yellow;"]]à investiguer[[/span]])
+> Elle pourrait avoir d'autres propriétés ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à investiguer[span](/span.md))
 
 * Un **brassard en or** de géante, remise à Sigfeín
 
@@ -124,7 +123,7 @@ Les réserves de *vis* sont conservées dans les sanctums des Mages selon le tab
 > Niveau CrIm 20 : Base 1 (create an image that affects a single sense) + 1 (making clear words) + 1 (make words at your direction as you concentrate), Portée Connexion des Arcanes +4, Durée Diamètre +1, Cible Individuelle, 1 utilisation par jour.  
 > Pour déclencher l'effet : *Vox clamans in deserto.*  
 > Sceau du Mage : L'objet déforme - évidemment - la voix de l'utilisateur comme si elle venait d'outre-tombe.  
-* ~~Une crosse en bois sur laquelle sont gravés des symboles mystiques (et un texte de laboratoire décodé associé), ayant appartenue à Ambrosius de Jerbiton, investie des pouvoirs InVi suivants [[footnote]]Ce qui suit est extrait du scénario *The Bishop's Staff* de Michaël de Verteuil, publié par Atlas Games, 2002. Les effets décrits se basent sur les règles de la 4ème édition.[[/footnote]] (conservée dans le sanctum de Sigfeín) :~~  
+* ~~Une crosse en bois sur laquelle sont gravés des symboles mystiques (et un texte de laboratoire décodé associé), ayant appartenue à Ambrosius de Jerbiton, investie des pouvoirs InVi suivants *(Note : Ce qui suit est extrait du scénario *The Bishop's Staff* de Michaël de Verteuil, publié par Atlas Games, 2002. Les effets décrits se basent sur les règles de la 4ème édition.)* (conservée dans le sanctum de Sigfeín) :~~  
 > * ~~*Vibration of the Unsuspected Vis* InVi1 (R:Near, D:Constant, T:Small), Constant : The staff will vibrate slightly when placed in contact with a source of raw vis.~~  
 > * ~~*Scales of the Magical Weight* InVi5, 24/d.~~  
 > * ~~*Sense the Nature of Vis* InVi5, 24/d.~~  
@@ -144,8 +143,8 @@ Les réserves de *vis* sont conservées dans les sanctums des Mages selon le tab
 
 ## Objets magiques
 
-* Le stylet de Consilia: 3 effets à préciser ([[span style="background-color: yellow;"]])  
-* Un coffre invisible, ayant appartenu à Carolus de Jerbiton ([[span style="background-color: yellow;"]]à investiguer en laboratoire[[/span]], conservé dans le Sanctum de Celarius)  
+* Le stylet de Consilia: 3 effets à préciser ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md))  
+* Un coffre invisible, ayant appartenu à Carolus de Jerbiton ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à investiguer en laboratoire[span](/span.md), conservé dans le Sanctum de Celarius)  
 * Un gland féerique de la taille d'une pomme, contenant un pion de *vis* Herbam et un germe d'un chêne féerique, générant une aura d'une superficie déterminée par l'étendue de ses branches et d'une intensité fonction de son âge, planté à l'extérieur de l'Alliance en 1212  
 * Une fiole de substance (poison?) infernale confisquée au Dr. Mark (conservée dans le sanctum d'Esperanza)  
 * ~~Un quart de bouteille de vin féerique, guérissant les blessures par application sur les plaies (conservée dans le sanctum de Sigfeín)~~  
@@ -161,11 +160,11 @@ Les réserves de *vis* sont conservées dans les sanctums des Mages selon le tab
 > * ~~Cancel the effets of any Ignem spell whose level is less than or equal to (effect level + 10 + stress die (no botch)).~~  
 * ~~Un sachet de poudre multicolore magique (conservé dans le sanctum de Manita) : 1 charge de l'effet *Disguise of the Transformed Image* MuIm 15 (Base 4, Portée Toucher +1, Durée Aube/Crépuscule +2, Cible Individuelle)~~  
 * Une magnifique bague magique en or ornée d'un saphir, autrefois propriété de Pierre de Saverdun (conservée dans le sanctum d'Esperanza)  
-* Deux dagues magiques à la lame bleutée ([[span style="background-color: yellow;"]]à investiguer en laboratoire[[/span]], conservées dans le sanctum de Sigfein)  
+* Deux dagues magiques à la lame bleutée ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à investiguer en laboratoire[span](/span.md), conservées dans le sanctum de Sigfein)  
 * Une corde magique qui se rigidifie lorsque lui imprime un mouvement sec  
 * Un pot de pommade guérissante Scyapode (- 1 charge, utilisée à l'Eté 1248)  
-* Des feuilles séchées servant à concocter un breuvage féerique endormissant ([[span style="background-color: yellow;"]]niveau de l'effet inconnu[[/span]])  
-* Un médaillon magique permettant à Scintillus de contrôler la personne qui le porte ([[span style="background-color: yellow;"]]niveau de l'effet inconnu[[/span]])  
+* Des feuilles séchées servant à concocter un breuvage féerique endormissant ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)niveau de l'effet inconnu[span](/span.md))  
+* Un médaillon magique permettant à Scintillus de contrôler la personne qui le porte ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)niveau de l'effet inconnu[span](/span.md))  
 * Une **bougie** offerte à Sigfein par Dame Aldona, qui une fois allumée appelle cette dernière à l'aide (conservée dans le sanctum de Sigfein)  
 * Une outre d'eau de la fontaine magique de Calebais (<mark>à investiguer en laboratoire</mark>)  
 * 3 fioles contenant un liquide noir, renfermant une charge de l'effet *Leap of Homecoming* ReCo 35 (la Connexion des Arcanes doit être dissoute dans le liquide);  
@@ -185,7 +184,7 @@ Les réserves de *vis* sont conservées dans les sanctums des Mages selon le tab
 > Enchantement mineur limité à 70 ans d'une baguette en bois (Hi 1213 --> Hi 1283).  
 > Effet : Inflige une blessure grave à un groupe à portée de voix.  
 > Niveau PeCo 40 : Base 15, Portée Voix +2, Durée Instantanée, Cible Groupe + 2, 6 utilisations par jour +3, +4 Pénétration +2.  
-> Pour déclencher l'effet : [[span style="background-color: yellow;"]]à spécifier par Sigfeín…[[/span]]  
+> Pour déclencher l'effet : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Sigfeín…[span](/span.md)  
 > Sceau du Mage : apparition fugace d'une branche frappant de fouet le groupe atteint.  
 * Un objet magique intitulé **<u>Lux Aeterna</u> PeVi 34** (conservé dans le *Sanctum* de Sigfeín)  
 > Enchantement mineur d'une baguette d'une durée limitée à 70 ans (Au 1215 --> Au 1285);  
@@ -267,7 +266,7 @@ En dehors d'un besoin en fonds de roulement en la possession d'Esperanza, les r�
 
 # Autres ressources
 
-* Un coffre invisible, ayant appartenu à Carolus de Jerbiton ([[span style="background-color: yellow;"]]à investiguer en laboratoire[[/span]], conservé dans le Sanctum de Celarius)  
+* Un coffre invisible, ayant appartenu à Carolus de Jerbiton ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à investiguer en laboratoire[span](/span.md), conservé dans le Sanctum de Celarius)  
 * Un champignon hallucinogène ramené de la Domus Magna Criamon (conservé dans le sanctum de Sigfeín)  
 * Une dizaine de picots d'un porc-épic féerique (conservés dans le sanctum d'Esperanza)  
 * Un crâne de l'île de la Gorgone (conservé dans le sanctum de Celarius)  
@@ -289,8 +288,8 @@ En dehors d'un besoin en fonds de roulement en la possession d'Esperanza, les r�
 
 # Services à la collectivité
 
-Après de multiples débats, le Conseil des Mages de Villa Manlia a décidé d'adopter un système de "services à la collectivité". Le Père Hugues a eu la bonté de [prendre note](http://villamanlia.wikidot.com/forum/t-229971#post-817313) de l'accord intervenu.
+Après de multiples débats, le Conseil des Mages de Villa Manlia a décidé d'adopter un système de "services à la collectivité". Le Père Hugues a eu la bonté de [prendre note](./forum.md/t-229971#post-817313) de l'accord intervenu.
 
-La [mise en œuvre de l'accord](http://villamanlia.wikidot.com/forum/t-229971/) est également surveillée de près par le Père Hugues, passé d'hérétique au rôle de Grand Inquisiteur!
+La [mise en œuvre de l'accord](./forum.md/t-229971/) est également surveillée de près par le Père Hugues, passé d'hérétique au rôle de Grand Inquisiteur!
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

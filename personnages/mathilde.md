@@ -1,8 +1,8 @@
-[[div]]  
-[[/div]]  
-[[tabview]]
+<div>
+</div>
+[tabview](tabview.md)
 
-[[tab title="Généralités"]]
+[tab title="Généralités"](tab%20title%3D%22G%C3%A9n%C3%A9ralit%C3%A9s%22.md)
 
 # Identité  
 **Joueur** Rafaël  
@@ -24,9 +24,9 @@
 **Empathique** +2  
 **Sérieuse** +1
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Caractéristiques"]]  
+[tab title="Caractéristiques"](tab%20title%3D%22Caract%C3%A9ristiques%22.md)  
 # Caractéristiques  
 **Int** 0  
 **Per** +2 (à l'affût)  
@@ -36,9 +36,9 @@
 **Com** +2 (volubile)  
 **Dex** +1 (adroite)  
 **Viv** +2 (petite souris)  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Vices & Vertus"]]  
+[tab title="Vices & Vertus"](tab%20title%3D%22Vices%20%26%20Vertus%22.md)  
 # Vertus  
 **Improved Characteristics** +1  
 **Knight** +1 (remarque : les règles réservent cette Vertu aux hommes, mais voy. l'historique pour une justification)  
@@ -53,9 +53,9 @@
 **Major Personalty Flaw: Enfantine** -3  
 **Oath of Fealty** -3 : comte de Foix  
 **Poor Student** -1  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Compétences"]]  
+[tab title="Compétences"](tab%20title%3D%22Comp%C3%A9tences%22.md)  
 # Compétences  
 **Arc** (arc court) 5  
 **Arme à une main** (épée longue) 5  
@@ -90,9 +90,9 @@ Esquive : +6
 # Encombrement  
 Charge totale : 10 (5 sans armure)  
 Encombrement : 3 (1 sans armure)  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Background"]]  
+[tab title="Background"](tab%20title%3D%22Background%22.md)  
 # Description  
 # Historique  
 Mathilde est la fille du seigneur Robert d'Aurillac. Sa mère étant morte en couches, son père l'a tout de suite couvée - gâtée, même, diront certains. Il lui offrit ainsi les services d'un percepteur, chargé de lui apprendre les rudiments du Latin, des Arts libéraux et même de la Philosophie (*Privileged Upbringing*). Cette éducation fut cependant partiellement un échec : Mathilde n'a jamais su se concentrer longtemps, même si tel récit d'aventure pouvait parfois la captiver intensément (*Poor Student*).
@@ -104,7 +104,7 @@ Néanmoins, alors que les années passaient, le Seigneur Robert commença à s'i
 Ces années bénies prirent cependant brusquement fin lorsque les Brabançons, rangés sous la bannière de Simont de Montfort, mirent à feu et à sang la région et s'emparèrent du château d'Aurillac. Le Seigneur Robert fut jeté dans les geôles du donjon tandis que Mathilde fut ravalée au rang de domestique. Grâce à son aptitude hors du commun au mensonge et son physique ordinaire, elle parvint à traverser cette période tant bien que mal, mais en demeura traumatisée. Aussi, lorsque les Mages de Villa Manlia eurent débarrassé Aurillac du joug de Dirk van der Haegen, décida-t-elle de se placer sous la protection des mystérieux astrologues qui avaient déjà croisé sa route quinze ans plus tôt. Malheureusement, le Seigneur Robert ne survécut pas à sa captivité, et le comte de Foix, conscient de l'amour que les sujets de Mathilde lui portent en dépit de ses bizarreries, et impressionné par le caractère bien trempé de la jeune femme, accepta de recevoir son serment de fidélité (*Oath of Fealty* et *Landed Noble*).
 
 Du jour au lendemain, Mathilde se vit soudain confrontée à la grande responsabilité de diriger une châtellenie. Même si elle peut s'appuyer sur son percepteur d'hier devenu son conseiller, au fond d'elle, cette situation l'ennuie profondément, et elle regrette l'époque où elle pouvait encore gambader librement dans les bois. Heureusement, son ancien percepteur s'est fait vieux et myope, et il est encore possible d'échapper quelquefois à sa vigilance pour reprendre sa vie d'autrefois. Pourquoi pas pour aller interroger les curieux astrologues qu'on aperçoit parfois aux alentours des ruines d'une villa romaine ? Ils ont certainement plein d'histoires passionnantes à lui raconter...  
-[[/tab]]  
-[[/tabview]]
+[tab](/tab.md)  
+[tabview](/tabview.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

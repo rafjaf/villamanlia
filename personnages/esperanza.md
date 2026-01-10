@@ -152,7 +152,7 @@ Néant.
 * **The Wizard's Mount CrAn 35** [ArM5 p. 117]  
 	* Creates a horse, which is normal in every way except that it is not disturbed by the Gift.  
 	 * Base 15, Portée Toucher +1, Durée Aube/Crépuscule +2, Cible Individuelle.  
-	 * Sceau du mage : le cheval est un magnifique [http://fr.wikipedia.org/wiki/Arabe_(cheval) pur-sang arabe] à la robe noire comme la nuit.
+	 * Sceau du mage : le cheval est un magnifique [pur-sang arabe](http://fr.wikipedia.org/wiki/Arabe_(cheval)) à la robe noire comme la nuit.
 * **Doublet of Impenetrable Silk MuAn20**  [ArM5 p.118]  
 	 * Base 4, Portée Toucher +1, Durée Lune +3, Cible Individuelle.  
 	 * Change an item made of animal material — silk, wool, or leather — so it cannot be cut or penetrated by weapons. A simple cloth doublet becomes the equivalent of armor with no Load and a +3 Soak bonus. Armor made of quilted material or any kind of leather improves its Protection by an additional +3. The magic does not make the armor better at absorbing shock, so this +3 bonus is the limit that can be bestowed without changing the material into something completely different. At the storyguide’s option, the bonus given by this spell may not apply against strictly blunt weapons like clubs and staves.  
@@ -400,11 +400,11 @@ Néant.
 
 ## Matériel/Equipement
 
-- Textes de laboratoire (cf. [Bibliothèque](http://villamanlia.wikidot.com/biblio)).
-- Pions de *vis*: Intellego, Animal, Mentem et Infernaux (cf. [Ressources](http://villamanlia.wikidot.com/ressource)).
+- Textes de laboratoire (cf. [Bibliothèque](../alliance/biblio.md)).
+- Pions de *vis*: Intellego, Animal, Mentem et Infernaux (cf. [Ressources](../alliance/ressource.md)).
 - Un sachet d'herbes rapporté de Vezay, préparé par les sages femmes vivant dans la forêt, ayant pour effet de causer la stérilité chez les hommes une fois placé sous le lit de ceux-ci.
-- Une épée à 2 mains magnifiquement ouvragée et ciselée aux armes de Saverdun (cf. [Ressources](http://villamanlia.wikidot.com/ressource)).
-- Un anneau magique: Ring of the Flying Sun ReCo 30 (cf. [Ressources](http://villamanlia.wikidot.com/ressource)).
+- Une épée à 2 mains magnifiquement ouvragée et ciselée aux armes de Saverdun (cf. [Ressources](../alliance/ressource.md)).
+- Un anneau magique: Ring of the Flying Sun ReCo 30 (cf. [Ressources](../alliance/ressource.md)).
 - Une fiole de substance (poison?) infernale confisquée au Dr. Mark.
 - Une couronne d'or massif.
 - Une fiole de sang de son fils Perceval (renouvelée chaque solstice d'Hiver).

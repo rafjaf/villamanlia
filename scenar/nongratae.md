@@ -1,12 +1,11 @@
 Aventure de l'été 1208, contée par Olivier, auquel participent Celarius, Scintillus, Sigfein, Hugues, Bernard et Rigaud.
 
-Le titre de cette aventure est « Personae non gratae », car les PJ iront à différents endroits en pensant y être les bienvenus, mais y seront très mal accueillis. Il s’agit également du scénario où les vengeances de Murbella se manifestent. Ce scénario fait suite à différents épisodes de la saga (voir *[http:*villamanlia.wikidot.com/derniertrib Le Dernier Tribunal]* et *[La Mort d'un Légat](http://villamanlia.wikidot.com/mortlegat)//).
+Le titre de cette aventure est « Personae non gratae », car les PJ iront à différents endroits en pensant y être les bienvenus, mais y seront très mal accueillis. Il s’agit également du scénario où les vengeances de Murbella se manifestent. Ce scénario fait suite à différents épisodes de la saga (voir *[Le Dernier Tribunal](./derniertrib.md)* et *[La Mort d'un Légat](./mortlegat.md)//).
 
 # Introduction
 
 Un pigeon arrive à l’alliance de Villa Manlia. Il a, attaché à une patte, un message écrit sur une sorte de papyrus :
-
-[[div class="citation"]]  
+<div class="citation">
 > Aux Mages de Villa Manlia,  
 > Malgré les tensions qui éloignent nos alliances respectives, je vous écris pour solliciter humblement votre aide précieuse.  
 > Je suis sur le point de réaliser une découverte majeure en théorie de la magie, grâce à l’étude de son application par les êtres féeriques, mais j’ai besoin de votre assistance.  
@@ -14,13 +13,12 @@ Un pigeon arrive à l’alliance de Villa Manlia. Il a, attaché à une patte, u
 > Il va sans dire que les connaissances ainsi découvertes vous seront immédiatement acquises.  
 > Votre très dévouée,  
 > Magnolia de Merenita  
-[[/div]]
-
+</div>
 Cette lettre a été rédigée sous la contrainte (et la dictée) de Murbella de Tremere. Son but est d’attirer les mages de Villa Manlia avec quelques livres, et assouvir toutes ses vengeances d’un coup.
 
 # Historique de Murbella
 
-(cf. *[http:*villamanlia.wikidot.com/derniertrib Le Dernier Tribunal]//)
+(cf. *[Le Dernier Tribunal](./derniertrib.md)//)
 
 Murbella est une mage qui a voulu améliorer son rituel de longévité en passant un accord avec des êtres féeriques (des fées de la cour de l’Ombre), mais ces derniers lui ont joué un « sale » tour (comme les êtres féeriques en ont l’habitude) et ont enfermé Murbella dans un corps d’enfant. Murbella veut donc non seulement mettre fin à ce calvaire et retrouver son corps d’adulte, tout en le faisant payer aux êtres féeriques. Elle a conçu un rituel qui lui permettrait de briser le sort féerique qui la retient prisonnière dans ce corps, mais pour cela elle doit sacrifier un être féerique. Comme c’est une infraction au code d’Hermès, il lui faut un bouc émissaire, et elle a tout naturellement pensé aux Mages de Villa Manlia dont elle veut aussi se venger, suite au certamen perdu face à Maga Esperanza. 
 
@@ -38,7 +36,7 @@ Les PJ sont donc seuls à pouvoir agir, avec Magnolia (qui sera fort occupée au
 # Arrivée à la forêt de Sadrissel
 
 C’est le premier endroit où les Mages pensent être les bienvenus, mais il n’en est rien. La dernière fois qu’ils sont passés, ils étaient en bons termes aussi bien avec Lariandre qu'avec le Roi Aldarin, mais curieusement cette fois-ci la forêt est très silencieuse, comme lors de leur toute première visite.  
-En effet, depuis leur dernière visite, leur relation a évolué suite au scénario *[http:*villamanlia.wikidot.com/mortlegat La Mort d'un Légat]//. Au cours de ce scénario, les Mages de Villa Manlia ont privé de liberté un changelin. Cet être féerique agissait pour le compte du Roi Aldarin, qui luttait ainsi contre l’extension de l’église, en train de défricher une partie de la forêt de Sadrissel et d’affaiblir la cour de Lumière.
+En effet, depuis leur dernière visite, leur relation a évolué suite au scénario *[La Mort d'un Légat](./mortlegat.md)//. Au cours de ce scénario, les Mages de Villa Manlia ont privé de liberté un changelin. Cet être féerique agissait pour le compte du Roi Aldarin, qui luttait ainsi contre l’extension de l’église, en train de défricher une partie de la forêt de Sadrissel et d’affaiblir la cour de Lumière.
 
 Sans les sons habituels pour les guider dans la forêt, les PJ doivent réussir à s’orienter. Qu’ils y parviennent ou non, ils tombent rapidement dans une embuscade des être féeriques, avantagés par leur connaissance du terrain. Les PJ ont tout intérêt à dialoguer plutôt que de lutter. En faisant référence à leur ancienne bonne entente et aux services déjà rendus par le passé au Roi Aldarin, il est possible d’être autorisé à le rencontrer à nouveau. Ils peuvent apprendre que personne n’a prévenu le Roi Aldarin de leur venue.
 
@@ -68,7 +66,7 @@ Si les PJ pressent Magnolia de questions (il est fort curieux qu’une Merenita 
 # Vers le Marais de l’Ours
 
 La fée prisonnière est en contact psychique avec ses sœurs, qui préparent quelques épreuves aux PJ pour les tester, comme les êtres féeriques aiment le faire.  
-Passage basé sur un scénario Cassus Belli Nephillim, pour joueurs débutants ([[span style="background-color: yellow;"]]à référencer par Raf[[/span]])
+Passage basé sur un scénario Cassus Belli Nephillim, pour joueurs débutants ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à référencer par Raf[span](/span.md))
 
 Les épreuves sont :  
 - Aider (financièrement) un lépreux, avec sa crécelle, bien malade et qui demande l’aumône, etc.  
@@ -100,7 +98,7 @@ Etant donné que le livre apporté, n’est qu’une copie de l’original du so
 
 Il ne reste plus au PJ qu’à également regagner l’amitié de la cour de Lumière, et surtout du Roi Aldarin. Pour ce faire, il « suffit » de mettre fin au défrichement de la forêt, pratiqué par des moines de l’abbaye de Saint Serant voisine. 
 
-Sur le chemin vers l’abbaye, les PJ peuvent constater que des nouveaux champs ont été défrichés, grâce à la présence de troupes du compte Raymond VI de Toulouse (voir *[http:*villamanlia.wikidot.com/mortlegat La Mort d'un Légat]//).  
+Sur le chemin vers l’abbaye, les PJ peuvent constater que des nouveaux champs ont été défrichés, grâce à la présence de troupes du compte Raymond VI de Toulouse (voir *[La Mort d'un Légat](./mortlegat.md)//).  
 Si les PJ se présentent à l’abbaye (quelle que soit la raison), ils constatent un empressement à leur ouvrir, mais une déception quand on voit de qui il s’agit (ou plutôt de qui il ne s'agit pas...). Ils peuvent facilement apprendre que l’évêque Foulque est attendu pour confirmer le nouveau prieur dans ses fonctions, mais qu’il n’est toujours pas venu pour ce faire, malgré les mois qui ont passés.  
 Les moines sont très maigres, et les PJ peuvent en surprendre un recevoir en douce des poires d’un autre, et les dévorer avidement. Celui qui a donné les poires est venu de la remise, et un observateur curieux pourrait constater qu’elle regorge de victuailles, ce qui semble en contradiction avec l’apparence famélique des moines.
 

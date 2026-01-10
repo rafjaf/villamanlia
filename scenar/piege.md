@@ -99,11 +99,11 @@ Dans le *sanctum* de Persona :
 * Deuxième pièce : défi d’échecs  
 * Troisième pièce : combattre son double
 
-[[>]]  
+[>](%3E.md)  
 Rafaël Jafferali  
-[[/>]]  
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
+[>](/%3E.md)  
+[>](%3E.md)  
+[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
+[>](/%3E.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

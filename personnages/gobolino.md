@@ -1,8 +1,8 @@
-[[div]]  
-[[/div]]  
-[[tabview]]
+<div>
+</div>
+[tabview](tabview.md)
 
-[[tab title="Généralités"]]
+[tab title="Généralités"](tab%20title%3D%22G%C3%A9n%C3%A9ralit%C3%A9s%22.md)
 
 # Identité  
 **Joueur** Nicolas  
@@ -34,9 +34,9 @@
 # Réputations  
 Néant
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Vices & Vertus"]]
+[tab title="Vices & Vertus"](tab%20title%3D%22Vices%20%26%20Vertus%22.md)
 
 # Vertus  
 **Charactéristiques améliorées**(*Improved Characteristics*) +1 : +3 points supplémentaires à dépenser pour l'achat des Charactéristiques.  
@@ -56,9 +56,9 @@ Néant
 **Compulsion: voler**(*Compulsion: stealing*) -1 : Vous éprouvez le besoin de voler, ce qui vous cause des problèmes.  
 **Nain**(*Dwarf*) -3 : Vous avez la taille d'un enfant, soit -2. Vous avez une pénalité de -1 à votre Energie et votre Force. Votre vitesse de marche est de deux tiers celle d'une personne normale.
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Compétences"]]
+[tab title="Compétences"](tab%20title%3D%22Comp%C3%A9tences%22.md)
 
 # Compétences générales  
 **Athlétisme**(*Athletics*) (acrobaties) 3 (7)  
@@ -95,9 +95,9 @@ Néant
 **Double Vue**(*Second Sight*) (choses invisibles) 2 (5)  
 **Sensibilité à la Magie**(*Magic Sensibility*) (objets magiques) 2 (5)
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Equipement"]]
+[tab title="Equipement"](tab%20title%3D%22Equipement%22.md)
 
 # Armes
 
@@ -162,17 +162,17 @@ Néant
 **Charge totale** 5  
 **Encombrement** 1
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Background"]]
+[tab title="Background"](tab%20title%3D%22Background%22.md)
 
 # Description
 
-[[span style="background-color: yellow;"]][...][[/span]] 
+[span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md) 
 
 # Historique
 
-Alors qu’une troupe de troubadours traversait une forêt de Provence, ils entendirent les cris d’un nouveau-né. Il découvrirent alors un tout petit bébé (*Dwarf*) aux oreilles étrangement pointues (*Strong Faerie Blood*) enveloppé dans une couverture au pied d’un arbre, portant un étrange bijou en collier. Ils le recueillirent et le baptisèrent Gobolino (du latin médiéval *Gobelinus*, nom vulgaire d’un démon qui hantait les environs d’Evreux chez Orderic Vital; du latin chrétien *gobalus*, “génie domestique”, qui vient du grec κσβαλος, lutin, génie malfaisant[[footnote]][wikipedia](http://fr.wikipedia.org/wiki/Gobelin_%28folklore%29)[[/footnote]]). 
+Alors qu’une troupe de troubadours traversait une forêt de Provence, ils entendirent les cris d’un nouveau-né. Il découvrirent alors un tout petit bébé (*Dwarf*) aux oreilles étrangement pointues (*Strong Faerie Blood*) enveloppé dans une couverture au pied d’un arbre, portant un étrange bijou en collier. Ils le recueillirent et le baptisèrent Gobolino (du latin médiéval *Gobelinus*, nom vulgaire d’un démon qui hantait les environs d’Evreux chez Orderic Vital; du latin chrétien *gobalus*, “génie domestique”, qui vient du grec κσβαλος, lutin, génie malfaisant*(Note : [wikipedia](http://fr.wikipedia.org/wiki/Gobelin_%28folklore%29))*). 
 
 Rejeté par les autres enfants de par son apparence (*Présence* négative) et sa voix agaçante (*Communication* négative), l’enfance de Gobolino ne fut pas aisée, mais l’aida cependant à s’endurcir (*Tough*). Lorsqu’il fut en âge de travailler, on l’intégra dans la troupe comme apprenti (*Troupe Upbringing*). Las, il se révéla être un piètre conteur, n’ayant aucune présence sur scène et incapable de tirer le moindre son harmonieux d’un instrument de musique (*Communication* et *Présence* négatives).
 
@@ -180,6 +180,6 @@ Cependant, il se révéla particulièrement adroit de ses mains (*Great Dexterit
 
 Un jour, alors qu’il commettait un vol par effraction, il fut attiré par un objet en particulier (*Magic Sensitivity*, *Second Sight*), un puissant artefact magique appartenant à un Mage de l’Ordre d’Hermès qui le surprit “la main dans le sac”. Le Mage était en fait un *Quaesitor* assez retors en mission qui vu là l’opportunité de s’adjoindre un servant à moindre coût: il fit croire à Gobolino qu’il lui laisserait la vie sauve, à condition que celui-ci se mette à son service. Gobolino ignorant que le Serment Hermétique interdisait au *Quaesitor* de lui faire du mal, et effrayé par la puissance du Mage, n’eut d’autre choix que d’accepter la proposition. C’est ainsi qu’il se mit à parcourir l’Europe Mythique, utilisant ses talents pour assister son “maître” dans ses enquêtes, par exemple en s’introduisant subrepticement (*Puissant Stealth*) dans des Sanctums pour y dérober des documents pouvant servir de preuves.
 
-[[/tab]]  
-[[/tabview]]  
-[[module Comments]]  
+[tab](/tab.md)  
+[tabview](/tabview.md)  
+[module Comments](module%20Comments.md)  

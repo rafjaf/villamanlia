@@ -1,8 +1,7 @@
-[[div style="float:right; width: 400px; margin-top: -0.5cm;"]]  
-![[Servante.jpg|]]  
-[[size smaller]]Marie vaquant à ses occupations. Source : *de proprietatibus rerum*, manuscrit du XVe siècle, [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-5&M=imageseule), Français 9140, fol. 107.[[/size]]  
-[[/div]]
-
+<div style="float:right; width: 400px; margin-top: -0.5cm;">
+![](Servante.jpg)  
+<small>Marie vaquant à ses occupations. Source : *de proprietatibus rerum*, manuscrit du XVe siècle, [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-5&M=imageseule), Français 9140, fol. 107.</small>  
+</div>
 # Généralités - Identité  
 **Nom du personnage** Marie  
 **Sexe** Féminin  
@@ -36,12 +35,10 @@
 
 ## Vices  
 **Coeur tendre**(*Soft-Hearted*) -1 : Vous ne pouvez pas supporter la souffrance des autres. Vous êtes facilement émue par des chansons et des histoires.
-
-[[div style="float:right; width: 400px; margin-top: -0.5cm;"]]  
-![[M%C3%A8re%20allaitant%20son%20enfant.jpg|]]  
-[[size smaller]]Marie allaitant Perceval dans le Sanctum d'Esperanza. Source : *de proprietatibus rerum*, manuscrit du XVe siècle, [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-5&I=47&M=imageseule), Français 9140, fol. 140.[[/size]]  
-[[/div]]
-
+<div style="float:right; width: 400px; margin-top: -0.5cm;">
+![](M%25C3%25A8re%2520allaitant%2520son%2520enfant.jpg)  
+<small>Marie allaitant Perceval dans le Sanctum d'Esperanza. Source : *de proprietatibus rerum*, manuscrit du XVe siècle, [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-5&I=47&M=imageseule), Français 9140, fol. 140.</small>  
+</div>
 # Compétences  
 **Artisanat: couture**(*Craft: clothery*) (robes) 3  
 **Attention**(*Awareness*) (chercher) 1  
@@ -56,6 +53,6 @@
 **Profession: lavandière**(*Profession: washerwoman*) (vêtements) 5
 
 # Background  
-[[span style="background-color: yellow;"]][...][[/span]]
+[span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

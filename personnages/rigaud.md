@@ -1,12 +1,12 @@
-[[table class="wiki-content-table" style="width: 50%; padding: 0px;"]]  
-[[row style="height: 300px;"]]  
-[[cell style="border: 1px dashed #999; background-color: #f4f4f4; vertical-align: middle;"]]  
-[[table style="width: 100%; padding: 0px;"]]  
-[[row]]  
-[[cell style="border: 0px; width: 214px;"]]  
+[table class="wiki-content-table" style="width: 50%; padding: 0px;"](table%20class%3D%22wiki-content-table%22%20style%3D%22width%3A%2050%25%3B%20padding%3A%200px%3B%22.md)  
+[row style="height: 300px;"](row%20style%3D%22height%3A%20300px%3B%22.md)  
+[cell style="border: 1px dashed](cell%20style%3D%22border%3A%201px%20dashed.md#999; background-color: #f4f4f4; vertical-align: middle;")  
+[table style="width: 100%; padding: 0px;"](table%20style%3D%22width%3A%20100%25%3B%20padding%3A%200px%3B%22.md)  
+[row](row.md)  
+[cell style="border: 0px; width: 214px;"](cell%20style%3D%22border%3A%200px%3B%20width%3A%20214px%3B%22.md)  
 ![|](http://villamanlia.wikidot.com/local--files/sandbox/Mors.jpg)  
-[[/cell]]  
-[[cell style="border: 0px;"]]  
+[cell](/cell.md)  
+[cell style="border: 0px;"](cell%20style%3D%22border%3A%200px%3B%22.md)  
 ***Requiescat In Pace***
 
 **Ce personnage est décédé à l'automne 1212, noyé au large de l'Isola de la Gorgna à la suite du naufrage provoqué par l'attaque d'un serpent des mers.**
@@ -15,13 +15,13 @@ La citation reprise en médaillon signifie:
 *La mort met sur le même pied le sceptre et la houe*  
 *La mort est la limite ultime des choses*
 
-[[size smaller]](Source : [http://commons.wikimedia.org/wiki/File:Mors_ultima_linea_rerum.jpg Wikimedia Commons], vers 1570)[[/size]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]
+<small>(Source : [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Mors_ultima_linea_rerum.jpg), vers 1570)</small>  
+[cell](/cell.md)  
+[row](/row.md)  
+[table](/table.md)  
+[cell](/cell.md)  
+[row](/row.md)  
+[table](/table.md)
 
 # Généralités - Identité  
 **Nom du personnage** Rigaud  
@@ -133,6 +133,6 @@ Force min: N/A
 **Encombrement** 1
 
 # Background  
-[[span style="background-color: yellow;"]][...][[/span]]
+[span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

@@ -30,7 +30,7 @@
 **Guerrier**(*Warrior*) +1 : Vous avez été entraîné à combattre; + 50 xp à la création à répartir dans les compétences martiales.  
 **Habitant d'une Alliance**(*Covenfolk*) 0 : Vous êtes membre du personnel d'une alliance; votre niveau de vie est déterminé par les ressources de l'alliance qui vous entretient.  
 **Résistance à la douleur**(*Tough*) +1 : bonus de +3 aux jets d'encaissement.  
-**Puissant Chirurgy**[[footnote]]Vertu mineure accordée par Dame Aldona à l'Eté 1207.[[/footnote]](*Puissant Chirurgy*) +1 : bonus de +2 aux jets de Chirurgie.
+**Puissant Chirurgy***(Note : Vertu mineure accordée par Dame Aldona à l'Eté 1207.)*(*Puissant Chirurgy*) +1 : bonus de +2 aux jets de Chirurgie.
 
 ## Vices  
 **Compulsion: boire**(*Compulsion: drinking*) -1 : Vous éprouvez le besoin de consommer de l'alcool ce qui vous cause des problèmes.  
@@ -90,7 +90,7 @@ Portée: N/A
 Charge: N/A  
 Force min: N/A
 
-# Armure: [[span style="background-color: yellow;"]][...][[/span]] (*Metal Scale*)  
+# Armure: [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md) (*Metal Scale*)  
 **Protection Partielle** 4  
 **Charge Partielle** 4
 
@@ -110,4 +110,4 @@ Force min: N/A
 
 # Background
 
-[[span style="background-color: yellow;"]][...][[/span]]  
+[span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)  

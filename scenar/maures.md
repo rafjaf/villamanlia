@@ -4,7 +4,7 @@ La présente histoire constitue une adaptation du scénario du même nom de F. D
 
 En se renseignant dans la région de la grotte, les locaux sont inquiets: il y a des rumeurs de formes dans la brume, d'incantations mystérieuses et même d'une bête horrible ayant dévoré certaines bêtes du cheptel d'un Berger. 
 
-L'explication est simple: le manuscrit menant à la grotte a été retrouvé il y a quelques années à Cordoue. Plusieurs copies ont en été faites, l'une est tombée entre les mains des personnages (en l'occurrence, lors d'un [passage à Saint-Gilles](http://villamanlia.wikidot.com/mortlegat) à l'hiver 1208). Une autre a été trouvée par une bande d'aventuriers maures qui se sont mis en quête du trésor. Ils ont d'abord cherché la grotte pendant un certain temps, ce qui explique qu'ils aient dû se cacher dans les montagnes, dérobant de temps à autre une bête d'un troupeau aux villageois, d'où les rumeurs de monstre après qu'on a retrouvé les ossements du mouton. Quant aux formules magiques, il s'agit seulement d'une conversation en arabe surprise par un jeune berger.
+L'explication est simple: le manuscrit menant à la grotte a été retrouvé il y a quelques années à Cordoue. Plusieurs copies ont en été faites, l'une est tombée entre les mains des personnages (en l'occurrence, lors d'un [passage à Saint-Gilles](./mortlegat.md) à l'hiver 1208). Une autre a été trouvée par une bande d'aventuriers maures qui se sont mis en quête du trésor. Ils ont d'abord cherché la grotte pendant un certain temps, ce qui explique qu'ils aient dû se cacher dans les montagnes, dérobant de temps à autre une bête d'un troupeau aux villageois, d'où les rumeurs de monstre après qu'on a retrouvé les ossements du mouton. Quant aux formules magiques, il s'agit seulement d'une conversation en arabe surprise par un jeune berger.
 
 Il y a à peu près un an, un petit groupe de ces aventuriers est parvenu à trouver l'entrée de la grotte. L'essentiel des membres a pénétré dans la *regio* mais n'en est jamais revenu (voy. *infra*). N'étant pas parvenus à pénétrer dans la *regio*, le reste de la troupe est reparti chercher des renforts. Le nouveau groupe vient de revenir mais n'est pas encore parvenu à pénétrer dans la *regio* et a peur. En effet, l'un d'eux est passé de l'autre côté du voile mais a chu de 50 mètres et n'est jamais revenu. Le groupe réfléchit à une stratégie lorsqu'arrivent les personnages. Ils décident alors de les suivre discrètement et d'aviser.
 
@@ -33,16 +33,15 @@ Mais avant cela, s'ils ont remporté le concours, les personnages reçoivent un 
 * Ambroise: une épée en fer féerique (+2 de dégâts)  
 * Bernard: médaillon en or en forme de feuille (+3 en Connaissance de la Féerie)  
 * Rigaud: une bourse dans laquelle tout métal et toute pierre qui y est placé en ressort beaucoup plus précieux... Illusion durée Aube/Crépuscule!  
-[[div]]
-
-[[/div]]  
-[[>]]  
+<div>
+</div>
+[>](%3E.md)  
 Rafaël Jafferali  
-[[/>]]
+[>](/%3E.md)
 
-[[footnoteblock title="Notes"]]  
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
+[footnoteblock title="Notes"](footnoteblock%20title%3D%22Notes%22.md)  
+[>](%3E.md)  
+[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
+[>](/%3E.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

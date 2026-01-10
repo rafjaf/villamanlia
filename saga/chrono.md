@@ -1,5 +1,5 @@
 # Chronologie 1200-1209
-Dans cette section, vous trouverez des notes résumant la Geste de la Villa Manlia telle que vécue par les personnages. Si vous recherchez des aventures directement exploitables pour votre Saga, consultez plutôt la page [[../scenar/scenar|scénarios]].
+Dans cette section, vous trouverez des notes résumant la Geste de la Villa Manlia telle que vécue par les personnages. Si vous recherchez des aventures directement exploitables pour votre Saga, consultez plutôt la page [scénarios](../scenar/scenar.md).
 
 ## Année 1200
 
@@ -38,7 +38,7 @@ Saison d'étude :
 L'Alliance de Mare Immobile, perchée au centre d'un lac mystérieux. Source : [BnF](https://mandragore.bnf.fr/mirador/ark:/12148/btv1b8100099g/f69), Français 111, fol. 79, Gauvain et Hector de Mares à l'Isle Perdue, manuscrit du XVe siècle.
 
 ### Printemps - Promises, Promises
-Séances des 25 mai et 8 juin 2008. Scénario [Promises, Promises](http://www.atlas-games.com/pdf_storage/promises_french.pdf), précédé d'un [[../scenar/prologue]] sauce maison (7 xp). A la requête du *Quaesitor* Dikaïos, les personnages mènent l'enquête à Mare Immobile puis au monastère de Saint-Edmond.
+Séances des 25 mai et 8 juin 2008. Scénario [Promises, Promises](http://www.atlas-games.com/pdf_storage/promises_french.pdf), précédé d'un [prologue](../scenar/prologue.md) sauce maison (7 xp). A la requête du *Quaesitor* Dikaïos, les personnages mènent l'enquête à Mare Immobile puis au monastère de Saint-Edmond.
 
 ### Eté  
 
@@ -179,7 +179,7 @@ Saison d'étude :
 * Scintillus : étudie une *summa* Perdo à Bellaquin (12 xp)  
 * Sigfeín : se rétablit, mais étudie néanmoins la *summa* Creo, son total d'étude étant alors divisé par deux (6 xp)  
 * Ronald : s'entraîne au tir à l'arc (4 xp)  
-* Tristan-Alexis : étudie les Herbes médicinales auprès de son maître (12 xp), comme évoqué sur le [forum](http://villamanlia.wikidot.com/forum/t-106870/devoirs-de-vacances#post-332565)
+* Tristan-Alexis : étudie les Herbes médicinales auprès de son maître (12 xp), comme évoqué sur le [forum](../alliance/forum.md/t-106870/devoirs-de-vacances#post-332565)
 
 ### Hiver - La Dialectique des Armes
  
@@ -204,7 +204,7 @@ Saison d'étude pour les autres personnages :
   * 2 xp d'exposition en Théorie de la Magie.  
  * atteignant sa 35e année, effectue son premier jet de vieillissement (35 ans) :  
   * Total de Vieillissement = 6 (dé de tension) + 4 (âge divisé par 10) - 1 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) = 4;  
-  * Résultat : son âge apparent est censé augmenter mais, d'une part, la vertu *Unaging* l'en empêche et, d'autre part, il déjà l'air vieux avant l'âge (cfr son [historique](http://villamanlia.wikidot.com/celarius)).  
+  * Résultat : son âge apparent est censé augmenter mais, d'une part, la vertu *Unaging* l'en empêche et, d'autre part, il déjà l'air vieux avant l'âge (cfr son [historique](../personnages/celarius.md)).  
 * Hugues : termine de recopier la *summa* Rego et participe au débat théologique à Pamiers (5 xp en Equitation)  
  * jet de vieillissement (46 ans) :  
   * Total de Vieillissement = 0 (dé de tension sans désastre) + 5 (age/10) - 0 (Conditions de vie) - 0 (Rituel de longévité) = 5;  
@@ -229,12 +229,11 @@ Saison d'étude :
  * 2 xp d'exposition en Théorie de la Magie.
 
 ### Ete  
-[[div style="float: right; width: 501px;"]]  
-![[cerfblanc.jpg|]]  
-[[size smaller]]Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100099&E=199&I=21191&M=imageseule), Français 111, fol. 205v, Lancelot, Mordred et le Cerf Blanc, manuscrit du XVe siècle.[[/size]]  
-[[/div]]
-
-Séances du 7 et 21 févier 2009. Scénario conté par Nicolas, intitulé *On the Respective Merits of Twilight and Gloaming*[[footnote]]Scénario issu du supplément *Ordo Nobilis* de la 4ème édition d'Ars Magica, 2000, p. 182-206.[[/footnote]], auquel participent Ambroise, Celarius, Ronald, Tristan-Alexis, Bernard et Guillaume (7 xp). A la demande du Seigneur Guillaume d'Arvigna, les personnages se rendent dans les bois de son domaine afin d'enquêter sur d'étranges manifestations. Les personnages ont le malheur de suivre dans la brume un cerf blanc qui les mène alors au coeur d'une *regio* féerique, le royaume du seigneur Théobald, dont ils deviennent prisonniers à moins d'offrir la tête de l'un des leurs comme droit de sortie. Ils y font la connaissance de deux seigneurs féeriques rivaux, le seigneur Perceval et le seigneur Cyrielle, et sont invités à prendre part à un concours qui déterminera le nouveau seigneur de la *regio*. Ayant remporté le concours, et ayant rétabli l'équilibre au sein de la *regio*, les personnages sont autorisés à retourner à Arvigna, en emportant avec eux une serpe d'or magique. A noter que les personnages font la connaissance d'Ambroise, chevalier du seigneur d'Arvigna, que les mages acceptent d'héberger durant ses crises de lycanthropie.
+<div style="float: right; width: 501px;">
+![](cerfblanc.jpg)  
+<small>Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100099&E=199&I=21191&M=imageseule), Français 111, fol. 205v, Lancelot, Mordred et le Cerf Blanc, manuscrit du XVe siècle.</small>  
+</div>
+Séances du 7 et 21 févier 2009. Scénario conté par Nicolas, intitulé *On the Respective Merits of Twilight and Gloaming**(Note : Scénario issu du supplément *Ordo Nobilis* de la 4ème édition d'Ars Magica, 2000, p. 182-206.)*, auquel participent Ambroise, Celarius, Ronald, Tristan-Alexis, Bernard et Guillaume (7 xp). A la demande du Seigneur Guillaume d'Arvigna, les personnages se rendent dans les bois de son domaine afin d'enquêter sur d'étranges manifestations. Les personnages ont le malheur de suivre dans la brume un cerf blanc qui les mène alors au coeur d'une *regio* féerique, le royaume du seigneur Théobald, dont ils deviennent prisonniers à moins d'offrir la tête de l'un des leurs comme droit de sortie. Ils y font la connaissance de deux seigneurs féeriques rivaux, le seigneur Perceval et le seigneur Cyrielle, et sont invités à prendre part à un concours qui déterminera le nouveau seigneur de la *regio*. Ayant remporté le concours, et ayant rétabli l'équilibre au sein de la *regio*, les personnages sont autorisés à retourner à Arvigna, en emportant avec eux une serpe d'or magique. A noter que les personnages font la connaissance d'Ambroise, chevalier du seigneur d'Arvigna, que les mages acceptent d'héberger durant ses crises de lycanthropie.
 
 Expérience acquise au cours de cette aventure :  
 * Ambroise : 5 xp en Connaissance de la Féerie et 2 xp en Arme de jet  
@@ -257,7 +256,7 @@ Saison d'étude pour les autres personnages :
  * Résultat de l'expérimentation : 9 (*special or story event* - reporté à plus tard);  
  * 2 xp d'exposition en Théorie de la Magie.
 
-A la fin de la saison, Esperanza a le (dé)plaisir de recevoir [une lettre de son père](http://villamanlia.wikidot.com/doc#carlos) lui annonçant ses noces avec Monsieur de Saverdun.
+A la fin de la saison, Esperanza a le (dé)plaisir de recevoir [une lettre de son père](./doc.md) lui annonçant ses noces avec Monsieur de Saverdun.
 
 ### Automne  
 
@@ -275,12 +274,10 @@ Saison d'étude :
 * Tristan-Alexis : part faire les "courses" pour son maître druidique (2 xp d'exposition en Connaissance de la Féerie)
 
 ### Hiver  
-
-[[div style="float:right; width: 512px;"]]  
+<div style="float:right; width: 512px;">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100046&E=JPEG&Deb=183&Fin=183&Param=C)  
-[[size smaller]]Mariage de saint Arnoul d'Yvelines et de sainte Scariberge, manuscrit du XVe siècle. Source : Paris, [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100046&E=183&I=17405&M=imageseule), département des Manuscrits, Français 51, fol. 420v.[[/size]]  
-[[/div]]
-
+<small>Mariage de saint Arnoul d'Yvelines et de sainte Scariberge, manuscrit du XVe siècle. Source : Paris, [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100046&E=183&I=17405&M=imageseule), département des Manuscrits, Français 51, fol. 420v.</small>  
+</div>
 Saison d'étude :  
 * Ambroise : s'entraîne avec les servants (6 xp en Arme à 1 main en tenant compte de son Affinité)  
 * Celarius : décide d'inventer le sort "Déguisement du fugitif" MuIm 20, un sort identique à *Disguise of the Transformed Image* mais d'une durée Lune, parce qu'il en a marre de reprendre son apparence normale à chaque aube ou crépuscule!  
@@ -328,12 +325,10 @@ Expérience acquise au cours de cette aventure :
 * Ronald : 5 xp en Prémonitions et 4 xp en Double vue  
 * Scintillus : 3 xp en Perdo, 5 xp en Corpus et 1 xp en Herbam  
 * Sigfeín : 1 xp en Parma Magica, 3 xp en Perdo et 5 xp en Corpus
-
-[[div style="float: right; width: 558px;"]]  
+<div style="float: right; width: 558px;">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100005&E=JPEG&Deb=52&Fin=52&Param=C)  
-[[size smaller]]"Saison d'étude" pour Esperanza d'Asturie et Pierre de Saverdun. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100005&E=52&I=21867&M=imageseule), Français 118, fol. 299v, Lancelot et la demoiselle séductrice, manuscrit du XVe siècle.[[/size]]  
-[[/div]]
-
+<small>"Saison d'étude" pour Esperanza d'Asturie et Pierre de Saverdun. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100005&E=52&I=21867&M=imageseule), Français 118, fol. 299v, Lancelot et la demoiselle séductrice, manuscrit du XVe siècle.</small>  
+</div>
 Saison d'étude pour les autres personnages :  
 * Ambroise : passe une saison à Arvigna (4 xp en survie)  
 * Celarius : termine d'inventer le sort "Déguisement du fugitif" (cf. hiver 1204), sans expérimenter :  
@@ -364,15 +359,13 @@ Saison d'étude :
 * Tristan-Alexis : étudie des ouvrages de Philosophie naturelle (15 xp en Philosophie)
 
 ### Automne  
-
-[[div style="float: right; width: 550px;"]]  
-[[size smaller]]  
+<div style="float: right; width: 550px;">
+<small>  
 > Or, à Jérusalem, près de la Porte des Brebis, il existe une piscine qu'on appelle en hébreu Bézatha. Elle a cinq colonnades, sous lesquelles étaient couchés une foule de malades : aveugles, boiteux et paralysés. Il y en avait un qui était malade depuis trente-huit ans. Jésus, le voyant couché là, et apprenant qu'il était dans cet état depuis longtemps, lui dit : « Est-ce que tu veux retrouver la santé ? » Le malade lui répondit : « Seigneur, je n'ai personne pour me plonger dans la piscine au moment où l'eau bouillonne ; et pendant que j'y vais, un autre descend avant moi. » Jésus lui dit : « Lève-toi, prends ton brancard, et marche. » Et aussitôt l'homme retrouva la santé.  
 > ([Evangile selon Saint Jean](http://www.aelf.org/bible-liturgie/Jn/Evangile+de+J%C3%A9sus-Christ+selon+saint+Jean/chapitre/5), 5, 2-9)  
-[[/size]]  
-[[/div]]
-
-Séances des 24 et 25 mai 2009. Scénario conté par Nicolas, intitulé *By the Law of the Land*[[footnote]]Scénario issu du supplément *Ordo Nobilis* de la 4ème édition d'Ars Magica, 2000, p. 163-181.[[/footnote]], auquel participent Ambroise, Celarius, Ronald, Sigfeín, Bernard et Guillaume (7 xp). Au cours de ce scénario, les personnages tentent de ravir la source de *vis* brute située dans le Bassin de Saint-Pons - situé sur des terres revendiquées par l'Eglise - à la sinistre Alliance de Grisfaucon, tout en échappant aux foudres du Quaesitor Hectorus, bien décidé à les empêcher de se mêler des affaires des vulgaires. A la fin du scénario, le Comte d'Auch, paraplégique depuis de nombreuses années, est plongé par le Mage Pieux Margentius de Criamon dans le Bassin et en ressort miraculeusement guéri. Ronald acquiert la propriété civile du bassin, à charge de reconnaître un droit d'accès au bassin aux fidèles. Quant aux Mages de Villa Manlia, ils en acquièrent la propriété hermétique et apprennent de Margentius le secret de la récolte de la *vis* produite par le bassin.
+</small>  
+</div>
+Séances des 24 et 25 mai 2009. Scénario conté par Nicolas, intitulé *By the Law of the Land**(Note : Scénario issu du supplément *Ordo Nobilis* de la 4ème édition d'Ars Magica, 2000, p. 163-181.)*, auquel participent Ambroise, Celarius, Ronald, Sigfeín, Bernard et Guillaume (7 xp). Au cours de ce scénario, les personnages tentent de ravir la source de *vis* brute située dans le Bassin de Saint-Pons - situé sur des terres revendiquées par l'Eglise - à la sinistre Alliance de Grisfaucon, tout en échappant aux foudres du Quaesitor Hectorus, bien décidé à les empêcher de se mêler des affaires des vulgaires. A la fin du scénario, le Comte d'Auch, paraplégique depuis de nombreuses années, est plongé par le Mage Pieux Margentius de Criamon dans le Bassin et en ressort miraculeusement guéri. Ronald acquiert la propriété civile du bassin, à charge de reconnaître un droit d'accès au bassin aux fidèles. Quant aux Mages de Villa Manlia, ils en acquièrent la propriété hermétique et apprennent de Margentius le secret de la récolte de la *vis* produite par le bassin.
 
 En outre, une nuit d’Automne 1205 à l’Alliance, Celarius entend dans son sommeil une voix féminine l’appeler. Un visage d’une très jolie jeune femme apparaît progressivement ainsi que deux mains blanches qui s’approchent de son visage. Subitement, les mains se flétrissent et agrippent le cou de Celarius pour l’étrangler. Alors qu’il est au bord de la suffocation et que le sang bat à ses tempes, il se réveille en sursaut suite aux coups frappés à la porte de son sanctum par Hugues. Un sort InVi lancé par Sigfeín révèle que Celarius a été victime d’un sort hermétique ReCo similaire à *Grip of the choking hand*. Un sort CrIm lancé par Celarius permet de montrer à ses Sodales le visage de la jeune femme aperçue en rêve, que personne ne reconnaît. Hugues passe la nuit à veiller sur Celarius, qui dormira pendant la journée pour quelques jours.
 
@@ -436,13 +429,11 @@ Saison d'étude :
 * Tristan-Alexis : remplit une mission pour Llandon, son maître druidique (2 xp d'exposition en Connaissance de la Féerie)
 
 ### Ete  
-
-[[div style="float: right; width: 675px;"]]  
+<div style="float: right; width: 675px;">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100022&E=JPEG&Deb=78&Fin=78&Param=C)  
-[[size smaller]]Le banquet donné par le Roi Aldarin. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100022&E=78&I=14918&M=imageseule), Français 3, fol. 246, Festin d'Assuérus, manuscrit du XVe siècle.[[/size]]  
-[[/div]]
-
-Séances des 26 et 27 mai 2009. Scénario [[../scenar/foudedieu|Le Fou de Dieu]] très largement adapté d'un scénario éponyme de Tristan Lhomme publié dans le *Casus Belli* n°85, février-mars 1985, p. 44 et s, auquel participent l'ensemble des personnages (à l'exception de Celarius et Hadaluna) (9 xp). Les Mages sont invités à Lariandre en vue de célébrer le retour de l'été et participer au grand banquet organisé par le Roi Aldarin. Les réjouissances sont interrompues par l'arrivée du *Quaesitor* Dikaios, capturé par les êtres féériques et persuadé d'être tombé aux mains des personnages corrompus par le démon. Ceux-ci le libèrent après avoir tenté de le convaincre de leur innocence et de la culpabilité de Jérôme. En outre, sous l'effet du vin féérique, Sigfein révèle que sa véritable identité n'est autre que Myrddin de Diedne. Magnolia de Merinita promet de n'en rien révéler; Dikaios s'éloigne quant à lui sans un mot; quant aux Tremere, ils semblent ne s'être aperçus de rien. Parallèlement à cela, les compagnons enquêtent à Pamiers sur ce qui paraît bien être une campagne de déstabilisation de l'Alliance. Ils remontent la piste jusqu'à frère Nicolas, prieur du couvent de Saint-Augustin, qui tente d'assassiner l'abbé Alain et d'en rejeter la responsabilité sur Ronald et Ambroise. Ceux-ci sont jugés par un tribunal ecclésiastique composé des trois légats du pape, Arnaud-Amaury, abbé de Cîteaux, Pierre de Castelneau et Raoul de Fontfroide. Grâce à une brillante plaidoirie d'Hugues ainsi qu'à l'intervention des Mages, les personnages sont innocentés, le coupable démasqué et - l'Eglise ayant horreur du sang (*Ecclesia abhorret a sanguine*) - remis au bras séculier afin d'être brûlé en place publique. Enfin, Hugues manque de se faire condamner également pour ses croyances hétérodoxes, mais est sauvé *in extremis* par frère Dominique, sous-prieur d'Osma (le future Saint-Dominique), qui procède à sa [réconciliation](http://villamanlia.wikidot.com/doc#hugues) à la communauté des Chrétiens.
+<small>Le banquet donné par le Roi Aldarin. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100022&E=78&I=14918&M=imageseule), Français 3, fol. 246, Festin d'Assuérus, manuscrit du XVe siècle.</small>  
+</div>
+Séances des 26 et 27 mai 2009. Scénario [Le Fou de Dieu](../scenar/foudedieu.md) très largement adapté d'un scénario éponyme de Tristan Lhomme publié dans le *Casus Belli* n°85, février-mars 1985, p. 44 et s, auquel participent l'ensemble des personnages (à l'exception de Celarius et Hadaluna) (9 xp). Les Mages sont invités à Lariandre en vue de célébrer le retour de l'été et participer au grand banquet organisé par le Roi Aldarin. Les réjouissances sont interrompues par l'arrivée du *Quaesitor* Dikaios, capturé par les êtres féériques et persuadé d'être tombé aux mains des personnages corrompus par le démon. Ceux-ci le libèrent après avoir tenté de le convaincre de leur innocence et de la culpabilité de Jérôme. En outre, sous l'effet du vin féérique, Sigfein révèle que sa véritable identité n'est autre que Myrddin de Diedne. Magnolia de Merinita promet de n'en rien révéler; Dikaios s'éloigne quant à lui sans un mot; quant aux Tremere, ils semblent ne s'être aperçus de rien. Parallèlement à cela, les compagnons enquêtent à Pamiers sur ce qui paraît bien être une campagne de déstabilisation de l'Alliance. Ils remontent la piste jusqu'à frère Nicolas, prieur du couvent de Saint-Augustin, qui tente d'assassiner l'abbé Alain et d'en rejeter la responsabilité sur Ronald et Ambroise. Ceux-ci sont jugés par un tribunal ecclésiastique composé des trois légats du pape, Arnaud-Amaury, abbé de Cîteaux, Pierre de Castelneau et Raoul de Fontfroide. Grâce à une brillante plaidoirie d'Hugues ainsi qu'à l'intervention des Mages, les personnages sont innocentés, le coupable démasqué et - l'Eglise ayant horreur du sang (*Ecclesia abhorret a sanguine*) - remis au bras séculier afin d'être brûlé en place publique. Enfin, Hugues manque de se faire condamner également pour ses croyances hétérodoxes, mais est sauvé *in extremis* par frère Dominique, sous-prieur d'Osma (le future Saint-Dominique), qui procède à sa [réconciliation](./doc.md) à la communauté des Chrétiens.
 
 Expérience acquise au cours de cette aventure :  
 * Ambroise : 2 xp en Commandement, 5 xp en Connaissance des gens et 2 xp en Droit Civil et Canon  
@@ -513,13 +504,11 @@ Saison d'étude :
 ## Année 1207  
 
 ### Printemps
-
-[[div style="float: right; width: 648px;"]]  
-![[Fanjeaux.JPG|]]  
-[[size smaller]]Saint Dominique apercevant une boule de feu dans le ciel. Mosaïque du Seignadou à Fanjeaux.[[/size]]  
-[[/div]]
-
-Séances des 14 juin et 5 juillet 2009. En pleine nuit, l'attention des personnages est attirée par un étrange orage rougeoyant à moins d'une lieue de l'Alliance. Les personnages se rendent sur place juste à temps pour voir s'élever, dans une colonne de lumière, un homme armé d'un bâton aux prises avec un démon ailé. A la suite d'une vive explosion, l'homme retombe tandis que le démon est projeté à plusieurs lieues de là en direction de Fanjeaux. Les personnages suivent la trace du démon et trouvent Dominique de Guzman en prière : après avoir aperçu une boule de feu dans le ciel[[footnote]]Sur ce passage de la vie de Saint Dominique, cons. M.-H. Vicaire, *[http:*books.google.com/books?id=LqRIk8eV2aQC&lpg=PP244&dq=saint%20dominique%20vicaire&lr=&hl=fr&pg=PA244 Histoire de Saint-Dominique]*, s.l., Cerf Histoire, 2004, p. 244 et s.[[/footnote]], il décide de fonder un monastère au lieu dit de Prouille, au pied de Fanjeaux. Quant à l'homme armé d'un bâton, il n'est autre qu'Erat Caecus, le célèbre hoplite aveugle de naissance de la Maison Flambeau. Les personnages le recueillent à l'Alliance, où il passe plusieurs jours à se rétablir. Il leur explique notamment qu'il poursuivait ce démon depuis des semaines, à travers tout l'Albigeois puis le Lauragais. Rencontrant Pierre de Saverdun, qui passait cette saison à l'Alliance en vue de l'ouverture des Arts sous la férule conjointe d'Esperanza et de Dubinaro, Erat Caecus interroge Esperanza, qui le lui présente comme *son// apprenti. Quelques jours plus tard, alors qu'Aestrius de Mercere est également dans les murs, Jérôme de Bonisagus se présente aux portes de l'Alliance, demande à parler à Esperanza et lui notifie sa décision de revendiquer son apprenti, conformément au Serment hermétique. Esperanza s'y oppose en faisant valoir (en prétextant ?) que Dubinaro l'a déjà revendiqué. Erat Caecus s'emporte et décide de quitter immédiatement l'Alliance face à ce qu'il considère comme une violation flagrante du Code. Jérôme se retire sans insister, un petit sourire aux lèvres...
+<div style="float: right; width: 648px;">
+![](Fanjeaux.JPG)  
+<small>Saint Dominique apercevant une boule de feu dans le ciel. Mosaïque du Seignadou à Fanjeaux.</small>  
+</div>
+Séances des 14 juin et 5 juillet 2009. En pleine nuit, l'attention des personnages est attirée par un étrange orage rougeoyant à moins d'une lieue de l'Alliance. Les personnages se rendent sur place juste à temps pour voir s'élever, dans une colonne de lumière, un homme armé d'un bâton aux prises avec un démon ailé. A la suite d'une vive explosion, l'homme retombe tandis que le démon est projeté à plusieurs lieues de là en direction de Fanjeaux. Les personnages suivent la trace du démon et trouvent Dominique de Guzman en prière : après avoir aperçu une boule de feu dans le ciel*(Note : Sur ce passage de la vie de Saint Dominique, cons. M.-H. Vicaire, *[Histoire de Saint-Dominique](http://books.google.com/books?id=LqRIk8eV2aQC&lpg=PP244&dq=saint%20dominique%20vicaire&lr=&hl=fr&pg=PA244)*, s.l., Cerf Histoire, 2004, p. 244 et s.)*, il décide de fonder un monastère au lieu dit de Prouille, au pied de Fanjeaux. Quant à l'homme armé d'un bâton, il n'est autre qu'Erat Caecus, le célèbre hoplite aveugle de naissance de la Maison Flambeau. Les personnages le recueillent à l'Alliance, où il passe plusieurs jours à se rétablir. Il leur explique notamment qu'il poursuivait ce démon depuis des semaines, à travers tout l'Albigeois puis le Lauragais. Rencontrant Pierre de Saverdun, qui passait cette saison à l'Alliance en vue de l'ouverture des Arts sous la férule conjointe d'Esperanza et de Dubinaro, Erat Caecus interroge Esperanza, qui le lui présente comme *son// apprenti. Quelques jours plus tard, alors qu'Aestrius de Mercere est également dans les murs, Jérôme de Bonisagus se présente aux portes de l'Alliance, demande à parler à Esperanza et lui notifie sa décision de revendiquer son apprenti, conformément au Serment hermétique. Esperanza s'y oppose en faisant valoir (en prétextant ?) que Dubinaro l'a déjà revendiqué. Erat Caecus s'emporte et décide de quitter immédiatement l'Alliance face à ce qu'il considère comme une violation flagrante du Code. Jérôme se retire sans insister, un petit sourire aux lèvres...
 
 Au cours de la même saison, scénario *Sale caractère* tiré du *Casus Belli* (7 xp). Les personnages se rendent à l'Alliance du Blanc Maisnil à la demande de son Primus Elzéar de Bonisagus pour enquêter sur la mort violente de Méraugis de Verditius. 
 
@@ -557,7 +546,7 @@ Saison d'étude :
 * Scintillus : crée un objet magique pour Celarius, intitulé <u>Soleil de minuit</u> CrIg 20  
  * Enchantement mineur d'une pièce de cuivre percée en son centre. Permet de faire à passer à travers une lanière de cuir permettant de porter la pièce autour du cou sous la forme d'un médaillon.  
  * Effet : la pièce irradie une lumière semblable à celle émise par un jour nuageux. La lumière n'a pas de source apparente, mais illumine une zone de dix pas centrée autour de la pièce et qui se déplace avec celle-ci.  
- * Niveau : Base 4, Cible Personnelle[[footnote]]En effet, pour un objet magique, la Cible Personnelle vise l'objet lui-même, cfr ArM5, p. 100, 1ère colonne, 2e bullet)[[/footnote]], Durée Concentration (+1), Cible Individuelle, Nombre d'utilisations par jour Illimité (+10)[[footnote]]ArM5, p. 98[[/footnote]], Maintient automatiquement la Concentration (+5)[[footnote]]ArM5, p. 99[[/footnote]] = 20.  
+ * Niveau : Base 4, Cible Personnelle*(Note : En effet, pour un objet magique, la Cible Personnelle vise l'objet lui-même, cfr ArM5, p. 100, 1ère colonne, 2e bullet))*, Durée Concentration (+1), Cible Individuelle, Nombre d'utilisations par jour Illimité (+10)*(Note : ArM5, p. 98)*, Maintient automatiquement la Concentration (+5)*(Note : ArM5, p. 99)* = 20.  
  * TL = 14 (Cr) + 15 (Ig) + 3 (Int) + 3 (Th. Mag.) + 3 (Aura) + 2 (Routine de labo *Nocturnal*) = 40 --> Scintillus l'invente donc en une saison;  
  * Coût : 2 pions Creo (soit Niveau / 10);  
  * Pour déclencher l'effet : prononcer "*Fiat lux, et lux fuit*";  
@@ -572,7 +561,7 @@ Saison d'étude :
 Arrivée de Margentius de Criamon qui annonce qu’il quitte Saint Pons et le tribunal de Provence. Il demande l’hospitalité mais souhaite pour l’heure se retirer afin de méditer. A la date anniversaire des mésaventures de Celarius, celui-ci commence à entendre des murmures et chuchotements provenant du feu magique. S’étant rendu sur place en compagnie de ses sodales, des flammèches s’échappent soudainement et se mettent à danser autour des mages tout en grandissant. Un sort formel InVi lancé par Sigfeín révèle que les flammes génèrent un envoûtement non hermétique de type ReMe, qu’il désactive à l’aide de son sort formel PeVi. Arrive alors un autre Margentius de Criamon! que les PJ identifient comme étant le véritable Margentius suite à un rapide interrogatoire. Les PJ décident alors de démasquer le faux Margentius, mais celui-ci parvient à disparaître juste après avoir été percuté d’un pillum de feu lancé par Scintillus. Retourné à son sanctum, Celarius constate qu’un symbole y est gravé sur la porte, que Margentius identifie comme appartenant à la Marque Noire, secte Criamon d’inspiration infernaliste.
 
 * Ambroise : passe sa saison à chasser à Arvigna (4 xp en chasse)  
-* Celarius : décide de raffiner son Laboratoire (cfr Covenants 5e éd., p. 110). Lançant un dé de tension, il obtient 3 (Int) + 5 (Th. Mag.) + 7 = 15 et obtient ainsi la vertu *Highly Organised*. Les caractéristiques du labo figurent sur la [fiche de Celarius](http://villamanlia.wikidot.com/celarius) (2 xp d'exposition en Théorie de la Magie).  
+* Celarius : décide de raffiner son Laboratoire (cfr Covenants 5e éd., p. 110). Lançant un dé de tension, il obtient 3 (Int) + 5 (Th. Mag.) + 7 = 15 et obtient ainsi la vertu *Highly Organised*. Les caractéristiques du labo figurent sur la [fiche de Celarius](../personnages/celarius.md) (2 xp d'exposition en Théorie de la Magie).  
 * Dubinaro : étudie la summa Muto au bassin de Saint-Pons (15 xp)  
 * Esperanza : étudie (à nouveau) la dernière griffe infernale en expérimentant cette fois  
  * jet de tension sur la table d'expérimentation : 0, je lance 6 dés de désastre, pas de désastre;  
@@ -588,13 +577,11 @@ Arrivée de Margentius de Criamon qui annonce qu’il quitte Saint Pons et le tr
 * Tristan-Alexis : s'entraîne à user de sa Musique Enchanteresse (4 xp) 
 
 ### Hiver  
-
-[[div style="float: right; width: 512px;"]]  
+<div style="float: right; width: 512px;">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100036&E=JPEG&Deb=2&Fin=2&Param=C)  
-[[size smaller]]L'assemblée des Mages du Tribunal de Provence. Source : [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-8&M=imageseule), Français 31, fol. 32, Romains discutant, manuscrit du XIVe siècle.[[/size]]  
-[[/div]]
-
-Séances des 5 et 31 juillet 2009. Scénario *[http:*villamanlia.wikidot.com/derniertrib Le Dernier Tribunal]// (9 xp) auquel participent Dubinaro, Esperanza, Scintillus, Sigfeín, Hugues, Ronald, Guillaume et Rigaud. Comme preuve de la culpabilité de Jérôme, les personnages veulent apporter au Tribunal la griffe infernale, mais celle-ci a disparu. Le Tribunal :  
+<small>L'assemblée des Mages du Tribunal de Provence. Source : [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-8&M=imageseule), Français 31, fol. 32, Romains discutant, manuscrit du XIVe siècle.</small>  
+</div>
+Séances des 5 et 31 juillet 2009. Scénario *[Le Dernier Tribunal](../scenar/derniertrib.md)// (9 xp) auquel participent Dubinaro, Esperanza, Scintillus, Sigfeín, Hugues, Ronald, Guillaume et Rigaud. Comme preuve de la culpabilité de Jérôme, les personnages veulent apporter au Tribunal la griffe infernale, mais celle-ci a disparu. Le Tribunal :  
 * Reçoit le serment des apprentis ayant relevé le Gant, parmi lesquels Magda, *filia* de Sorellus, désormais connue sous le nom de Viridia de Verditius.  
 * Délibérant *in rem* :  
  * Prend acte du résultat du *certamen* par lequel Murbella de Tremere défie Esperanza de Jerbiton, en reprochant à l'Alliance de Villa Manlia d'avoir conclu un accord lésionnaire avec l'Alliance de Lariandre. Murbella ayant échoué, la rente annuelle de Lariandre passe de 3 à 5 pions de *vis*;  
@@ -608,7 +595,7 @@ Séances des 5 et 31 juillet 2009. Scénario *[http:*villamanlia.wikidot.com/der
 * Délibérant *in Ordinem* :  
  * rejette le motion de Bellaquin tendant à autoriser les membres du Tribunal à participer dans la lutte armée qui pourrait opposer la noblesse du Midi à la Croisade prêchée par le Pape.
 
-Séance du 20 septembre 2009. Scénario *[http:*villamanlia.wikidot.com/mortlegat La Mort d'un Légat]// (6 xp) auquel participent Ambroise, Hugues, Ronald, Tristan-Alexis, Bernard et Guillaume. Les personnages, chargés d'escorter le comte Raimond VI de Toulouse à Saint-Gilles, assistent impuissants à une querelle entre un changelin ayant pris la place du comte et le légat du Pape Pierre de Castelneau ainsi qu'à l'assassinat de celui-ci, le 14 janvier 2008 au matin sur le Rhône, par un homme du comte.
+Séance du 20 septembre 2009. Scénario *[La Mort d'un Légat](../scenar/mortlegat.md)// (6 xp) auquel participent Ambroise, Hugues, Ronald, Tristan-Alexis, Bernard et Guillaume. Les personnages, chargés d'escorter le comte Raimond VI de Toulouse à Saint-Gilles, assistent impuissants à une querelle entre un changelin ayant pris la place du comte et le légat du Pape Pierre de Castelneau ainsi qu'à l'assassinat de celui-ci, le 14 janvier 2008 au matin sur le Rhône, par un homme du comte.
 
 Expérience acquise au cours de cette aventure :  
 * Ambroise: 2 xp en Connaissance des gens, 2 xp en Attention et 2 xp en Connaissance de la Féerie  
@@ -638,12 +625,10 @@ Saison d'étude pour les autres personnages :
 ## Année 1208
 
 ### Printemps  
-
-[[div style="float: right; width: 469px;"]]  
+<div style="float: right; width: 469px;">
 ![|](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Holbein_Danse_Macabre_16.jpg/469px-Holbein_Danse_Macabre_16.jpg)  
-[[size smaller]]La danse macabre vue par Celarius. Source : Holbein le Jeune, *Danse macabre*, 1523-1526, [http://commons.wikimedia.org/wiki/File:Holbein_Danse_Macabre_16.jpg Wikicommons].[[/size]]  
-[[/div]]
-
+<small>La danse macabre vue par Celarius. Source : Holbein le Jeune, *Danse macabre*, 1523-1526, [Wikicommons](http://commons.wikimedia.org/wiki/File:Holbein_Danse_Macabre_16.jpg).</small>  
+</div>
 Saison d'étude :  
 * Ambroise : s'entraîne au maniement des armes à Arvigna (6 xp en Arme à 1 main en tenant compte de son *Affinité*)  
 * Bernard : s'entraîne à l'épée courte (4 xp en Arme à 1 main)  
@@ -662,7 +647,7 @@ La jambe gauche des membres du Groupe Cible échappe totalement à leur contrôl
  * routine de laboratoire non standard : Early Riser (bonus de +1 au TL);  
  * pas d'expérimentation;  
  * 1er TL(InVi) = 10 (Intellego) + 6 (Vim) + 3 (Int) + 3 (Th. Magie) + 3 (Aura) + 1 (bonus routine) + 4 (jet de tension) = 30;  
- * résultat de la première investigation : cf. *[http:*villamanlia.wikidot.com/forum/t-183733/printemps-1208#post-593961 Forum]//;  
+ * résultat de la première investigation : cf. *[Forum](../alliance/forum.md/t-183733/printemps-1208#post-593961)//;  
  * 2ème TL(InVi) = 10 (Intellego) + 6 (Vim) + 3 (Int) + 3 (Th. Magie) + 3 (Aura) + 1 (bonus routine) + 10 (jet de tension) = 36;  
  * résultat de la deuxième investigation : néant;  
  * 2 xp d'exposition en Théorie de la Magie.  
@@ -677,7 +662,7 @@ La jambe gauche des membres du Groupe Cible échappe totalement à leur contrôl
 
 ### Eté  
 
-Séance du 11 octobre 2009. Scénario [[../scenar/nongratae|Personae non gratae]] conté par Olivier, auquel participent Celarius, Scintillus, Sigfein, Hugues, Bernard et Rigaud (8 xp).
+Séance du 11 octobre 2009. Scénario [Personae non gratae](../scenar/nongratae.md) conté par Olivier, auquel participent Celarius, Scintillus, Sigfein, Hugues, Bernard et Rigaud (8 xp).
 
 Expérience acquise au cours de cette aventure :  
 * Bernard : 5 xp en Connaissance de la Féerie et 3 xp en Connaissance des gens  
@@ -699,16 +684,14 @@ Saison d'étude pour les autres personnages :
 * Ronald : s'entraîne à nager dans la rivière (4 xp en Natation)  
 * Tristan-Alexis : fait les courses pour son maître, qui consistent en l'observation de diverses évolutions de la féerie (2 xp en Attention)
 
-Celarius reçoit une [lettre](http://villamanlia.wikidot.com/doc#toc26).
+Celarius reçoit une [lettre](./doc.md).
 
 ### Automne  
-
-[[div style="float:right; width: 645px;"]]  
+<div style="float:right; width: 645px;">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-07802571&E=JPEG&Deb=1&Fin=1&Param=C)  
-[[size smaller]]Ambroise d'Arvigna à la chasse. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=07802571&E=1&I=98102&M=imageseule), Français 412, fol. 128, Saint Gilles et la biche, manuscrit du XIIIe siècle.[[/size]]  
-[[/div]]
-
-Celarius reçoit une [convocation](http://villamanlia.wikidot.com/doc#toc27).
+<small>Ambroise d'Arvigna à la chasse. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=07802571&E=1&I=98102&M=imageseule), Français 412, fol. 128, Saint Gilles et la biche, manuscrit du XIIIe siècle.</small>  
+</div>
+Celarius reçoit une [convocation](./doc.md).
 
 Saison d'étude :  
 * Ambroise : chasse pour faire des reserves pour l'alliance (4 xp en chasse)  
@@ -727,7 +710,7 @@ Saison d'étude :
 * Guillaume : s'entraine à la hache (4xp)  
 * Bernard : monte la garde (4 xp en attention)  
 * Sigfeín : étudie la cape magique ramenée de Vezay  
- * cf. [Forum](http://villamanlia.wikidot.com/forum/t-188120/automne-1208)  
+ * cf. [Forum](../alliance/forum.md/t-188120/automne-1208)  
  * 2 xp d'exposition en Intellego (ce qui en fait 3 avec son affinité)  
 * Tristan-Alexis : s'entraîne à user de sa Musique Enchanteresse (4xp)
 
@@ -771,15 +754,13 @@ Le Sceau de Celarius se manifeste par le fait que, lorsque l'objet de la haine s
 
 ### Printemps  
 
-Séance du 14 novembre 2009. Scénario *The Night of the Faeries*[[footnote]]Scénario issu du supplément *Faeries* (1ère éd.), pp. 105-117, de S. Link et J. Snead. [[/footnote]] conté par Rafaël, auquel participent tous les personnages sauf Tristan-Alexis (6 xp). Les personnages apprennent que le site de Villa Manlia est utilisé, apparemment tous les 97 ans, comme lieu de réjouissance d'une joyeuse bande d'êtres féériques, comme la contine suivante en conserve l'écho :
-
-[[div class="citation"]]  
+Séance du 14 novembre 2009. Scénario *The Night of the Faeries**(Note : Scénario issu du supplément *Faeries* (1ère éd.), pp. 105-117, de S. Link et J. Snead.)* conté par Rafaël, auquel participent tous les personnages sauf Tristan-Alexis (6 xp). Les personnages apprennent que le site de Villa Manlia est utilisé, apparemment tous les 97 ans, comme lieu de réjouissance d'une joyeuse bande d'êtres féériques, comme la contine suivante en conserve l'écho :
+<div class="citation">
 > Au clair de lune bleue  
 > C'est la fête du rire  
 > Le prince Bogomir  
 > N'aime pas les grincheux  
-[[/div]]
-
+</div>
 Il ne leur reste qu'à gérer au mieux la situation!
 
 Expérience acquise au cours de cette aventure :  
@@ -799,13 +780,11 @@ Expérience acquise au cours de cette aventure :
 Saison d'étude pour Tristan-Alexis : surveille les diverses évolutions de la féerie pour compte de son maître (2 xp en Attention)
 
 ### Ete  
-
-[[div style="float: right; width: 350px;"]]  
+<div style="float: right; width: 350px;">
 ![|](http://villamanlia.wikidot.com/local--files/delivrance/ChuteCarcassonne.jpg)  
-[[size smaller]]Les habitants de Carcassonne, chassés de leur ville en braie et chemise.[[/size]]  
-[[/div]]
-
-Séances des 6 et 30 décembre 2009. Scénario *[http:*villamanlia.wikidot.com/delivrance La Délivrance d'Esperanza]// conté par Rafaël, auquel participent tous les personnages, sauf Celarius et Rigaud (9 xp)
+<small>Les habitants de Carcassonne, chassés de leur ville en braie et chemise.</small>  
+</div>
+Séances des 6 et 30 décembre 2009. Scénario *[La Délivrance d'Esperanza](../scenar/delivrance.md)// conté par Rafaël, auquel participent tous les personnages, sauf Celarius et Rigaud (9 xp)
 
 Expérience acquise au cours de cette aventure :  
 * Ambroise : s'entraine au tir à l'arc (4 xp)  
@@ -834,8 +813,7 @@ Le Sceau de Celarius se manifeste par le fait que la voix entendue par la Cible 
 ### Automne  
 
 Séance du 24 janvier 2010. Interlude intitulé *Le Serment de Manlius*. Alors que l'armée des croisés s'apprête à fondre sur l'Alliance de Villa Manlia, Manlius apparaît aux Mages et leur fait prêter serment - à l'exception d'Hadaluna, retirée dans sa forêt - de défendre cette terre des barbares au péril de leur vie. Il accomplit ensuite un puissant rituel pré-hermétique qui paraît retirer l'Alliance de l'esprit des vulgaires pour une durée de 7 ans. Pendant cette période, les Mages doivent absolument réunir les trois ingrédients leur permettant d'achever le rituel, conformément à la prophétie :
-
-[[div class="citation"]]  
+<div class="citation">
 > Lorsqu’à l’horizon, les barbares  
 > Déploieront leurs cruels étendards  
 > Frappant et tuant sans pitié  
@@ -852,18 +830,15 @@ Séance du 24 janvier 2010. Interlude intitulé *Le Serment de Manlius*. Alors q
 >  
 > Formeront le prix à payer  
 > Afin qu’ils daignent t’écouter  
-[[/div]]
-
+</div>
 Dans *Le Songe de Scipion*, les Mages découvrent également un sort pré-hermétique, équivalent ReVi 15 (Base 10, Durée Instantanée, Portée Toucher, Cible Individuelle), permettant de recueillir "l'essence" de l'un des trois ingrédients mystiques du rituel.
 
 A la même saison, Esperanza rend visite aux Sages-Femmes de Vezay et obtient d'elle, en échange d'une portion de son sang, un charme de fertilité. Elle rencontre ensuite (tant au propre qu'au sens biblique du terme) son époux Pierre, seigneur de Saverdun, quelques jours avant que l'armée des croisées ne marche sur la ville de ce dernier.
-
-[[div style="float: right; width: 710px;"]]  
+<div style="float: right; width: 710px;">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100027&E=JPEG&Deb=39&Fin=39&Param=C)  
-[[size smaller]]Moïse recevant la Loi. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100027&E=39&I=15221&M=imageseule), Français 8, fol. 60v, entre 1320-1330.[[/size]]  
-[[/div]]
-
-Séances du 24 janvier 2010 et du 20 février 2010. Scénario *The Bishop's staff*[[footnote]]Scénario de Michaël de Verteuil issu de la 4ème édition d'Ars Magica, 2002[[/footnote]] conté par Nicolas, auquel participent Celarius, Sigfein et Scintillus, ainsi que Rigaud et Esquivard (8 xp). Au travers de visions envoyées à Sigfein par le Rabbi Isaac, ce dernier demande aux mages de se rendre à Saint-Gilles afin d'y trouver un certain Anan le Karaïte et de "sauver les innocents". Celarius, Scintillus et Sigfein se mettent donc en route accompagnés de Rigaud et du mendiant Esquivar. Après avoir rencontré une vieille folle qui leur déverse un flot de paroles incompréhensibles et être tombés nez à nez avec Miralys de Jerbiton (Sigfein était ravi), les PJ obtiennent un entretien avec l'usurier Anan. Quelle ne fut pas leur surprise lorsqu'ils apprennent qu'Anan est en fait le Primus de Sapientia Aetatum, une Alliance d'Hiver tombée dans l'oubli, partagée entre des mages "classiques" (un Bjornaer, un Tytalus et un Jerbiton), et 3 mages Ex-Miscelanea adeptes de la magie Karaïte (une variante de la magie juive). Après un repas en compagnie de leurs sodales, les PJ entament des négociations en vue d'un échange (c'est Dubi qui va être content, l'Alliance possède une source de vis Muto!) et apprennent également qu'Anan occupe sa fonction actuelle suite à la mystérieuse disparition de l'ancien Primus, Ambrosius de Jerbiton, au début 1208. Ils se mettent alors en route pour leur auberge lorsque 2 jeunes gens les bousculent et prennent la fuite dans une ruelle. Le temps d'éteindre un incendie apparemment allumé par les 2 jeunes hommes en question, les PJ retrouveront leur cadavres. Etrange, pas de cause de mort apparente, à l'exception d'une croix chrétienne profondément gravée dans la chair de leur front. Notons que Sifgein grâce à sa double vue remarque la présence d'une flèche éthérée dans le torse des cadavres, et que Celarius a aperçu ce qui ressemble à un Ange (un dos d'homme doté de 2 grandes ailes blanches) s'enfuir de la scène du crime. L'arrivée de la milice empêchent les PJ de poursuivre leurs investigations et ils rejoignent leur auberge, après avoir constaté l'arrestation par la milice d'un jeune homme terrorisé ... <mark>à compléter par Nicolas</mark>
+<small>Moïse recevant la Loi. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100027&E=39&I=15221&M=imageseule), Français 8, fol. 60v, entre 1320-1330.</small>  
+</div>
+Séances du 24 janvier 2010 et du 20 février 2010. Scénario *The Bishop's staff**(Note : Scénario de Michaël de Verteuil issu de la 4ème édition d'Ars Magica, 2002)* conté par Nicolas, auquel participent Celarius, Sigfein et Scintillus, ainsi que Rigaud et Esquivard (8 xp). Au travers de visions envoyées à Sigfein par le Rabbi Isaac, ce dernier demande aux mages de se rendre à Saint-Gilles afin d'y trouver un certain Anan le Karaïte et de "sauver les innocents". Celarius, Scintillus et Sigfein se mettent donc en route accompagnés de Rigaud et du mendiant Esquivar. Après avoir rencontré une vieille folle qui leur déverse un flot de paroles incompréhensibles et être tombés nez à nez avec Miralys de Jerbiton (Sigfein était ravi), les PJ obtiennent un entretien avec l'usurier Anan. Quelle ne fut pas leur surprise lorsqu'ils apprennent qu'Anan est en fait le Primus de Sapientia Aetatum, une Alliance d'Hiver tombée dans l'oubli, partagée entre des mages "classiques" (un Bjornaer, un Tytalus et un Jerbiton), et 3 mages Ex-Miscelanea adeptes de la magie Karaïte (une variante de la magie juive). Après un repas en compagnie de leurs sodales, les PJ entament des négociations en vue d'un échange (c'est Dubi qui va être content, l'Alliance possède une source de vis Muto!) et apprennent également qu'Anan occupe sa fonction actuelle suite à la mystérieuse disparition de l'ancien Primus, Ambrosius de Jerbiton, au début 1208. Ils se mettent alors en route pour leur auberge lorsque 2 jeunes gens les bousculent et prennent la fuite dans une ruelle. Le temps d'éteindre un incendie apparemment allumé par les 2 jeunes hommes en question, les PJ retrouveront leur cadavres. Etrange, pas de cause de mort apparente, à l'exception d'une croix chrétienne profondément gravée dans la chair de leur front. Notons que Sifgein grâce à sa double vue remarque la présence d'une flèche éthérée dans le torse des cadavres, et que Celarius a aperçu ce qui ressemble à un Ange (un dos d'homme doté de 2 grandes ailes blanches) s'enfuir de la scène du crime. L'arrivée de la milice empêchent les PJ de poursuivre leurs investigations et ils rejoignent leur auberge, après avoir constaté l'arrestation par la milice d'un jeune homme terrorisé ... <mark>à compléter par Nicolas</mark>
 
 Expérience acquise au cours de cette aventure :  
 * Celarius : 5 xp en Mentem et 3 xp en Vim  
@@ -925,8 +900,8 @@ Saison d'étude :
 * Sigfeín : étudie la *summa* Rego (13 xp)  
 * Tristan-Alexis : étudie la Survie auprès de son maître (12 xp)
 
-Consultez la suite de la Geste de la Villa Manlia, [[chrono1210 |de 1210 à 1219]]
+Consultez la suite de la Geste de la Villa Manlia, [de 1210 à 1219](chrono1210.md)
 
-[[footnoteblock title="Notes"]]
+[footnoteblock title="Notes"](footnoteblock%20title%3D%22Notes%22.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

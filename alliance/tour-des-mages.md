@@ -10,7 +10,7 @@ Le premier étage est flanqué de deux balcons, le premier donnant sur la villa 
 
 * Outre l'accès à l'escalier en colimaçon desservant les différents étages de la tour, le rez-de-chaussée se compose d'une salle de garde et de l'armurerie de l'Alliance, où sont également conservées des provisions. 
 
-* Au **premier étage** est installée la **salle du Conseil** ornée de la tapisserie magique et meublée à l'[effigie](http://villamanlia.wikidot.com/forum/t-955345/prestance-de-l-alliance) de l'Alliance et de ses membres.
+* Au **premier étage** est installée la **salle du Conseil** ornée de la tapisserie magique et meublée à l'[effigie](./forum.md/t-955345/prestance-de-l-alliance) de l'Alliance et de ses membres.
 
 * Le **deuxième étage** accueille la **bibliothèque** de Villa Manlia ainsi qu'un *scriptorium*.
 

@@ -1,9 +1,8 @@
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
+[>](%3E.md)  
+[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
+[>](/%3E.md)
 
 # Introduction  
-[[f>toc]]  
 Le présent scénario s’inscrit dans le cadre d’une Saga ayant pour toile de fond la croisade lancée contre les Cathares du Sud de la France par le Pape Innocent III au début du XIIIe siècle. L’événement déclencheur de cette croisade fut l’assassinat du légat du Pape, Pierre de Castelneau, au matin du 14 janvier 1208 alors qu’il venait de traverser le Rhône. Le Pape tint le comte Raimond VI de Toulouse responsable de l’assassinat qui aurait été perpétré par un des hommes du comte qui se serait ensuite réfugié à Beaucaire. Que cette accusation soit ou non fondée, elle servit en tout cas de détonateur, le Roi de France acceptant ensuite, fût-ce du bout des lèvres, de soutenir la croisade exigée depuis longtemps par le Pape.
 
 S’agissant d’un événément historique d'une importance centrale pour cette période, ce scénario a pour but d’y associer étroitement les personnages. Dans ma Saga, l’un des compagnons, Ronald, demeure lié à l’Alliance de Bellaquin, proche du comte de Toulouse. L’une des membres du triumvirat de Bellaquin, Priscilla de Jerbiton, lui demande d’escorter le comte de Toulouse jusqu’à Saint-Gilles où il doit rencontrer les légats du Pape et plaider pour que son excommunication soit levée. Priscilla craint en effet pour la vie du comte en raison d’une prophétie lue dans la Tapisserie magique de Bellaquin (décrite dans le supplément *Les Alliances*). Au cours du voyage, le comte doit faire face à des difficultés croissantes causées par les êtres féériques qu’il a offensés en favorisant le défrichement de la forêt de Sadrissel, au sud de Toulouse. La menace ne vient cependant pas de là : Jérôme de Bonisagus, un Mage corrompu par le satanisme et l’ennemi des personnages, prend le contrôle d’un jeune homme de la suite du comte et provoque ainsi l’assassinat du légat. Les personnages, tout occupés qu’ils sont à résoudre les difficultés provoquées par le changelin, assistent, impuissants, à l’assassinat du légat.
@@ -31,10 +30,10 @@ Les personnages ont tout juste le temps de faire un crochet par leur Alliance av
 * Un changelin, ayant présentement la forme d’un soldat absolument ordinaire. Avant d’arriver à Bellaquin, Raimond a fait halte aux abords de la forêt de Sadrissel, où l’abbé de Saint-Sernin a décidé de fonder un nouveau monastère en défrichant des terres. Malheureusement pour lui, ce sont des terres féeriques, et des événements étranges – lumières dans la nuit, animaux qui parlent, etc. – ont effrayé les moines. Ceux-ci ont dès lors profité du passage de Raimond pour lui demander son appui. Raimond qui a consenti, et a fait stationner toute sa troupe en arme pendant la nuit pour montrer aux moines qu’il ne s’agissait que de « contes de bonne femme ». A un moment, un animal étrange s’est approché, mais les hommes de Raimond l’ont abattu d’une flèche. Les êtres féeriques, prenant peur, ont laissé les moines tranquilles… mais l’un d’eux s’est infiltré par les hommes du comte et est bien décidé à lui faire payer son immixtion dans les affaires des fées. C’est un changelin, et il peut à son gré changer d’apparence. Il réserve quelques bonnes surprises à Raimond et à sa troupe… Si jamais il est démasqué avant la fin, il disparaît et revient sous un autre déguisement.
 
 # La mise en garde de Saint Jérôme  
-[[div style="float: right; width: 460px;"]]  
+<div style="float: right; width: 460px;">
 ![|](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Jerome_by_Rubens_dsc01653.jpg/460px-St_Jerome_by_Rubens_dsc01653.jpg)  
-[[size smaller]] St. Jerome, by Peter Paul Rubens, 1625–1630. Source : [http://en.wikipedia.org/wiki/File:St_Jerome_by_Rubens_dsc01653.jpg Wikimedia Commons].[[/size]]  
-[[/div]]  
+<small> St. Jerome, by Peter Paul Rubens, 1625–1630. Source : [Wikimedia Commons](http://en.wikipedia.org/wiki/File:St_Jerome_by_Rubens_dsc01653.jpg).</small>  
+</div>
 La troupe a emprunté un passage bien connu, mais s’arrête soudain, perplexe face à un embranchement dans les bois dont le guide n’a aucune souvenance. Raimond rejoint l’avant-garde, et c’est alors qu’on remarque un vieil homme, assis à même le sol au pied d’un arbre, que personne ne semblait avoir jusqu’alors remarqué. A ses pieds ronronne un chat. Ceux qui ont le don de Double Vue croient un instant le voir richement habillé comme un cardinal, y compris avec le chapeau rouge de la fonction, et méprennent le chat pour un lion – lion et chapeau de cardinal étant [les attributs de Saint Jérôme](http://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_de_Stridon#Iconographie); mais, aussitôt, ils ne voient qu’un vieil homme et un très ordinaire chat.
 
 Saint Jérôme : Salut à toi, homme rongé par le doute !
@@ -74,11 +73,10 @@ Halte à Carcassonne. C’est l’occasion de rencontrer Raymond-Roger Trencavel
 Un événement va perturber les relations entre les deux hommes. Pendant la nuit, le changelin, assumant les traits et les habits d’Adelbert de Noves, se rend jusqu’aux écuries où il libère tous les cheveaux, tant ceux de Trencavel que de Toulouse, et se dirige vers une des portes des remparts. La sentinelle de garde s’endort sous le sortilège du changelin, et les cheveaux le suivent docilement. Mais Jean le Palefrenier se réveille sous le coup d’une brusque inquiétude pour « sa Neli ». Trouvant l’écurie vide, il l’appelle, brisant le sortilège, celle-ci hennit en retour. La plupart des chevaux se dispersent dans la nature, certains se brisent les pattes en tombant, c’est la pagaille. Au petit déjeuner, Raimond est furieux contre Trencavel, mais les choses s’inversent lorsqu’un homme de Trencavel vient lui parler à l’oreille puis introduit Jean qui accuse Adelbert ! Celui-ci nie en bloc de son ton empoulé, Raimond qui le connaît et lui fait confiance le croit mais il est d’une méchante humeur ! Les cavaliers repartent, avec quelques chevaux de moins que l’on est pas parvenu à retrouver, et les relations encore plus tendues entre le comte et le vicomte. Les personnages parviendront-ils à reconstituer ce qui s’est passé ? Si le changelin menace d’être démasqué, il s’éclipse et se mêlera à quelques marchands qui comptent faire voyage avec Raimond jusque Saint-Gilles.
 
 # L’arrivée à Saint-Gilles  
-[[div style="float: right; width: 512px;"]]  
+<div style="float: right; width: 512px;">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100222&E=JPEG&Deb=70&Fin=70&Param=C)  
-[[size smaller]]Source : [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-8&M=imageseule), Français 159, fol. 271v, David dans l'eau, manuscrit des XIVe-XVe siècle.[[/size]]  
-[[/div]]
-
+<small>Source : [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-8&M=imageseule), Français 159, fol. 271v, David dans l'eau, manuscrit des XIVe-XVe siècle.</small>  
+</div>
 La rencontre avec les légats est prévue de lendemain soir dans le palais comtal. En attendant, les personnages ont tout le loisir de flâner dans la ville, qui compte parmi l’une des foires les plus grandes d’Europe. On y trouve de tout, des produits venus d’Orients, des étoffes et des métaux précieux, de quoi améliorer significativement la qualité d’un laboratoire, si du moins l’on a les finances nécessaires. On peut même espérer dégoter un objet aux propriétés magiques entre les étals.
 
 En cours d’après-midi, alors qu’ils se mêlent à la foule, les personnages tombent soudain nez-à-nez avec Jérôme, déguisé en simple pèlerin. Celui-ci réprime un mouvement de surprise puis adopte un  sourire cynique. S’il apprend que les personnages faisait partie de la troupe de Raimond, il les raille pour s’être mêlé une fois de plus des affaires des vulgaires, malgré l’avertissement donné par le dernier Tribunal. Si on l’interroge sur les motifs de sa venue à Saint-Gilles, il répond hypocritement qu’il n’y a pas lieu de s’étonner de le trouver sur un lieu de pèlerinage; mais qu’en ce qui le concerne, le voyage se termine déjà. Et, effectivement, si on le suit, il se mêle à un groupe de pèlerins qui reprend la direction d’Albi. Ce qui ne veut pas dire qu’il soit entièrement parti : son familier corbeau continue à décrire des cercles autour de l’enceinte de la ville, pour lui rapporter la suite de son plan.
@@ -109,11 +107,10 @@ Les légats se retirent sans que le comte ne tente de les retenir; son entourage
 
 
 # A la recherche de Raimond  
-[[div style="float: right; width: 382px;"]]  
-![[sirene.jpg|]]  
-[[size smaller]]Source : [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-12&M=imageseule), Français 14969, fol. 21, Sirène(s) et marin(s), manuscrit du XIIIe siècle.[[/size]]  
-[[/div]]
-
+<div style="float: right; width: 382px;">
+![](sirene.jpg)  
+<small>Source : [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-12&M=imageseule), Français 14969, fol. 21, Sirène(s) et marin(s), manuscrit du XIIIe siècle.</small>  
+</div>
 A l’embouchure du Rhône, il y a une grotte éclairée d’une lumière surnaturelle que les pêcheurs préfèrent éviter. Là vivent les sirènes, de magnifiques jeunes femmes à queue de poisson, qui se coiffent avec des peignes d’or et protégées par des chiens invisibles. Raimond est assis sur un trône au fond d’une grotte dans laquelle le niveau de l’eau monte peu à peu avec la marée. Bientôt, il finira noyé si les personnages n’interviennent. Mais pour le moment, il est en transe, entouré du beau visage des femmes de son passé : sa première femme, Ermessinde Pelet, comtesse de Melgueil, décédée trois ans par son mariage; ses deuxième et troisème femmes, Béatrice de Béziers et Bourguine de Chypre; sa quatrième, Jeanne d’Angleterre, morte en couche; son actuelle, Eléonore d’Aragon; et même sa mère, Constance de France, qui l’a abandonné quand il n’avait que onze ans.
 
 Les sirènes ne lâcheront pas facilement le comte. C’est un bel homme prêt à leur donner son cœur ! Elles n’accepteront en échange qu’un trésor d’égale valeur, soit le cœur d’un autre homme, soit des étoffes, pierreries, miroir ou autre. Sinon, il va falloir sortir par la force !
@@ -125,8 +122,7 @@ Alors qu’ils reviennent vers Saint-Gilles, les personnages aperçoivent de loi
 
 # Epilogue  
 A la suite de cet épisode, Innocent III écrivit le 10 mars 1208 une lettre circulaire aux prélats de France qui marque le début de la croisade :
-
-[[div style="width: 700px; font-family: Vivaldi; font-size: 16pt;"]]  
+<div style="width: 700px; font-family: Vivaldi; font-size: 16pt;">
 > Innocent, évêque, serviteur des serviteurs de Dieu à nos fils bien-aimés les nobles hommes, comtes et barons et à tous les habitants des provinces de Narbonne, Embrun, Aix et Vienne, salut et bénédiction apostolique.  
 >  
 > Nous venons d'apprendre un événement cruel qui va mettre en deuil l'Eglise tout entière: frère Pierre de Castelnau, de sainte mémoire, moine et prêtre, qui parmi les hommes vertueux se faisait remarquer par sa conduite, son savoir et sa bonne réputation, avait été envoyé par nous avec d'autres dans le midi de la France pour y prêcher la paix et affermir la foi. Dans la tâche qui lui était confiée, il avait réussi d'une façon digne d'éloges et ne cessait d'y réussir. En vérité, c'est à l'école du Christ qu'il avait appris tout ce qu'il prêchait: il était capable d'exhorter le fidèle selon la sainte doctrine et de réfuter les contradicteurs: il était toujours prêt à rendre raison à quiconque l'interrogeait car c'était un homme de foi catholique, de science juridique et de parole éloquente.  
@@ -148,24 +144,20 @@ A la suite de cet épisode, Innocent III écrivit le 10 mars 1208 une lettre cir
 > En avant, chevaliers du Christ ! En avant, courageuses recrues de l'armée chrétienne ! Que l'universel cri de douleur de la sainte Eglise vous entraîne ! Qu'un zèle pieux vous enflamme pour venger une si grande offense faite à votre Dieu ! Souvenez-vous que votre Créateur n'avait nul besoin de vous quand il vous créa. Mais, bien qu'il puisse se passer de votre concours, néanmoins, comme si votre aide lui permettait d'agir avec plus d'efficacité, comme si votre carence affaiblissait sa Toute-Puissance, il vous donne aujourd'hui l'occasion de le servir d'une manière qui soit digne de lui. Depuis le meurtre de ce juste, l'Eglise de ce pays reste sans consolateur, assise dans la tristesse et dans les larmes. La foi, dit-on, s'en est allée, la paix est morte, la peste hérétique et la rage guerrière ont pris des forces nouvelles: la barque de l'Eglise est exposée à un naufrage total si dans cette tempête inouïe on ne lui apporte un puissant secours. C'est pourquoi nous vous prions de bien entendre nos avertissements, nous vous exhortons avec bienveillance, nous vous enjoignons avec confiance au nom du Christ, devant un tel péril nous vous promettons la rémission de vos péchés afin que sans tarder vous portiez remède à de si grands dangers. Efforcez-vous de pacifier ces populations au nom du Dieu de paix et d'amour. Appliquez-vous à détruire l'hérésie par tous les moyens que Dieu vous inspirera. Avec plus d'assurance encore que les Sarrasins car ils sont plus dangereux, combattez les hérétiques d'une main puissante et d'un bras étendu. Pour ce qui est du comte de Toulouse qui semble avoir fait un pacte avec la mort et ne pas songer à la sienne, si par hasard le tourment lui donne l'intelligence et si son visage, couvert d'ignominie commence à demander le nom de Dieu, continuer à faire peser sur lui la menace jusqu'à ce qu'il nous donne satisfaction, à nous, à l'Eglise et à Dieu. Chassez-le, lui et ses complices, des tentes du Seigneur. Dépouillez-les de leurs terres afin que les habitants catholiques y soient substitués aux hérétiques éliminés et, conformément à la discipline de la foi orthodoxe qui est la votre, servent en présence de Dieu dans la sainteté et dans la justice.  
 >  
 > Donné au Latran, le six des Ides de Mars, l'an II de notre pontificat.  
-[[/div]]
-
-[[div style="width: 700px;"]]  
+</div>
+<div style="width: 700px;">
 (Source : P. Guébin, H. Maisonneuve, [Histoire Albigeoise](http://sourcesmedievales.unblog.fr/2008/11/23/bulle-dinnocent-iii-contre-les-assassins-de-pierre-de-castelnau-1208/#more-311), nouvelle traduction de l'Historia Albigensis de Pierre des Vaux-de-Cernay, Librairie Philosophique J. Vrin, Paris, 1951, p. 25-32)  
-[[/div]] 
- 
+</div>
 Les personnages n’ont qu’à bien se tenir !
-
-[[div]]
-
-[[/div]]  
-[[>]]  
+<div>
+</div>
+[>](%3E.md)  
 Rafaël Jafferali  
-[[/>]]
+[>](/%3E.md)
 
-[[footnoteblock title="Notes"]]  
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
+[footnoteblock title="Notes"](footnoteblock%20title%3D%22Notes%22.md)  
+[>](%3E.md)  
+[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
+[>](/%3E.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

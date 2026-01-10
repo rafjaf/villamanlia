@@ -1,18 +1,16 @@
-[[div style="float:right; width: 40%"]]  
+<div style="float:right; width: 40%">
 *Le savoir n'est pas comme la monnaie, qui reste physiquement intacte même à travers les plus infâmes échanges : il est plutôt comme un habit superbe, qui se râpe à l'usage et par l'ostentation. N'en va-t-il pas ainsi pour le livre même, dont les pages s'effritent, les ors et les encres se font plus opaques, si trop de mains le touchent ?*  
 — Umberto Eco, *Le nom de la rose*, 1ère éd. 1980, trad. J.-N. Schifano, Paris, Grasset, coll. Livre de Poche, 1982, p. 233  
-[[/div]]  
+</div>
 ~~~~
 
 # Bibliothèque vulgaire  
-[[f>toc]]
-
 ## *Summae*  
-* [[span style="background-color: yellow;"]]à spécifier par Raf[[/span]] : <u>*summa* Connaissance de l'Ordre d'Hermès</u> ayant appartenu à Damianus, de niveau 5 et de qualité 8  
-* [[span style="background-color: yellow;"]]à spécifier par Raf (texte rédigé en Arabe)[[/span]] : <u>*summa* Chirurgie</u> ayant appartenu à Damianus, de niveau 7 et de qualité 11  
+* [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Raf[span](/span.md) : <u>*summa* Connaissance de l'Ordre d'Hermès</u> ayant appartenu à Damianus, de niveau 5 et de qualité 8  
+* [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Raf (texte rédigé en Arabe)[span](/span.md) : <u>*summa* Chirurgie</u> ayant appartenu à Damianus, de niveau 7 et de qualité 11  
 * *Iter romanum pii peregrini per totam pensinsulam italicam, cum narratione rerum mirabilium et terribilium quas ambulans viduit, ad aedificationem lectoris*  : <u>*summa* Connaissance de l'Italie</u>, niveau 5, qualité 8  
 * *De Ordinis Hermetici fato* : <u>*summa* Connaissance de l'Ordre d'Hermès</u>, niveau 4, qualité 10  
-* *[http:*web.upmf-grenoble.fr/Haiti/Cours/Ak/corpjurciv.htm Corpus juris civilis]* de Justinien et *[Decretum](http://geschichte.digitale-sammlungen.de/decretum-gratiani/online/angebot)* de Gratien, constituant ensemble une <u>*summa// Droit civil et canon</u>, niveau 5, qualité 20  
+* *[Corpus juris civilis](http://web.upmf-grenoble.fr/Haiti/Cours/Ak/corpjurciv.htm)* de Justinien et *[Decretum](http://geschichte.digitale-sammlungen.de/decretum-gratiani/online/angebot)* de Gratien, constituant ensemble une <u>*summa// Droit civil et canon</u>, niveau 5, qualité 20  
 * *Colliget* d'Averroès : <u>*summa* Médecine</u>, niveau 5, qualité 10  
 * *Sententiae* de Pierre Lombard : <u>*summa* Théologie</u>, niveau 6, qualité 20  
 * Plusieurs ouvrages de philosophie naturelle équivalant ensemble à une <u>*summa* en Arts libéraux</u> de niveau 3, qualité 7, <u>et en Philosophie</u> de niveau 5, qualité 12 (ouvrages endommagés, auparavant de qualité 10 resp. 15) :  
@@ -29,26 +27,24 @@
 * *De portis secretis Arcadiae* : <u>*tractatus* Connaissance de la Féerie</u>, qualité 10 (déjà étudié par Hugues)  
 * *Lupina magica* (trad. : La lycanthropie magique) de Hugues d'Ambremer : <u>*tractatus* Connaissance de la Magie</u>, qualité 11 (déjà lu par Henri)  
 * *De Specibus Dragonnus* : <u>*tractatus* Connaissance de la Magie</u>, qualité 8  
-* *De Exorcizandis Obsessis a Daemonio*[[footnote]]Référence anachronique au rite d'exorcisme contenu dans le [Rituale Romanum](http://en.wikipedia.org/wiki/Roman_Ritual) de 1624.[[/footnote]] (trad. : *Sur l'exorcisme de ceux possédés par le démon*) de Hugues d'Ambremer : <u>*tractatus* Connaissance de l'Infernal</u>,  qualité 11 (déjà lu par Ronald)  
+* *De Exorcizandis Obsessis a Daemonio**(Note : Référence anachronique au rite d'exorcisme contenu dans le [Rituale Romanum](http://en.wikipedia.org/wiki/Roman_Ritual) de 1624.)* (trad. : *Sur l'exorcisme de ceux possédés par le démon*) de Hugues d'Ambremer : <u>*tractatus* Connaissance de l'Infernal</u>,  qualité 11 (déjà lu par Ronald)  
 * *De vita fidelis servi Domi Merceris magnitudune Ordinis Hermetici dedita* de Jerod de Mercere : <u>*tractatus* Connaissance de l'Ordre d'Hermès</u>, qualité 10  
 * *Vita Sanctorum Regni Dei* (trad. : *Vie des Saints du Royaume de Dieu*) de Hugues d'Ambremer : <u>*tractatus* Connaissance du Divin</u>, qualité 11 (déjà lu par Ronald et par Tristan-Alexis)  
 * *Vita Sancti Augustiani* : <u>*tractatus* Théologie</u>, qualité 11 (déjà étudié par Hugues)
 
 # Bibliothèque magique
 
-* [[span style="background-color: yellow;"]]à spécifier par Raf[[/span]] : ouvrage en cyrillique ayant appartenu au défunt Stybat de Tremere
+* [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Raf[span](/span.md) : ouvrage en cyrillique ayant appartenu au défunt Stybat de Tremere
 
 ## *Summae*  
-[[div style="float:right;"]]
-
+<div style="float:right;">
 ![[Montagne|]]  
-[[size smaller]]Maga Manita apprenant le sort *Perron du Roi de la Montagne*.[[/size]]  
-[[/div]]
-
+<small>Maga Manita apprenant le sort *Perron du Roi de la Montagne*.</small>  
+</div>
 ### Compétences mystiques
 
-* [[span style="background-color: yellow;"]]à spécifier par Raf[[/span]] : <u>*summa* Connaissance de l'Infernal</u> ayant appartenu à Damianus, de niveau 5 et de qualité 8  
-* [[span style="background-color: yellow;"]]à spécifier par Raf[[/span]] : <u>*summa* Théorie de la Magie</u> ayant appartenu à Damianus, niveau 6 et de qualité 15
+* [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Raf[span](/span.md) : <u>*summa* Connaissance de l'Infernal</u> ayant appartenu à Damianus, de niveau 5 et de qualité 8  
+* [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Raf[span](/span.md) : <u>*summa* Théorie de la Magie</u> ayant appartenu à Damianus, niveau 6 et de qualité 15
 
 ### Arts
 
@@ -72,7 +68,7 @@
  * Brisure de la vague (*Break the Oncoming Wave*) ReAq 10  
  * Endurance du Berserker (*Endurance of the Berserkers*) ReCo 15  
  * Seigneur des Forêts (*Lord of the Trees*) ReHe 25  
- * Conduite d'ivrogne[[footnote]]Adaptation d'un sort de la 3e édition publié dans le supplément *Le Grimoire du Mage*, p. 119.[[/footnote]] ReMe 10 (Base 4, +1 Portée Regard, Durée Instantanée, Cible Individuelle, +1 pour contrôler la réaction provoquée par l'ivresse) _  
+ * Conduite d'ivrogne*(Note : Adaptation d'un sort de la 3e édition publié dans le supplément *Le Grimoire du Mage*, p. 119.)* ReMe 10 (Base 4, +1 Portée Regard, Durée Instantanée, Cible Individuelle, +1 pour contrôler la réaction provoquée par l'ivresse) _  
 La Cible exécute une action précise choisie par le lanceur, à condition qu'il s'agisse de quelque chose d'assez rapide et qu'elle pourrait faire de son plein gré si elle était ivre. Ainsi, par exemple, un garde ne tuera pas un collègue, mais il pourra l'embrasser, faire le poirier ou brailler une chanson à boire. Si le Mage connaît les sentiments de la Cible, il peut même lui inspirer un acte plus violent : il suffira peut-être qu'elle soit saoule pour qu'elle se décide à boxer quelqu'un. _  
 Lomissar de Merinita créa ce sort dans un but bien particulier. Il voulait s'emparer d'un objet féerique qui se trouvait dans le château d'un noble, ce qui lui aurait été facile si ce noble ne s'était allié à un magicien parallèle. Les choses étant ce qu'elles étaient, Lomissar se devait d'agir avec la plus grande prudence. Il décida donc de s'introduire dans la place durant une grande fête, en utilisant ce sortilège pour manipuler autrui. Il était d'une importance cruciale que ce fût un sort formel, puisqu'il lui faudrait le jeter à maintes reprises. Sa mission fut un succès, et il enrichit de son invention la bibliothèque de l'Alliance.
 
@@ -83,12 +79,12 @@ Lomissar de Merinita créa ce sort dans un but bien particulier. Il voulait s'em
 
 * *Commentarii de arte Corporis ad Kitab Al Qanûn fi Al-Tibb* : *summa* Corpus ayant appartenu à Damianus, niveau 18, qualité 14
 
-* [[span style="background-color: yellow;"]]à spécifier par Raf[[/span]] : <u>*summa* Herbam</u>, niveau 5, qualité 9 
+* [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Raf[span](/span.md) : <u>*summa* Herbam</u>, niveau 5, qualité 9 
 
-* [[span style="background-color: yellow;"]]à spécifier par Raf[[/span]] : <u>*summa* Herbam</u> (gros ouvrage abîmé ayant appartenu à Barbara de Merenita)
+* [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Raf[span](/span.md) : <u>*summa* Herbam</u> (gros ouvrage abîmé ayant appartenu à Barbara de Merenita)
 
 * *Opes subterraneae* : <u>*summa* Terram</u>, niveau 9, qualité 13, contenant les sorts suivants:  
- * Perron du Roi de la Montagne[[footnote]]Adaptation d'un sort de la 3e édition publié dans le supplément *Le Grimoire du Mage*, p. 92.[[/footnote]] CrTe 30 (Base 3, +3 Portée Vue, +2 Durée Spéciale, Cible Individuelle, +2 Taille) _  
+ * Perron du Roi de la Montagne*(Note : Adaptation d'un sort de la 3e édition publié dans le supplément *Le Grimoire du Mage*, p. 92.)* CrTe 30 (Base 3, +3 Portée Vue, +2 Durée Spéciale, Cible Individuelle, +2 Taille) _  
 Ce sort crée une volée de marches au flanc d'une montagne ou le long de toute autre surface de pierre escarpée (un mur, par exemple). Il est possible de monter ou de descendre cet escalier, mais chaque fois qu'on fait un pas, le degré qu'on vient de quitter disparaît, le terrain retournant à son état naturel. _  
 Gemma Ex Miscellaneis inventa ce sortilège pour se faciliter la vie durant ses expéditions d'étude minérale, après s'être blessée en redescendant d'une montagne. (NB: ce sort présente un défaut de conception en ce sens que l'escalier disparaît dans son entièreté une fois le pied posé sur une seule marche)  
  * Oblitération de la barrière métallique (*Obliteration of the Metallic Barrier*) Pe(Re)Te 20 
@@ -120,15 +116,14 @@ Gemma Ex Miscellaneis inventa ce sortilège pour se faciliter la vie durant ses 
 * *De Arte Magica Spontanea* : <u>*tractatus* Théorie de la Magie</u>, qualité 7  
 * *De Arte Magica Rituali* : <u>*tractatus* Théorie de la Magie</u>, qualité 7  
 * Notes endommagées de Carolus de Bonisagus : *tractatus* de Parma Magica (qualité 8) et de Théorie de la Magie (qualité 8). Peut en outre constituer le point de départ d'une Découverte Majeure (*Lancia Magica*)  
-* <u>*tractatus* Damianus</u>, cf. La Peste : contenant le sort infernal : convocation de la peste et son pendant creo corpus pour la guérison [[span style="background-color: yellow;"]]à spécifier par Raf[[/span]]  
+* <u>*tractatus* Damianus</u>, cf. La Peste : contenant le sort infernal : convocation de la peste et son pendant creo corpus pour la guérison [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Raf[span](/span.md)  
 * *Principia Hermetica: Compendium de Principiis Hermeticae Magia, vel de Formis et Potentiis Vis Occultae, ac de Invocatione, Abjuratione, Transmutatione, Conjuratione et Divinatione* de Bonisagus : <u>*tractatus* Théorie de la Magie</u>, qualité 10, conservé au Sanctum de *Scartaris*. L'ouvrage étant rédigé de façon assez obscure, son étude requière un jet simple d'Intelligence + Théorie de la Magie de difficulté 12.
 
 ### Arts
-
-[[div style="float:right; width: 435px;"]]  
+<div style="float:right; width: 435px;">
 ![|](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hastings_book_of_the_hours.jpg/435px-Hastings_book_of_the_hours.jpg)  
-[[size smaller]]Hastings *Book of Hours* from late 1470s. Source : [http://commons.wikimedia.org/wiki/Image:Hastings_book_of_the_hours.jpg Wikimedia Commons].[[/size]]  
-[[/div]]  
+<small>Hastings *Book of Hours* from late 1470s. Source : [Wikimedia Commons](http://commons.wikimedia.org/wiki/Image:Hastings_book_of_the_hours.jpg).</small>  
+</div>
 * *De membris* : <u>*tractatus* Creo</u>, qualité 9  
 * *De rerum ratione* : <u>*tractatus* Intellego</u>, qualité 11 (déjà étudié par Esperanza, Sigfeín et Manita)  
 * La tapisserie magique de *Bellaquin*, équivalent d'un <u>*tractatus* Intellego</u> de qualité 12 (déjà étudiée par Esperanza, Scintillus et Sigfeín)  
@@ -142,7 +137,7 @@ Gemma Ex Miscellaneis inventa ce sortilège pour se faciliter la vie durant ses 
 * *De Vulcani ira* : <u>*tractatus* Ignem</u>, qualité 9 (déjà étudié par Scintillus)  
 * *Propriis sensibus* : <u>*tractatus* Imaginem</u>, qualité 10  
 * *De anima* : <u>*tractatus* Mentem</u>, qualité 12 (déjà étudié par Esperanza et Sigfeín)  
-* [[span style="background-color: yellow;"]]à spécifier par Raf[[/span]], <u>*tractatus* Vim</u> qualité 10, issu de Consilia en sa dimension féerique.
+* [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Raf[span](/span.md), <u>*tractatus* Vim</u> qualité 10, issu de Consilia en sa dimension féerique.
 
 ## Textes de Laboratoire
 
@@ -194,7 +189,7 @@ Gemma Ex Miscellaneis inventa ce sortilège pour se faciliter la vie durant ses 
  * Sceau du Mage : la Cible disparaît dans un nuage de fumée spectrale (effet cosmétique gratuit) et, lorsque celle-ci se dissipe, on trouve sur le sol un petit tas de cendres...  
 * **Endurance du Berserker (*Endurance of the Berserkers*) ReCo 15 (brouillon, appris dans une *summa* Rego)**;  
  * Base 10, Portée Personnelle, Durée Concentration +1, Cible Individuelle.  
- * Sceau du Mage : [[span style="background-color: yellow;"]]à spécifier par Celarius...[[/span]]  
+ * Sceau du Mage : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Celarius...[span](/span.md)  
 * **Don de Vigueur (*The Gift of Vigor*) ReCo 25 (recopié, inventé)**;  
  * Base 15, Portée Voix +2, Durée Instantanée, Cible Individuelle.  
  * Similaire à *The Gift of Vigor* mais en Portée Voix.  
@@ -224,19 +219,18 @@ Gemma Ex Miscellaneis inventa ce sortilège pour se faciliter la vie durant ses 
  * Sceau du Mage : lorsque l'objet de la haine suscitée magiquement est une personne, la Cible a des fantasmes morbides concernant cette personne qu'elle s'imagine poignardée, baignant dans une mare de sang, étranglée, etc.  
 * **Bannissement éternel du démon (*Demon's Eternal Oblivion*) PeVi 10 (brouillon, inventé)**;  
  * Base 4, Durée Instantanée, Portée Voix +2, Cible Individuelle;  
- * Sceau du Mage : [[span style="background-color: yellow;"]]à spécifier par Celarius...[[/span]]
+ * Sceau du Mage : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Celarius...[span](/span.md)
 
 ### Dubinaro  
-[[div style="float:right; width: 323px;"]]  
+<div style="float:right; width: 323px;">
 ![|](http://expositions.bnf.fr/fouquet/grosplan/copiste/images/acc/image.jpg)  
-[[size smaller]]Giovanni Colonna, *Mare historiarum*, Angers (?), vers 1446-1450 pour la copie, vers 1447-1455 pour l'illustration. Source : [BnF](http://expositions.bnf.fr/fouquet/grosplan/copiste/index.htm), département des Manuscrits, Latin 4915, fol. 1 (suivez le lien pour avoir un commentaire de l'illustration).[[/size]]  
-[[/div]]
-
-* **Objet magique intitulé [[span style="background-color: yellow;"]]<u>à spécifier par Dubinaro...</u>[[/span]] Mu(Re)Aq(Au) 20 (brouillon, inventé)**;  
+<small>Giovanni Colonna, *Mare historiarum*, Angers (?), vers 1446-1450 pour la copie, vers 1447-1455 pour l'illustration. Source : [BnF](http://expositions.bnf.fr/fouquet/grosplan/copiste/index.htm), département des Manuscrits, Latin 4915, fol. 1 (suivez le lien pour avoir un commentaire de l'illustration).</small>  
+</div>
+* **Objet magique intitulé [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)<u>à spécifier par Dubinaro...</u>[span](/span.md) Mu(Re)Aq(Au) 20 (brouillon, inventé)**;  
  * Enchantement mineur d'une serpillère destiné à l'Alliance de *Sapientia Aetatum* permettant de supprimer l'urine et les odeurs associées;  
  * Effet : l'urine est transformée en un gaz qui s'éloigne immédiatement en hauteur le plus loin possible.  
  * Niveau Mu(Re)Aq(Au) 20 : Base 4, Portée Toucher +1, Durée Diamètre +1, Cible Individuelle, Requisite Rego +1, 24 utilisations par jour +5;  
- * Pour déclencher l'effet : [[span style="background-color: yellow;"]]à spécifier par Dubinaro...[[/span]]  
+ * Pour déclencher l'effet : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Dubinaro...[span](/span.md)  
  * Coût : 2 pions Aquam (soit Niveau / 10)  
  * Sceau du Mage : à l'expiration de l'effet, les goutte d'urine se dispersent de façon géométrique.  
 * **Conjuration de la foudre (*Incantation of Lightning*) CrAu 35 (brouillon, appris dans une *summa* Creo)**;  
@@ -249,7 +243,7 @@ Gemma Ex Miscellaneis inventa ce sortilège pour se faciliter la vie durant ses 
  * Effet : Permet au porteur d'enfermer une cible (voire lui-même) dans une caverne de pierre sans issue.  
  * Niveau : CrTe 30 (Base 3 , Taille +1, Flexibilité de la taille de la grotte +1, Portée Voix +2, Durée Concentration +1, Cible Individuelle, Maintien automatique de la Concentration +5, 24 utilisations par jour +5). L'objet ne durera que maximum 70 ans à dater de sa première utilisation (Printemps 1208 --> Hiver 1278).  
  * Coût : 3 pions Creo (soit Niveau / 10).  
- * Pour déclencher l'effet : [[span style="background-color: yellow;"]]à spécifier par Dubinaro...[[/span]]  
+ * Pour déclencher l'effet : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Dubinaro...[span](/span.md)  
  * Sceau du Mage : la grotte est parfaitement géométrique.
 
 ### Esperanza
@@ -279,7 +273,7 @@ Gemma Ex Miscellaneis inventa ce sortilège pour se faciliter la vie durant ses 
  * Base 15, Portée: Regard +1, Durée: Instantanée, Cible: Individuelle;  
  * You can ask one silent mental question of the target, then detect the answer. The truth of the answer is limited by the knowledge of the target. Questions to the effect of "What would you do if…?" often receive inaccurate replies. You are likely to get what the target thinks he would do, not necessarily what he would really do. The target of this spell does not notice the questioning unless he or she makes a Magic Resistance roll.  
  * Sceau du mage : un [Oeil Oudjat](http://fr.wikipedia.org/wiki/%C5%92il_Oudjat) apparaît fugitivement sur le front de la cible.  
-* **Le Voleur de Mémoire (*The Thief of Memory[[footnote]]Adaptation d'un sort de la 4ème édition publié dans le supplément *Sanctuary of Ice - The Geater Alps Tribunal*, Atlas Games, 2003, p. 49.[[/footnote]]*) PeMe 20 (recopié, inventé)**;  
+* **Le Voleur de Mémoire (*The Thief of Memory*(Note : Adaptation d'un sort de la 4ème édition publié dans le supplément *Sanctuary of Ice - The Geater Alps Tribunal*, Atlas Games, 2003, p. 49.)**) PeMe 20 (recopié, inventé)**;  
  * Base 15 - Remove a major or long memory from a person's mind, Portée Regard +1, Durée Instantanée, Cible Individuelle;  
  * This spell removes all memory of a single individual, location or event from a person's mind. The target will often be aware that they cannot remember the individual or event. For example, if made to forget being robbed, they will still know that their money is missing, and will be aware that they do not recall where it has gone. This spell was originally created to suppress the manifesting Gifts of untrained children or to remove their memories of home. The Quaesitores use it to tidy up after Hermetic criminals;  
  * Sceau du mage : la cible éprouve une démangeaison à l'arrière de son crâne (en référence à [l'excérébration](http://fr.wikipedia.org/wiki/Momification#L.27exc.C3.A9r.C3.A9bration), une des étapes de la momification dans l'Egypte antique).  
@@ -317,7 +311,7 @@ Gemma Ex Miscellaneis inventa ce sortilège pour se faciliter la vie durant ses 
 ### Hadaluna
 
 * **Endurance du Berserker (*Endurance of the Berserkers*) ReCo 15 (brouillon, appris dans une *summa* Rego)**;  
- * Sceau du Mage : [[span style="background-color: yellow;"]]à spécifier par Hadaluna...[[/span]]
+ * Sceau du Mage : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Hadaluna...[span](/span.md)
 
 ### Manita
 
@@ -331,25 +325,25 @@ Néant.
 * **Endurance sans fin (*Never ending Endurance*) ReCo 20 (brouillon, inventé)**;  
  * Base 10, Portée Personnelle, Durée Aube/Crépuscule +2, Cible Individuelle.  
  * Effets : similaire à *Endurance of the Berserkers* mais d'une durée Aube/Crépuscule.  
- * Sceau du Mage : [[span style="background-color: yellow;"]]à spécifier par Scintillus...[[/span]]  
+ * Sceau du Mage : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Scintillus...[span](/span.md)  
 * **Que la lumière soit! (*Fiat lux et lux facta est*) CrIg 15 (brouillon, inventé)**;  
  * Effets : similaire à *Lamp without flame* mais d'une durée Aube/Crépuscule.  
- * Sceau du Mage : [[span style="background-color: yellow;"]]à spécifier par Scintillus...[[/span]]  
+ * Sceau du Mage : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Scintillus...[span](/span.md)  
 * **Légendes des cendres (*Tales of the Ashes*) InIg 5 (brouillon, inventé)**;  
- * Sceau du Mage : [[span style="background-color: yellow;"]]à spécifier par Scintillus...[[/span]]  
+ * Sceau du Mage : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Scintillus...[span](/span.md)  
 * **Ombres des feux du passé (*Shadows of the Fires' Past*) InIg 15 (brouillon, inventé)**;  
- * Sceau du Mage : [[span style="background-color: yellow;"]]à spécifier par Scintillus...[[/span]]  
+ * Sceau du Mage : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Scintillus...[span](/span.md)  
 * **Objet magique intitulé <u>Soleil de minuit</u> CrIg 20 (brouillon, inventé)**;  
  * Enchantement mineur d'une pièce de cuivre percée en son centre. Permet de faire à passer à travers une lanière de cuir permettant de porter la pièce autour du cou sous la forme d'un médaillon.  
  * Effet : la pièce irradie une lumière semblable à celle émise par un jour nuageux. La lumière n'a pas de source apparente, mais illumine une zone de dix pas centrée autour de la pièce et qui se déplace avec celle-ci.  
- * Niveau CrIg 20 : Base 4, Cible Personnelle[[footnote]]En effet, pour un objet magique, la Cible Personnelle vise l'objet lui-même, cfr ArM5, p. 100, 1ère colonne, 2e bullet)[[/footnote]], Durée Concentration +1, Cible Individuelle, Nombre d'utilisations par jour Illimité +10[[footnote]]ArM5, p. 98[[/footnote]], Maintient automatiquement la Concentration +5[[footnote]]ArM5, p. 99[[/footnote]].  
+ * Niveau CrIg 20 : Base 4, Cible Personnelle*(Note : En effet, pour un objet magique, la Cible Personnelle vise l'objet lui-même, cfr ArM5, p. 100, 1ère colonne, 2e bullet))*, Durée Concentration +1, Cible Individuelle, Nombre d'utilisations par jour Illimité +10*(Note : ArM5, p. 98)*, Maintient automatiquement la Concentration +5*(Note : ArM5, p. 99)*.  
  * Coût : 2 pions Creo (soit Niveau / 10).  
  * Pour déclencher l'effet : prononcer "*Fiat lux, et lux fuit*".  
  * Pour mettre fin à l'effet : prononcer "*Nunc venit nox*" (maintenant vient la nuit).  
- * Sceau du Mage : [[span style="background-color: yellow;"]]à spécifier par Scintillus...[[/span]]  
+ * Sceau du Mage : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Scintillus...[span](/span.md)  
 * **Pluie du volcan CrIg 30 (recopié, inventé)**  
  * Base 10, Portée Voix + 2, Cible Groupe + 2  
- * Effets : [[span style="background-color: yellow;"]]à spécifier par Scintillus...[[/span]]
+ * Effets : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Scintillus...[span](/span.md)
 
 ### Sigfeín
 
@@ -371,7 +365,7 @@ Néant.
  * Enchantement mineur limité à 70 ans d'une baguette en bois.  
  * Effet : Inflige une blessure grave à un groupe à portée de voix.  
  * Niveau PeCo 38 : Base 15, Portée Voix +2, Durée Instantanée, Cible Groupe + 2, 6 utilisations par jour +3.  
- * Pour déclencher l'effet : [[span style="background-color: yellow;"]]à spécifier par Sigfeín...[[/span]]  
+ * Pour déclencher l'effet : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Sigfeín...[span](/span.md)  
  * Coût : 4 pions Corpus (soit Niveau / 10).  
  * Sceau du Mage : apparition fugace d'une branche frappant de fouet le groupe atteint.  
 * **Endurance du Berserker ReCo 15 (brouillon, inventé)**;  
@@ -399,7 +393,7 @@ Néant.
  * Sceau du mage : l'escalier paraît être en bois.  
 * **Don de l'Énigme (*The Enigma's Gift*) CrVi 30 (brouillon, inventé)**;  
  * Base 20, Portée Toucher +2, Durée Instantanée, Cible Individuelle.  
- * Inflige 4 points de Crépuscule à la cible [[span style="background-color: yellow;"]][bénéfice mineur à déterminer][[/span]].  
+ * Inflige 4 points de Crépuscule à la cible [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[bénéfice mineur à déterminer][span](/span.md).  
  * Sceau du Mage : un forêt de chênes touffus apparaît dans l'esprit de la cible.  
 * **Ouverture du talisman (CrVi) (brouillon, inventé)**  
  * Effet: ouverture du talisman à l'investissement à concurrence de 10 pions de vis Vim;  
@@ -425,7 +419,7 @@ Néant.
 * Un effet magique appelé ***Magic's Oblivion* PeVi 43 (brouillon, inventé)**;  
  * Enchantement mineur investi dans son Talisman, d'une durée limitée à 70 ans;  
  * Base 10, + 6 (50 utilisations par jour) + 27 (+ 54 de pénétration);  
- * Sceau du mage : [[span style="background-color: yellow;"]][à préciser][[/span]]  
+ * Sceau du mage : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[à préciser][span](/span.md)  
 * **Essence de la Prophétie ReVi 15 (brouillon, appris dans un *tractatus*)**;  
  * Base 10, Portée Toucher +1, Durée Instantanée, Cible Individuelle.  
  * Permet de recueillir "l'essence" de l'un des trois ingrédients mystiques du rituel nécessaire à l'accomplissement de la prophétie de Manlius.  
@@ -451,7 +445,7 @@ Néant.
 * **Malédiction de Circé (*Curse of Circe*) MuCo(An) 30** (ArM5 p. 131);  
  * Base 10, Portée Voix +2, Durée Aube/Crépuscule +2.  
 * **Séducteur malheureux des flammes ReIg 30**;  
- * [[span style="background-color: yellow;"]]à spécifier par Raf[[/span]];  
+ * [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à spécifier par Raf[span](/span.md);  
  * Base 3, Portée Voix +2, Durée Diamètre +1, Cible Groupe +2, Affecte des nouvelles cibles +1.  
 * **Aegis du Foyer (*Aegis of the Earth*) ReVi 30** (ArM5 p. 161).
 
@@ -497,6 +491,6 @@ Néant.
  * Base 2, Portée Voix +2, Durée Concentration +1, Cible Individuelle.  
  * Causes the target to stutter and slur words. Communication rolls at -3. Spoken spells are at -6 to the spellcasting roll, and there is an extra botch die. 
 
-[[footnoteblock title="Notes"]]
+[footnoteblock title="Notes"](footnoteblock%20title%3D%22Notes%22.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

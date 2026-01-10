@@ -11,6 +11,6 @@ Carte du Tribunal de Provence (cliquez pour agrandir) :
 
 
 Situation politique en 1209, à la veille de la Croisade :  
-(Source : [http://commons.wikimedia.org/wiki/File:Cartes_Occitanie.png Wikimedia Commons])
+(Source : [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Cartes_Occitanie.png))
 
 ![|](http://upload.wikimedia.org/wikipedia/commons/f/fa/Cartes_Occitanie.png)  

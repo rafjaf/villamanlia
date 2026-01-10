@@ -28,7 +28,7 @@
 ## Vertus  
 **Guerrier**(*Warrior*) +1 : Vous avez été entraîné à combattre; + 50 xp à la création à répartir dans les compétences martiales.  
 **Habitant d'une Alliance**(*Covenfolk*) 0 : Vous êtes membre du personnel d'une alliance; votre niveau de vie est déterminé par les ressources de l'alliance qui vous entretient.  
-**Immunité mineure à la peste[[footnote]]Vertu mineure accordée par Dame Aldona à l'Ete 1207.[[/footnote]]**(*Lesser Immunity*) +1 : Vous êtes immunisé contre la peste
+**Immunité mineure à la peste*(Note : Vertu mineure accordée par Dame Aldona à l'Ete 1207.)***(*Lesser Immunity*) +1 : Vous êtes immunisé contre la peste
 
 ## Vices  
 **Faiblesse: créatures magiques**(*Weakness: magical creatures*) -1 : Vous avez une faiblesse pour les créatures magiques. En leur présence, tout le reste est sans importance.
@@ -105,6 +105,6 @@ Charge Partielle 3
 **Encombrement** 2
 
 # Background  
-[[span style="background-color: yellow;"]][...][[/span]]
+[span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

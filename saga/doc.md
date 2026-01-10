@@ -1,7 +1,7 @@
 # Documents
 ## Extrait du Songe de Scipion
 
-*Extrait du grimoire trouvé dans le scénario [[/scenar/ennemi |L'Ennemi intérieur]]*
+*Extrait du grimoire trouvé dans le scénario [L'Ennemi intérieur](/scenar/ennemi.md)*
 
 
 > J’ai maintenant décidé de me retirer du monde et d’affronter la Terreur sans Nom qui tous nous guette. Toi aussi, lecteur, si tu tiens ce manuscrit entre tes mains et a donc pénétré dans cette antre condamnée, tu as dû La rencontrer. J’ai donné des instructions strictes à mes esclaves pour que je sois emmuré vivant, tel la plus impure des Vestales. Mais à la différence d’un condamné, j’affronterai ce sort d’une âme égale. Je suis âgé, bien plus âgé que la plupart de mes contemporains ne peuvent l’imaginer. La Magie de Mercure me maintient en vie, mais cette même Magie a donné à mon existence un goût amer. Si j’ai défait les hordes barbares qui ont déferlé sur mes terres et conquis celles de mes voisins, c’est au prix d’un sacrifice immense : j’ai libéré une Puissance ancienne, cruelle, insatiable, qui se repaît de nos peurs et de nos craintes. Cette Terreur sans Nom que j’ai lâchée sur mes assaillants, je l’ai vue se retourner ensuite contre mes proches, mes fidèles, et même mon âme. J’éprouve grand peine à la contrôle, et lorsque quelques fois à la nuit tombée je tremble à l’idée des hordes sanguinaires qui s’apprêtent à massacrer ma maisonnée, mon esprit délirant ne parvient plus comme autrefois à distinguer la menace réelle de la chimère. Je ne puis plus vivre dans cette perpétuelle épouvante. J’ai pris la décision d’emporter dans la tombe la Terreur sans Nom que j’ai conjurée. J’ai laissé à mes esclaves des instructions détaillées afin que soit accompli le charme ancien destiné à sceller l’accès à ces cavernes que j’ai fait murer. Elle restera à jamais enterrée avec moi, jusqu’à ce que du moins — à Jupiter ne plaise ! — un sage, ou un fou, n’abatte ce mur protecteur. Quant à moi, dès que j’aurai achevé ce récit, j’ai résolu d’affronter la terrible Menace. Heureusement, lecteur, je possède contre elle une arme retrouvée dans les écrits des Prêtres d’Apollon, et dont je reproduis, ci-après, la traduction afin qu’elle puisse encore servir si, par malheur, la Terreur sans Nom devait jamais s’échapper de cet endroit où je l’ai enterrée :  
@@ -367,7 +367,7 @@ Circulaire concernant le bassin de Saint Pons :
 
 
  
-(Source : C. DE VIC et J. VAISSETE, *[http:*books.google.com/books?id=RNw4AAAAIAAJ&pg=PA99&dq=Le+meurtre+de+ce+l%C3%A9gat+enflamma+le+z%C3%A8le+d%27Innocent&hl=fr#v=onepage&q=Le%20meurtre%20de%20ce%20l%C3%A9gat%20enflamma%20le%20z%C3%A8le%20d%27Innocent&f=false Histoire générale de Languedoc]//, t. V, Toulouse, Payat, 1862, p. 99 et s.)  
+(Source : C. DE VIC et J. VAISSETE, *[Histoire générale de Languedoc](http://books.google.com/books?id=RNw4AAAAIAAJ&pg=PA99&dq=Le+meurtre+de+ce+l%C3%A9gat+enflamma+le+z%C3%A8le+d%27Innocent&hl=fr#v=onepage&q=Le%20meurtre%20de%20ce%20l%C3%A9gat%20enflamma%20le%20z%C3%A8le%20d%27Innocent&f=false)//, t. V, Toulouse, Payat, 1862, p. 99 et s.)  
 
 
 ### Lettre du 17 novembre 1207 aux barons de France
@@ -404,7 +404,7 @@ Circulaire concernant le bassin de Saint Pons :
 >  
 > Donné au Latran, le six des Ides de Mars, l'an II de notre pontificat.  
  
-(Source : P. Guébin, H. Maisonneuve, *[http:*sourcesmedievales.unblog.fr/2008/11/23/bulle-dinnocent-iii-contre-les-assassins-de-pierre-de-castelnau-1208/#more-311 Histoire Albigeoise]//, nouvelle traduction de l'Historia Albigensis de Pierre des Vaux-de-Cernay, Librairie Philosophique J. Vrin, Paris, 1951, p. 25-32)  
+(Source : P. Guébin, H. Maisonneuve, *[Histoire Albigeoise](http://sourcesmedievales.unblog.fr/2008/11/23/bulle-dinnocent-iii-contre-les-assassins-de-pierre-de-castelnau-1208/#more-311)//, nouvelle traduction de l'Historia Albigensis de Pierre des Vaux-de-Cernay, Librairie Philosophique J. Vrin, Paris, 1951, p. 25-32)  
  
 
 ## Lettres à Celarius de Criamon
@@ -469,7 +469,7 @@ Circulaire concernant le bassin de Saint Pons :
 
 ### Lettres à Albison
 
-Les [propositions de Celarius](http://villamanlia.wikidot.com/forum/t-188117/ete-1208#post-610567) sont entérinées par le Conseil des Mages de Villa Manlia. Qu'il est bon d'être machiavélique!
+Les [propositions de Celarius](../alliance/forum.md/t-188117/ete-1208#post-610567) sont entérinées par le Conseil des Mages de Villa Manlia. Qu'il est bon d'être machiavélique!
 
 ## Lettre reçue à l'automne 1210
 

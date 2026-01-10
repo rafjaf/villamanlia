@@ -1,4 +1,4 @@
-[[div style="float: right; width: 424px;"]]  
+<div style="float: right; width: 424px;">
 ![|](http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Savonarola.jpg/424px-Savonarola.jpg)  
 Jérôme de Bonisagus. En réalité, portrait du prédicateur [Jérôme Savonarole](http://fr.wikipedia.org/wiki/Savonarole) par Fra Bartolomeo, dans sa cellule au couvent San Marco, 1498. Source : [Wikicommons](http://fr.wikipedia.org/wiki/Fichier:Savonarola.jpg) .
 Quelques mots sur Jérôme de Bonisagus, la Nemesis des personnages au cours de la première partie de la Saga de Villa Manlia.

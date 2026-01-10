@@ -1,11 +1,10 @@
-[[div]]  
-[[/div]]  
-[[tabview]]
+<div>
+</div>
+[tabview](tabview.md)
 
-[[tab title="Généralités"]]  
-[[div style="float:right; width: 550px; margin-top: -0.5cm;"]]
-
-[[/div]]  
+[tab title="Généralités"](tab%20title%3D%22G%C3%A9n%C3%A9ralit%C3%A9s%22.md)  
+<div style="float:right; width: 550px; margin-top: -0.5cm;">
+</div>
 # Identité  
 **Nom du personnage** Henri  
 **Nom de naissance** Henri  
@@ -34,8 +33,8 @@ Amical +1
 # Réputation  
 Aucune pour le moment
 
-[[/tab]]  
-[[tab title="Vices & Vertus"]]  
+[tab](/tab.md)  
+[tab title="Vices & Vertus"](tab%20title%3D%22Vices%20%26%20Vertus%22.md)  
 # Vertus  
 **Le Don**
 
@@ -48,8 +47,8 @@ Aucune pour le moment
 **Outcast** - 1
 
 
-[[/tab]]  
-[[tab title="Compétences"]]  
+[tab](/tab.md)  
+[tab title="Compétences"](tab%20title%3D%22Comp%C3%A9tences%22.md)  
 # Compétences générales  
 **Animal handling**(chevaux) 3  
 **Athlétisme** (grimper) 2  
@@ -83,8 +82,8 @@ Aucune pour le moment
 **Parma Magica**  
 **Théorie de la Magie** 3
 
-[[/tab]]  
-[[tab title="Magie"]]  
+[tab](/tab.md)  
+[tab title="Magie"](tab%20title%3D%22Magie%22.md)  
 # Arts  
 **Creo** 0  
 **Intellego** 0  
@@ -102,5 +101,5 @@ Aucune pour le moment
 **Terram** 0  
 **Vim** 0  
 # Sceau du mage  
-[[/tab]]  
-[[/tabview]]  
+[tab](/tab.md)  
+[tabview](/tabview.md)  

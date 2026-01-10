@@ -1,14 +1,12 @@
-[[div]]  
-[[/div]]  
-[[tabview]]
+<div>
+</div>
+[tabview](tabview.md)
 
-[[tab title="Généralités"]]
-
-[[div style="float: right; width: 556px; margin-top: -1cm;"]]  
+[tab title="Généralités"](tab%20title%3D%22G%C3%A9n%C3%A9ralit%C3%A9s%22.md)
+<div style="float: right; width: 556px; margin-top: -1cm;">
 ![|](http://upload.wikimedia.org/wikipedia/commons/5/56/Blason_Arvigna.jpg)  
-[[size smaller]]Blason de la commune d'Arvigna : *D'or à trois chevrons de sable, à une porte ouverte donjonnée de gueules brochante; à la filière de sinople*. Source : [Wikimedia Commons](http://upload.wikimedia.org/wikipedia/commons/5/56/Blason_Arvigna.jpg).[[/size]]  
-[[/div]]
-
+<small>Blason de la commune d'Arvigna : *D'or à trois chevrons de sable, à une porte ouverte donjonnée de gueules brochante; à la filière de sinople*. Source : [Wikimedia Commons](http://upload.wikimedia.org/wikipedia/commons/5/56/Blason_Arvigna.jpg).</small>  
+</div>
 # Identité  
 **Joueur** Michael  
 **Nom du personnage** Ambroise l'Eclair  
@@ -24,9 +22,9 @@
 **Crépuscule** 0  
 **Décrépitude** 0 (2)
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Caractéristiques"]]  
+[tab title="Caractéristiques"](tab%20title%3D%22Caract%C3%A9ristiques%22.md)  
 # Caractéristiques  
 **Int** 0  
 **Per** -1  
@@ -36,9 +34,9 @@
 **Com** -1  
 **Dex** +2 [1 pt de Décrépitude]  
 **Viv** +2 [1 pt de Décrépitude]  
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Vices & Vertus"]]  
+[tab title="Vices & Vertus"](tab%20title%3D%22Vices%20%26%20Vertus%22.md)  
 # Vertus  
 **Affinité avec armes à une main** +1  
 **Sang de géant** +3  
@@ -56,9 +54,9 @@
 **Téméraire** -1  
 **Susceptibilité à l'argent** -1
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Compétences"]]  
+[tab title="Compétences"](tab%20title%3D%22Comp%C3%A9tences%22.md)  
 # Compétences  
 **Langue d'oc** 5  
 **Connaissance de la région de Provence**  2  
@@ -87,15 +85,15 @@
 **Charge totale** 9/11  
 **Encombrement** 0/1
 
-[[/tab]]
+[tab](/tab.md)
 
-[[tab title="Background"]]  
+[tab title="Background"](tab%20title%3D%22Background%22.md)  
 # Description  
 # Historique  
 Ambroise était chevalier au service du seigneur du domaine d'Arvigna, situé au sud-est de Pamiers. Lors d'une chasse avec son seigneur, il a été attaqué et mordu par un loup. Malgré les soins du rebouteux du village, il est victime de phénomènes étranges (se réveille tout nu en plein milieu de la nuit dans la foret …). Il comprend assez vite ce qui lui arrive et pour éviter de finir sur le bucher, il décide de se rendre chez ces gens étranges dont il a entendu parler pour leur intervention à Vezay et dont il a également entendu parler à Aurillac quand il y est allé avec son seigneur.  
-[[/tab]]
+[tab](/tab.md)
 
 
-[[/tabview]]
+[tabview](/tabview.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

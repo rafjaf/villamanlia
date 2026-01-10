@@ -1,0 +1,1247 @@
+{
+  "runId": "20260110-142424",
+  "root": "/Users/rafjaf/gcf/Vault/Obsidian/Jeux de rôles/Villa Manlia",
+  "write": true,
+  "backup": true,
+  "backupRoot": "/Users/rafjaf/gcf/Vault/Obsidian/Jeux de rôles/Villa Manlia/.migration-backups/20260110-142424",
+  "totals": {
+    "filesScanned": 87,
+    "filesChanged": 58,
+    "filesWritten": 58
+  },
+  "perFile": [
+    {
+      "file": "MIGRATION_NOTES.md",
+      "changed": true,
+      "counts": {
+        "fix_http_star": 2,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "wikidot_footnote": 1,
+        "external_shorthand": 1,
+        "obsidian_embed": 3,
+        "obsidian_wikilink": 17
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "README.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "_coverpage.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "_navbar.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "alliance/alliance.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "alliance/biblio.md",
+      "changed": true,
+      "counts": {
+        "fix_http_star": 1,
+        "remove_toc": 1,
+        "wikidot_div_open": 4,
+        "wikidot_div_close": 4,
+        "wikidot_size_open": 3,
+        "wikidot_size_close": 3,
+        "wikidot_footnote": 7,
+        "external_shorthand": 2,
+        "obsidian_embed": 1,
+        "obsidian_wikilink": 52
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "alliance/forum.md",
+      "changed": true,
+      "counts": {
+        "wikidot_internal_link": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "alliance/plan.md",
+      "changed": false,
+      "counts": {
+        "wikidot_internal_link": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "alliance/regio.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "wikidot_footnote": 1,
+        "obsidian_wikilink": 2
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "alliance/ressource.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "wikidot_footnote": 1,
+        "obsidian_wikilink": 16,
+        "wikidot_internal_link": 3
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "alliance/tour-des-mages.md",
+      "changed": true,
+      "counts": {
+        "wikidot_internal_link": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "alliance/traite.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/ambroise.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 2,
+        "wikidot_div_close": 2,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "obsidian_wikilink": 13
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/aymeric.md",
+      "changed": true,
+      "counts": {
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "external_shorthand": 1,
+        "obsidian_wikilink": 17,
+        "wikidot_internal_link": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/bernard.md",
+      "changed": true,
+      "counts": {
+        "wikidot_footnote": 1,
+        "obsidian_wikilink": 3
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/celarius.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/chat.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "obsidian_wikilink": 2
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/didier.md",
+      "changed": true,
+      "counts": {
+        "obsidian_wikilink": 5
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/dubinaro.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 2,
+        "wikidot_div_close": 2,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "obsidian_wikilink": 14
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/esperanza.md",
+      "changed": true,
+      "counts": {
+        "external_shorthand": 1,
+        "wikidot_internal_link": 4
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/faustus.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/gauvin.md",
+      "changed": true,
+      "counts": {
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "external_shorthand": 1,
+        "obsidian_wikilink": 17,
+        "wikidot_internal_link": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/gobolino.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "wikidot_footnote": 1,
+        "obsidian_wikilink": 15
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/guerin.md",
+      "changed": true,
+      "counts": {
+        "obsidian_wikilink": 3
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/guillaume.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "wikidot_size_open": 2,
+        "wikidot_size_close": 2,
+        "external_shorthand": 1,
+        "obsidian_wikilink": 45,
+        "wikidot_internal_link": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/hadaluna.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 2,
+        "wikidot_div_close": 2,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "obsidian_wikilink": 71
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/henri.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 2,
+        "wikidot_div_close": 2,
+        "obsidian_wikilink": 10
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/hugues.md",
+      "changed": true,
+      "counts": {
+        "fix_http_star": 1,
+        "wikidot_div_open": 2,
+        "wikidot_div_close": 2,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "wikidot_footnote": 1,
+        "external_shorthand": 1,
+        "obsidian_wikilink": 21,
+        "wikidot_internal_link": 2
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/jean.md",
+      "changed": true,
+      "counts": {
+        "obsidian_wikilink": 3
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/jehan.md",
+      "changed": true,
+      "counts": {
+        "wikidot_footnote": 1,
+        "obsidian_wikilink": 4
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/jonas.md",
+      "changed": true,
+      "counts": {
+        "obsidian_wikilink": 3
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/manita.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 2,
+        "wikidot_div_close": 2,
+        "obsidian_wikilink": 15,
+        "wikidot_internal_link": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/marie.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 2,
+        "wikidot_div_close": 2,
+        "wikidot_size_open": 2,
+        "wikidot_size_close": 2,
+        "obsidian_embed": 2,
+        "obsidian_wikilink": 3
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/mathilde.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "obsidian_wikilink": 13
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/personnages.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/rigaud.md",
+      "changed": true,
+      "counts": {
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "external_shorthand": 1,
+        "obsidian_wikilink": 17,
+        "wikidot_internal_link": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/ronald.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "obsidian_wikilink": 13
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/scintillus.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/servants.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "obsidian_wikilink": 14
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/sigfein.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "personnages/tristan-alexis.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "wikidot_footnote": 1,
+        "obsidian_wikilink": 13
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "ressources/inductiveht.md",
+      "changed": true,
+      "counts": {
+        "fix_http_star": 2,
+        "remove_toc": 1,
+        "wikidot_div_open": 4,
+        "wikidot_div_close": 4,
+        "wikidot_size_open": 2,
+        "wikidot_size_close": 2,
+        "wikidot_footnote": 6,
+        "external_shorthand": 3,
+        "obsidian_wikilink": 7,
+        "wikidot_internal_link": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "ressources/jdrdroit.md",
+      "changed": true,
+      "counts": {
+        "remove_toc": 1,
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "wikidot_footnote": 9,
+        "obsidian_wikilink": 10
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "ressources/liens.md",
+      "changed": true,
+      "counts": {
+        "fix_http_star": 2,
+        "remove_toc": 1,
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "external_shorthand": 3,
+        "obsidian_wikilink": 8
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "ressources/ressources.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "ressources/roll.md",
+      "changed": true,
+      "counts": {
+        "wikidot_iframe_open": 2,
+        "obsidian_wikilink": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "ressources/rules.md",
+      "changed": true,
+      "counts": {
+        "wikidot_footnote": 8,
+        "external_shorthand": 1,
+        "wikidot_internal_link": 11
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/betisier.md",
+      "changed": true,
+      "counts": {
+        "external_shorthand": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/carte1209.md",
+      "changed": true,
+      "counts": {
+        "external_shorthand": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/carteeurope.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "obsidian_embed": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/carteregion.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "obsidian_wikilink": 2
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/chrono.md",
+      "changed": true,
+      "counts": {
+        "fix_http_star": 5,
+        "wikidot_div_open": 13,
+        "wikidot_div_close": 13,
+        "wikidot_size_open": 11,
+        "wikidot_size_close": 11,
+        "wikidot_footnote": 8,
+        "external_shorthand": 6,
+        "obsidian_embed": 2,
+        "obsidian_wikilink": 7,
+        "wikidot_internal_link": 13
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/chrono1210.md",
+      "changed": true,
+      "counts": {
+        "fix_http_star": 8,
+        "wikidot_div_open": 19,
+        "wikidot_div_close": 19,
+        "wikidot_size_open": 18,
+        "wikidot_size_close": 18,
+        "wikidot_html_open": 1,
+        "wikidot_html_close": 1,
+        "wikidot_footnote": 5,
+        "external_shorthand": 10,
+        "obsidian_embed": 1,
+        "obsidian_wikilink": 2,
+        "wikidot_internal_link": 37
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/chrono1220.md",
+      "changed": true,
+      "counts": {
+        "wikidot_footnote": 1,
+        "wikidot_internal_link": 38
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/chrono1230.md",
+      "changed": true,
+      "counts": {
+        "wikidot_internal_link": 42
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/chrono1240.md",
+      "changed": true,
+      "counts": {
+        "wikidot_internal_link": 24
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/chrono1250.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/doc.md",
+      "changed": true,
+      "counts": {
+        "fix_http_star": 2,
+        "external_shorthand": 2,
+        "obsidian_wikilink": 1,
+        "wikidot_internal_link": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/jerome.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/olivier.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/pnj.md",
+      "changed": true,
+      "counts": {
+        "wikidot_footnote": 1,
+        "obsidian_wikilink": 1,
+        "wikidot_internal_link": 15
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "saga/tribunal.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/chair.md",
+      "changed": true,
+      "counts": {
+        "fix_http_star": 2,
+        "remove_toc": 1,
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "external_shorthand": 2,
+        "obsidian_wikilink": 10,
+        "wikidot_internal_link": 5
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/chronologiealbison.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/delivrance.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/derniertrib.md",
+      "changed": true,
+      "counts": {
+        "fix_http_star": 5,
+        "wikidot_div_open": 6,
+        "wikidot_div_close": 6,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "wikidot_footnote": 1,
+        "external_shorthand": 5,
+        "obsidian_wikilink": 7,
+        "wikidot_internal_link": 10
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/dialectique.md",
+      "changed": true,
+      "counts": {
+        "remove_toc": 1,
+        "wikidot_div_open": 5,
+        "wikidot_div_close": 5,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "wikidot_footnote": 11,
+        "obsidian_wikilink": 10,
+        "wikidot_internal_link": 6
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/ennemi.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/fosse.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/foudedieu.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 2,
+        "wikidot_div_close": 2,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "wikidot_footnote": 2,
+        "obsidian_wikilink": 10,
+        "wikidot_internal_link": 3
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/larme.md",
+      "changed": true,
+      "counts": {
+        "remove_toc": 1,
+        "wikidot_div_open": 7,
+        "wikidot_div_close": 7,
+        "wikidot_size_open": 5,
+        "wikidot_size_close": 5,
+        "wikidot_html_open": 2,
+        "wikidot_html_close": 2,
+        "wikidot_footnote": 3,
+        "external_shorthand": 1,
+        "obsidian_wikilink": 10,
+        "wikidot_internal_link": 8
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/maledictiongemotte.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/maures.md",
+      "changed": true,
+      "counts": {
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "obsidian_wikilink": 7,
+        "wikidot_internal_link": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/mortlegat.md",
+      "changed": true,
+      "counts": {
+        "remove_toc": 1,
+        "wikidot_div_open": 6,
+        "wikidot_div_close": 6,
+        "wikidot_size_open": 3,
+        "wikidot_size_close": 3,
+        "external_shorthand": 1,
+        "obsidian_embed": 1,
+        "obsidian_wikilink": 10
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/nongratae.md",
+      "changed": true,
+      "counts": {
+        "fix_http_star": 4,
+        "wikidot_div_open": 1,
+        "wikidot_div_close": 1,
+        "external_shorthand": 4,
+        "obsidian_wikilink": 2,
+        "wikidot_internal_link": 5
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/pacta.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/piege.md",
+      "changed": true,
+      "counts": {
+        "obsidian_wikilink": 6
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/pnjalbison.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/presages.md",
+      "changed": true,
+      "counts": {
+        "remove_toc": 1,
+        "wikidot_div_open": 10,
+        "wikidot_div_close": 10,
+        "wikidot_size_open": 1,
+        "wikidot_size_close": 1,
+        "obsidian_wikilink": 1,
+        "wikidot_internal_link": 2
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/proces.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/prologue.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/reconciliation.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/rip.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/scenar.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/siegebellaquin.md",
+      "changed": true,
+      "counts": {
+        "wikidot_internal_link": 1
+      },
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/tiare.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    },
+    {
+      "file": "scenar/trahison.md",
+      "changed": false,
+      "counts": {},
+      "footer": {
+        "footerStripped": false,
+        "signatureAdded": null,
+        "removedBytes": 0
+      }
+    }
+  ],
+  "wikidot": {
+    "rewritten": {
+      "biblio": "alliance/biblio.md",
+      "celarius": "personnages/celarius.md",
+      "chair": "scenar/chair.md",
+      "chrono": "saga/chrono.md",
+      "delivrance": "scenar/delivrance.md",
+      "derniertrib": "scenar/derniertrib.md",
+      "dialectique": "scenar/dialectique.md",
+      "doc": "saga/doc.md",
+      "dubinaro": "personnages/dubinaro.md",
+      "forum": "alliance/forum.md",
+      "fosse": "scenar/fosse.md",
+      "foudedieu": "scenar/foudedieu.md",
+      "jdrdroit": "ressources/jdrdroit.md",
+      "larme": "scenar/larme.md",
+      "maures": "scenar/maures.md",
+      "mortlegat": "scenar/mortlegat.md",
+      "pacta": "scenar/pacta.md",
+      "pnj": "saga/pnj.md",
+      "pnjalbison": "scenar/pnjalbison.md",
+      "presages": "scenar/presages.md",
+      "proces": "scenar/proces.md",
+      "prologue": "scenar/prologue.md",
+      "reconciliation": "scenar/reconciliation.md",
+      "ressource": "alliance/ressource.md",
+      "scintillus": "personnages/scintillus.md",
+      "siegebellaquin": "scenar/siegebellaquin.md",
+      "sigfein": "personnages/sigfein.md",
+      "tiare": "scenar/tiare.md",
+      "trahison": "scenar/trahison.md"
+    },
+    "unresolved": [
+      "local--files"
+    ],
+    "ambiguous": {}
+  }
+}

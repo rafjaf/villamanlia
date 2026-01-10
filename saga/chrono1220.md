@@ -6,7 +6,7 @@
 
 Saison d'étude :
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : étudie un *tractatus* Mentem (12 xp, passant ainsi au niveau 16 +3, ainsi que 1 xp en Intellego et 1 xp en Perdo de par sa vertu *Secondary Insight*)  
 * Scintillus : Extrait de la Vis :  
  * Total de laboratoire : 3(Int) + 5(Théorie de la magie) + 15(Cr) + 7 (Vi) + 3(aura) = 33 => 4 pions de Vis Vim extrait  
@@ -17,7 +17,7 @@ Saison d'étude :
 
 Saison d'étude :
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : étudie *Le Songe de Scipion* (10 xp en Théorie de la Magie, passant ainsi au niveau 5)  
 * Scintillus : Prépare une potion de longévité pour Ambroise :  
  * Total de laboratoire : 3(Int) + 5(Théorie de la magie) + 15(Cr) + 9 (Co) + 3(aura) = 35 => Bonus de 7 aux jets de vieillissement  
@@ -28,7 +28,7 @@ Saison d'étude :
 
 Saison d'étude :
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : invente le sort *Words of the Unbroken Silence* CrMe 20  
  * effet : similaire au sort éponyme de niveau 10 (ArM5, p. 148) mais en durée Aube/Crépuscule;  
  * TL (CrMe) = 8 (Cr) + 19 (Me) + 3 (Int) + 6 (Th. Mag. spéc. Me) + 3 (Aura) + 1 (routine *Early Riser*) = 40 --> 20 niveaux sont accumulés, le sort est donc inventé;  
@@ -45,7 +45,7 @@ Saison d'étude :
 
 Saison d'étude :
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
  * jet de vieillissement (53 ans) :  
   * Total de Vieillissement = 6 (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + 6 (dé de tension sans désastre) = 6  
   * Résultat : âge apparent augmente  
@@ -75,7 +75,7 @@ Saison d'étude :
 
 Saison d'étude :
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : étudie une *summa* Muto (15 xp, passant ainsi au niveau 11, ainsi que 1 xp en Animal, 1 xp en Corpus, 1 xp en Herbam et 1 xp en Mentem de par sa vertu *Secondary Insight*)  
 * Scintillus :  extrait de la Vis (service à la collectivité) :  
  * Total de laboratoire : 3(Int) + 5(Théorie de la magie) + 15(Cr) + 7 (Vi) + 3(aura) = 33 => 4 pions de Vis Vim extrait  
@@ -86,7 +86,7 @@ Saison d'étude :
 
 Saison d'étude : 
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : apprend le sort *Curse of Circe* MuCo(An) 30 dans le grimoire de Lariandre  
  * TL (MuCo(An)) = 11 (Mu) + 7 (Co) + 3 (Int) + 5 (Th. Mag) + 3 (Aura) + 1 (routine *Early Riser*) = 30 --> le sort est appris;  
  * Sceau du Mage : la cible présente une marque en forme de croissant de lune;  
@@ -100,7 +100,7 @@ Saison d'étude :
 
 Saison d'étude : 
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : invente le sort <mark>[...]</mark> MuCo 15  
  * TL (MuCo) = 11 (Mu) + 7 (Co) + 3 (Int) + 5 (Th. Mag) + 3 (Aura) + 1 (routine *Early Riser*) = 30 --> 15 niveaux sont accumulés, le sort est donc inventé;  
  * Sceau du Mage : <mark>[...]</mark>;  
@@ -114,7 +114,7 @@ Saison d'étude :
 
 Saison d'étude : 
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
  * jet de vieillissement (54 ans) :  
   * Total de Vieillissement = 6 (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + 8 (dé de tension sans désastre) = 8  
   * Résultat : âge apparent augmente  
@@ -144,7 +144,7 @@ Saison d'étude :
 
 Saison d'étude : 
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : étudie une *summa* Rego (13 xp, passant ainsi au niveau 9, ainsi que 1 xp en Animal, 1 xp en Corpus, 1 xp en Herbam et 1 xp en Mentem de par sa vertu *Secondary Insight*)  
 * Scintillus : étudie la *summa* Vim =>12 xp en Vi => passe à 10  
 * Sigfeín : lit la *summa* Terram (13 xp)
@@ -153,7 +153,7 @@ Saison d'étude :
 
 Saison d'étude :
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : étudie une *summa* Rego (13 xp, passant ainsi au niveau 10, ainsi que 1 xp en Animal, 1 xp en Corpus, 1 xp en Herbam et 1 xp en Mentem de par sa vertu *Secondary Insight*)  
 * Scintillus : étudie la *summa* Perdo =>12 xp en Pe => passe à 11(11)  
 * Sigfeín : apprend le sort **Perron du Roi de la Montagne** (CrTe 30) dans la *summa* Terram  
@@ -164,7 +164,7 @@ Saison d'étude :
 
 Saison d'étude : 
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : invente le sort *The Sleeping Castle* ReMe 20  
  * effet : similaire au sort éponyme de niveau 20 (ArM5, p. 152) mais en portée Toucher +1 et en cible Structure +3;  
  * TL (ReMe) = 10 (Re) + 19 (Me) + 3 (Int) + 6 (Th. Mag. spé. Me) + 3 (Aura) + 1 (routine *Early Riser*) + 2 (bonus sort similaire) = 44 --> 20 niveaux sont accumulés, le sort est donc inventé;  
@@ -177,7 +177,7 @@ Saison d'étude :
 
 Saison d'étude :
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
  * jet de vieillissement (55 ans) :  
   * Total de Vieillissement = 6 (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + 5 (dé de tension sans désastre) = 5  
   * Résultat : âge apparent augmente  
@@ -224,7 +224,7 @@ Saison d'étude :
 ### Ete  
 
 Saison d'étude :  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : commence à inventer le sort *Peering into the Mortal Mind* InMe 30 [ArM5 p. 149]  
  * TL (InMe) = 11 (In) + 20 (Me) + 3 (Int) + 6 (Th. Mag. spéc. Me) + 3 (Aura) + 2 (routine *Nocturnal*) = 45 --> 15 niveaux sont accumulés;  
  * Sceau du Mage : un [Oeil Oudjat](http://fr.wikipedia.org/wiki/%C5%92il_Oudjat) apparaît fugitivement sur le front de la cible;  
@@ -245,7 +245,7 @@ Saison d'étude :
 
 Saison d'étude : 
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : continue à inventer le sort *Peering into the Mortal Mind* InMe 30 [ArM5 p. 149]  
  * TL (InMe) = 11 (In) + 20 (Me) + 3 (Int) + 6 (Th. Mag. spéc. Me) + 3 (Aura) + 2 (routine *Nocturnal*) = 45 --> 15 niveaux supplémentaires sont accumulés, le sort est donc inventé;  
  * Sceau du Mage : un [Oeil Oudjat](http://fr.wikipedia.org/wiki/%C5%92il_Oudjat) apparaît fugitivement sur le front de la cible;  
@@ -264,7 +264,7 @@ Saison d'étude :
 
 Saison d'étude :
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
  * jet de vieillissement (56 ans) :  
   * Total de Vieillissement = 6 (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + 8 (dé de tension sans désastre) = 7  
   * Résultat : âge apparent augmente  
@@ -296,7 +296,7 @@ Saison d'étude :
 ### Printemps  
 
 Saison d'étude :  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : commence à inventer le sort *Stir the Slumbering Tree* MuHe(Me) 25 [ArM5 p. 137] en expérimentant avec un modificateur de risque +3  
  * jet simple d'expérimentation : 3;  
  * jet de tension d'expérimentation : 4 -> 4 + 3 = 7 : No benefit;  
@@ -314,7 +314,7 @@ Saison d'étude :
 ### Ete  
 
 Saison d'étude :  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : continue à inventer le sort *Stir the Slumbering Tree* MuHe(Me) 25 [ArM5 p. 137] en expérimentant avec un modificateur de risque +3  
  * jet simple d'expérimentation : 1;  
  * jet de tension d'expérimentation : 7 -> 7 + 3 = 10 : Discovery;  
@@ -333,7 +333,7 @@ Saison d'étude :
 ### Automne  
 
 Saison d'étude :  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : continue à inventer le sort *Stir the Slumbering Tree* MuHe(Me) 25 [ArM5 p. 137]  
  * TL (MuHe(Me)) = 11 (Mu) + 9 (He) + 3 (Int) + 5 (Th. Mag.) + 3 (Aura) + 1 (routine *Early Riser*) = 32 --> 7 niveaux supplémentaires sont accumulés, soit 25 au total, le sort est donc inventé;  
  * Sceau du Mage : <mark>[...]</mark>;  
@@ -349,7 +349,7 @@ Saison d'étude :
 
 Saison d'étude :
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
  * jet de vieillissement (57 ans) :  
   * Total de Vieillissement = 6 (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + 2 (dé de tension sans désastre) = 1  
   * Résultat : pas de vieillissement  
@@ -379,7 +379,7 @@ Saison d'étude :
 ### Printemps  
 
 Saison d'étude :  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : commence à inventer le sort *Converse with Plant and Tree* InHe 25 [ArM5 p. 136] en expérimentant avec un modificateur de risque +3  
  * jet simple d'expérimentation : 10;  
  * jet de tension d'expérimentation : 14 -> 14 + 3 = 17 : Roll twice more;  
@@ -398,7 +398,7 @@ Saison d'étude :
 ### Ete  
 
 Saison d'étude :  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : recommence à inventer le sort *Converse with Plant and Tree* InHe 25 [ArM5 p. 136] en expérimentant avec un modificateur de risque +3  
  * jet simple d'expérimentation : 1;  
  * jet de tension d'expérimentation : 8 -> 8 + 3 = 11 : *Modified Effect* -> jet simple de *Modified Effect* : 2 -> 2 + 3 = 5 -> *The spell's range, duration, target, or potency is increased*;  
@@ -414,7 +414,7 @@ Saison d'étude :
 ### Automne  
 
 Saison d'étude :  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : continue à inventer le sort *Converse with Plant and Tree* InHe 25 [ArM5 p. 136]  
  * TL (InHe) = 11 (In) + 10 (He) + 3 (Int) + 6 (Th. Mag) + 3 (Aura) + 2 (routine *Nocturnal*) + 3 (routine *Overtime*) = 38 --> 13 niveaux supplémentaires sont accumulés, soit 25 au total, le sort est donc inventé;  
  * Sceau du Mage : <mark>[...]</mark>;  
@@ -429,7 +429,7 @@ Saison d'étude :
 
 Saison d'étude :
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
  * jet de vieillissement (58 ans) :  
   * Total de Vieillissement = 6 (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + 2 (dé de tension sans désastre) = 1  
   * Résultat : nihil  
@@ -463,7 +463,7 @@ Saison d'étude :
 
 ### Printemps  
 
-Scéance du 24 novembre 2013. Scénario *A Bad Knight's Work*[[footnote]]Scénario issu du supplément Ordo Nobilis de la 4ème édition d'Ars Magica, 2000, p. 152-162.[[/footnote]] conté par Nicolas auquel participent Faustus, Mathilde, Tristan-Alexis, Bernard et Jehan (6 xp).
+Scéance du 24 novembre 2013. Scénario *A Bad Knight's Work**(Note : Scénario issu du supplément Ordo Nobilis de la 4ème édition d'Ars Magica, 2000, p. 152-162.)* conté par Nicolas auquel participent Faustus, Mathilde, Tristan-Alexis, Bernard et Jehan (6 xp).
 
 Expérience acquise au cours de cette aventure :  
 * Bernard : 5 xp en Connaissance de la Normandie et 1 xp en Arme à une main  
@@ -474,7 +474,7 @@ Expérience acquise au cours de cette aventure :
 
 Saison d'étude pour les autres personnages : 
 
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : étudie une *summa* Rego (13 xp, passant ainsi au niveau 11, ainsi que 1 xp en Animal, 1 xp en Corpus, 1 xp en Imaginem et 1 xp en Mentem de par sa vertu *Secondary Insight*)  
 * Scintillus : Continue à inventer le sort *Wind of mundane silence* PeVi 25  
  * TL = 3 (Int) + 7 (Th. Magie + spécialité) + 3 (Aura) + 13 (Pe) + 10 (Vi) = 36 => 11 niveau de sort accumulés en plus des 14 déjà appris => sort inventé  
@@ -497,7 +497,7 @@ Expérience acquise au cours de cette aventure :
 * Sigfeín : 5 xp en Parma Magica et 5 xp en Enigme.
 
 Saison d'étude pour les autres personnages :  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Gobolino : <mark>[...]</mark>  
 * Tristan-Alexis : <mark>[...]</mark>
 
@@ -506,7 +506,7 @@ Saison d'étude pour les autres personnages :
 Saison d'étude :
 
 * Bernard : s'entraîne au tir à l'arc (4 xp en Arcs)  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : investigue en laboratoire les 3 sphères contenant un liquide vert ramenées de l'Alliance de Calebais  
  * TL (InVi) = 11 (In) + 7 (Vi) + 3 (Int) + 6 (Th. Mag.) + 3 (Aura) + 1 (routine *Early Riser*) = 31;  
  * 1er jet de tension d'investigation : 3 -> TL (InVi) = 34 -> Cette fiole contient le sort *Gift of the frog's legs*;  
@@ -550,7 +550,7 @@ Expérience acquise au cours de cette aventure :
 * Sigfeín : 5 xp en Droit hermétique et 3 xp en Ruse 
 
 Saison d'étude pour les autres personnages :  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
  * jet de vieillissement (59 ans) :  
   * Total de Vieillissement = 6 (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + 5 (dé de tension sans désastre) = 4  
   * Résultat : vieillissement apparent  
@@ -566,7 +566,7 @@ Villa Manlia fait l'acquisition d'une nouvelle maison à Toulouse (coût: 1.200 
 
 Saison d'étude :  
 * Bernard : s'entraîne au tir à l'arc (4 xp en Arcs)  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : étudie une *summa* Creo (12 xp, passant ainsi au niveau 9, ainsi que 1 xp en Animal, 1 xp en Corpus, 1 xp en Imaginem et 1 xp en Mentem)  
 * Esteban : <mark>[...]</mark>  
 * Faustus : lecture de la summa Perdo (12+3) passant ainsi au niveau 8  
@@ -580,7 +580,7 @@ Saison d'étude :
 
 Saison d'étude :  
 * Bernard : s'entraîne au tir à l'arc (4 xp en Arcs)  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : étudie une *summa* Creo (12 xp, passant ainsi au niveau 10, ainsi que 1 xp en Animal, 1 xp en Corpus, 1 xp en Imaginem et 1 xp en Mentem)  
 * Esteban : <mark>[...]</mark>  
 * Faustus : invente le sort Vie Évaporée Mu Aq Au 20  
@@ -605,7 +605,7 @@ Expérience acquise au cours de cette aventure :
 * Sigfeín : 5xp en Connaissance des gens et 2xp en Attention
 
 Saison d'étude pour les autres personnages :  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esteban : <mark>[...]</mark>  
 * Gobolino : <mark>[...]</mark>  
 * Tristan-Alexis : <mark>[...]</mark>
@@ -617,7 +617,7 @@ Saison d'étude:
  * jet de vieillissement (44 ans) :  
   * Total de Vieillissement = 8 (dé de tension sans désastre) + 5 (age/10) - 1 (Conditions de vie) = 12;  
   * Résultat : +1 point de Décrépitude en Force et +1 an d'age apparent (44 --> 45).  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
  * jet de vieillissement (60 ans) :  
   * Total de Vieillissement = 6 (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + 3 (dé de tension sans désastre) = 2  
   * Résultat : nihil  
@@ -655,7 +655,7 @@ Grand Tribunal (auquel ne participent cependant pas les personnages). Le prochai
 
 Saison d'étude:  
 * Bernard : met à profit ses talents d'archer sur des volatiles (4 xp en Chasse)  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Esperanza : invente le sort *The Wizard's Mount* Cr An 35 au départ d'une *summa* Creo  
  * TL (CrAn) = 10 (Cr) + 9 (An) + 3 (Int) + 6 (Th. Mag.) + 3 (Aura) + 1 (routine *Early Riser*) + 3 (routine *Overtime*) = 35 -> le sort est inventé;  
  * 2 xp d'exposition en Animal (passant ainsi au niveau 10)  
@@ -686,7 +686,7 @@ Séances du 21 décembre 2014, 24 janvier 2015 et 8 mars 2015. Scénario *Sur le
 * Sigfeín : 5 xp en Parma Magica et 5 xp en Théorie de la Magie
 
 Saison d'étude pour les autres personnages :  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Gobolino : <mark>[...]</mark>  
 * Tristan-Alexis : <mark>[...]</mark>  
 * Scintillus : raffine son laboratoire : 2 xp d'exposition en théorie de la magie
@@ -704,7 +704,7 @@ Suite de l'Ete 1228 (10 xp)
 * Scintillus : 5 xp en Parma et 5 xp en Vim  
 *  
 Saison d'étude pour les autres personnages :  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
 * Gobolino : <mark>[...]</mark>  
 * Tristan-Alexis : <mark>[...]</mark>
 
@@ -726,7 +726,7 @@ Saison d'étude pour les autres personnages (Esperanza, Sigfeín, Bernard et Jeh
  * jet de vieillissement (45 ans) :  
   * Total de Vieillissement = 0 (dé de tension sans désastre) + 5 (age/10) - 1 (Conditions de vie) = 4;  
   * Résultat : +1 an d'age apparent (45 --> 46).  
-* Celarius : voir [Les vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-3673492)  
+* Celarius : voir [Les vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-3673492)  
  * jet de vieillissement (61 ans) :  
   * Total de Vieillissement = 7 (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + 6 (dé de tension sans désastre) = 6  
   * Résultat : Celarius a l'air encore plus vieux que d'habitude (si c'est humainement concevable!)  
@@ -796,7 +796,7 @@ Au début du scénario, les personnages apprennent qu'Arcanus de Bonisagus a ét
 * Sigfeín : 5 xp en Athlétisme, passant ainsi au niveau 1, et 2 xp en Attention.
 
 Saison d'étude pour les autres personnages:  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esteban : <mark>[...]</mark>  
 * Gobolino : <mark>[...]</mark>  
 * Tristan-Alexis : <mark>[...]</mark>
@@ -806,7 +806,7 @@ Saison d'étude pour les autres personnages:
 Saison d'étude.
 
 * Bernard : s'entraîne au tir à l'arc (4 xp en Arcs)  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
 * Esperanza : invente le sort *Thoughts Within Babble* InMe 25 [ArM5 p. 149]  
  *  TL (InMe) = 3 (Int) + 7 (Th. Mag. spé. Me) + 12 (In) + 21 (Me) + 3 (Aura) + 1 (routine *Early Riser*) + 3 (routine *Overtime*) = 50 -> le sort est inventé;  
  * 2 xp d'exposition en Mentem, passant ainsi au niveau 19 +3.  
@@ -832,7 +832,7 @@ Saison d'étude.
  * jet de vieillissement (46 ans) :  
   * Total de Vieillissement = 8 (dé de tension sans désastre) + 5 (age/10) - 1 (Conditions de vie) = 12;  
   * Résultat : +1 an d'âge apparent (46 -> 47 ans) et 1 point de Vieillissement en Perception.  
-* Celarius : cf les [vacances de Celarius](http://villamanlia.wikidot.com/forum/t-1323778/les-vacances-de-celarius#post-4163016)  
+* Celarius : cf les [vacances de Celarius](../alliance/forum.md/t-1323778/les-vacances-de-celarius#post-4163016)  
  * jet de vieillissement (62 ans) :  
   * Total de Vieillissement = 7 (âge divisé par 10) - 2 (conditions de vie pour les Mages de Villa Manlia) - 5 (Rituel de Longévité) + <mark>[...]</mark> (dé de tension sans désastre) = <mark>[...]</mark>  
   * Résultat : <mark>[...]</mark>  

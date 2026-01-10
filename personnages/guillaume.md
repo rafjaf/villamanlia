@@ -1,12 +1,12 @@
-[[table class="wiki-content-table" style="width: 50%; padding: 0px;"]]  
-[[row style="height: 300px;"]]  
-[[cell style="border: 1px dashed #999; background-color: #f4f4f4; vertical-align: middle;"]]  
-[[table style="width: 100%; padding: 0px;"]]  
-[[row]]  
-[[cell style="border: 0px; width: 214px;"]]  
+[table class="wiki-content-table" style="width: 50%; padding: 0px;"](table%20class%3D%22wiki-content-table%22%20style%3D%22width%3A%2050%25%3B%20padding%3A%200px%3B%22.md)  
+[row style="height: 300px;"](row%20style%3D%22height%3A%20300px%3B%22.md)  
+[cell style="border: 1px dashed](cell%20style%3D%22border%3A%201px%20dashed.md#999; background-color: #f4f4f4; vertical-align: middle;")  
+[table style="width: 100%; padding: 0px;"](table%20style%3D%22width%3A%20100%25%3B%20padding%3A%200px%3B%22.md)  
+[row](row.md)  
+[cell style="border: 0px; width: 214px;"](cell%20style%3D%22border%3A%200px%3B%20width%3A%20214px%3B%22.md)  
 ![|](http://villamanlia.wikidot.com/local--files/sandbox/Mors.jpg)  
-[[/cell]]  
-[[cell style="border: 0px;"]]  
+[cell](/cell.md)  
+[cell style="border: 0px;"](cell%20style%3D%22border%3A%200px%3B%22.md)  
 ***Requiescat In Pace***
 
 **Ce personnage est décédé au printemps 1210, tombé sous les coups de l'armée croisée lors d'une sortie menée par Bellaquin contre ses assiégeants et piétiné à mort par les propres troupes de Bellaquin.**
@@ -15,19 +15,19 @@ La citation reprise en médaillon signifie:
 *La mort met sur le même pied le sceptre et la houe*  
 *La mort est la limite ultime des choses*
 
-[[size smaller]](Source : [http://commons.wikimedia.org/wiki/File:Mors_ultima_linea_rerum.jpg Wikimedia Commons], vers 1570)[[/size]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]  
-[[/cell]]  
-[[/row]]  
-[[/table]]
+<small>(Source : [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Mors_ultima_linea_rerum.jpg), vers 1570)</small>  
+[cell](/cell.md)  
+[row](/row.md)  
+[table](/table.md)  
+[cell](/cell.md)  
+[row](/row.md)  
+[table](/table.md)
 
 # Généralités - Identité  
-[[div style="float: right; width: 695px;"]]  
+<div style="float: right; width: 695px;">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100022&E=JPEG&Deb=57&Fin=57&Param=C)  
-[[size smaller]]Regardez bien en bas, au premier plan : l'homme à la hache, c'est Guillaume! Bataille entre Hébreux et Philistins, manuscrit du 15e siècle. Source : [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-3&M=imageseule), Français 3, fol. 140.[[/size]]  
-[[/div]]  
+<small>Regardez bien en bas, au premier plan : l'homme à la hache, c'est Guillaume! Bataille entre Hébreux et Philistins, manuscrit du 15e siècle. Source : [BnF](http://visualiseur.bnf.fr/CadresFenetre?O=COMP-3&M=imageseule), Français 3, fol. 140.</small>  
+</div>
 **Nom du personnage** Guillaume  
 **Sexe** Masculin  
 **Date de naissance** 1176  
@@ -56,26 +56,26 @@ La citation reprise en médaillon signifie:
 
 ## Vertus  
 **Covenfolk**(*Habitant d'une Alliance*) 0 : Vous êtes membre du personnel d'une alliance; votre niveau de vie est déterminé par les ressources de l'alliance qui vous entretient.  
-**Fureur du combat**(*Berserk*) +1 : [[span style="background-color: yellow;"]][...][[/span]]
+**Fureur du combat**(*Berserk*) +1 : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)
 
 ## Vices  
-**Sensible:moqueries**(*Oversensitive:mockeries*) -1 : [[span style="background-color: yellow;"]][...][[/span]]
+**Sensible:moqueries**(*Oversensitive:mockeries*) -1 : [span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)
 
 # Compétences  
 **Arme à deux mains**(*Great Weapon*) (hache à deux mains) 6 (31)  
-**Athlétisme**(*Athletics*) ([[span style="background-color: yellow;"]][...][[/span]]) 3 (4)  
-**Attention**(*Awareness*) ([[span style="background-color: yellow;"]][...][[/span]]) 4 (2)  
-**Bagarre**(*Brawl*) ([[span style="background-color: yellow;"]][...][[/span]]) 5 (2)  
-**Chirurgie**(*Chirurgy*) ([[span style="background-color: yellow;"]][...][[/span]]) 3  
-**Connaissance de la Féerie**(*Faerie Lore*) ([[span style="background-color: yellow;"]][...][[/span]]) 1 (5)  
-**Connaissance de la Magie**(*Magic Lore*) ([[span style="background-color: yellow;"]][...][[/span]]) 1  
+**Athlétisme**(*Athletics*) ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 3 (4)  
+**Attention**(*Awareness*) ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 4 (2)  
+**Bagarre**(*Brawl*) ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 5 (2)  
+**Chirurgie**(*Chirurgy*) ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 3  
+**Connaissance de la Féerie**(*Faerie Lore*) ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 1 (5)  
+**Connaissance de la Magie**(*Magic Lore*) ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 1  
 **Connaissance de la Provence**(*Provence Lore*) (tavernes) 2  
-**Équitation**(*Ride*) ([[span style="background-color: yellow;"]][...][[/span]]) 1  
-**Étiquette**(*Etiquette*) ([[span style="background-color: yellow;"]][...][[/span]]) 1  
-**Faire la fête**(*Carouse*) ([[span style="background-color: yellow;"]][...][[/span]]) 2 (2)  
-**Langue d'oc** ([[span style="background-color: yellow;"]][...][[/span]]) 5  
-**Natation**(*Swim*) ([[span style="background-color: yellow;"]][...][[/span]]) 1  
-**Survie**(*Survival*) ([[span style="background-color: yellow;"]][...][[/span]]) 3 (16)
+**Équitation**(*Ride*) ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 1  
+**Étiquette**(*Etiquette*) ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 1  
+**Faire la fête**(*Carouse*) ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 2 (2)  
+**Langue d'oc** ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 5  
+**Natation**(*Swim*) ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 1  
+**Survie**(*Survival*) ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)) 3 (16)
 
 # Armes
 
@@ -124,6 +124,6 @@ Force min: +1
 **Encombrement** 0
 
 # Background  
-[[span style="background-color: yellow;"]][...][[/span]]
+[span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)[...][span](/span.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

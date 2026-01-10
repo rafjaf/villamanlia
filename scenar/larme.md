@@ -1,44 +1,38 @@
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
-
-[[f>toc]]
-
+[>](%3E.md)  
+[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
+[>](/%3E.md)
 # Introduction  
 ## Contexte  
 Ce scénario ou, plutôt, cet ensemble de scénarios liés s’inscrit dans le cadre, encore plus vaste, de la Saga intitulée *La Prophétie de Manlius*, qui s’inspire librement du supplément de la 3e édition d’Ars Magica *A Midsummer Night’s Dream*.
 
-A ce stade de la Saga, des hordes de Croisés ont déferlé dans le Tribunal de Provence pour mettre à néant l’hérésie cathare et, au passage, les Mages hermétiques qui se trouveraient sur leur chemin. Les Mages de Villa Manlia ne doivent leur salut qu’à l’intervention du fantôme de Manlius, un puissant Mage pré-hermétique qui occupait les lieux bien avant la fondation de l’Alliance et qui, en échange du [Serment](http://villamanlia.wikidot.com/chrono#1209Au) prêté par les personnages de toujours défendre celle-ci, a su repousser provisoirement les forces assaillantes pour une durée de sept ans. Toutefois, afin d’assurer définitivement la survie de leur Alliance, les personnages doivent encore accomplir un rituel pour lesquels trois ingrédients mystiques sont requis :
-
-[[div class="citation"]]  
+A ce stade de la Saga, des hordes de Croisés ont déferlé dans le Tribunal de Provence pour mettre à néant l’hérésie cathare et, au passage, les Mages hermétiques qui se trouveraient sur leur chemin. Les Mages de Villa Manlia ne doivent leur salut qu’à l’intervention du fantôme de Manlius, un puissant Mage pré-hermétique qui occupait les lieux bien avant la fondation de l’Alliance et qui, en échange du [Serment](../saga/chrono.md) prêté par les personnages de toujours défendre celle-ci, a su repousser provisoirement les forces assaillantes pour une durée de sept ans. Toutefois, afin d’assurer définitivement la survie de leur Alliance, les personnages doivent encore accomplir un rituel pour lesquels trois ingrédients mystiques sont requis :
+<div class="citation">
 > D’un noble ami le sacrifice  
 > Pour ralentir l’armée du vice  
 > D’un preux souverain la dépouille  
 > Tombé sur le champ de bataille  
 > Et la larme d’un dieu antique  
 > Honoré d’un rite druidique  
-[[/div]]
+</div>
+Le premier ingrédient fut obtenu lors du [Siège de Bellaquin](./siegebellaquin.md), lorsque Tolomae de Jerbiton se sacrifia pour le bien des personnages et de son Alliance.
 
-Le premier ingrédient fut obtenu lors du [Siège de Bellaquin](http://villamanlia.wikidot.com/siegebellaquin), lorsque Tolomae de Jerbiton se sacrifia pour le bien des personnages et de son Alliance.
-
-Le second ingrédient fut recueilli sur le champ de la [Bataille de Muret](http://villamanlia.wikidot.com/tiare#toc12), lorsque le Roi Pierre d’Aragon tomba dans un combat épique avec l’armée des Croisés.
+Le second ingrédient fut recueilli sur le champ de la [Bataille de Muret](./tiare.md), lorsque le Roi Pierre d’Aragon tomba dans un combat épique avec l’armée des Croisés.
 
 Quant au troisième ingrédient, les personnages n’ont aucune idée de la manière de l’obtenir. Et cependant, le temps presse...
 
 ## Synopsis  
 La présente mini-Saga correspond approximativement aux chapitres 3 à 5 du supplément *A Midsummer Night’s Dream*. Je les ai cependant très fortement adaptés dans la mesure où je trouvais qu’ils manquaient d’envergure. La trame globale demeure cependant reconnaissable.
 
-L’acte I (La Colère de Cernunnos) correspond au chapitre 3 du supplément. Les personnages sont invités à assister à une cérémonie féérique par Sarimarcus de Merenita, un Mage qu’ils ont rencontré lors du [Dernier Tribunal](http://villamanlia.wikidot.com/derniertrib). Il concerne une cérémonie féérique interrompue et profanée par l’armée des Croisés en la personne de Van der Haegen, un mercenaire brabançon qui occupe le château d’Aurillac, non loin de l’Alliance des personnages. Celui-ci s’empare en outre du casque de Cernunnos, un artéfact utilisé dans le cadre de la cérémonie. La conséquence en est que toute la région tombe ainsi sous la malédiction du dieu Cernunnos qui décide de maudire les cultures en raison de l’outrage dont il a fait l’objet. Cette trame me semblant un peu courte pour en faire un scénario, je l’ai gardée pour la toute fin du scénario et ai inséré dans l’intervalle tout un épisode en rapport avec l’Alliance de Lariandre pour faire diversion.
+L’acte I (La Colère de Cernunnos) correspond au chapitre 3 du supplément. Les personnages sont invités à assister à une cérémonie féérique par Sarimarcus de Merenita, un Mage qu’ils ont rencontré lors du [Dernier Tribunal](./derniertrib.md). Il concerne une cérémonie féérique interrompue et profanée par l’armée des Croisés en la personne de Van der Haegen, un mercenaire brabançon qui occupe le château d’Aurillac, non loin de l’Alliance des personnages. Celui-ci s’empare en outre du casque de Cernunnos, un artéfact utilisé dans le cadre de la cérémonie. La conséquence en est que toute la région tombe ainsi sous la malédiction du dieu Cernunnos qui décide de maudire les cultures en raison de l’outrage dont il a fait l’objet. Cette trame me semblant un peu courte pour en faire un scénario, je l’ai gardée pour la toute fin du scénario et ai inséré dans l’intervalle tout un épisode en rapport avec l’Alliance de Lariandre pour faire diversion.
 
 L’acte II (Sur les traces de la Bête) correspond au chapitre 4 du supplément. Maudit par Cernunnos, Van der Haegen se transforme, lorsqu’il porte son casque, en un créature monstrueuse qui dévaste la région, tandis que celle-ci est frappée d’infertilité par le dieu outragé. Les personnages mènent l’enquête et tentent de trouver une solution à cette situation.
 
 L’acte III (Voyage en Arcadie) correspond enfin au chapitre 5 du supplément. Il est cependant beaucoup plus ambitieux puisqu’afin d’apaiser la colère du dieu antique, les personnages sont contraints de voyager jusqu’en Arcadie. Là, ils doivent notamment affronter un Mage de Diedne qui n’attendait que l’arrivée des personnages pour mettre en oeuvre sa vengeance contre l’Ordre qui a causé la perte de sa Maison...  
 # Acte I – La Colère de Cernunnos  
-[[div style="float: right; width: 640px"]]  
+<div style="float: right; width: 640px">
 ![|](http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Le_Pilier_des_Nautes_07.JPG/640px-Le_Pilier_des_Nautes_07.JPG)  
-[[size smaller]]Le dieu Cernunnos représenté sur le Pilier des Nautes (Ier siècle av. J.C.). Source : [Wikipedia](http://fr.wikipedia.org/wiki/Cernunnos).[[/size]]  
-[[/div]]
-
+<small>Le dieu Cernunnos représenté sur le Pilier des Nautes (Ier siècle av. J.C.). Source : [Wikipedia](http://fr.wikipedia.org/wiki/Cernunnos).</small>  
+</div>
 ## Thématique  
 Le scénario a pour thème la peur de l’autre, qui conduit à se défier de lui et lui imputer des intentions méchantes souvent inexistantes. Ainsi :  
 * les personnages se méfient de Sempronia qui leur conseille de lui laisser gérer l’affaire devant le Tribunal romain (bon okay, ils n’ont peut-être pas tout à fait tort!)  
@@ -48,13 +42,13 @@ Le scénario a pour thème la peur de l’autre, qui conduit à se défier de lu
 
 ## Prélude
 
-Lors de leur [dans le Tribunal romain](http://villamanlia.wikidot.com/tiare#toc8passage), les personnages se sont faits l’ennemi d’Antonio de Verdi, un Mage à la maison duquel ils n’ont pas hésité à mettre le feu (!) pour y récupérer des documents compromettants pour Sempronia de Guernicus, candidature au poste de consul à Magvillus. Evidemment, Antonio l’a mal pris, et a donc promis de traîner les personnages devant la justice hermétique.
+Lors de leur [dans le Tribunal romain](./tiare.md), les personnages se sont faits l’ennemi d’Antonio de Verdi, un Mage à la maison duquel ils n’ont pas hésité à mettre le feu (!) pour y récupérer des documents compromettants pour Sempronia de Guernicus, candidature au poste de consul à Magvillus. Evidemment, Antonio l’a mal pris, et a donc promis de traîner les personnages devant la justice hermétique.
 
-Donc, à l’hiver 1215, le Tribunal romain qui se manifeste. Les personnages reçoivent cependant deux messages contradictoires : d’une part, une [convocation officielle à comparaître devant le Tribunal romain](http://villamanlia.wikidot.com/doc#hi1215) pour répondre de leurs crimes; d’autre part, un message oral de Sempronia demandant aux personnages de ne pas venir et leur assurant que tout est sous contrôle. (Sempronia compte effectivement régler cette question, mais à sa façon. Elle ne souhaite pas, en effet, que cette affaire soit débattue devant le Tribunal romain et vienne parasiter son mandat de consul. C’est pourquoi elle s’arrange pour que l’affaire soit renvoyée au Tribunal de Provence : une victoire presque totale pour elle, mais pas nécessairement pour les personnages...)
+Donc, à l’hiver 1215, le Tribunal romain qui se manifeste. Les personnages reçoivent cependant deux messages contradictoires : d’une part, une [convocation officielle à comparaître devant le Tribunal romain](../saga/doc.md) pour répondre de leurs crimes; d’autre part, un message oral de Sempronia demandant aux personnages de ne pas venir et leur assurant que tout est sous contrôle. (Sempronia compte effectivement régler cette question, mais à sa façon. Elle ne souhaite pas, en effet, que cette affaire soit débattue devant le Tribunal romain et vienne parasiter son mandat de consul. C’est pourquoi elle s’arrange pour que l’affaire soit renvoyée au Tribunal de Provence : une victoire presque totale pour elle, mais pas nécessairement pour les personnages...)
 
 Par ailleurs, Sarimarcus adresse aux personnages un message les invitant, pour les remercier de leur hospitalité sein du Tribunal de Provence, à assister à une cérémonie devant se dérouler au village des Allémans, sur la route de Saverdun non loin de Villa Manlia.
 
-Néanmoins, histoire de pimenter le récit, l’intrigue est compliquée par le fait que juste auparavant, les personnages reçoivent également un message de la part des Tremere de Lariandre les mettant en garde précisément contre Sarimarcus[[footnote]]Pour plus de détails sur l’Alliance de Lariandre, voy. not. le précédent scénario [Le Jeu de la Trahison et du Hasard](http://villamanlia.wikidot.com/trahison). [[/footnote]]. Les Tremere l’accusent en effet  d’avoir violé l’hospitalité de Lariandre, de s’être emparé de leurs réserves de *vis* et d’avoir kidnappé la douce Magnolia de Magnolia. Bien sûr, ils se trompent. Mais alors, qui est responsable ?...
+Néanmoins, histoire de pimenter le récit, l’intrigue est compliquée par le fait que juste auparavant, les personnages reçoivent également un message de la part des Tremere de Lariandre les mettant en garde précisément contre Sarimarcus*(Note : Pour plus de détails sur l’Alliance de Lariandre, voy. not. le précédent scénario [Le Jeu de la Trahison et du Hasard](./trahison.md).)*. Les Tremere l’accusent en effet  d’avoir violé l’hospitalité de Lariandre, de s’être emparé de leurs réserves de *vis* et d’avoir kidnappé la douce Magnolia de Magnolia. Bien sûr, ils se trompent. Mais alors, qui est responsable ?...
 
 ## La vérité sur Lariandre
 
@@ -71,12 +65,10 @@ En effet, dans l’intervalle, les Tremere s’étaient aperçus de la dispariti
 Certes, les personnages ont sans doute des raisons de soupçonner Sarimarcus. Les Tremere ne savent pas exactement où il est allé, mais celui-ci au contraire a informé les personnage qu’il résidait tout près de chez eux, au village des Allémans. Est-ce là l’attitude d’un coupable ? Si on interroge les Tremere, on se rendra vite compte que leurs preuves contre Sarimarcus sont assez maigres. Ils ont interrogé Roger, mais l’ont tellement engueulé qu’ils n’ont pas pris la peine de l’écouter. Pourtant, en le faisant parler, on peut apprendre que la disparition de *vis* a eu lieu deux jours après le départ de Sarimarcus (dont les Tremere ne s’étaient même pas aperçus). On peut apprendre aussi que la pauvre Guillemette est toute désemparée depuis la disparition de sa maîtresse, et qu’elle n’arrête pas d’éclater en sanglot : pas de tristesse, mais de culpabilité! L’un des Servants pourra même se rappeler que Magnolia était partie dans la forêt avec Guillemette, même si  personne ne se rappelle avec certitude quand cela s’est passé.
 
 Si les personnages vont à la rencontre de Sarimarcus, il les accueillera chaleureusement. Il sera fort inquiet si on lui indique la disparition de Magnolia, proposant même d’accompagner les personnages pour la retrouver (il se sent personnellement responsable). En revanche, si on l’accuse de vol, il répondra très froidement que c’est mal le connaître, surtout après ce qu’il a fait pour Lariandre (il leur a en effet enseigné un chant pour calmer la colère du géant, « détail » que les Tremere ont évidemment oublié de mentionner).
-
-[[div style="float: right; width: 512px"]]  
+<div style="float: right; width: 512px">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100107&E=JPEG&Deb=72&Fin=72&Param=C)  
-[[size smaller]]Magnolia se lamentant sur sa solitude de Reine, s'apprêtant à transmettre son fardeau à Esperanza. Source : Français 102, fol. 119, Iseut se lamentant (vers 1470), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100107&E=72&I=20648&M=imageseule).[[/size]]  
-[[/div]]
-
+<small>Magnolia se lamentant sur sa solitude de Reine, s'apprêtant à transmettre son fardeau à Esperanza. Source : Français 102, fol. 119, Iseut se lamentant (vers 1470), [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100107&E=72&I=20648&M=imageseule).</small>  
+</div>
 ## Sur les traces de la Reine
 
 Pour apprendre l’existence de la Reine de Sadrissel, il y a deux indices, le premier pouvant être obtenu de Sarimarcus et le second du Roi Aldarin, ou inversement :  
@@ -106,7 +98,7 @@ Notons que quant Magnolia regagne Sadrissel, elle vieillit d’une centaine d’
 Désormais, plus rien n’empêche les personnages d’assister à la cérémonie à laquelle Sarimarcus les a invités. Celle-ci se déroule au somme d’une colline, au cœur d’un cercle de monolithes. Des paysans venus de toute la région sont venus pour honorer Cerunnos. Même les sorcières de Vezay sont là. Tous les participants avalent une substance bizarre (des champignons) et partent en transe, les esprits sortent du corps. Glisser que le dieu est sensible aux mélodies. Des visions fantastiques leur apparaissent. Au milieu du cercle, le casque de Cerunnos, qui prend forme. Mais la rêverie est gâchée par l’arrivée des Croisés, qui taillent en pièce et boutent le feu. Sarimarcus est tué. Il quasi impossible de reconnaître Van der Hagen dans la mêlée. Jets de concentration très durs pour regagner son corps. C’est le massacre… Finalement, Van der Haegen s’empare du casque de Cernunnos et disparaît dans la nuit.
 
 # Acte II – Sur les traces de la Bête  
-Printemps 1216. Depuis la profanation du rituel de Cerunnos, la terre est stérile, le printemps ne revient pas. Une bête sinistre fait son apparition dans la région. C’est le point du départ d’un scénario intercalaire, [La Chair de ma Chair](http://villamanlia.wikidot.com/chair).
+Printemps 1216. Depuis la profanation du rituel de Cerunnos, la terre est stérile, le printemps ne revient pas. Une bête sinistre fait son apparition dans la région. C’est le point du départ d’un scénario intercalaire, [La Chair de ma Chair](./chair.md).
 
 Eté 1216 : le mystère de la « bête » a été élucidée, et pourtant les témoignages de la présence de la présence d’un monstre dans la région n’ont pas cessé, que du contraire. En outre, la terre est toujours aussi stérile et la forêt envahit l’Alliance, la situation devient critique. Il faut se débarrasser de van de Hagen et récupérer le casque de Cernunnos, ce qui est une aventure en soi. 
 
@@ -117,28 +109,25 @@ Mais abattre van der Haegen ne suffit pas à apaiser la colère de Cernunnos. L�
 # Acte III – Voyage en Arcadie
 
 Cette partie du scénario s’inspire librement de la trame de *Flûte enchantée* de Mozart.
+<div style="float: right; width: 560px">
 
-[[div style="float: right; width: 560px"]]  
-[[html]]  
 <iframe width="560" height="315" src="//www.youtube.com/embed/ov1hRqPnm58?rel=0" frameborder="0" allowfullscreen></iframe>  
-[[/html]]  
-[[size smaller]]La Reine de la Nuit (incarnée par Diana Damrau), suppliant Sigfein de sauver sa fille Prométhéa.[[/size]]  
-[[/div]]  
+
+<small>La Reine de la Nuit (incarnée par Diana Damrau), suppliant Sigfein de sauver sa fille Prométhéa.</small>  
+</div>
 ## Dans les airs  
 Les personnages marchent sur des nuages. Sigfein a de magnifiques ailes qui lui ont poussé dans le dos. Mais, soudain, les nuages s’écartent, et les personnages, prenant conscience du vide sous leur pied, tombent à vive allure ! Dans leur chute, ils croisent des êtres féériques qui s’étonnent qu’ils ne volent pas; et, en effet, il suffit de vouloir voler pour le pouvoir ! Mais soudain les êtres féériques se dispersent, car une nuée de harpies surgit, prêtes à déchiqueter de leurs serres les personnages. Et, pour corser le tout, surgit même un gigantesque serpent ailé qui risque bien de leur régler leur compte. Mais alors, trois Dames, portées par les nuées et maniant la foudre, viennent au secours des personnages. Elles les conduisent jusqu’au Palais des Glaces où séjourne la Reine de la Nuit. Celle-ci montre à Sigfein un miroir dans lequel apparaît le visage de sa fille, Prométhéa, sur lequel coule une larme. (Prométhéa apparaît par la suite régulièrement aux personnages dans les miroirs, lacs, etc.). La Reine de la Nuit, pleine d’amour pour sa fille, demande à Sigfein de la délivrer des mains du cruel Sarastro, le Roi de la Cour de Lumière. Sigfein tombe immédiatement amoureux de Prométhéa et accepte. La Reine de la Nuit lui remet également un pendentif en forme de rossignol qui le guidera sur sa route.
 
 ## Sur le chemin de la Cour de Lumière  
 Il suffit de se diriger toujours vers l’été et le soleil. Ici aussi, la malédiction de Cernunnos se manifeste, en ce sens que le soleil frappe sans pitié, la végétation se dessèche : ce n’est pas l’hiver mais l’éternel été, et le palais de Sarastro se trouve dans un vrai désert Sur le chemin, diverses rencontres, telles qu’une horde de satyres et un ours peureux pourchassé par un poisson.
 
-Les personnages finissent par rencontrer le long d’un ruisseau un sciapode. Les sciapodes sont un peuple mythique dont on était persuadé qu’ils occupaient de lointaines contrées telles que l’Inde ou, pourquoi pas, l’Arcadie[[footnote]]Voy. à ce propos R. Wittkower, « Marvels of the East. A Study in the History of Monsters », *Journal of the Warburg and Courtould Institutes*, 1942, vol. 5, p. 159 et s., spéc. p. 160, avec les références aux textes grecs et romains qui seront cités jusqu’au Moyen Age.[[/footnote]]. Les sciapodes ressemblent à des hommes dotés d’une seule jambe et d’un très grand pied, dont ils se servent comme parasol. En l’occurrence, le sciapode est en train de se rafraîchir à un maigre ruisseau, tandis qu’une manticore, tapie dans l’ombre, s’apprête à bondir sur sa proie. Les personnages viennent probablement à son aide.
+Les personnages finissent par rencontrer le long d’un ruisseau un sciapode. Les sciapodes sont un peuple mythique dont on était persuadé qu’ils occupaient de lointaines contrées telles que l’Inde ou, pourquoi pas, l’Arcadie*(Note : Voy. à ce propos R. Wittkower, « Marvels of the East. A Study in the History of Monsters », *Journal of the Warburg and Courtould Institutes*, 1942, vol. 5, p. 159 et s., spéc. p. 160, avec les références aux textes grecs et romains qui seront cités jusqu’au Moyen Age.)*. Les sciapodes ressemblent à des hommes dotés d’une seule jambe et d’un très grand pied, dont ils se servent comme parasol. En l’occurrence, le sciapode est en train de se rafraîchir à un maigre ruisseau, tandis qu’une manticore, tapie dans l’ombre, s’apprête à bondir sur sa proie. Les personnages viennent probablement à son aide.
 
 ## La vengeance de Diedne
-
-[[div style="float: right; width: 268px"]]  
+<div style="float: right; width: 268px">
 ![|](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nuremberg_chronicles_-_Strange_People_-_Umbrella_Foot_%28XIIr%29.jpg/268px-Nuremberg_chronicles_-_Strange_People_-_Umbrella_Foot_%28XIIr%29.jpg)  
-[[size smaller]]Sciapode, issu des *Chroniques de Nuremberg* (1493). Source : [http://en.wikipedia.org/wiki/Monopod_(creature) Wikepedia].[[/size]]  
-[[/div]]
-
+<small>Sciapode, issu des *Chroniques de Nuremberg* (1493). Source : [Wikepedia](http://en.wikipedia.org/wiki/Monopod_(creature)).</small>  
+</div>
 ### Le plan de Kadwallen
 
 Les personnages sont recueillis par le peuple des sciapodes. Ils sont amenés devant le grand chef, allongé sous un trône en forme de pied inversé. Lorsque celui-ci apprend qu’ils sont des Mages de l’Ordre d’Hermès, il obéit aux instructions qu’il a reçues et les drogue.
@@ -164,14 +153,12 @@ Elle va amener les PJ à une fausse grotte d’Euridice (sans le leur dire, mais
 * si elle est incapacitée, arc de rubans flamboyants conditionnels se déclenchent
 
 De son côté, Kadwallen connaît grâce à la Magie du Sang un sort pour envoyer les descendants de Tremere dans le Crépuscule...
+<div style="float: right; width: 560px">
 
-[[div style="float: right; width: 560px"]]  
-[[html]]  
 <iframe width="560" height="315" src="//www.youtube.com/embed/UXOYcd6KZ0E?rel=0" frameborder="0" allowfullscreen></iframe>  
-[[/html]]  
-[[size smaller]]La Reine de la Nuit (incarnée par Diana Damrau), ordonnant à sa fille de tuer Sarastro.[[/size]]  
-[[/div]]
 
+<small>La Reine de la Nuit (incarnée par Diana Damrau), ordonnant à sa fille de tuer Sarastro.</small>  
+</div>
 ## A la Cour de Lumière
 
 Les personnages arrivent enfin, en plein désert, au somptueux palais de Sarastro, le Roi de la Cour de Lumière. Toutefois, rendre le casque à Cernunnos ne suffit pas à apaiser sa colère.
@@ -179,21 +166,18 @@ Les personnages arrivent enfin, en plein désert, au somptueux palais de Sarastr
 Sigfein a promis de délivrer Prométhéa, enfermée chaque nuit en haut d’une tour d’une hauteur inimaginable, et protégée par un dragon. Chaque nuit, le Palais se vide, car tout le monde part habiter dans la tour. Celle-ci se prolonge au-delà des nuages, le dragon niche sur une plate-forme, cachée à la vue par la brume. Pour y grimper, Monostatos, un agent de la Reine de la Nuit secrètement amoureux de Prométhéa, montre aux personnages un passage secret menant au sommet de la tour. Ils rencontrent sur le chemin plusieurs épreuves, qu’ils doivent déjouer sans faire trop de bruit pour ne pas réveiller les occupants de la tour :  
 1) une armure en morceau qui prend vie quand ils entrent dans la pièce, et qui se recompose toujours quand on la détruit (il s’agit donc plutôt d’une course de vitesse) ;  
 2) une pièce dont la moitié du sol a disparu, au centre de laquelle se trouve un basilic au regard pétrificateur – il faut donc la traverser en gardant les yeux fermés ;  
-3) un labyrinthe, avec à chaque fois quatre escaliers au-dessus desquels sont gravés quatre symboles. Le bon chemin est à chaque fois indiqué par le symbole le plus aérien. Exemple : le lion, le taureau, l’homme et l’aigle (c’est l’aigle évidemment; allusion aux quatre évangélistes, mais dont les êtres féériques n’ont pas compris la dimension allégorique); le printemps, l’été, l’automne, l’hiver (c’est le printemps qui est le plus léger); l’eau, l’air, le feu, la terre (dans la physique aristotélicienne, c’est le feu le plus léger[[footnote]]Voy. à ce propos E. Grant, *The Foundations of Modern Science in the Middle Ages*, Cambridge, Cambridge University Press, 1996, p. 57.[[/footnote]]) ; etc.
+3) un labyrinthe, avec à chaque fois quatre escaliers au-dessus desquels sont gravés quatre symboles. Le bon chemin est à chaque fois indiqué par le symbole le plus aérien. Exemple : le lion, le taureau, l’homme et l’aigle (c’est l’aigle évidemment; allusion aux quatre évangélistes, mais dont les êtres féériques n’ont pas compris la dimension allégorique); le printemps, l’été, l’automne, l’hiver (c’est le printemps qui est le plus léger); l’eau, l’air, le feu, la terre (dans la physique aristotélicienne, c’est le feu le plus léger*(Note : Voy. à ce propos E. Grant, *The Foundations of Modern Science in the Middle Ages*, Cambridge, Cambridge University Press, 1996, p. 57.)*) ; etc.
 
 Les personnages arrivent ainsi au sommet de la tour dans la chambre de Prométhéa. La Reine de la Nuit apparaît dans un miroir pour ordonner à sa fille et à Sigfein d’user du poignard contre Sarastro qui dort dans la chambre d’à côté. Mais alors, quand il refuse, la Reine hurle, le miroir se brise, le bruit alerte toute la Cour et les personnages sont faits prisonniers. Mais Prométhéa, tombée amoureuse de Sigfein, se met à chanter d’une voix pure pour implorer la clémence du Roi Sarastro; et celui-ci prend pitié, de même que toute la Cour, et une larme coule enfin sur la joue de Cernunnos, mettant fin à la malédiction qui pesait sur le Tribunal de Provence, et constituant à la fois le dernier ingrédient de la Prophétie de Manlius.
-
-
-[[div]]
-
-[[/div]]  
-[[>]]  
+<div>
+</div>
+[>](%3E.md)  
 Rafaël Jafferali  
-[[/>]]
+[>](/%3E.md)
 
-[[footnoteblock title="Notes"]]  
-[[>]]  
-[[button print style="background-image: url(http://www.wikidot.com/local--files/files/document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color: #444"]]  
-[[/>]]
+[footnoteblock title="Notes"](footnoteblock%20title%3D%22Notes%22.md)  
+[>](%3E.md)  
+[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
+[>](/%3E.md)
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  

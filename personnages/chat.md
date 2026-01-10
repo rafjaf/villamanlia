@@ -1,14 +1,13 @@
 # Généralités - Identité  
-[[div style="float: right; width: 613px;"]]  
+<div style="float: right; width: 613px;">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-08100969&E=JPEG&Deb=28&Fin=28&Param=C)  
-[[size smaller]]Bestiaire du XIIIe siècle. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=08100969&E=28&I=65955&M=imageseule), Latin 6838 B, fol. 18.[[/size]]  
-[[/div]]
-
+<small>Bestiaire du XIIIe siècle. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=08100969&E=28&I=65955&M=imageseule), Latin 6838 B, fol. 18.</small>  
+</div>
 **Nom du personnage** Filou le Chat  
 **Sexe** Masculin  
 **Date de naissance** 1198  
 **Age** 3  
-**Titre/Profession** Chat magique (compagnon de [[dubinaro]])  
+**Titre/Profession** Chat magique (compagnon de [dubinaro](dubinaro.md))  
 **Force Magique** 13  
 **Taille** -3  
 **Confiance** 1  
@@ -66,4 +65,4 @@ Tout petit, il avait l'habitude de jouer des tours aux habitants de l'Alliance d
 
 Beaucoup supposent que cette aptitude magique se serait développée après sa naissance, et aurait été acquise après qu'il ait bu de l'eau magique du lac entourant le château de Mare Immobile, mais il n'a jamais voulu le confirmer (même seulement d'avoir bu de l'eau). Il n'apprécie pas que sa capacité magique puisse provenir d'un fait extérieur, plutôt que de lui-même...
 
-[[module Comments]]  
+[module Comments](module%20Comments.md)  
