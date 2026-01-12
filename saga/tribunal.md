@@ -1,12 +1,8 @@
 # Hiver 1214
-
 Ce Tribunal a été ajourné *sine die* par décision du Praeco (lien manquant), confirmant ainsi la funeste [prédiction](../scenar/derniertrib.md) d'Erat Caecus.
 
 Cette situation ô combien regrettable précipite le Tribunal dans une situation de non-droit et permet ainsi commodément à certains, au premier chef desquels Jérôme de Bonisagus bien entendu, de poursuivre leurs noirs desseins à l'abri de la légalité hermétique.
-
-
 # Hiver 1219
-
 Ce Tribunal a été convoqué à la demande d'un groupe de Mages emmené par Priscilla de Jerbiton à la suite de la suspension des séances décidée par le *Praeco* Oxioun du fait des troubles agitant la région. 
 
 Au cours de celui-ci, les Mages de Villa Manlia apprennent que Priscilla, revenue de son exil en Angleterre, a reconstitué l'Alliance de Bellaquin (appelée la Nouvelle Bellaquin), qu'elle dirige (évidemment), composée des membres de la défunte Alliance qui s'étaient établis en Normandie (dont Augusta de Jerbiton) et des survivants de l'Alliance du Blanc Mesnil. La location précise de cette Alliance demeure inconnue à ce jour. 
@@ -28,13 +24,5 @@ Au cours de ce Tribunal, les points suivants ont été délibérés.
 | **TOTAL (76)** | 32O - 39N | 46O - 25N | 42O - 25N | - |
 
 Le releve détaillé des délibérations, *certamens* et autres questions abordées se trouve [ici](../scenar/reconciliation.md).
-
-
 # Hiver 1226
-
 A l'occasion de ce Tribunal, les Mages de Villa Manlia apprennent que différents Flambeaux venus d'Ibérie, au premier chef desquels Balthus et la sulfureuse Selima, souhaitent fonder une nouvelle Domus Magna en Provence (notamment à la suite de leurs révélations concernant Val Negra) et sollicitent pour ce faire l'autorisation du *Praeco*, conformément aux règles en vigueur au sein du Tribunal. 
-
-Les points qui suivent ont fait l'objet d'une délibération.
-
-
-La portée précise de ces questions et les autres éléments notables sont détaillées (lien manquant).

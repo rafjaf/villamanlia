@@ -1,11 +1,8 @@
 *You don't bring backup for the things you know about. You bring backup for the things you don't know about.*  
 — Benedict Jacka, *Cursed: An Alex Verus Novel*, 2012, London, Orbit.  
-<div style="float: right; width: 512px;">
-![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-08008903&E=JPEG&Deb=1&Fin=1&Param=C)  
-<small>Allégorie de la Richesse, XVe siècle. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=08008903&E=1&I=39922&M=imageseule), Français 1174, fol. 26v.</small>  
-</div>
+![](https://mandragore.bnf.fr/iiif/ark:/12148/btv1b108428910/f62/1094,532,1961,2481.highres ':size=500')  
+<small>Allégorie de la Richesse, XVe siècle. Source : [BnF](https://mandragore.bnf.fr/ark:/12148/cgfbt39922s), Français 1174, fol. 26v.</small>  
 # Sources de *vis* brute
-
 * Plantes cultivées dans le péristyle: 4 pions **Creo** par an  
 * Eaux thermales: 4 pions **Aquam** par an  
 * Petites fleurs jaunes (rente concédée par Lariandre): 5 pions **Herbam** par an (dont 2,5 sont rétrocédés à la *Nouvelle Bellaquin* jusqu'à sa chute)  
@@ -15,12 +12,9 @@
 * Bassin de la dryade à proximité du village de Lavelanet : 1 pion **Mentem** par an  
 * Cave aux Brumes (à proximité d'Aigues-Mortes) : 1 pion **Auram** (féerique) par an  
 * Mousse magique provenant de Calebaïs poussant dans les souterrains : source Herbam à terme
-
 * Rognures d'ongles (source personnelle de Sigfeín): 1 pion **Corpus** par an  
 * Crâne "magique" générant des pions **Perdo** en échange des année de vie d'un Mage (1ère utilisation: 1 pion/1 jet de vieillissement)
-
 # Réserves de *vis* brute (640 pions)
-
 * Pions Creo: 116 (conservés dans des plantes séchées)  
 * Pions Intellego: 4 (conservés dans des cristaux)  
 * Pions Muto: 8, dont 6 sont la propriété de Sigfeín pour les avoir échangés avec ses pions Corpus personnels (conservés sous forme de plantes séchées)  
@@ -62,11 +56,8 @@ Les réserves de *vis* sont conservées dans les sanctums des Mages selon le tab
 | Terram |  | X |  |  |  |
 | Vim | X |  |  | X | X |
 | Infernale |  |  | X |  |  |
-
 # Ressources magiques
-
 ## Artefacts
-
 * La **cloche d'Ibyn** et 5 diadèmes sertis d'une grande perle y liés  
 > **Pouvoirs apparents**  
 > * Whenever the Bell rings, such as when someone strikes it with something, it will toll with a horrible, flat sound that will slowly die after five minutes of ringing. This sound is not so loud as to harm those standing nearby, yet can be easily heard throughout the entire covenant. (ReIm15)  
@@ -83,13 +74,9 @@ Les réserves de *vis* sont conservées dans les sanctums des Mages selon le tab
 > VII. Tout décès d'une personne ayant participé au Rituel cause douze sonneries de la cloche dont discordance va croissante et le Rituel doit être lancé à nouveau, les pouvoirs de la cloche cessant de fonctionner (InMe20)
 
 * Un **tapis volant** pouvant accueillir jusqu'à huit personnes, acquise auprès des djinns de la Cité d'Airain
-
 * La **tapisserie magique** de Bellaquin, suspendue dans la salle du Conseil
-
 * La **Chaîne de Pralix**, conservée avec la Cloche d'Ibyn au sommet de la Tour des Mages
-
 * Un objet magique **Le miroir des plans** (InIm 24) permettant d'entendre et de voir ce qui se passe à l'entrée de la Regio depuis Villa Manlia (inventé par Sigfeín de Bjornaer)
-
 * ~~Un bâton en acajou ornementé de runes ayant appartenu au défunt **Stybat** de Tremere (conservé dans le sanctum de Sigfein)~~  
 > ~~il s'agit d'un talisman pouvant contenir 180 niveaux d'effets magiques~~  
 > ~~<u>1er effet</u> : InMe 15 lié à un effet supérieur~~  
@@ -116,7 +103,6 @@ Les réserves de *vis* sont conservées dans les sanctums des Mages selon le tab
 > Elle pourrait avoir d'autres propriétés ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à investiguer[span](/span.md))
 
 * Un **brassard en or** de géante, remise à Sigfeín
-
 * Deux objets magiques intitulés **<u>Conques d'Hermès</u> CrIm 20** (conservées dans le sanctum de Celarius) :  
 > Enchantement mineur limité à 70 ans (Et 1213 --> Et 1283) de deux conques en bois, taillées par Jonas à partir de la même souche, en forme de deux coquillages.  
 > Effet : Chaque conque est enchantée avec un effet CrIm permettant de se faire entendre à distance par l'autre conque, quelle que soit la distance.  
@@ -132,17 +118,13 @@ Les réserves de *vis* sont conservées dans les sanctums des Mages selon le tab
 > * ~~*Seeing the Elusive Boundary* InVi15 (R:Near, D:Conc, T:Special), 24/d : Allows the caster to see boundaries of a regio or area of power as faintly glowing lines. Specifically, the effect detects boundaries between realms (including those with the Mundane realm) and to the next higher or lower level of a regio within the caster's normal line of sight. If this effect is used in a regio, the caster must first specify whether a higher or lower boundary is sought. If a regio boundary is observed, the caster may add +3 to future attempts to cross it. [from *Mythic Places*]~~  
 > * ~~*Tearing the Mystic Veil* In(Pe)Vi 25 (R:Touch, D:Special, T:Special), 24/d : This effect creates a temporary magical opening into a regio one level higher or lower than the one currently occupied by the caster. The caster actually reaches out and tears a hole in the fabric of the regio, so the width of the tear is limited by the caster's arm-span. The height of the tear is roughly twice the width. The opening must be physically held open by the caster and snaps closed one Round after released. Each Round the tear is held open, the caster must make a Fatigue roll of 6+. A failed roll simply indicates a lost Fatigue level. If the caster loses consciousness, the tear closes. It takes one Round for an individual to cross through the tear. [from *Mythic Places*]~~  
 * Sphère de métal magique gravée de runes hermétiques ayant appartenu au Sorcier de La Panne
-
 ## Connexions des Arcanes
-
 * Une Connexion des Arcanes *permanente* avec Val Negra sous la forme d'un cristal (conservée dans le sanctum de Scintillus)  
 * Une Connexion des Arcanes *permanente* menant à la Cave aux Brumes (conservée dans le sanctum de Scintillus)  
 * Une Connexion des Arcanes *permanente* avec la Grotte des Échos (conservée dans le sanctum de Sigfeín)  
 * Une Connexion des Arcanes avec le bassin miraculeux sous la forme d'un caillou (conservée dans le sanctum de Sigfeín)  
 * Une Connexion des Arcanes avec Magvillus sous la forme d'un caillou des jardins (conservée dans le sanctum d'Esperanza)
-
 ## Objets magiques
-
 * Le stylet de Consilia: 3 effets à préciser ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md))  
 * Un coffre invisible, ayant appartenu à Carolus de Jerbiton ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à investiguer en laboratoire[span](/span.md), conservé dans le Sanctum de Celarius)  
 * Un gland féerique de la taille d'une pomme, contenant un pion de *vis* Herbam et un germe d'un chêne féerique, générant une aura d'une superficie déterminée par l'étendue de ses branches et d'une intensité fonction de son âge, planté à l'extérieur de l'Alliance en 1212  
@@ -171,15 +153,11 @@ Les réserves de *vis* sont conservées dans les sanctums des Mages selon le tab
 * 3 sphères en verre contenant un liquide vert qui lancent sur celui qui les boit *Gift of the Frogs’ Legs* (ReCo15)  
 * 2 fioles contenant un liquide bleu (<mark>à investiguer en laboratoire</mark>, cf. Calebais p. 57)
 * Une patte griffue couverte d'écailles dérobée dans le laboratoire de Viscus de Criamon, <mark>à investiguer en laboratoire</mark>
-
 ## Plantes et créatures magiques
-
 * Les plantes provenant du "jardin" de cristal de Maga Drininkeana (conservées dans le sanctum d'Esperanza)  
 * Un élémental de feu, enfermé dans un coffre de métal plongé dans la source magique des eaux thermales (en réalité la soeur de Scintillus transformée par Lumistus, conservée dans le sanctum de celui-ci)  
 * Une racine de mandragore des jardins de Magvillus (conservée dans le sanctum de Sigfeín)
-
 ## Armes magiques
-
 * Un objet magique intitulé **<u>Death Staff</u> PeCo 40** (conservé dans le sanctum de Sigfeín) :  
 > Enchantement mineur limité à 70 ans d'une baguette en bois (Hi 1213 --> Hi 1283).  
 > Effet : Inflige une blessure grave à un groupe à portée de voix.  
@@ -221,36 +199,26 @@ Suite au simple désastre de Sigfeín lors de l'investigation, les pouvoirs ont 
 > * Base Effect 5, Range Touch +1, Duration Instant, Target Group +2, Unlimited uses per day +10  
 > * Pour déclencher l’effet : *Je suis ton maître, et par là je te châtie.*  
 > * Sceau du Mage : la main de la personne tenant le fouet se couvre de givre
-
 ## Manuscrits
-
 * Textes de laboratoire délavés de feu Carolus de Jerbiton (conservés dans le sanctum de Faustus)  
 * Copie du tractatus de Proclus : étude sur la transformation d'eau en air de manière perpétuelle.  
 * Notes du Sorcier de La Panne concernant les légendes locales (conservés dans le sanctum de Sigfeín) 
-
 # Ressources financières
-
 * Sources:  
  * ~~un dixième des récoltes du seigneur d'Aurillac jusque fin 1206 compris : 200 deniers par an (épuisé)~~  
  * ~~remboursement du prêt octroyé par l'Alliance de Villa Manlia à Albert de Saint Pons jusque fin 1215 compris : 260 deniers par an à l'Automne (épuisé)~~  
  * bail commercial d'une maison à Saint-Gilles : 120 deniers par an au Printemps  
  * bail commercial d'une maison à Toulouse : 120 deniers par an au Printemps
-
 * Un grand coffre rempli d'or et de gemmes, tranformés en sable
-
 * Réserves:  
  * 10.317 deniers  
  * Sort *Greater Touch of Midas* (Hiver 1236)
 
 En dehors d'un besoin en fonds de roulement en la possession d'Esperanza, les réserves financières sont conservées sous scellés dans les caves de la Tour.
-
 # Ressources immobilières
-
 * Une maison à Saint-Gilles à laquelle est attaché un bail commercial d'une herboristerie;  
 * Un établissement à Toulouse loué à un souffleur de verre. 
-
 # Objets précieux
-
 * Une épée au pommeau doré (propriété de feu Damianus cf. La Peste)  
 * Un pendentif en argent en forme de fleur finement ciselé et serti d'une perle (cf. Ressources de *vis* brute)  
 * Une épée à deux mains magnifiquement ouvragée et ciselée aux armes de Saverdun (conservée dans le Sanctum d'Esperanza)  
@@ -263,9 +231,7 @@ En dehors d'un besoin en fonds de roulement en la possession d'Esperanza, les r�
 * Une couronne d'or massif (conservée dans le sanctum d'Esperanza)  
 * Un sceptre en or massif avec un gros rubis (conservé dans le sanctum de Scintillus)  
 * Trois colliers de topaze
-
 # Autres ressources
-
 * Un coffre invisible, ayant appartenu à Carolus de Jerbiton ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à investiguer en laboratoire[span](/span.md), conservé dans le Sanctum de Celarius)  
 * Un champignon hallucinogène ramené de la Domus Magna Criamon (conservé dans le sanctum de Sigfeín)  
 * Une dizaine de picots d'un porc-épic féerique (conservés dans le sanctum d'Esperanza)  
@@ -277,19 +243,13 @@ En dehors d'un besoin en fonds de roulement en la possession d'Esperanza, les r�
 * Une baguette de verre (conservée dans le sanctum de Celarius)  
 * Herbes médicinales de bonne qualité destinées aux purges et à la cicatrisation des plaies, prévenant par ailleurs l'infection (conservées dans le sanctum de Manita)  
 * Armes et armures diverses
-
 # Ressources en nature
-
 * Quatre chevaux et une charette  
 * Cheval de bât  
 * Trois cochons  
 * Dix moutons  
 * Poules
-
 # Services à la collectivité
-
 Après de multiples débats, le Conseil des Mages de Villa Manlia a décidé d'adopter un système de "services à la collectivité". Le Père Hugues a eu la bonté de [prendre note](./forum.md/t-229971#post-817313) de l'accord intervenu.
 
-La [mise en œuvre de l'accord](./forum.md/t-229971/) est également surveillée de près par le Père Hugues, passé d'hérétique au rôle de Grand Inquisiteur!
-
-[module Comments](module%20Comments.md)  
+La [mise en œuvre de l'accord](http://villamanlia.wikidot.com/forum/t-229971/) est également surveillée de près par le Père Hugues, passé d'hérétique au rôle de Grand Inquisiteur!

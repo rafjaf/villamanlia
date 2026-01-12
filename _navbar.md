@@ -12,6 +12,7 @@
 	* [Ils l'ont vraiment dit!](/saga/betisier.md)  
 	* [PNJ importants](/saga/pnj.md)  
 	* [Présages](/saga/presages.md)  
+	* [Tribunal de Provence](/saga/tribunal)
 * [Alliance](/alliance/alliance.md)  
 	* [Bibliothèque](/alliance/biblio.md)  
 	* [Plan](/alliance/plan.md)  
