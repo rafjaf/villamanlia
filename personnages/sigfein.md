@@ -52,7 +52,7 @@ Aucune pour le moment
 **Terrible secret** (*Dark Secret*) 0 : membre de la Maison Diedne  
 **Vis driven** : attirance forte pour toute forme de *vis*  
 **Susceptibilité au crépuscule** (*Twilight-Prone*)  
-**Visions (origine magique)** (*Visions*) –1 : à la discrétion du Conteur  
+**Visions (origine magique et divine)** (*Visions*) –1 : à la discrétion du Conteur. Un Désastre au printemps 1255 lors de l'utilisation de la broche karaïte a aggravé ce vice, renforçant la fréquente et/ou la force des visions
 **Vulnérabilité aux Puissances infernales** (*Susceptibility to Infernal Powers*) –1 : Résistance Magique divisée par deux contre la dimension infernale; dans une aura infernale, jet d’Ené contre le niveau de l’aura ou nausées (–1 à tous les jets)  
 
 [^1]: Vertu mineure accordée par Dame Aldona à l'Ete 1207.

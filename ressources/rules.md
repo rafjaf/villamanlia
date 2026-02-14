@@ -70,6 +70,7 @@ Sur le niveau de base d'un sort affectant **une ou plusieurs émotions**, cons. 
 ## Terram
 Un sort ayant pour Cible la pierre coûte une magnitude en plus qu'un sort ayant pour cible la terre. On admet cependant qu'un sort capable d'affecter la pierre puisse *a fortiori* affecter la terre sans coût supplémentaire ("Qui peut le plus peut le moins"). *Idem*, *mutatis mutandis*, pour les sorts capables d'affecter les gemmes moyennant un coût supplémentaire de deux magnitudes.
 ## Vim
+
 **Fonctionnement de la magie d'un niveau à l'autre de la *regio***. Après en avoir [discuté avec d'autres érudits](http://forum.atlas-games.com/viewtopic.php?f=4&t=9402), il a été convenu au sein de la Troupe que, pour autant que la nature de la *regio* ne s'y oppose pas, un sort lancé à un niveau d'une *regio* ne peut affecter un autre niveau (connu) de cette *regio* que dans les cas suivants :  
 * Le sort est lancé avec une **Portée Connexion des Arcanes** et un **Complément Vim**; ou  
 * Le sort est lancé avec une Portée appropriée (par exemple Vue si le lanceur dispose de moyens magiques pour percevoir ce qu'il y a à un autre niveau), un **Complément Vim**, et un nombre de **magnitudes supplémentaires** égal au **nombre de niveaux** à traverser (donc trois magnitudes pour agir du niveau 3 sur le niveau 0).
