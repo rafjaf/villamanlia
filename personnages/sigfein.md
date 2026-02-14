@@ -35,25 +35,25 @@
 Aucune pour le moment  
 # **Vices & Vertus**
 ## Vertus  
-**Affinité mineure** (Intellego)  
-**Affinité** (*Puissant Art*) +1 (Perdo) : bonus de +3  
-**Animal de cœur** (*Heartbeast*) 0 (loup blanc) : transformation automatique sauf si quelqu’un s’y oppose. Ne porte pas sur l’équipement. Impossibilité d’avoir un familier  
-**Caractéristique améliorée** (*Improved characteristic*) +1 (Int)  
-**Magie de Diedne** (*Diedne Magic*) +3 : en cas de sort spontané, diviser par deux le total de lancer ne coûte aucun Niveau de Fatigue; s’il est néanmoins dépensé, l’Art applicable le plus bas est doublé  
-**Sang féérique puissant** (*Strong Faerie Blood*) +3 (nymphe des airs) : jets de vieillissement ne commencent qu’à 50 ans et bonus de –3; yeux féériques de couleur violette (don de Double Vue et vision dans le noir ou la pénombre); ailettes dans le dos; + 2 de bonus pour les jets impliquant une action dans les airs  
-**Source de *vis* personnelle** (*Personal vis source*) +1 (Corpus)  
-**Imposition des mains mineure** (*Lesser Purifying Touch*) +1 <mark>...</mark> : Vous pouvez guérir <mark>...</mark> d'un simple toucher moyennant la dépense d'un niveau de fatigue. 
+- **Affinité mineure** (Intellego)  
+- **Affinité** (*Puissant Art*) +1 (Perdo) : bonus de +3  
+- **Animal de cœur** (*Heartbeast*) 0 (loup blanc) : transformation automatique sauf si quelqu’un s’y oppose. Ne porte pas sur l’équipement. Impossibilité d’avoir un familier  
+- **Caractéristique améliorée** (*Improved characteristic*) +1 (Int)  
+- **Magie de Diedne** (*Diedne Magic*) +3 : en cas de sort spontané, diviser par deux le total de lancer ne coûte aucun Niveau de Fatigue; s’il est néanmoins dépensé, l’Art applicable le plus bas est doublé  
+- **Sang féérique puissant** (*Strong Faerie Blood*) +3 (nymphe des airs) : jets de vieillissement ne commencent qu’à 50 ans et bonus de –3; yeux féériques de couleur violette (don de Double Vue et vision dans le noir ou la pénombre); ailettes dans le dos; + 2 de bonus pour les jets impliquant une action dans les airs  
+- **Source de *vis* personnelle** (*Personal vis source*) +1 (Corpus)  
+- **Imposition des mains mineure** (*Lesser Purifying Touch*) +1 <mark>...</mark> : Vous pouvez guérir <mark>...</mark> d'un simple toucher moyennant la dépense d'un niveau de fatigue. 
 ## Vices  
-**Accoutumance à la Magie** (*Magic addiction*) –3 : après un jet de tension pour le lancer d’un sort, qu’il soit ou non réussi, faire un jet de Int + Concentration contre la moitié du niveau du sort (ou le niveau visé en cas de désastre). En cas d’échec, il faut soit lancer un sort formel d’un niveau au moins égal à celui du sort précédent, soit un sort spontané en dépensant un Niveau de Fatigue. Un nouveau jet d’Int + Concentration est requis avec un bonus de +3 pour chaque jet après le premier.  
-**Aucun sens de l’orientation** (*No sense of direction*) –1  
-**Enfance solitaire** (*Covenant upbringing*) –1 : mal à l’aise avec les structures politiques et sociales médiévales  
-**Haine** (*Hatred*) –1 : ennemis de la Maison Diedne  
-**Magie bizarre** (*Weird magic*) –1 : lancer d’un dé de désastre supplémentaire en cas de 0 sur un jet de tension; en cas de désastre, le résultat est plutôt étrange ou bizarre que dangereux  
-**Terrible secret** (*Dark Secret*) 0 : membre de la Maison Diedne  
-**Vis driven** : attirance forte pour toute forme de *vis*  
-**Susceptibilité au crépuscule** (*Twilight-Prone*)  
-**Visions (origine magique et divine)** (*Visions*) –1 : à la discrétion du Conteur. Un Désastre au printemps 1255 lors de l'utilisation de la broche karaïte a aggravé ce vice, renforçant la fréquente et/ou la force des visions
-**Vulnérabilité aux Puissances infernales** (*Susceptibility to Infernal Powers*) –1 : Résistance Magique divisée par deux contre la dimension infernale; dans une aura infernale, jet d’Ené contre le niveau de l’aura ou nausées (–1 à tous les jets)  
+- **Accoutumance à la Magie** (*Magic addiction*) –3 : après un jet de tension pour le lancer d’un sort, qu’il soit ou non réussi, faire un jet de Int + Concentration contre la moitié du niveau du sort (ou le niveau visé en cas de désastre). En cas d’échec, il faut soit lancer un sort formel d’un niveau au moins égal à celui du sort précédent, soit un sort spontané en dépensant un Niveau de Fatigue. Un nouveau jet d’Int + Concentration est requis avec un bonus de +3 pour chaque jet après le premier.  
+- **Aucun sens de l’orientation** (*No sense of direction*) –1  
+- **Enfance solitaire** (*Covenant upbringing*) –1 : mal à l’aise avec les structures politiques et sociales médiévales  
+- **Haine** (*Hatred*) –1 : ennemis de la Maison Diedne  
+- **Magie bizarre** (*Weird magic*) –1 : lancer d’un dé de désastre supplémentaire en cas de 0 sur un jet de tension; en cas de désastre, le résultat est plutôt étrange ou bizarre que dangereux  
+- **Terrible secret** (*Dark Secret*) 0 : membre de la Maison Diedne  
+- **Vis driven** : attirance forte pour toute forme de *vis*  
+- **Susceptibilité au crépuscule** (*Twilight-Prone*)  
+- **Visions (origine magique et divine)** (*Visions*) –1 : à la discrétion du Conteur. Un Désastre au printemps 1255 lors de l'utilisation de la broche karaïte a aggravé ce vice, renforçant la fréquente et/ou la force des visions
+- **Vulnérabilité aux Puissances infernales** (*Susceptibility to Infernal Powers*) –1 : Résistance Magique divisée par deux contre la dimension infernale; dans une aura infernale, jet d’Ené contre le niveau de l’aura ou nausées (–1 à tous les jets)  
 
 [^1]: Vertu mineure accordée par Dame Aldona à l'Ete 1207.
 
