@@ -1,3 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Cinzel:wght@400;600;700&display=swap');
+
+/* Dark parchment body background */
+body, aside.sidebar, button.sidebar-toggle {
+	background-color: #f4eedf;;
+}
+
+/* Vellum content area — plain background-color so it always covers scrolled content */
+.markdown-section {
+	background-color: #f4eedf;
+	color: #18110a;
+	font-family: 'EB Garamond', Georgia, serif;
+	font-size: 1.1rem;
+	line-height: 1.75;
+}
+
+/* Headings: Cinzel + rouge */
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section h5,
+.markdown-section h6 {
+	font-family: 'Cinzel', serif;
+	color: #7a1515;
+}
+
 /* Dark red for background color of nav bar */
 .app-nav, .app-nav li ul {background-color: #6D071A}
 

@@ -1,11 +1,13 @@
 <div style="float:right; width: 40%">
-*Incantamentum est magicum vinculum, quo necessitate alicuia forma creatur, intelligitur, mutatur, perditur aut regitur secundum leges quas hermeticas appellabo.*
+<i>Incantamentum est magicum vinculum, quo necessitate alicuia forma creatur, intelligitur, mutatur, perditur aut regitur secundum leges quas hermeticas appellabo.</i>
 
 A spell is a magical bond by the necessity of which a certain form is created, understood, transformed, destroyed or controlled according to the laws which I shall call hermetic.
 
-— Bonisagus*(Note : It is alleged by some hermetic scholars that Bonisagus may have been influenced by the definition of a legal obligation given in the *Institutiones* of Roman Emperor Justinian : "*obligatio est iuris vinculum, quo necessitate adstringimur alicuius solvendae rei, secundum nostrae civitatis iura*" (3, 13, *pr.*). Further studies will have to ascertain whether other similarities may be found between Roman law and Hermetic Theory.)*  
+— Bonisagus
+
+<i>(Note : It is alleged by some hermetic scholars that Bonisagus may have been influenced by the definition of a legal obligation given in the *Institutiones* of Roman Emperor Justinian : "*obligatio est iuris vinculum, quo necessitate adstringimur alicuius solvendae rei, secundum nostrae civitatis iura*" (3, 13, *pr.*). Further studies will have to ascertain whether other similarities may be found between Roman law and Hermetic Theory.)</i>
 </div>
-~~~~
+<div style="clear: both;"></div>
 
 # Introduction  
 Ars Magica has one of the richest, if not *the* richest system of magic used in any role-playing game. The rules of magic are elaborate, flexible and elegant enough to satisfy the needs of most Storyguide and players under ordinary circumstances.
