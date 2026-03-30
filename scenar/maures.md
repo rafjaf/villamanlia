@@ -1,6 +1,7 @@
+# Le Trésor des Maures
 La présente histoire constitue une adaptation du scénario du même nom de F. Décamp publié dans le *Supplément Descartes* n°6 de mars 1994 (pp. 2-14). J'y ai apporté les adaptations suivantes :
 
-# Sur le trajet de la grotte
+## Sur le trajet de la grotte
 
 En se renseignant dans la région de la grotte, les locaux sont inquiets: il y a des rumeurs de formes dans la brume, d'incantations mystérieuses et même d'une bête horrible ayant dévoré certaines bêtes du cheptel d'un Berger. 
 
@@ -8,7 +9,7 @@ L'explication est simple: le manuscrit menant à la grotte a été retrouvé il 
 
 Il y a à peu près un an, un petit groupe de ces aventuriers est parvenu à trouver l'entrée de la grotte. L'essentiel des membres a pénétré dans la *regio* mais n'en est jamais revenu (voy. *infra*). N'étant pas parvenus à pénétrer dans la *regio*, le reste de la troupe est reparti chercher des renforts. Le nouveau groupe vient de revenir mais n'est pas encore parvenu à pénétrer dans la *regio* et a peur. En effet, l'un d'eux est passé de l'autre côté du voile mais a chu de 50 mètres et n'est jamais revenu. Le groupe réfléchit à une stratégie lorsqu'arrivent les personnages. Ils décident alors de les suivre discrètement et d'aviser.
 
-# L'entrée dans la *regio*
+## L'entrée dans la *regio*
 
 Si certains des personnages ne parviennent pas à pénétrer dans la *regio*, ils se retrouvent à l'entrée ou les attendent une dizaine de Maures armés jusqu'aux dents en pleine discussion (en arabe). Ils prennent l'un des personnages en otage et ordonnent aux autres de retourner dans la *regio* et de n'en revenir qu'avec le trésor, sinon...
 
@@ -16,7 +17,7 @@ Près du lac, il y a effectivement le mausolée du roi, mais les gobelins l'ont 
 
 Pour s'orienter hors du réseau de cavernes, il faut suivre les champignons oranges plutôt que bleus; les premiers sont au départ assez rares, puis se multiplient. 
 
-# Dans la vallée de Karoya
+## Dans la vallée de Karoya
 
 Dans la vallée, à la cour des souverains, on donne un grand banquet en l'honneur des invités. La reine Eliora leur demande ensuite de prendre part à une espèce de tournoi en trois étapes. A chaque étape, il faut choisir son champion.
 
@@ -35,13 +36,6 @@ Mais avant cela, s'ils ont remporté le concours, les personnages reçoivent un 
 * Rigaud: une bourse dans laquelle tout métal et toute pierre qui y est placé en ressort beaucoup plus précieux... Illusion durée Aube/Crépuscule!  
 <div>
 </div>
-[>](%3E.md)  
+
 Rafaël Jafferali  
-[>](/%3E.md)
 
-[footnoteblock title="Notes"](footnoteblock%20title%3D%22Notes%22.md)  
-[>](%3E.md)  
-[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
-[>](/%3E.md)
-
-[module Comments](module%20Comments.md)  

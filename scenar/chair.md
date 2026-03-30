@@ -1,7 +1,5 @@
-[>](%3E.md)  
-[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
-[>](/%3E.md)
-# Introduction
+# La Chair de ma Chair
+## Introduction
 
 Ce scénario fait suite à l'épisode intitulé *[On ne vous attendait plus!](./proces.md)// lors duquel les personnages ont participé, bien malgré eux, à la redécouverte de la Roue de Feu, un puissant artéfact créé au cours de la Guerre du Schisme par les Tremere et ayant le pouvoir de détecter les Mages de Diedne grâce à la nature particulière de leur Don.
 
@@ -9,7 +7,7 @@ A la fin de cet épisode précédent, l'artéfact a été emporté à Coeris par
 
 Le scénario se base abondemment sur l'historique de l'un des personnages, [Magus Sigfein](../personnages/sigfein.md), qui, tout en prétendant être un Mage de la Maison Bjornaer, dissimule en réalité ses origines Diedne. Ce scénario voit ressurgir de son passé son *pater*, un véritable Bjornaer mais ayant toujours eu des sympathies pour la Maison Diedne (cf l'historique de Sigfein).
 
-# Concept
+## Concept
 
 L’idée, c’est que le *pater* de Sigfein soit poursuivi jusque dans le Tribunal de Provence par différentes factions :  
 * une envoyé de Magvillus - Dama de Guernicus (cf le scénario *[La Tiare et le Glaive](./tiare.md)//;  
@@ -18,7 +16,7 @@ Bien sûr, ils ignorent que ce dernier appartient à la Maison Diedne. A ce stad
 
 Le scénario commence toutefois sous la forme d'une "chasse à la *vis*". Comme il y a une bête sauvage dans la région à traquer, les Mages de Grisfaucon s’en mêlent et qui veulent abattre la bête pour récupérer sa *vis* brut. En 1216, ce sont les Tytali qui ont la main au sein de cette Alliance, donc Thanatos qui, via sa soeur, connaît le chevalier Guy de Turenne, lequel poursuit la bête depuis le Tribunal de Normandie. Guy de Turenne en a entendu parler par hasard, il prévient ensuite les Tytali.
 
-# A l’origine
+## A l’origine
 
 Rappelons que la Roue de Feu a été retrouvée et réactivée à Albison en 1211. Elle a été envoyée à Coeris, qui a d’autres chats à fouetter à cause des troubles dans la région. L’objet a été mis de côté et plus personne n’y pensait. Mais Sigfein, involontairement, va attirer l’attention dessus. En effet, via ses contacts avec Crintera à qui Sigfein a écrit, son *pater*, Sigfried de Bjornaer, décide de prendre sur lui de détruire la Roue de Feu, craignant pour son *filius*, mais aussi, plus fondamentalement, pour la cohésion de l’Ordre (car il sait ou soupçonne qu’il y a encore des Diedne en vie et craint une nouvelle chasse aux sorcières si l'objet était réutilisé de nos jours).
 
@@ -28,7 +26,7 @@ Dama se met en chasse, mais évidemment Coeris s’estime personnellement concer
 
 Mais à l’hiver 1215, [message tous azimuts envoyé par Magvillus](../saga/doc.md) : un puissant artéfact, la Roue de Feu, a été dérobé. Toute personne en possession d’information à ce sujet est tenue d’en informer Magvillus. A défaut, elle fera l'objet d’une Marche des Magiciens contre X.
 
-# Impliquer Villa Manlia
+## Impliquer Villa Manlia
 
 Il y a deux bêtes dans la région. L’une est « maléfique » et tue des animaux (cf l'acte II du scénario [La Larme d'un Dieu antique](./larme.md)). L’autre est Sigfried. Comment l’apprendre ?  
 * Interlude conté par Nicolas : Ronald reconnaît Myralys à Aurillac. En fait, elle enquête sur la présence ou la manifestation d’une bête terrible dans la région.  
@@ -37,7 +35,7 @@ Il y a deux bêtes dans la région. L’une est « maléfique » et tue des an
 
 Villa Manlia se met en chasse pour récupérer la *vis* brut (on peut compter sur la cupidité de Sigfein!). Sans doute Ambroise/Scintillus, Ronald/Dubinaro, Sigfein, Manita.
 
-# Chronologie
+## Chronologie
 
 Que se passe-t-il et à quels moments ?
 
@@ -67,12 +65,12 @@ Le Tremere pose plein de questions à Sigfein : vous êtes aussi un Bjornaer, m
 
 6) Le Tremere retombe sur Sigfein, dont il a compris qu’il était le *filius* de Sigfried, et lui propose un deal : tu récupères ton *pater*, je récupère la Roue. Comment ? C’est bien simple : le Tremere connaît une manière d’activer la roue de manière à ce qu’elle absorbe toute lumière pendant quelques rounds, avant de disparaître et de réapparaître à Coeris. C’est un ancien mécanisme de la dernière chance dont personne n’a connaissance en dehors de la Maison Tremere. Le hic, c’est qu’il faut plusieurs rounds pour l’activer. Le deal est donc le suivant : Villa Manlia fait diversion, et alors le Tremere déclenche le mécanisme qui donnera le temps au *pater* retransformé de s’échapper. En le faisant à ce moment, le Tremere espère que ça passera comme un effet secondaire du rituel de retransformation du *pater* que Dama a l’intention de lancer : s’il devait subtiliser la Roue ultérieurement, il apparaîtrait immédiatement comme suspect, d’autant que Dama risque de repartir immédiatement pour Magvillus (il pense qu’elle en a le pouvoir).
 
-# Pour agrémenter la chasse
+## Pour agrémenter la chasse
 
 * Les PJ peuvent tomber dans un piège magique laissé par Grisfaucon !  
 * Des pièges normaux laissés par Guy de Turenne
 
-# Final
+## Final
 
 Soumettre à Sigfein un choix douloureux : choisir entre son *pater* et la Roue de Feu. Le *pater* pourrait supplier à Sigfein de le tuer (afin que la Roue soit détruite). Soit le *pater* meurt et la Roue est détruite; soit le *pater* survit mais alors la Roue retombe aux mains des Quaesitor et/ou des Tremere.
 

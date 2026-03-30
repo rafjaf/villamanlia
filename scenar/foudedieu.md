@@ -1,12 +1,9 @@
-[>](%3E.md)  
-[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
-[>](/%3E.md)
-
-# Introduction
+# Le Fou de Dieu
+## Introduction
 
 Plus qu'un scénario à part entière, les lignes qui suivent visent plutôt à développer l'excellent scénario de Tristan Lhomme également intitulé *Le fou de Dieu* paru dans le *Casus Belli* n°85, février-mars 1995, pp. 44-47, et que je suppose connu du lecteur. L'apport que je propose est double. D'une part, il s'agit de trouver un prétexte pour éloigner les Mages de l'Alliance et de contraindre ainsi les Compagnons à mener sans aide l'enquête, du moins dans un premier temps. Bien que cette partie du scénario soit étroitement liée à la Saga de Villa Manlia, elle pourrait être utilisée pour contraindre tout personnage à révéler un Terrible Secret (le vin féérique ayant la dangereuse aptitude à révéler la nature profonde de ceux qui osent y tremper leurs lèvres). D'autre part, mon souhait était de replacer autant que possible le scénario dans son contexte historique "véritable". L'identité des légats du pape évoqués dans le scénario y sont donc précisées.
 
-# Du côté des Mages
+## Du côté des Mages
 
 Début du scénario : c’est Celarius qui s’y colle pour aller s’occuper des vaches malades. Plutôt qu'à Verjac, le village se nomme Les Allemans, situé sur la route entre l'Alliance et Pamiers et où, selon [Wikipedia](http://fr.wikipedia.org/wiki/Les_Allemans), des commerçants allemands se seraient établis pour faire le commerce du fer (actuellement le village de la Tour-du-Crieu).
 
@@ -21,7 +18,7 @@ A Lariandre, les personnages sont invités à participer au rituel de l’Aegis,
 
 La fête commence comme un banquet ordinaire. On a dressé les tables en plein air. On apporte sur la table des sangliers entiers, des faisans, des cygnes, un ours, etc. Le Roi Aldarin siège au centre avec à sa droite sa fille Amelia. Des farfadets ailés veillent à remplir les verres des personnages.
 
-# Du côté des Compagnons
+## Du côté des Compagnons
 
 Changement de décor – retour à l’Alliance. Les compagnons s’aperçoivent de la mauvaise réputation croissante de Villa Manlia de la manière suivante :  
 * Ambroise, à l’approche de la pleine lune, s’apprête à quitter le château d’Arvigna lorsqu’il a une altercation avec Villard, l’un des chevaliers du château (dont le seigneur se nomme Guillaume) qui lui parle en terme désagréable des « sorciers » qu’Ambroise s’en va rejoindre. Ne se rend pas nécessairement compte qu’il y a une cause extérieure à cette altercation !  
@@ -30,7 +27,7 @@ Changement de décor – retour à l’Alliance. Les compagnons s’aperçoivent
 
 Début du scénario « officiel » avec les Compagnons, Celarius n’ayant nulle intention de se déplacer pour ces pécadilles (il est fort occupé dans son labo). Le scénario se poursuit jusqu’à ce que les personnages soient capturés et/ou parviennent à adresser un message à Celarius (s'ils sont tous capturés, celui-ci s’inquiétera de l’absence de nouvelle des personnages et décide d’avertir le reste des Mages après avoir constaté qu’ils ne sont pas aux Allemans, ou alors après avoir entendu des rumeurs de leur capture d’Aestrius, ou peut-être dans son labo alors qu’il travaille à un nouveau sort InIm).
 
-# Retour en féerie  
+## Retour en féerie  
 <div style="float: right; width: 675px;">
 ![|](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100022&E=JPEG&Deb=78&Fin=78&Param=C)  
 <small>Le banquet donné par le Roi Aldarin. Source : [BnF](http://visualiseur.bnf.fr/Visualiseur?Destination=Mandragore&O=8100022&E=78&I=14918&M=imageseule), Français 3, fol. 246, Festin d'Assuérus, manuscrit du XVe siècle.</small>  
@@ -51,18 +48,11 @@ Quand Sigfeín révèle qu’il est un Diedne, Magnolia pousse un cri et porte l
 
 En partant, le Roi Aldarin remet aux PJ une bouteille de vin féerique, capable de guérir toutes blessures (à utiliser sur l’abbé Alain ?)
 
-# Retour à Pamiers
+## Retour à Pamiers
 
-Afin de respecter le contexte historique, l'évêché a été remplacé par le couvent de Saint-Augustin, dirigé par l'abbé Alain (équivalent de l'évêque) et le prieur, frère Nicolas. Les légats du pape qui se dirigent vers la ville ne sont pas n'importe qui : il s'agit de Raoul de Fontfroide et de Pierre de Castelneau, en activité dans la région depuis quelques années, et d'Arnaud-Amaury, l'abbé de Cîteaux récemment désigné par le pape pour coiffer la délégation. Pour corser le tout, les personnages croiseront sur leur chemin Diègue, évêque d'Osma, et son sous-prieur, frère Dominique de Guzman (le futur Saint-Dominique), qui seront plutôt de nature à apaiser le jeu*(Note : Pour un exposé détaillé de l'historique et des motivations de ces différents personnages, cons. l'excellent ouvrage de M. Roquebert, *L'épopée cathare. 1. L'invasion 1198-1212*, s.l., Perrin (coll. Tempus), 2006, chap. 9, 11 et 12.)*. Dans la réalité historique, Dominique rencontre les légats du pape dès le printemps 1206 à Montpellier, et les convainc d'abandonner leur onéreuse escorte pour prêcher dans un plus simple appareil, notamment à Pamiers vers la fin de l'année 1206. Légère entorse au déroulement de ces événements, j'ai choisi de situer la rencontre à Pamiers à l'été 1206, ce qui après tout n'est pas un grand bouleversement. On notera par ailleurs que si les légats ne disposent pas en principe de la compétence nécessaire pour organiser un tribunal ecclésiastique*(Note : A l'égard des hérétiques, la seule arme des légats était en principe le prêche : voy. M. Roquebert, *o.c.*, p. 255 et s.)*, on peut raisonnement considérer qu'ils exercent à cet égard la compétence ordinaire de l'évêque en matière de répression de l'hérésie, qui aurait par hypothèse été déléguée à l'abbé de Pamiers. Même si les personnages parviennent à établir leur innocence, il y a fort à craindre qu'on ne les contraigne à se convertir à la foi chrétienne (cfr les [actes de réconciliation](../saga/doc.md) donnés vers la même époque par frère Dominique).
+Afin de respecter le contexte historique, l'évêché a été remplacé par le couvent de Saint-Augustin, dirigé par l'abbé Alain (équivalent de l'évêque) et le prieur, frère Nicolas. Les légats du pape qui se dirigent vers la ville ne sont pas n'importe qui : il s'agit de Raoul de Fontfroide et de Pierre de Castelneau, en activité dans la région depuis quelques années, et d'Arnaud-Amaury, l'abbé de Cîteaux récemment désigné par le pape pour coiffer la délégation. Pour corser le tout, les personnages croiseront sur leur chemin Diègue, évêque d'Osma, et son sous-prieur, frère Dominique de Guzman (le futur Saint-Dominique), qui seront plutôt de nature à apaiser le jeu*(Note : Pour un exposé détaillé de l'historique et des motivations de ces différents personnages, cons. l'excellent ouvrage de M. Roquebert, *L'épopée cathare. 1. L'invasion 1198-1212*, s.l., Perrin (coll. Tempus), 2006, chap. 9, 11 et 12.)* Dans la réalité historique, Dominique rencontre les légats du pape dès le printemps 1206 à Montpellier, et les convainc d'abandonner leur onéreuse escorte pour prêcher dans un plus simple appareil, notamment à Pamiers vers la fin de l'année 1206. Légère entorse au déroulement de ces événements, j'ai choisi de situer la rencontre à Pamiers à l'été 1206, ce qui après tout n'est pas un grand bouleversement. On notera par ailleurs que si les légats ne disposent pas en principe de la compétence nécessaire pour organiser un tribunal ecclésiastique*(Note : A l'égard des hérétiques, la seule arme des légats était en principe le prêche : voy. M. Roquebert, *o.c.*, p. 255 et s.), on peut raisonnement considérer qu'ils exercent à cet égard la compétence ordinaire de l'évêque en matière de répression de l'hérésie, qui aurait par hypothèse été déléguée à l'abbé de Pamiers. Même si les personnages parviennent à établir leur innocence, il y a fort à craindre qu'on ne les contraigne à se convertir à la foi chrétienne (cfr les [actes de réconciliation](../saga/doc.md) donnés vers la même époque par frère Dominique).
 <div>
 </div>
-[>](%3E.md)  
+
 Rafaël Jafferali  
-[>](/%3E.md)
 
-[footnoteblock title="Notes"](footnoteblock%20title%3D%22Notes%22.md)  
-[>](%3E.md)  
-[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
-[>](/%3E.md)
-
-[module Comments](module%20Comments.md)  

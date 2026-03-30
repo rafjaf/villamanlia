@@ -1,4 +1,5 @@
-# Dramatis Personae  
+# Requiescat In Pace
+## Dramatis Personae  
 
 Dans la petite seigneurie de Luzac (une palissade en bois entourant le village et au centre un petit castel pas terrible, aura divine de 2) :  
 * Blanche, l'épouse du châtelain, morte en couche en mettant au monde Héloïse.  
@@ -11,7 +12,7 @@ Dans la petite seigneurie de Luzac (une palissade en bois entourant le village e
 * Jean, le sot du village, avec qui Manon avait toujours fait preuve de la plus grande gentillesse.  
 * Six brigands à la solde du précepteur. Comment ? Quand il est arrivé au château, il s'est fait intercepter par eux sur la route et a sauvé sa peau en passant un deal avec eux : il se sert du coffre de la seigneurie pour les payer, et en échange ils lui rendent de menus services (effrayer les paysans qui ne paient pas la tonlieu, calmer les serfs trop revendicatifs, etc.). Dans la région, on murmure qu'ils sont à la solde du seigneur mais celui-ci ignore évidemment ce qu'il en est. Caractéristiques de combat : For +2, Ené +2, Dex +2, Viv +2, Small Weapon (Mace) 5, Bagarre (Esquive) 5, Mace Init +3, Atq +11, Dgt +10, Esquive +8, Encaissement (Heavy Leather + Tough Guy) +7.
 
-# Prolégomènes  
+## Prolégomènes  
 <div style="float:right; width: 447px;">
 
 ![](http://classes.bnf.fr/ema/audio/img3/c067.jpg)
@@ -30,7 +31,7 @@ De son côté, Arnaut a persuadé Jean qu'il devrait se mettre à la recherche M
 
 Mais, traumatisée par les événements, l'âme de Manon ne parvient pas à quitter cette terre. Elle erre dans la forêt, sans repos, vivant et revivant son amour et la scène d'horreur qui a mis un terme à sa vie, incapable de comprendre ce qui lui est arrivé. Elle cherche son fils, qu'elle a secrètement baptisé Amaury, et éprouve encore les émotions d'avant sa mort.
 
-# Le passé éternellement recommencé
+## Le passé éternellement recommencé
 
 L'un des personnages va entrer en connexion et être " hanté " par l'âme de Manon. Fonctionne sans doute mieux avec un compagnon. Plusieurs causes sont possibles : sensibilité accrue d'un personnage doté de Double Vue ou de Visions; désastre Mentem, Imaginem ou Intellego; ou simplement, en traversant une forêt, soudain un cheval ou un chien s'affole, un personnage croit apercevoir une jeune femme en habits de fête, tout de blanc vêtue, qui s'enfuit dans les bois. Il retrouve l'animal dans une clairière, la dame a disparu, il s'en va; mais elle restera avec lui.
 
@@ -44,7 +45,7 @@ Manon se manifeste sous la forme de rêves, d'abord vagues puis de plus en plus 
 * La forêt est noire, menaçante. Elle s'oriente à la lumière de la lune, dévale la pente sans crainte, connaît chaque pierre, chaque arbuste.  
 * Elle pénètre dans la clairière. Six formes sombres se jettent sur elle, elle hurle, ne comprend rien. Elle s'écrie : " Arnaut ! à l'aide ! "
 
-# Première visite au château
+## Première visite au château
 
 Arrivé au château, le personnage envoûté a l'impression de vivre un rêve éveillé. Il est sous le coup des impressions diffuses de Manon, mais ne sait pas toujours ce qu'il ressent.
 
@@ -56,7 +57,7 @@ Le châtelain les reçoit en compagnie d'Arnaut. Grande confiance en voyant celu
 
 Sur le chemin du départ, on croise Héloïse, revenue d'un tour à l'église. Elle porte le pendentif bien en évidence autour du cou, acheté en ville il y a quelques années parce qu'il lui rappelle celui de sa sœur, si ce n'est que la perle a viré au rouge. (En réalité, après le meurtre de Manon, les brigands ont arraché le pendentif du coup de celle-ci et l'ont revendu. C'est ainsi qu'il a fini par se retrouver sur le marché où l'a trouvé Héloïse.) Le cœur du personnage envoûté est transpercé par cette beauté, il croit un moment voir l'apparition de son rêve, mais éprouve comme un sentiment de dédoublement. Il est fasciné, et il ressent un besoin irrésistible de s'en approcher pour la prendre dans ses bras, la protéger de toutes ses forces. Manon elle-même sait inconsciemment qu'Arnaut l'a trahie, mais elle n'est pas prête à l'admettre, et c'est pour cela qu'elle veut absolument protéger Héloïse sans savoir pourquoi.
 
-# La recherche de la vérité
+## La recherche de la vérité
 
 Plusieurs pistes possibles :  
 * Enquêter au village, où on murmure que Jean devait être possédé par le démon, vu le corps de la pauvre Manon.  
@@ -65,7 +66,7 @@ Plusieurs pistes possibles :
 * Essayer de revoir Héloïse. Idéalement il faudrait être surpris par le châtelain, ou Arnaut. Si les personnages y sont repris, on pourrait bien les jeter dans le donjon. Héloïse, elle, est distante, froide, mais si on lui parle de sa sœur, elle veut absolument savoir ce qu'il en est. En réalité, elle commence depuis quelque temps à entendre la voix de sa sœur lui murmurer des mots inintelligibles, mais elle n'ose pas en parler de peur qu'on la considère comme possédée par le démon. Elle se souvient que sa sœur lui avait dit qu'elle était amoureuse, mais ne sait pas de qui, prenait ça pour du délire, sa sœur a toujours été trop rêveuse. Elle a les pieds sur terre, elle sait qu'il faudra laisser gérer un domaine, si seulement son père était prêt à lui donner plus de responsabilités…  
 * Quand les PJ arrivent à la clairière, les brigands les y auront suivis. Dans la scène de combat qui se produit, le personnage envoûté revoit soudain la scène telle qu'elle s'est passée et entend le prénom d'Arnaut. Reste à remonter la piste. On retrouve par ailleurs les ossements de Manon.
 
-# Pistes secondaires
+## Pistes secondaires
 
 * Jeanne, la veuve du meunier, venue d'un autre village, que tout le monde accuse d'avoir jeté le mauvais œil et de provoquer tous les malheurs de la région.  
 * En revanche, Roger, son fils de 10 ans, est doté du don de Double Vue. Regarde fixement les personnages quand ils traversent le village. Aperçoit parfois la Dame en blanc rôder aux alentours du château, elle habite dans les bois.  
@@ -73,7 +74,7 @@ Plusieurs pistes possibles :
 * Geoffroi est préoccupé parce que le seigneur voisin, Hugon le Hargneux, pourrait bien vouloir s'emparer de ses terres. Il peut soupçonner les personnages d'être de mèche avec lui. Ou, mieux encore, les personnages peuvent repérer un espion de Hugon, un garçon d'écurie nommé Aymon qui écoute aux portes, suit les personnages, etc. Ca n'a évidemment rien à voir avec le cœur du problème, mais si on le livre à Geoffroi, ça pourra le rendre plus aimable. Aymon est au service d'Hugon car les terres de ses parents ont été ravagés par une vendetta entre deux seigneurs locaux, et n'ayant plus rien pour vivre, il a dû se trouver une occupation et un maître. C'est d'ailleurs la raison qu'il avance pour justifier sa présence au service de Geoffroi, il y a quelques mois.  
 * Optionnellement, Manon intervient avec sa Force Magique pour s'opposer aux actions des personnages contraires à ses sentiments. Elle pourrait ainsi s'opposer à un sort InMe dirigé contre Arnaut, auquel elle voue encore une complète adoration, et lui conférer ainsi une Résistance Magique.
 
-# Dénouement  
+## Dénouement  
 Après avoir remonté la piste jusqu'à Arnaut, on est pas encore sorti de l'auberge ! En effet, Manon ne sera apaisée que lorsque (i) elle aura été vengée et (ii) elle aura reçu une sépulture chrétienne. L'idéal serait d'accuser Arnaut et de démontrer publiquement sa culpabilité aux yeux de tous : voilà une vengeance qui pourrait apaiser Manon. L'éliminer sans passer par cette étape, c'est tout de même s'attirer des ennuis aux yeux du seigneur ! D'autant qu'Arnaut n'est pas bête, il ne quitte jamais l'enceinte de la forteresse et suit le seigneur comme une ombre.
 
 Rebondissement possible : accusé publiquement, Arnaut n'a plus rien à perdre et se jette sur Héloïse, un couteau sur la gorge, prêt à l'utiliser comme otage pour ménager sa fuite.

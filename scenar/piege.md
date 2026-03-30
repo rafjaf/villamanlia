@@ -1,9 +1,10 @@
-# Introduction  
+# Un piège diabolique
+## Introduction  
 Scénario librement inspiré du supplément *Les Alliances* et du film *Inception*.
 
 Dikaïos vient trouver les personnages. De retour du Tribunal romain, il est décidé à débarrasser l’Ordre de la menace que représente Jérôme – fût-ce de manière pas très catholique. Il faut dire que son séjour prolongé à Magvillus l’a privé de ses dernières illusions sur la probité des Quaesitores... Bref. Il fait remarquer aux PJ que, maintenant qu’ils ont échappé à la menace de la Croisade, ils n’ont plus rien à craindre de Jérôme, et qu’ils feraient mieux de contre-attaquer, mieux, de reprendre la main. Mais comment faire, connaissant la puissance que Jérôme a dû acquérir tout au long des années ? Justement. En fouillant dans la section interdite de la bibliothèque de Magvillus, Dikaïos a trouvé un extrait d’un ouvrage très ancien sur un certain artéfact qui aurait le pouvoir d’absorber les énergies démoniaques. Celui-ci se trouverait à Val Negra, dont les personnages connaissent justement l’accès. Ainsi, il ne resterait qu’à amener Jérôme sur place et à lui tomber dessus et à l’éliminer avant qu’il ait eût le temps de dire ouf. Pas très élégant, mais efficace...
 
-# Les noirs secrets de Val Negra
+## Les noirs secrets de Val Negra
 
 Laissons à l’imagination des joueurs le soin d’attirer Jérôme à Val Negra. De toute façon, celui-ci est devenu tellement orgueilleux qu’il se croit pratiquement invincible, et lui faire miroiter les secrets de Val Negra devrait être suffisant pour le mettre en route. Il ne devrait donc pas être trop difficile pour le mettre sur la piste. Une fois arrivé à Val Negra, il sera peut-être plus délicat de le faire s’approcher de l’artefact en question (on y vient) mais, d’une manière ou d’une autre, son corbeau se sent mystérieusement attiré dans cette direction et il finira donc bien par se rendre là où les personnages l’attendront embusqués.
 
@@ -19,15 +20,15 @@ Lorsque les personnages passeront à l’attaque, Jérôme sera tout d’abord p
 
 Mais, lorsque Jérôme mobilise toute son énergie infernale pour lancer un dernier sort contre les personnages, Abaddon intervient – juste à temps pour éviter que la grille ne rompe – et plonge tous les protagonistes, Jérôme y compris, dans les ténèbres.
 
-# Mise en abîme
+## Mise en abîme
 
-## Principe
+### Principe
 
 Commence une histoire dans l’histoire (qui, à des fins narratives, devrait être racontée *avant* le reste du scénario ci-dessus, pour que les joueurs ignorent que leurs personnages ont été fait prisonniers ; l’histoire est donc à présenter comme un *one shot* joué avec d’autres personnages). Le but cet épisode est de permettre aux personnages de mieux connaître Jérôme, alors que dans des circonstances ordinaires, ils ne se parleraient jamais.
 
 Concrètement, Abaddon a décidé de punir les personnages pour avoir failli briser la grille, en les faisant dès lors travailler pour son compte. Il les a plongés dans la Chambre aux Illusions. Celle-ci fonctionne sur la base d’un rituel très complexe, et sans doute pas tout à fait hermétique, à base d’Imaginem et de Mentem. En gros : les personnages ne sont pas vraiment là, leur corps est endormi, et néanmoins ils ont l’impression d’exister en chair et en os. Pour corser le tout, ils se sont « recrées » tels qu’ils avaient toujours rêvé d’être. En termes de jeu, ils assument une autre identité (création – le cas échéant accélérée – d’un nouveau personnage). Il importe peu qu’ils n’aient pas dans la réalité les connaissances magiques nécessaires pour lancer les sorts auxquels correspondent leurs nouveaux Arts : dans le monde étrange de la Chambre des Illusions, croire c’est pouvoir.
 
-## Tyndaris
+### Tyndaris
 
 Alliance perchée sur un éperon rocheux avec, en contrebas, la mer déchaînée, qui épargne mystérieusement une langue de terre dont les flots se tiennent à l’écart.
 
@@ -37,7 +38,7 @@ L’Aura Magique est de 8 (comme Val Negra).
 
 Le sortilège de la Chambre des Illusions fonctionne de manière à empêcher les personnages de s’apercevoir de la supercherie, ex. fait échec à tout sort Intellego en ce sens, etc.
 
-## Protagonistes
+### Protagonistes
 
 Les personnes se réveillent sur une langue de terre s’avançant dans les flots. Ils ne sont pas seuls. Avec eux se trouvent également :  
 * Athanor de Bonisagus - il s’agit en fait de Jérôme. Un Jérôme affaibli, qui a perdu son corbeau démoniaque, qui s’est imaginé en Athanor, homme sage. Son dernier souvenir : s’enfoncer dans Mare Immobile. Si on l’interroge, il a en quelque sorte corrigé les souvenirs d’Athanor : il se souvient avoir chassé Jérôme (belle allégorie) lorsque celui-ci a été séduit par le démon, et avoir gardé pour seul apprenti Dubinaro. En même temps, il ne se souvient pas avoir détruit la *Summa* Wittockiana, mais seulement de l’avoir mise en lieu sûr – preuve que même dans sa situation actuelle, l’esprit de Jérôme n’est pas prêt à reconnaître avoir eu tort. Caractère : sous l’apparence d’une grande sagesse, fait en réalité preuve d’une plus en plus grande arrogance. Tâcher qu’il devienne l’ami des personnages...  
@@ -49,7 +50,7 @@ Les autres Mages de l’Alliance de Tyndaris sont :
 * « Flambeau » : ainsi a-t-on surnommé un vieux Mage radotant, qui se prend pour Flambeau en personne. Ce n’est autre que Lumistus de Flambeau, le pater de Scintillus, dont Abaddon a recueilli les cendres après son décès dans une urne funéraire en argent, placée dans la Chambre des Illusions.  
 * Liiodden de Merenita, un jeune Mage un peu perdu parmi tous ces dingues. C’est en réalité Dodiniel, le plus jeune Mage du Blanc Mesnil, qui a péri lors de la Croisade, et dont Abaddon a fait recueillir les cendres par un Servant. Il croit venir de l’Alliance du « Palais Immaculé » (Blanc Mesnil).
 
-## Les épreuves
+### Les épreuves
 
 Après que les personnages ont été accueillis et se sont établis dans leur nouvelle Alliance, Abaddon leur envoie les épreuves suivantes dans l’espoir – en étudiant les réactions des personnages – de mieux comprendre l’infernal et de s’armer contre celui-ci (cf supplément *Les Alliances*).
 
@@ -69,7 +70,7 @@ d) Un cavalier, monté sur un cheval blême, qui n’est autre que la Mort, « 
 
 Notez Lioddien tressaille lorsqu’on mentionne l’apparition du cavalier blanc – et, d’ailleurs, Polytropos le tient à l’oeil. L’Apocalypse s’arrêtera si le parchemin est détruit.
 
-## Les indices
+### Les indices
 
 Comment les personnages peuvent-ils comprendre qu’ils sont enfermés dans la Chambre des Illusions par Abaddon et s’échapper ?
 
@@ -83,7 +84,7 @@ Comment les personnages peuvent-ils comprendre qu’ils sont enfermés dans la C
 
 Pour s’en sortir, les personnages doivent comprendre que tout ça n’est qu’une illusion, qu’ils ne sont pas vraiment qui ils croient être, et qu’ils sont manipulés. J’entrevois deux solutions : l’une, la plus compliquée, consiste à pénétrer dans le sanctum de Persona et à traverser toutes les illusions qu’il contient. On arrive alors dans la vraie Chambre des Illusions et les personnages se retrouvent face à eux-mêmes endormis. Alternativement, plus expéditif, s’envoyer dans le Crépuscule, puisque la magie d’Abaddon n’est pas parvenue à le maîtriser. C’est la solution pour laquelle optera Athanor/Jérôme s’il comprend la situation et se sent acculé.
 
-## Péripéties
+### Péripéties
 
 * Partir en bateau sur l’eau avec Athanor. L’embarcation se fracasse.  
 * Trouver sur la plage le miroir  
@@ -99,11 +100,5 @@ Dans le *sanctum* de Persona :
 * Deuxième pièce : défi d’échecs  
 * Troisième pièce : combattre son double
 
-[>](%3E.md)  
-Rafaël Jafferali  
-[>](/%3E.md)  
-[>](%3E.md)  
-[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
-[>](/%3E.md)
 
-[module Comments](module%20Comments.md)  
+Rafaël Jafferali  

@@ -1,9 +1,10 @@
-# Introduction  
+# Le Jeu de la Trahison et du Hasard
+## Introduction  
 Le présent scénario a pour thème la trahison et a pour but de soumettre les personnages à un cruel dilemme, qui se présente plusieurs fois tout au long de l’histoire : qui trahir ? Ce thème est illustré, ci-dessous (Note : source : manuscrit des *[Carmina Burana](http://en.wikipedia.org/wiki/Carmina_Burana)*), par la représentation médiévale de la roue de la fortune (celui qui est puissant et riche aujourd'hui pourrait bien demain se retrouver faible et pauvre). Il s’agit essentiellement de réflexions jetées pêle-mêle sur le papier, donc j’espère qu’elles ne sont pas trop elliptiques pour être réutilisables par un autre Conteur.
 
 Le scénario se base largement sur la description de Lariandre et Bellaquin figurant dans le supplément de la troisième édition *Les Alliances*, même si je m’en écarte sur certains points, en particulier quant au « mythe fondateur » de Lariandre, à savoir la nature des arbres occupant la clairière : je trouve en effet très peu romantique, et donc très peu féérique, l’idée que la fée des bois ait eu pas moins de dix amants ! Je préfère l’idée qu’elle n’en ait eu qu’un seul, lequel est condamné à garder l’apparence d’un saule pleureur en raison d’une malédiction lancée par une sorcière, ne reprenant forme humaine qu’à chaque nouvelle lune, ce qui lui permet d’aller retrouver sa belle. Quant aux autres arbres de la clairière, les cèdres, ce sont simplement les pages de l’amant-saule. Plus de détails ci-après !
 
-# L’origine du problème
+## L’origine du problème
 
 Il y a quelque chose que tant Lariandre que Bellaquin désirent : une source de vis dans la forêt de Sadrissel.
 
@@ -18,10 +19,10 @@ Reste à expliquer les points suivants :
 * Mais quoi, de vulgaires planches, retenir un arbre prisonnier ? Mais non, justement, il y a des échelles de cordes tressées jusqu’au sol pour retenir la salle du conseil, parce qu’il y a beaucoup de « vent » dans le coin et que les habitants de Lariandre trouvaient l’édifice instable, donc ils ont justement tout boulonné au sol, l’accrochant aux racines, etc. C’est d’ailleurs assez récent, et ils vont s’en vanter auprès des personnages. Oui, les arbres bougent un peu, et alors ? C’est une forêt féérique, non ? D’ailleurs, toutes les nouvelles lunes, il fait nuit noire, et c’est pour ça qu’ils ne se sont jamais aperçus de rien.  
 * Et quel est le rapport avec Bellaquin ? Simple : elle n’est jamais parvenue à retrouver l’accès à la clairière, qu’elle a découverte une fois par hasard. Elle demande donc aux personnages de découvrir ce secret. Et, si les personnages révèlent ce secret, Lariandre saura nécessairement que ce sont eux qui les ont trahis, car à la fois Lariandre doit leur montrer l’accès pour résoudre son problème et ils n’ont révélé ce secret à personne d’autre…  
 * On peut même pousser le vice jusqu’à dire que le Roi de la forêt savait qui était le saule, et comptait sur le fait que les Mages de Lariandre finissent par l’immobiliser, voyant d’un très mauvais œil la relation de sa fille avec ce mortel !...  
-# Un premier dilemme  
+## Un premier dilemme  
 On suppose que les personnages ont noué des relations épistolaires avec Lariandre, jeune Alliance de printemps comme la leur. Ils reçoivent via leur Toque Rouge habituelle, non pas une, mais *deux* courriers en retour. Les personnages décident sans doute de gagner d’abord Bellaquin avant Lariandre.
 
-## Invitation de Lariandre
+### Invitation de Lariandre
 
 > Lariandre, sixième jour du Scorpion, mil trois cent quarantième année de l’Ere du Bélier  
 > Aux Honorables Mages de l’Alliance de Villa Manlia  
@@ -46,7 +47,7 @@ On suppose que les personnages ont noué des relations épistolaires avec Larian
 > Julian, Perniciel, Valfraine, Dominic & Restaralin, tous de la Maison Tremere, et  
 > Magnolia de la Maison Merinita.
 
-## Invitation de Bellaquin
+### Invitation de Bellaquin
 
 > Bellaquin, treizième jour du Scorpion, mil trois cent quarantième année de l’Ere du Bélier  
 > A Esperanza de Jerbiton, Alliance de Villa Manlia  
@@ -64,10 +65,10 @@ On suppose que les personnages ont noué des relations épistolaires avec Larian
 >  
 > Post scriptum : des amis bien intentionnés m’informent que quelques-uns de tes sodales auraient pris langue avec certaines personnes de notre Tribunal que la prudence recommande pourtant d’éviter. Je sais que tu es bien trop avisée pour ignorer à quel point, dans ce domaine, la moindre maladresse peut receler des conséquences irrémédiables, mais si jamais tes sodales formaient le funeste projet de s’aboucher à ces gens-là, je te conjure de prendre au préalable mon conseil afin de connaître la nature véritable de ceux avec lesquels ils s’apprêtent à traiter. A toi comme aux tiens, les portes de cette Alliance demeureront toujours ouvertes.
 
-# Bellaquin  
+## Bellaquin  
 ![](http://www.hs-augsburg.de/~harsch/Chronologia/Lspost13/CarminaBurana/bur_fort.jpg)
 
-## La dernière étape avant l’Alliance
+### La dernière étape avant l’Alliance
 
 Halte dans une auberge où les personnages rencontre Vidal, trente-cinq ans, le troubadour aux yeux vairons. Celui-ci insiste pour chanter une ballade à Esperanza, mais c’est Sigfeín, qui en entendant cette balade, s’imagine Vidal, bien plus jeune, dans un château en train de chanter cette ballade, et il se voit écartant une longue mèche blonde de devant ses yeux (visions préparant un prochain scénario). Vidal confie, étonné, que cela fait bien sept ans qu’il n’avait plus chanté cette ballade…
 
@@ -77,11 +78,11 @@ Il peut également apprendre aux personnages :
 
 En réalité, Le Vaux représente un intérêt stratégique pour Bellaquin, car si ses terres étaient échues au seigneur de Montgaillard – qui voit d’un bien mauvais œil son influence temporelle… –, elle serait littéralement encerclée… Evidemment, elle ne peut faire la guerre à Montgaillard par des moyens magiques, et ses moyens matériels sont bien limités. Ce que Vidal ignore encore, c’est que Bellaquin a décidé de faire appel à la juridiction du Comte de Toulouse, d’où les conciliables qui se tiennent actuellement à l’Alliance. C’est Henri Le Barre, de Jerbiton, qui occupe actuellement Le Vaux.
 
-## Des mendiants sur la route
+### Des mendiants sur la route
 
 Deux mendiants sur la route quémandent une pièce. Si l’un en obtient une, il frappe l’autre pour l’éloigner, qui fait semblant de s’écraser, puis poignarde son compagnon d’infortune. Echo au thème de la trahison…
 
-## Accueil à l’Alliance
+### Accueil à l’Alliance
 
 Accueil fastueux des personnages par les Servants de la famille Bellier, qui invitent les personnages à prendre leurs aises.
 
@@ -95,15 +96,15 @@ Saverdun se retire avec Tolomae (un Mage à l’allure imposante) et Priscilla v
 *  Elle reste assez évasive sur les événements à Le Vaux, tout est en main affirme-t-elle. Si on insiste, elle laisse entendre que le Comte de Toulouse, leur seigneur, est un homme raisonnable et qu’ils ont d’excellents contacts avec lui.  
 * Elle fait miroiter sa bibliothèque, et en vient enfin aux choses sérieuses à propos de Lariandre. Rien qu’un petit service afin de rétablir la justice…
 
-# Lariandre
+## Lariandre
 
-## Arrivée à l’Alliance
+### Arrivée à l’Alliance
 
 Si les personnages restent sur le chemin, ils tournent en rond. Il faut s’aventurer dans les bois. Ils croisent des satyres agressifs, qui sont prêts à en découdre, mais restent à distance respectueuse si les personnages font savoir qu’ils sont des invités de Lariandre ou mentionnent le Roi Aldarin.
 
 En revanche, arrivés à l’Alliance, c’est la crise ! Alerte générale, les Servants à leurs postes de garde, certains tirent des flèches du haut des arbres mais sont tellement ivres qu’ils manquent leur cible, etc.
 
-## Membres de l’Alliance
+### Membres de l’Alliance
 
 * Julian de Tremere, *de facto* le *primus inter pares*, mais sans le titre vu leurs hautes exigences démocratiques. Blond, assez réservé, avec des lunettes, plutôt chétif, et cérémonieux.  
 * Magnolia de Merinita, beaucoup plus emportée, avec un doux parfum qui l’accompagne. Spécialiste Herbam, intarissable quand il s’agir de parler de la forêt et de ses merveilles, livrant parfois des secrets sans comprendre leur importance. Pas du tout le genre des Tremere, mais ceux-ci la respectent.  
@@ -111,7 +112,7 @@ En revanche, arrivés à l’Alliance, c’est la crise ! Alerte générale, les
 * Valfraine, le rat de bibliothèque, distrait, maladroit, qui se pète toujours la gueule du haut des arbres. C’est lui qui a battu Bellaquin en *certamen*.  
 * Dominic et Restaralin, les deux plus jeunes, des jumeaux (et oui !), complètement contaminés par l’hystérie féérique.
 
-## Accueil des personnages
+### Accueil des personnages
 
 Tour du propriétaire par les Mages. Mentionner la Salle du Conseil récemment bâtie, dont ils sont particulièrement fiers, insister sur les nombreuses cordes qui maintiennent l’édifice en place. Exposer également qu’à la nouvelle lune, il fait un noir d’encre dans cette forêt, on n’y voit rien du tout, même la magie a du mal à dissiper l’enchantement (évidemment, cela explique commodément pourquoi personne ne s’est jamais aperçu de la disparition du saule-prince). Durant cette nuit-là, toutes de sortes de bruits étranges… Expliquer aussi pourquoi les Mages ont voulu prendre de la hauteur : pour se mettre à l’abri des farfadets et autres farceurs qui se trouvent au niveau du sol ! « Au moins, ici, à l’étage, nous sommes à l’abri ! » Tu parles !
 
@@ -123,7 +124,7 @@ Quand le calme est revenu, les négociations peuvent être entamées. Mentionner
 
 Ne pouvant s’adresser à Bellaquin ni d’ailleurs à personne d’autre, ils se tournent dès lors vers les personnages – sans leur avoir fait jurer de ne jamais révéler les secrets de l’Alliance…
 
-## Amelia, la jeune fille dans la Clairière enchantée
+### Amelia, la jeune fille dans la Clairière enchantée
 
 Elément essentiel : comment se rendre à la clairière ? Magnolia leur montre la voie. Elle a l’air de se diriger au hasard, mais en réalité il y a une logique, qu’un jet de Perception + Connaissance de la féérie permet de mettre en lumière (sinon, elle pourra l’expliquer, mais uniquement si on parvient à vaincre sa méfiance; auquel cas elle exposera volontiers qu’on peut certes trouver une fois l’endroit par hasard – c’est ce qui est arrivé Bellaquin –, mais jamais deux fois). Alors ? Il suffit de suivre le chant du rossignol !... (Note : j’avoue que cette idée n’est pas sans lien avec la Tinuviel de Tolkien…)
 
@@ -137,24 +138,24 @@ Elle peut aussi leur parler de son père, qui ne la laissera pas s’aventurer d
 
 Si on l’interroge sur le géant, elle pourra dire que c’est le fidèle serviteur de son prince et lui aussi a cessé de venir le voir, bien qu’elle l’entende parfois pleurer dans la nuit.
 
-## Sur la piste du géant
+### Sur la piste du géant
 
 Bah, il faut chercher dans la forêt. Mais ça ne va pas être très facile de discuter avec lui, il grogne, il frappe et c’est à peu près tout… A la limite on peut peut-être obtenir de lui que son maître est prisonnier. Mais si on l’amène à l’Alliance, il s’énerve et veut tout détruire, les personnages vont-ils le laisser faire ? Parce qu’en tout cas il est incapable d’expliquer que son maître est transformé en arbre ! Pour ça, il faut aller voir la sorcière…
 
-## La Sorcière des Marais
+### La Sorcière des Marais
 
 Au risque de sombrer dans le cliché (Note : pensez à la maison de la famille Voldemort dans le tome 6 d’*Harry Potter*, ou à la maison vaudou à la fin de *Pirates des Caraïbes II*), des marais, quoi, sombres, sinistres, pleins de feux follets qui n’ont aucune peine à hypnotiser les pauvres voyageurs pour les faire sombrer dans la vase… Des serpents, aussi, qui sifflent dans la vase… Des crapauds à la langue vénéneuse… des bêtes qui mordent dans la boue… enfin bref, pas sympa quoi !
 
 Quelque part au milieu, une cabane en rondin, sur pilotis, dont on se demande un peu comment elle tient debout. Le toit en chaume pourrie. Une odeur infecte. A l’intérieur, un chat noir qui feule, des rangées de bocaux, et évidemment, une vieille sorcière édentée au nez crochu qui ricane bêtement, marmonne à part elle des imprécations et agite son chaudron… Elle, au moins, elle n’est pas naïve. Elle est prête à reconnaître bien volontiers qu’elle a lancé une malédiction au Prince Charmant, et il y a bien longtemps de cela. Elle lui a prédit qu’il tomberait amoureux, mais que l’amour ne serait pas le plus fort. Il ne l’a pas crue, le pauvre ! Mais c’est que grâce à son sort, il n’a plus forme humaine. En quoi s’est-il changé ? Ah cela, elle ne le dira pas ! Il va falloir payer ! Elle négocie un peu, demande le cœur d’un Mage ou des conneries du genre, mais tout ça c’est pour la frime, ce qu’elle veut en réalité, c’est une chose toute simple : trois cheveux de l’être auquel le Roi Aldarin tient le plus au monde !... Hahahaha…
 
-## A la Cour du Roi Aldarin
+### A la Cour du Roi Aldarin
 
 La cour se tient en plein air. Des courtisans par-ci par-là, de la musique, des jongleries, et le Roi, très sage, qui se tient sur son trône avec son sceptre et sa couronne. Il a l’air de se prendre au sérieux. Autour de lui, un homme habillé en évêque qui éternue régulièrement et roule des grands yeux, un Chambellan qui susurre « Votre Majesté !... » sans rien ajouter de plus, un chevalier qui se tient au garde-à-vous, etc.
 
 En guise d’introduction, le Roi demande aux personnages la meilleure manière de traiter un intrus que ses gens ont trouvé sur ses terres. Il est perplexe : il ne comprend pas pourquoi l’intrus est passé sur ses terres, alors pourtant qu’il connaissait leur réputation, et cela l’inquiète. Il ne comprend pas non plus le message que porte l’intrus. Cet intrus n’est autre que Ménard, le messager de Pierre de Saverdun (cfr ci-dessus Bellaquin). Lorsque Magnolia apprend la nature du message (cfr ci-dessous), elle veut évidemment le relâcher pour frapper Bellaquin… mais est-ce une si bonne idée ?  
 Le Roi est inquiet pour sa fille, et si on lui parle de la jeune fille de la clairière, le rapprochement sera évident. Il est inquiet, parce qu’il sait bien sûr quel sort la sorcière a lancé sur son « gendre », et il sait également ce qui s’est passé… mais il n’a rien fait. Si on joue sur sa fibre paternelle, il finira par cracher le morceau. Sinon… il faudra bien exécuter le marché de la sorcière, mais Dieu sait ce qu’elle sera en mesure de faire avec trois cheveux de la jeune fille !...
 
-## Le message de Pierre de Saverdun 
+### Le message de Pierre de Saverdun 
 
 > Saverdun, dix novembre mil deux cent un de Notre Seigneur Jésus-Christ  
 > Pierre de Saverdun, à son Excellence Foulques, Evêque par la Grâce de Dieu du Diocèse de Toulouse  
@@ -175,7 +176,7 @@ Le Roi est inquiet pour sa fille, et si on lui parle de la jeune fille de la cla
 >  
 > Votre humble serviteur remercie Votre Excellence de lui avoir accordé un peu de son inestimable attention et lui présente l’expression de son infinie considération.
 
-# Dénouement
+## Dénouement
 
 La fin du scénario est assez ouverte. Les personnages peuvent décider de trahir Lariandre en révélant à Bellaquin le chemin vers la clairière, de trahir Bellaquin en libérant Ménard ou en utilisant pour leur compte le message d’un autre traître, Pierre de Saverdun, de trahir le Roi Aldarin pour obtenir des informations de la sorcière, etc. Tout dépend de leur sens moral !
 

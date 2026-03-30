@@ -1,4 +1,5 @@
-# Préambule
+# On ne vous attendait plus!
+## Préambule
 
 Cette aventure –assez longue- est fortement liée à des aventures précédentes ainsi qu’à la personnalité et l’historique des joueurs de la saga de la Villa Manlia, pour qui elle a été créée spécifiquement.  
 Toutefois, un conteur d’une autre saga pourra y trouver des sources d’inspiration, dans les différentes parties, tels que le noeud d’intrigues au sein d’Albison et la situation dans le tribunal de Normandie. Bien entendu, la présence ou non d’un Diedne parmis les joueurs a des répercussions énormes, tout une partie de l’aventure tenant compte de ce vice du Magus Sigfeín.
@@ -10,7 +11,7 @@ Pour le reste, il vaut mieux avoir déjà pris connaissance de la saga en cours,
 Quelques aides de jeu permettent de mieux s’y retrouver, elles sont placées à la fin mais il ne faut pas hésiter à les regarder en parallèle à l’aventure pour plus de facilité.
 
 
-# Introduction
+## Introduction
 
 (Fin hiver 1210 début printemps 1211)  
 Arrivée de trois toques rouges déjà rencontrés par les personnages.  
@@ -28,7 +29,7 @@ Suite à la lecture de la première lettre, Dubinaro décidera de ne pas partir 
 Si on l’autorise à partir, il fera d’horribles cauchemars durant la nuit, des rêves prémonitoires de mort (et il trahirait l'alliance, bien malgré lui), et finalement se désistera au petit matin. Le même matin (matin du départ ?), la tapisserie s’est légèrement modifiée, et on peut reconnaître Ronald sur le bûcher !!! Il recommande la plus grande prudence pour ce voyage...
 
 Quelques jours après le départ des mages, la tapisserie se termine et laisse apparaître sur le bûcher l’image d’une femme, habillée d’une bure de pénitente.  
-Cf. la partie [Présages](presages.md) : voir la tapisserie au printemps 1211.
+Cf. la partie [Présages](../saga/presages.md) : voir la tapisserie au printemps 1211.
 
 Les mages connaissant un peu les Tremere peuvent facilement se rappeler que le loup est un symbole de cette maison, vu qu’il vit en meute et que les Tremere agissent généralement d’une manière très collégiale.  
 De plus (mais plus difficile à connaître), Tremere lui-même avait un loup blanc comme familier, et est souvent représenté allégoriquement sous cette forme.  
@@ -36,7 +37,7 @@ Cf. le supplément sur la maison Tremere.
 Il s’agit bien évidemment d’une fausse piste, l’autre hypothèse qui saute aux yeux des joueurs étant la bonne : magus Sigfeín ayant un loup blanc comme animal de cœur, c’est bien lui qui est représenté sur la tapisserie.
 
 
-# Lariandre
+## Lariandre
 
 Pour arriver à Lariandre, les mages parcourent une région où le passage récent d’une armée de croisade se fait sentir. Traces d’incendies, parfois des fumées au loin, beaucoup plus de mendiants et de gens sur les routes, en train de s’exiler mais sachant peu où aller. Des rumeurs contradictoires sur la destination de l’armée circulent et tout le monde est déboussolé.
 
@@ -54,9 +55,9 @@ Sinon, elle sait peu de choses sur la situation précise sur place, concernant l
 Elle sait également que Murbella a été mise en difficulté, et qu’elle n’est pas encore apparue au procès, en tout cas aux dernières nouvelles.
 
 
-# Sur le trajet
+## Sur le trajet
 
-## Le trajet
+### Le trajet
 
 Sur le trajet vers Albison, les personnages ont la possibilité de communiquer averc les Tremere de Lariandre (à Albison) via coquillage. 
 
@@ -81,11 +82,11 @@ A Bordeaux, il y a moyen de se procurer les insignes des pèlerins. Inscription 
 
 Possibilité de placer un charlatant revendeur d’insignes non officielles, donc non bénies comme il se doit, mais il se fait pourchasser par des représentants du clergé qui veillent au grain. S’il est attrapé, la sanction pour vendre des faux insignes et d’être fouetté à mort. A voir si les personnages privilégient la voie « officielle » avec insignes bénies, ou s’ils préfèrent n’avoir qu’un insigne apparent et aident le charlatant à s'échapper.
 
-## Aventure intermédiaire
+### Aventure intermédiaire
 
 Pour faciliter la lecture, j'ai mis l'aventure intermédiaire (dissociable du reste de l'aventure à Albison) dans une autre page. Vous pouvez la consulter ici : [La malédiction du château de Gemotte](maledictiongemotte.md).
 
-# Albison
+## Albison
 
 A priori, le reste du trajet devrait se passer sans encombre.  
 Les personnages n’ont pas intérêt à aller sur le Mont Saint-Michel, mais ils devraient avoir compris qu’il ne s’agit que d’une indication de direction, pas besoin d’y entrer.  
@@ -106,7 +107,7 @@ En sortant du bureau de Mercus, les personnages rencontrent Eslamar, une maga tr
 
 Après, les personnages sont conduits à leurs appartements et sont libres de faire ce qu’ils veulent, à condition d’être escortés et de ne jamais rentrer en contact avec les mages de Lariandre. Ils sont donc libres d’enquêter sur ce qu’ils veulent, les différentes intrigues de ce scénario étant mélangées dans les faits.
 
-## Description de l’alliance
+### Description de l’alliance
 
 La description de cette alliance est une production personnelle, je n’ai pas trouvé de description sur le net. Mais je me suis basé sur la description de la maison Tremere dans le supplément Ars Magica. L’alliance en elle-même a donc été imaginée en fonction de l’aventure.
 
@@ -130,7 +131,7 @@ Un bâtiment triangulaire jouxte le donjon : ce sont les locaux administratifs d
 Le cercle du donjon (avec les 4 tables de la salle de réception) et ce bâtiment triangulaire, forment le sigle Tremere, même si ce n’est pas très ostensible.  
 (Plan non inclus dans ce dépôt : « La salle de réception d'Albison ».)
 
-## Les différentes enquêtes entremêlées
+### Les différentes enquêtes entremêlées
 
 Les différentes intrigues sont brièvement expliquées ici, libre au conteur de faire intervenir tel ou tel événement y lié. Mais elles doivent se dérouler en parallèle, car pour les Tremere, il y aura une confusion entre elles (la présence d’un Diedne et des traces d’infernal étant pour eux obligatoirement liées!)  
 Les personnages sont donc très libres de se concentrer sur telle ou telle intrigue, et le conteur peut facilement influencer leur intérêt selon qu’il donne de nouveaux éléments pour l’une au l’autre intrigue.
@@ -193,7 +194,7 @@ Lors de la recherche des documents « perdus », des jeunes mages viendront avec
 Cela signifie que cet objet magique majeur a détecté la présence de Diedne. Si elle est activée, elle donne la direction (les flammes), la distance (intensité de la couleur rouge) et le nombre de Diedne (nombre de personnages brillants). Normalement c’est un plat en cuivre, donc plutôt orangé. Actuellement il est rouge à cause de Sigfein. Il n’a plus été utilisé depuis presque un siècle, et les mages actuels ne savent pas comment le réactiver pour avoir plus d’info, car il n’y a que le rougeoiement de la distance qui est permanent. Le chef du clan des éclaireurs, Isvil, est trop occupé par le procès, et surtout gêné de ne pas être capable de gérer ça (il en perdra de l’influence, lui qui était candidat à prendre une place au conseil restreint). De jeunes mages (de son clan) demanderont alors à Scintillus (de Flambeau) de bien vouloir mener les recherches, et à Manita (de Verditus) de bien vouloir les aider à réactiver cet objet magique.  
 Initialement, j'avais pensé que la solution la plus simple, était que le Diedne en question, se mette au service de ceux qui le cherche, et reste ainsi à distance assez constante de "la roue de feu", rendant son signal inutile, le temps que les Tremere se lassent et surtout que le procès finisse. Mais la solution trouvée par les joueurs est plus compliquée mais plus efficace d'un point de vue Diedne: Sigfeín, rendu invisible, a utilisé un objet magique pour voler loin, puis proche, etc. de la roue de feu, qui a donné ainsi des informations peu cohérentes et a perdu en crédibilité. Résultat, l'objet magique doit se faire expertisé à Coeris, et Isvil reste avec un échec: son clan aurait dû gérer mais ils en ont été incapables.
 
-# Epilogue
+## Epilogue
 
 Une délégation de Coeris arrive à Albison. Un corbeau arrive d’abord, une demi journée avant la caravane, pour prévenir de leur arrivée. C’est le familier du responsable de la caravane, ami du Tremere qui gère la logistique. Il porte un message que seul les hauts placés liront: le Primus n’est (contrairement aux attentes) pas dans la délégation, mais a donné des instructions par lettres. 
 
@@ -215,20 +216,20 @@ Mercus prend la place de Murbella « ad interim », aussi bien en tant que chef 
 Il remercie les mages de Villa Manlia, leur reprend le coquillage et le replace avec les deux autres. Il était à l’écoute de toutes les conversations entre Lariandre et Magnolia puis entre Lariandre et Villa Manlia.
 
 
-# Aides de jeu :
+## Aides de jeu :
 
-## Chronologie et résumé succin des événements précédents le procès.
+### Chronologie et résumé succin des événements précédents le procès.
 
 [La chronologie des événements précédents ayant un impact sur l'aventure](chronologiealbison.md)
 
-## Liste des PNJ avec une courte description.
+### Liste des PNJ avec une courte description.
 
 [Liste des PNJ de l'aventure](pnjalbison.md)
 
-## Dessin d’Albison: le château et la ville, vus de haut.
+### Dessin d’Albison: le château et la ville, vus de haut.
 
 Diagramme non inclus dans ce dépôt : « Le château et la ville d'Albison ».
 
-## Dessin de la salle de réception (le rez-de-chaussée du donjon) et le « plan de table ».
+### Dessin de la salle de réception (le rez-de-chaussée du donjon) et le « plan de table ».
 
 Plan non inclus dans ce dépôt : « La salle de réception d'Albison ».

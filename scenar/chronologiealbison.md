@@ -1,3 +1,4 @@
+
 # Automne 1201 : aventure des mages de Villa Manlia à Lariandre  
 Les personnages obtiennent de Lariandre 3 pions de *vis* Herbam par an, dont ils en rétrocèdent 2 à Bellaquin en échange de quatre saisons d'étude dans sa bibliothèque, d'une *summa* Rego et de trois *tractatus* (Intellego, Auram et Imaginem). Ils conviennent par ailleurs d'un échange de livres avec Lariandre (échange par Villa Manlia d'une *summa* Auram et d'un *tractatus* Herbam contre une *summa* Terram)  
 * mauvaise gestion de leur alliance (demande d’aide pour gérer une source de *vis* Herbam, versement d’une rente, échange de livres sans modification pour la tracabilité).  

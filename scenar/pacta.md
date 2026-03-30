@@ -1,30 +1,31 @@
+# Pacta sunt servanda
+
 <div style="float:right; width: 40%">
 Carmen, je suis comme un homme ivre,  
 si je cède, si je me livre,  
 ta promesse, tu la tiendras,  
 ah! si je t'aime, Carmen, Carmen, tu m'aimeras!  
-— Bizet, *Carmen*, Acte I, Scène X  
-
+— Bizet, <i>Carmen</i>, Acte I, Scène X  
 </div>
 
----
 
-# Introduction  
+
+## Introduction  
 Le présent scénario constitue la suite des scénarios *A small favour* issu de la saga *[Nigrasaxa](http://www.atlas-games.com/pdf_storage/nigrasaxa.pdf)* (au cours duquel les personnages ont délivré Mathilde, la fille du Seigneur Robert d’Aurillac, de la forêt du Seigneur féerique Desmissel après avoir convenu avec celui-ci qu’il veillerait pendant sept années sur les récoltes du Seigneur Robert) et *[L’Ennemi intérieur](ennemi.md)* (au cours duquel Sigfeín s’est par mégarde engagé vis-à-vis de la Sorcière des Marais de Lariandre à lui rapporter trois cheveux de l’être auquel le Roi Aldarin tient le plus au monde – serment qu’il n’a pas tenu –, et où les personnages ont fait la connaissance de Pierre de Saverdun ainsi que de Priscilla de Jerbiton).
 
 Son adaptation à une autre Saga requerra donc quelques efforts mais ne devrait pas s’avérer insurmontable. Il suffit, en effet, que les personnages aient conclu un pacte avec les êtres féeriques et aient ultérieurement offensé d’autres membres du Peuple des fées. Pour le reste, il n’est pas indispensable que les personnages connaissent déjà Pierre de Saverdun et Priscilla de Jerbiton, même si cela ajoute bien sûr de la saveur à la rencontre.  
-# Un seigneur mécontent  
-## Un messager apeuré  
+## Un seigneur mécontent  
+### Un messager apeuré  
 Arrivée à l’Alliance de Renaud, un jeune écuyer du seigneur Robert d’Aurillac. Il vient à sa cheval, et reste sur sa monture à une distance prudente des portes de l’Alliance, d’où il s’écrie : « Le Seigneur Robert d’Aurillac fait mander à sa cour les savants alchimistes qui demeurent en ces lieux ! ». Après cela, il doit retenir fermement sa monture qui sent sa peur, et lance des regards effrayés de gauche à droite. Si un Mage s’approche trop de lui, sa  monture se cabre, manquant désarçonner son cavalier et blesser le Mage. A tout moment, Renaud est prêt à bredouiller : « Surtout, ne me faites pas de mal !... »
 
 Renaud ne sait pas grand-chose, si ce n’est qu’on l’a dépêché en grande hâte, et que le seigneur Robert est de fort méchante humeur…  
-## Une récolte gâchée, et la famine aux portes…  
+### Une récolte gâchée, et la famine aux portes…  
 Une fois arrivés au castel d’Aurillac, les personnages sont conduit immédiatement dans la grande salle devant le seigneur. Les serviteurs se font tout petits, conscients de la colère de leur maître. Seule la jeune Mathilde joue par terre comme si de rien n’était. En voyant les personnages, elle se précipite sur eux pour les accueillir, mais le seigneur n’en a cure et leur indique plusieurs caisses, silos et tonneaux qui sont éparpillés dans la salle. Il fait approcher les personnages, ouvre un tonneau de vin, y puise sa coupe qu’il tend aux personnages et s’écrie : « Goutez ! » Le breuvage a un goût de vinaigre. Voyant leur grimace, Robert s’écrie : « C’est la récolte de cet automne ! » Il ouvre ensuite une caisse remplie de blé : les épis ont pris une étrange couleur, la récolte est manifestement pourrie. Le seigneur est furieux : les personnages lui avaient promis sept années de récoltes florissantes, et ne se sont d’ailleurs pas privés de prélever la dîme qu’il leur avait consentie; cette année également, la récolte a été florissante, et pourtant, soudainement, tout s’est envolé comme par magie ! Un serviteur envoyé à la réserve y a surpris des farfadets manifestement en train de maudire les réserves; et dire que, confiant dans ses richesses nouvellement acquises, le seigneur a dépensé sans compter cette année ! Noël est dans moins de quinze jours, et les greniers sont vides ! Comment est-il censé passer l’hiver ?...
 
 Si on interroge Mathilde, elle dira que les êtres féériques sont mécontents, parce qu’une grande injustice a été commise. Il ne reste qu’à retourner voir Desmissel…
 
-# Dans la forêt de Desmissel  
-## Le Gardien du Pont  
+## Dans la forêt de Desmissel  
+### Le Gardien du Pont  
 C’est déjà presque l’hiver. La forêt a perdu toutes ses feuilles et les branches sont touffues. Les personnages sont bien forcés de suivre une piste dans la forêt, qu’ils ne reconnaissent guère, mais c’est la seule voie possible s’il veulent éviter d’être griffés par les branches. Ils entendent le torrent avant de le voir : une eau profonde et mugissante, de six pas de large, traversée par un pont étroit en bois.
 
 //Aux abords du redoutable pont,  
@@ -47,7 +48,7 @@ Passer la rivière en amont ou en aval n’est guère prudent, vu les flots déc
 
 Si les personnages évoquent leurs (anciennes) bonnes relations avec Desmissel, il leur sera répondu, sans autre explication, que le seigneur Desmissel ne souhaite plus les voir. Si Sigfeín insiste, il lui sera répondu que cela vaut en particulier pour lui, faux frère ! Le seul argument qui pourrait fait fléchir son cœur est la petite Mathilde qui risque de passer l’hiver sans nourriture…
 
-## Le courroux de Desmissel  
+### Le courroux de Desmissel  
 Passé la rivière, les personnages finissent par arriver à la clairière où demeure Desmissel. L’ambiance est bien différente de la dernière fois où ils sont venus : les êtres féeriques, mi-humains mi-bêtes, ne jouent plus comme la dernière fois sous les arbres en fleurs. Au contraire, ils chuchotent à voix basse sous les branches décharnées, tandis que Desmissel, la chevelure blanc neige, se tient, immobile, au centre de la clairière recouverte de neige. Seules les personnages troublent cette blancheur de leur pas : Desmissel, lui, semble glisser sur le sol sans y laisser de trace.
 
 Desmissel reçoit les personnages froidement, mais sans colère. Il confirme qu’il ne souhaitait pas s’entretenir avec les personnages et, interrogé sur ses motifs, considère la réponse comme évidente : « Vous avez commis une grande injustice ». Il confirme volontiers que ce sont ses gens qui ont gâté la récolte du seigneur d’Aurillac, car il ne méritait plus de bénéficier de l’accord conclu avec les personnages. Mais pourquoi donc ? Mais enfin, c’est évident : Sigfeín a pris un engagement qu’il a rompu, puisqu’il ne l’a pas exécuté pendant un an et un jour; il n’est donc pas digne de confiance, et aucun membre du Petit Peuple n’accordera plus foi à ses propos : *fragenti fidem non est fides servanda*.
@@ -58,20 +59,20 @@ Si les personnages ont « triché » pour passer le pont, ceci ne fera que confi
 
 Si les personnages insistent, Desmissel finit par accepter de leur laisser une ultime chance : une grande injustice telle que celle commise par eux ne peut être réparée qu’en redressant une injustice de même ampleur; le parjure doit assumer la responsabilité d’un autre parjure. Et, précisément, une grande injustice risque de devenir prochainement irréparable. Si l’on retraverse la forêt en direction du soleil couchant et que l’on marche en restant à flanc de colline, on finira par arriver à une grande rivière; et, si on en descend le cours, on parviendra, au bout de longues heures de marche, au pied d’une petite montagne surplombée d’un cyprès solitaire; et, sur l’autre versant, un peu en contrebas de l’arbre, on trouve une cascade et un petit bassin d’eau où demeurait autrefois une dryade, une fée de la forêt. Elle ne s’y trouve plus, car elle en a été enlevée contre son gré par un homme qui, lui aussi, a manqué à sa parole; et, si rien n’est fait pour la libérer, bientôt – précisément quatre jours après le solstice d’hiver –, il sera trop tard.
 
-# Sur la piste de la Dryade  
-## Retour en arrière  
+## Sur la piste de la Dryade  
+### Retour en arrière  
 L’ancien seigneur de Saverdun a eu un premier fils nommé Pierre. La mère de Pierre lui a transmis en héritage, avant de mourir de maladie, une bague magique, ornée d’un saphir. Le seigneur de Saverdun s’est remarié, et sa seconde épouse lui a donné deux enfants, Séverine et André.
 
 A la mort de son père, sa seconde épouse l’ayant suivi de près dans la tombe, Pierre de Saverdun a hérité de la seigneurie. Possède-t-il le don ? Toujours est-il qu’il a appris, peu à peu, à maîtriser les pouvoirs de la bague. Dedans est enfermé un esprit magique puissant, qui lui permet de commander à d’autres esprits, magiques ou féeriques. C’est ainsi qu’il a son service Fluffy, un lutin malicieux (voy. infra). Sous ses airs amusants, Fluffy est un redoutable conseiller, qui a éveillé dans le cœur de Pierre l’ambition qui s’y trouvait en germe. Il l’a ainsi convaincu de se débarrasser d’André et de Séverine, au prétendu motif qu’ils le jalousaient et voulaient s’emparer de son pouvoir. Par ailleurs, Fluffy l’a convaincu que s’il épousait une fée, il pourrait la dépouiller de ses pouvoirs et accroître ainsi son influence. Avec l’aide de Fluffy, Pierre s’est ainsi rendu à la cascade enchantée où il a séduit une Dryade, lui promettant son cœur en échange du sien; la Dryade l’a mené à un arbre au sein duquel elle y a pris son cœur, mais Pierre a alors utilisé les pouvoirs de sa bague pour soumettre la Dryade à sa volonté et, maître de son cœur, il l’a contrainte à le suivre. Tout cela remonte au printemps dernier.
 
 Revenu au château, André est immédiatement tombé amoureux de la Dryade, que Pierre a baptisé Guenièvre. André ignorait au départ sa véritable nature; mais, à mesure que le printemps et l’été passaient et que la Dryade se trouvait séparée de son cœur et de sa forêt, ses forces faiblissent et elle se fait plus docile. Bientôt, elle sera entièrement sous la coupe de Pierre de Saverdun. Celui-ci a décidé d’attendre, sur les conseils de Fluffy, l’hiver, et plus précisément le 25 décembre pour épouser Guenièvre, car en ce jour de naissance du Christ, la fée sera la plus faible, et Pierre sera enfin maître de ses pouvoirs. André s’est néanmoins introduit dans les appartements de Guenièvre de qui il a appris sa vraie nature; elle lui a également révélé que Pierre a enfermé son cœur dans un coffre dont il porte en permanence la clef autour du cou, mais elle ignore où ce coffre a été dissimulé. André a sa petite idée sur la question : il a surpris une conversation entre Pierre et Ménard, le premier ordonnant au second de se rendre dans la vieille forêt au cœur de laquelle se trouve un château hanté, et au cœur de ce château une cour, et au milieu de la cour un puits, au fonds duquel il est chargé de jeter le coffre. (A nouveau, c’est Fluffy qui lui a donné cette idée.) André décide alors d’aider Guenièvre à s’évader, mais grâce à la surveillance de Fluffy, il se fait cueillir par dix gardes armés, accusé de haute trahison et jeté dans les geôles du château. Séverine, prévenue par son frère que celui-ci allait tenter de libérer Guenièvre (mais ignorant pour quels motifs), a tout juste le temps de s’enfuir. Depuis, elle erre aux abords du château en cherchant à libérer son frère.  
 
-## La cascade abandonnée  
+### La cascade abandonnée  
 C’est une jolie cascade, mais l’atmosphère en est troublée : à côté, à flanc de montagne, il y a un chêne dont les entrailles sont béantes et calcinées. C’est là que ce se trouvait le cœur, mais l’arbre est sur le point de mourir. Sur une branche de l’arbre, une pie voleuse se moque des personnages en leur disant que s’ils voulaient s’emparer du cœur de la Dryade, ils arrivent trop tard, car un autre les a devancés ! Dans son nid, elle a conservé un morceau d’étoffe rouge du prince venu jusqu’ici; mais les personnages ont intérêt à lui offre quelque chose de brillant en échange !
 
 En voyageant dans la région, les personnages apprendront bien vite la nouvelle dont tout le monde parle : une grande fête se prépare, car Pierre de Saverdun est sur le point de se marier.
 
-# La ville de Saverdun en effervescence
+## La ville de Saverdun en effervescence
 
 ![](https://mandragore.bnf.fr/iiif/ark:/12148/btv1b78391350/f1.highres)
 <small>Le tournoi de Saverdun. Source : Tournoi du Chastel aux Puceles (1463), Français 99, fol. 265v, [BnF](https://mandragore.bnf.fr/ark:/12148/cgfbt20336f).</small>
@@ -86,13 +87,13 @@ Plusieurs rebondissements sont possibles :
 * Si les personnages parviennent « pacifiquement » jusqu’à Pierre de Saverdun, celui-ci leur servira à boire et tentera de les droguer. Ce sont des herbes qui produisent un effet équivalent à une bonne cuite. Son but est de neutraliser les personnages (il se méfie d’eux compte tenu de ce qui est arrivé à Ménard) et d’amener Esperanza dans sa chambre pour la convaincre de lui enseigner la magie et obtenir un maximum d’informations d’elle sur Bellaquin. Quant aux autres, ils seront jetés aux cachots.  
 * Il y a aussi Séverine qui rôde autour du château. On peut d’abord la repérer en train de surveiller l’entrée principale pendant la journée. Pendant la soirée, les personnages peuvent arriver à un moment où elle est surprise par deux gardes, déguisée en servante : l’aideront-ils ? Elle veut libérer son frère, mais tant elle que celui-ci connaissent ensuite un passage secret qui mène directement jusqu’aux appartements de Guenièvre qui communiquent avec ceux de Pierre de Saverdun.  
 * Dans les parages de Pierre de Saverdun rôde également… Priscilla de Jerbiton ! Celle-ci a été invitée par Pierre de Saverdun pour assister à ses noces. Certes, Priscilla n’a pas encaissé la trahison de Pierre qui a tenté de monter l’évêque Foulques contre Bellaquin, mais elle est suffisamment imbue de sa personne pour croire qu’elle a la situation sous contrôle. En outre, Pierre lui a fait miroiter qu’il pourrait la faire bénéficier des pouvoirs de la Dryade, et Priscilla ne pense qu’à une seule chose : la *vis* brute !... Sa présence devrait dissuader les personnages de balancer sur Pierre trop de boules de feu…  
-# Le cœur de Guenièvre  
-## La forêt abandonnée  
+## Le cœur de Guenièvre  
+### La forêt abandonnée  
 Les personnages s’engouffrent dans une forêt d’où se dégage une impression d’abandon. Il y fait sombre, hostile, comme si aucune âme ne s’y était plus aventurée depuis longtemps.
 
 Surgit devant eux un lutin, chaussé de bottes vertes et portant une tunique orange flamboyant. Dans son dos est repliée une paire d’ailes rouge vif. Retirant son chapeau, il s’incline longuement devant les personnages et offre de les guider à travers la forêt. C’est un piège ! Nommé Fluffy, ce petit lutin est à la solde de Pierre de Saverdun. Il conduit les personnages à travers bois jusqu’à proximité d’un torrent de montagne dont on entend le mugissement à portée; soudain, le sol s’effondre sous les pieds des personnages, qui tombent dans une fondrière. Le lutin, se penchant sur le bord, leur conseille de garder leur calme et, surtout, de ne pas bouger, il s’en va chercher de l’aide ! En fait de quoi, il s’empresse de détourner le courant du torrent pour noyer les personnages. Voilà ce qu’on appelle être serviable…
 
-## Le château aux mille trésors
+### Le château aux mille trésors
 Les personnages arrivent enfin à un château inquiétant, perché au sommet d’une colline entre des monts déchiquetés. Il règne en ces lieux un calme mortel. Aucun son ne se fait entendre. Le pont-levis est abaissé, et au-dessus de l’entrée, gravés dans la pierre, figure un blason représentant un dragon enserrant un trésor en se mordant la queue ainsi que l’avertissement suivant :
 
 > *Bona mea nemo invidet, nisi insanus*  
@@ -118,9 +119,7 @@ Pierre de Saverdun n’est pas un imbécile : il a placé le cœur dans un coffr
 
 Caractéristiques des squelettes : Force Magique 5 (résistance aux sorts affectant l’esprit), For 0, Ené +3, Dex 0, Viv 0, Init 0, Atq +5, Dfs 0, Dgt +0, Ecs +8 ou +13 contre les armes perforantes, pulvérisés au moindre point de dégât excédant leur encaissement.
 
-# Dénouement  
+## Dénouement  
 Si les personnages retournent à la cascade pour y replacer le cœur, ils assistent à la scène suivante à travers la brume produite par la cascade : dans l’église, alors que Pierre et Guenièvre marchent vers le chœur, tout d’un coup, une vive lumière irradie de Guenièvre, les portes de l’église sont ouvertes à la volée par un grand courant d’air, et soudain Guenièvre disparaît, emportée par le vent, renversant les bancs et les gens sur son passage. Happy end !
 
-
----
 Rafaël Jafferali

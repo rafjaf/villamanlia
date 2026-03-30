@@ -1,11 +1,11 @@
+# Personae non gratae
 Aventure de l'été 1208, contée par Olivier, auquel participent Celarius, Scintillus, Sigfein, Hugues, Bernard et Rigaud.
 
-Le titre de cette aventure est « Personae non gratae », car les PJ iront à différents endroits en pensant y être les bienvenus, mais y seront très mal accueillis. Il s’agit également du scénario où les vengeances de Murbella se manifestent. Ce scénario fait suite à différents épisodes de la saga (voir *[Le Dernier Tribunal](./derniertrib.md)* et *[La Mort d'un Légat](./mortlegat.md)//).
+Le titre de cette aventure est « Personae non gratae », car les PJ iront à différents endroits en pensant y être les bienvenus, mais y seront très mal accueillis. Il s’agit également du scénario où les vengeances de Murbella se manifestent. Ce scénario fait suite à différents épisodes de la saga (voir *[Le Dernier Tribunal](./derniertrib.md)* et *[La Mort d'un Légat](./mortlegat.md)*).
 
-# Introduction
+## Introduction
 
 Un pigeon arrive à l’alliance de Villa Manlia. Il a, attaché à une patte, un message écrit sur une sorte de papyrus :
-<div class="citation">
 > Aux Mages de Villa Manlia,  
 > Malgré les tensions qui éloignent nos alliances respectives, je vous écris pour solliciter humblement votre aide précieuse.  
 > Je suis sur le point de réaliser une découverte majeure en théorie de la magie, grâce à l’étude de son application par les êtres féeriques, mais j’ai besoin de votre assistance.  
@@ -13,12 +13,12 @@ Un pigeon arrive à l’alliance de Villa Manlia. Il a, attaché à une patte, u
 > Il va sans dire que les connaissances ainsi découvertes vous seront immédiatement acquises.  
 > Votre très dévouée,  
 > Magnolia de Merenita  
-</div>
+
 Cette lettre a été rédigée sous la contrainte (et la dictée) de Murbella de Tremere. Son but est d’attirer les mages de Villa Manlia avec quelques livres, et assouvir toutes ses vengeances d’un coup.
 
-# Historique de Murbella
+## Historique de Murbella
 
-(cf. *[Le Dernier Tribunal](./derniertrib.md)//)
+(cf. *[Le Dernier Tribunal](./derniertrib.md))
 
 Murbella est une mage qui a voulu améliorer son rituel de longévité en passant un accord avec des êtres féeriques (des fées de la cour de l’Ombre), mais ces derniers lui ont joué un « sale » tour (comme les êtres féeriques en ont l’habitude) et ont enfermé Murbella dans un corps d’enfant. Murbella veut donc non seulement mettre fin à ce calvaire et retrouver son corps d’adulte, tout en le faisant payer aux êtres féeriques. Elle a conçu un rituel qui lui permettrait de briser le sort féerique qui la retient prisonnière dans ce corps, mais pour cela elle doit sacrifier un être féerique. Comme c’est une infraction au code d’Hermès, il lui faut un bouc émissaire, et elle a tout naturellement pensé aux Mages de Villa Manlia dont elle veut aussi se venger, suite au certamen perdu face à Maga Esperanza. 
 
@@ -33,18 +33,18 @@ Murbella restera cachée aussi longtemps que possible.
 Les autres Tremere sont retenus par Mercus, et n’agiront donc pas.  
 Les PJ sont donc seuls à pouvoir agir, avec Magnolia (qui sera fort occupée aussi avec des réunions du Conseil des Mages de Lariandre vu la situation, et qui est manipulée par Murbella).
 
-# Arrivée à la forêt de Sadrissel
+## Arrivée à la forêt de Sadrissel
 
 C’est le premier endroit où les Mages pensent être les bienvenus, mais il n’en est rien. La dernière fois qu’ils sont passés, ils étaient en bons termes aussi bien avec Lariandre qu'avec le Roi Aldarin, mais curieusement cette fois-ci la forêt est très silencieuse, comme lors de leur toute première visite.  
 En effet, depuis leur dernière visite, leur relation a évolué suite au scénario *[La Mort d'un Légat](./mortlegat.md)//. Au cours de ce scénario, les Mages de Villa Manlia ont privé de liberté un changelin. Cet être féerique agissait pour le compte du Roi Aldarin, qui luttait ainsi contre l’extension de l’église, en train de défricher une partie de la forêt de Sadrissel et d’affaiblir la cour de Lumière.
 
 Sans les sons habituels pour les guider dans la forêt, les PJ doivent réussir à s’orienter. Qu’ils y parviennent ou non, ils tombent rapidement dans une embuscade des être féeriques, avantagés par leur connaissance du terrain. Les PJ ont tout intérêt à dialoguer plutôt que de lutter. En faisant référence à leur ancienne bonne entente et aux services déjà rendus par le passé au Roi Aldarin, il est possible d’être autorisé à le rencontrer à nouveau. Ils peuvent apprendre que personne n’a prévenu le Roi Aldarin de leur venue.
 
-# Chez le Roi Aldarin
+## Chez le Roi Aldarin
 
 La cour du Roi s’arrête brusquement de parler lors de l’arrivée des PJ (ils étaient en plein conseil de guerre, assez farfelu, et se basaient sur des cartes qui ne représentent pas du tout Sadrissel...). Le Roi Aldarin leur explique son mécontentement : priver de liberté un être féerique est une atteinte à l’intégrité de son peuple. Mais plus grave, malgré l’envoi de son changelin, l’église continue à défricher la forêt de Sadrissel. Il redonnera sa confiance aux PJ s'ils font cesser le défrichement. Les tensions entre la cour de Lumière et la cour de l’Ombre sont très vives, ces derniers profitant de l’affaiblissement de la forêt pour faire des attaques de plus en plus conséquentes hors de leurs marais. En promettant d’agir contre le défrichement, les PJ pourront circuler normalement dans la forêt.
 
-# A Lariandre
+## A Lariandre
 
 Après ce mauvais accueil des êtres féeriques, les PJ seront heureux de retrouver leurs amis de Lariandre : ils viennent pour les aider et à leur demande, ils pensent que les relations entre les deux alliances vont à nouveau être au beau fixe, et espèrent donc être bien reçus. Il n’en est rien. L’alarme est donnée dès qu’ils sont visibles, malgré une désorganisation encore pire que d’habitude des servants de Lariandre.  
 Magnolia vient à leur rencontre en dehors de la zone de l’*Aegis*, tandis que les autres mages de Lariandre restent dans la zone protégée, alignés et silencieux, Mercus se tenant à côté et les surveillant (Murbella est bien cachée).  
@@ -53,7 +53,7 @@ Beaucoup de serviteurs ont fui depuis quelques semaines, suite aux tensions inte
 Magnolia leur explique que malheureusement, ils ont d'importants débats internes, ils sont sous l’autorité d’un autre Tremere, et que tout est remis en cause: la récupération des sceaux, leur indépendance et même l’existence de Lariandre ! Elle est au grand regret de ne pas pouvoir les accueillir au sein de son alliance, mais elle peut leur fournir une tente à planter en dehors de l’*Aegis*. Elle demande que les PJ lui remettent les livres apportés, pour leur sécurité, vu que hors de l’*Aegis* beaucoup d’être féeriques pourraient les dérober.  
 Le but de cette manœuvre de Murbella est évidemment de dérober les livres, et aussi d’être plus facilement cachée dans Lariandre vu que les mages de Villa Manlia n’y auront pas accès.
 
-# Le lendemain matin
+## Le lendemain matin
 
 Le livre (à priori, Le Songe de Scipion, le seul livre ayant trait à la Théorie de la magie) a disparu ! Magnolia pense que Murbella a déjà agi, Murbella pense que Magnolia l’a mis en lieu sûr pour elle, les PJ pensent ce qu’ils veulent…  
 Magnolia accusera, comme convenu, la fée, sans savoir qu’en fait, elle a raison. Contre toute attente, c'est bien la fée qui a volé le livre, et l’a transmis à ses sœurs.
@@ -63,7 +63,7 @@ Les PJ peuvent voir la « trouvaille » de Magnolia : une fée de la cour de l�
 
 Si les PJ pressent Magnolia de questions (il est fort curieux qu’une Merenita emprisonne un être féerique, encore plus impensable qu’elle lui brise une aile pour ça… c’est en fait Murbella qui a agi, mais Magnolia doit le taire), elle se fait appeler par ses Sodales qui doivent tenir conseil avec elle à propos de l’avenir de Lariandre. Magnolia laisse les PJ en plan, en leur conseillant de se renseigner sur les fées en allant au marais de l’Ours.
 
-# Vers le Marais de l’Ours
+## Vers le Marais de l’Ours
 
 La fée prisonnière est en contact psychique avec ses sœurs, qui préparent quelques épreuves aux PJ pour les tester, comme les êtres féeriques aiment le faire.  
 Passage basé sur un scénario Cassus Belli Nephillim, pour joueurs débutants ([span style="background-color: yellow;"](span%20style%3D%22background-color%3A%20yellow%3B%22.md)à référencer par Raf[span](/span.md))
@@ -78,7 +78,7 @@ Le bassin en question n’est en fait que le marais de l’Ours, appelé ainsi �
 Si les PJ ont valablement passé les premières épreuves, les fées exhibent le livre qu’elles ont dérobé (via la complicité de leur sœur) et proposent de le rendre si les mages délivrent la fée prisonnière.  
 (En fait, la fée est tout à fait capable de se libérer toute seule, mais elle teste les mages, aussi bien de Lariandre –étant de la cour de l’Ombre, elles ont eu peu de contact avec eux- que ces nouveaux venus, soi-disant en bon termes avec Aldarin mais dont les relations semblent d’une qualité fluctuante).
 
-# Retour à Lariandre et affrontement final
+## Retour à Lariandre et affrontement final
 
 De retour à Lariandre, les PJ trouvent Magnolia assommée. Elle arrive tout de même à prononcer « Je suis désolée. C’est Murbella qui m’a forcée. … la colline au chêne… vite… »
 
@@ -92,7 +92,7 @@ Les êtres féeriques sont contents de l’intervention des PJ, et leur rendent 
 
 Etant donné que le livre apporté, n’est qu’une copie de l’original du songe de Scipion (intransportable) cette perte n’est pas aussi immense qu’il y parait. Dans l’aventure originale (pour débutant), il s’agit d’un livre que les PJ n’ont encore jamais consulté car trop compliqué. Ils en ignoraient même l’existence dans leur bibliothèque, ce qui est impensable avec les mages de Villa Manlia.
 
-# Stop au défrichement
+## Stop au défrichement
 
 (Cette partie, entièrement personnelle, a été influencée par la lecture récente des « Piliers de la terre » de Kent Follet.)
 
@@ -102,7 +102,7 @@ Sur le chemin vers l’abbaye, les PJ peuvent constater que des nouveaux champs 
 Si les PJ se présentent à l’abbaye (quelle que soit la raison), ils constatent un empressement à leur ouvrir, mais une déception quand on voit de qui il s’agit (ou plutôt de qui il ne s'agit pas...). Ils peuvent facilement apprendre que l’évêque Foulque est attendu pour confirmer le nouveau prieur dans ses fonctions, mais qu’il n’est toujours pas venu pour ce faire, malgré les mois qui ont passés.  
 Les moines sont très maigres, et les PJ peuvent en surprendre un recevoir en douce des poires d’un autre, et les dévorer avidement. Celui qui a donné les poires est venu de la remise, et un observateur curieux pourrait constater qu’elle regorge de victuailles, ce qui semble en contradiction avec l’apparence famélique des moines.
 
-# Entretien avec le Prieur
+## Entretien avec le Prieur
 
 Le prieur, par contre, est un homme gras et plus que bien portant. Il ne cache pas qu’il est fils de marchand, et qu’il entend mieux gérer l’abbaye que ce qui était fait par le passé. Si les PJ demande à le rencontrer, ils entreront dans son bureau, ou un reste de repas est visible.
 
@@ -116,7 +116,7 @@ S’ils ont discuté avec lui, le prieur Antoine ne s’est pas caché (plutôt 
 Les rumeurs de forêt hantée, d’êtres féeriques luttant contre la déforestation, etc. ne sont que des contes de bonnes femmes pour ce fils de marchand, et puis seule la volonté de Dieu est vérité.  
 Par contre, les agissements des êtres féeriques ont démotivé les jeunes moines qui étaient volontaires pour travailler aux champs et qui ont élu Antoine pour ce faire.
 
-# L’enquête
+## L’enquête
 
 Dans la bibliothèque, qui est accessible (surtout si les PJ manifestent un intérêt religieux, ou pour l’abbaye), il est possible de trouver la règle de Saint Benoît, qui stipule les droits et obligations des moines. Dans l’interprétation de la règle (pas de viande ni vin) il y a les exceptions, car cette règle s’applique pour une abbaye de contemplation. Si des moines font des travaux lourds (tel que le déboisement), il leur sera donné de la viande et un verre de vin par jour. Le nouveau prieur applique la règle stricte, sans appliquer ces exceptions.
 
@@ -125,13 +125,13 @@ La première : suite au décès de l’ancien prieur, Foulque demande au sous-pr
 La seconde lettre est adressée au nouveau prieur Antoine. Foulque y montre son mécontentement face au résultat (trop serré, et l’église doit être forte en ces temps difficiles), et demande un nouveau vote plus unanime, tout en faisant référence à sa demande dans la lettre précédente. Apparemment, Antoine a été élu avec 14 voix, tandis que Benoît en avait 9 et Jean 7.  
 La stratégie d’Antoine est simple : faire jouer le temps. Vu que l’église doit être forte, il serait bon d’avoir un prieur confirmé par Foulque. Et en attendant, il obtient des résultats sur le défrichage. Quand l’évêque Foulque recevra une très belle confirmation (en pièces sonnantes et trébuchantes) des capacités d’Antoine, il le confirmera bien vite !
 
-# Passage à l’action
+## Passage à l’action
 
 J’avais espéré que les PJ agissent pour monter une rébellion des moines agacés du comportement du nouveau prieur trop strict. Le frère Jean, actuellement privé de parole, est devenu un martyr, et même les jeunes seraient prêts aujourd’hui à voter pour lui.  
 Mais plutôt que de se ruer vers la bibliothèque (à mon grand étonnement, ils ne l’ont pas fait… pourtant ils adorent les livres !) les PJ ont fait quelque chose d’inattendu et que j’ai jugé assez bien trouvée.  
 Après avoir caché les lettres sous une pierre, un sort Creo Imaginem a permis de créer une « intervention divine » : Jean à entendu un Saint lui demander de soulever une pierre, et il a donc trouvé les documents lui donnant toute légitimité, tandis que les manœuvres de Benoît et d’Antoine étaient mises à jour.
 
-# Conclusion
+## Conclusion
 
 Le scénario s’est donc conclu entre PNJ (contrairement à ce qui est recommandé) avec les PJ comme "spectateurs" : Jean à été à la bibliothèque rechercher les commentaires de la règle de Saint Benoît. Puis il a montré les lettres et les commentaires au sous-prieur Benoît, qui a confessé sa faute (il n’a pas respecté l’ordre de Foulque et il s’est présenté contre Jean et Antoine).
 

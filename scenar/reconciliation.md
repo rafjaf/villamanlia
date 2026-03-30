@@ -1,8 +1,9 @@
-# Contexte
+# Le Tribunal de la Réconciliation
+## Contexte
 
 Ce tribunal a lieu à l'hiver 1219. Pour rappel, à la suite du scénario intitulé [La Fosse aux Traîtres](fosse.md), les personnages viennent de délivrer Pierre de Saverdun, l'apprenti de Jérôme de Bonisagus, capable de témoigner contre ce dernier afin d'établir la preuve de sa corruption par le démon. Il reste maintenant aux personnages à faire entendre cette accusation par le Tribunal...
 
-# Les intrigues de Grisfaucon
+## Les intrigues de Grisfaucon
 
 Le Tribunal sera dominé par les intrigues de l'Alliance de Grisfaucon.
 
@@ -16,7 +17,7 @@ Mais les Tremere sont en réalité plus retors que cela (qui s'en étonne?) : i
 
 Les Tremere font observer à Myralis – qui y croit – que c’est une diversion. En effet, il existe un obscur précédent en vertu duquel même le *primus* d’une Alliance ne peut empêcher un *pater* d’accueillir son apprenti dans son Alliance. En soi, la primature n’apporterait donc aucun avantage aux Tremere, puisqu’elle ne leur permettrait pas de mettre leur veto à l’adhésion du Dr Mark s’il parvient à relever le Gant. Ils ont fait croire à Myralis que, en faisant croire aux Tytali qu’ils ignorent le précédent, ils ont mis tous leurs efforts dans cette voie sans issue, manière de dissimuler l’attaque qu’ils vont porter en amont en empêchant le Dr Mark de relever le Gant. Mais en fait ils sont encore plus retors : car ils ont décidé simultanément de débaucher Restaralin de Lariandre, pour avoir un Tremere supplémentaire; et, s’ils détiennent la primature, Althalys ne pourra pas mettre son veto ! Donc en fait, les Tremere sont en train d’essayer de doubler Myralis qui, sans s’en rendre compte, va contribuer à se rendre inutile, puisque les Tremere pourront se passer de sa voix. Des plans dans des plans dans des plans...
 
-# L'avant-Tribunal
+## L'avant-Tribunal
 
 Voici de quoi animer les jours précédant la réunion du Tribunal :  
 * Paranoïa des Mages de Villa Manlia, qui doivent dissimuler l’identité de Pierre de Saverdun. A vrai dire, Jérôme, dans son arrogance, ne soupçonne pas un seul instant que les personnages aient pu le délivrer, et il est tellement sûr de pouvoir l’emporter qu’il manœuvre à peine avant le Tribunal – si ce n’est qu’il rencontre Antonio de Verdi et l’assure de son soutien (des échos de cette rencontre peuvent remonter jusqu’aux personnages).  
@@ -38,18 +39,18 @@ Voici de quoi animer les jours précédant la réunion du Tribunal :
 * Dominic est à la recherche de son jumeau Restaralin (qui en réalité est en tractations avec les Tremere de Grisfaucon).  
 * Benedictus de Bonisagus, un Mage de Doïsseteppe connu pour sa prudence excessive et son sens de l’euphémisme, vient trouver les personnages. Il a entendu dire que ceux-ci ont contribué à la défaite de la Servante Ecarlate mais, s’agissant de l’oeuvre d’un groupe occulte au sein de l’Ordre ayant lui-même défait une secte occulte, il pèse ses mots au point d’en devenir incompréhensible : « Certains événements récents ont été portés à mon attention... Il me revient que vous auriez pris part... pardonnez ma présomption, je voulais dire... que dans des circonstances forts pénibles, vous auriez... ou plutôt, grâce à votre aide, ou sans celle-ci, ces circonstances n’auraient... Diriez-vous qu’il convient d’accorder quelque crédit à cette vision des choses ? » Au moindre signe d’encouragement, tout heureux d’avoir le sentiment d’avoir pris part un tant soit peu à ces événements, il s’écrie : « Je pensais, en effet, qu’il dût en être ainsi ! Sachez que j’admire infiniment votre courage et votre détermination à agir pour le bien de l’Ordre ! Croyez qu’à ce Tribunal, ma voix vous est tout acquise ! » Et ils en auront bien besoin !
 
-# Le Tribunal proprement dit
+## Le Tribunal proprement dit
 
-# Relevé du Gant
+## Relevé du Gant
 
 Relevé du Gant du Dr Mark. S'il y parvient se pose alors la question de son adhésion à Grisfaucon : Athalus demande que l’incident soit joint au fond, c'est-à-dire au *certamen* sur la primature. Mais Althalys objecte que ça n’a aucun rapport (puisque même le *primus* ne peut empêcher un apprenti d'adhérer à l'Alliance de son *pater* en vertu du précédent évoqué ci-avant), et Protantus lui donne raison.
 
-# Délibérations *in rem*
+## Délibérations *in rem*
 
 * L'Alliance de Sapietas Aetatum réclame à Villa Manlia la restitution de la broche karaïte obtenue à l'[automne 1209](../saga/chrono.md). Pour rappel, cette broche avait été donnée aux PJ par une épouse d'Annan, présentement dans le Crépuscule, en remerciement de leurs services; mais les autres Mages de Sapietas Aetatum ne l'entendent pas de cette oreille et entendent dès lors récupérer la broche en prétendant qu'elle n'a pas été valablement donnée aux PJ.  
 * La Nouvelle Bellaquin réclame à Lariandre la restitution d’une source de *vis*. Lariandre oppose le défaut de continuité de l’Alliance (i.e. elle fait valoir que Bellaquin a été détruite, que la Nouvelle Bellaquin s'est reconstituée postérieurement et que, partant, Lariandre pouvait valablement s'emparer dans l'intervalle des sources de *vis* de la première). Une recherche de droit hermétique permet d’établir que c’est irrelevant, ce qui compte c’est la continuité de la possession des Mages eux-mêmes.
 
-# Délibérations *in personam*
+## Délibérations *in personam*
 
 * Althalus provoque Althalys en *certamen* pour revendiquer la primature. Althalys se moque de lui en lui disant que ça n’a plus aucun intérêt, mais qu’elle se fera un plaisir de de le battre. Il propose comme attaque le Rego, elle accepte (par arrogance); elle propose comme défense l’Auram, il refuse, elle propose alors le Mentem. Issue à régler au hasard.  
 * Restaralin, à la grande surprise de Dominic, provoque Mercus en *certamen*, qu’il réussit, et demande à rejoindre Grisfaucon, ce qu’Althalus accepte. Si Althalys l’a emporté, alors il remet sa demande à plus tard.  

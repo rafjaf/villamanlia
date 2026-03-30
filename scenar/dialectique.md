@@ -1,14 +1,12 @@
-[>](%3E.md)  
-[document-print.png); background-repeat: no-repeat; background-position: bottom right; padding-right: 20px;color:](button%20print%20style%3D%22background-image%3A%20url(http%3A//www.wikidot.com/local--files/files/document-print.png)%3B%20background-repeat%3A%20no-repeat%3B%20background-position%3A%20bottom%20right%3B%20padding-right%3A%2020px%3Bcolor%3A.md#444")  
-[>](/%3E.md)
-# Introduction  
+# La Dialectique des Armes
+## Introduction  
 Le présent scénario est fort spécifique à ma Saga et pourrait donc être difficile à adapter. Je pense néanmoins qu’il pourrait présenter un intérêt pour d’autres Conteurs et c’est la raison pour laquelle je le publie ici.
 
 En deux mots, ce scénario a pour centre un débat théologique de trois jours à Pamiers entre catholiques et cathares, débat dans lequel l’Alliance des personnages va être impliquée. En réalité, Jérôme de Bonisagus, l’ennemi juré de l’un des personnages – Dubinaro de Bonisagus –, va tenter de manipuler le débat pour provoquer une condamnation de l’hérésie dans la région et, si possible, éliminer les personnages. Ce que ceux-ci ignorent au début du scénario, c’est que Jérôme est en réalité un sataniste qui s’est emparé d’un ouvrage magique puissant, la *summa Wittockiana*, en prenant le contrôle d’un ancien amour de Dubinaro, une certaine Claudia qui a depuis lors disparu dans la nature (voy. l’historique de [Dubinaro](../personnages/dubinaro.md)). Jérôme entend utiliser Claudia pour attirer Dubinaro et ses *sodales* dans le piège qu’il a tendu.
 
 Le scénario devrait pouvoir être adapté en remplaçant Jérôme par un autre sataniste qui aurait pris les personnages en grippe. Le personnage de Claudia n’est pas non plus indispensable à l’intrigue, même s’il ajoute une petite touche romantico-dramatique. Quant au lieu et au temps, le scénario devrait idéalement se dérouler dans le Languedoc avant 1207, par souci de « vérité » historique. En particulier, les débats théologiques dans le genre de celui décrit dans ce scénario sont assez fréquents dans cette région au cours de la période 1203-1207*(Note : Voy. M. Roquebert, *Histoire des cathares*, s.l., Perrin, 2002, p. 111 et s. Ainsi : * Le grand débat contradictoire ouvert à Carcassonne en 1204 par Pierre II d’Aragon, à propos duquel l’auteur écrit, p. 111 : « *Entre le mariage de Perpignan, en janvier 1204, et la signature, en avril, du traité de Millau, Pierre II d’Aragon reste en Languedoc. Et il fait savoir qu’il veut “s’informer personnellement de l’hérésie”… Il décide donc d’ouvrir à Carcassonne un grand débat contradictoire entre vaudois et cathare d’un côté, catholiques de l’autre. Il convoque l’évêque du Carcassès, Bernard de Simorre – qui viendra avec une douzaine de Bons Hommes – et demande aux deux légats* [du pape] *de venir se joindre à Bérenger, l’évêque catholique. La controverse dura trois jours. Sur le fond, elle ne nous apprend rien que nous ne sachions déjà sur les croyances. Les catholiques proclamèrent que leurs interlocuteurs étaient hérétiques, condamnation à laquelle s’associa Pierre II, dans une circulaire adressée “à tous les fidèles du Christ”. Par là même il se réaffirme, dans le droit fil des ordonnances de Gérone, défenseur de la foi catholique et ennemie de l’hérésie. Mais ce que les ordonnances ne prévoyaient pas, c’est qu’on pût laisser les hérétiques s’exprimer en toute liberté sans faire intervenir la force publique pour les arrêter sur-le-champ – à plus forte raison que le roi lui-même pût les inviter à parler publiquement en toute impunité, et dans une de ses villes vassales…* ». * Les débats publics en 1203 d’une semaine à Servian, de quinze jours à Béziers, d’une semaine à Carcassonne, puis à Verfeil (p. 116). * La grande conférence contradictoire de quinze jours à Montréal, entre Carcassonne et Fanjeaux, au printemps 1207 (p. 117), à propos de laquelle l’auteur écrit, p. 118 : « *On ne sait qui provoqua la rencontre, mais ce furent vraisemblablement les cathares, afin de contrer l’action menée par Dominique. Ils y virent en force. Guilhabert de Castres avait à ses côtés Benoît de Termes, futur évêque cathare du Razès, le diacre Arnaud Hot, le parfait de Verfeil Pons Jourda, et bien d’autres. En face, Pierre de Castelneau, enfin de retour, vint se joindre à Diègue, Dominique et Raoul de Fontfroide. D’un commun accord, on choisit quatre arbitres : deux chevaliers et deux bourgeois. La controverse porta essentiellement sur l’Eglise catholique et sur la messe.* […] *La quatre arbitres refusèrent, paraît-il, de se prononcer. Mais une cinquantaine de partisans de l’hérésie se convertirent.* ». * Le grand débat contradictoire ouvert à Pamiers en 1207, « *peut-être à l’initiative du comte de Foix, prêt à imiter ce que Pierre II avait fait en 1204 à Carcassonne. Les évêques de Toulouse et de Couserans, Foulque et Navarre, étaient à la tête de la délégation catholique à laquelle se joignit Diègue d’Osma, et sans doute aussi Dominique lui-même, mais on n’en a pas la certitude. En face d’eux, les cathares – on ne sait pas qui – et surtout des vaudois, autour de Durand de Huesca* » (p. 120))*. Mais après tout, puisque nous sommes en Europe Mythique, rien n’empêche de mettre en scène pareil débats en d’autres circonstances…
 
-# L’intrigue à vol d’oiseau*(Note : Ou de dragon, voy. *infra*...)*  
+## L’intrigue à vol d’oiseau*(Note : Ou de dragon, voy. *infra*...)*  
 <div style="float:right; width: 511px;">
 ![|](http://villamanlia.wikidot.com/local--files/dialectique/Ville.jpg)  
 <small>Source : une [ville au Moyen Age](http://medieval.mrugala.net/Villes/Ville%20au%20Moyen-Age.htm), Manuscrit Français 364, folio 174.</small>  
@@ -25,13 +23,13 @@ Les PJ se feront attaquer sur le chemin du retour, et ce (i) pour les affaiblir 
 
 Développement intéressant : ce pourrait être frère Nicolas qui découvre la supercherie, mais les PJ le croiront-ils ?
 
-# Un difficile interrogatoire
+## Un difficile interrogatoire
 
-## Contexte
+### Contexte
 
 Le prologue qui suit constitue la suite des événements du [prologue](./prologue.md) au scénario *Des promesses, toujours des promesses*. Les personnages, qui s’étaient rendus dans l’Alliance de Mare Immobile à laquelle appartient Jérôme, ont été accusés par cette Alliance d’y avoir dérobé des documents. Ces accusations ont donné lieu à un échange de lettres entre les parties et débouchent maintenant sur une enquête de la part du Quaesitor Dikaïos. Ces événements, qui visent à préparer la découverte des allégeances satanistes de Jérôme, sont probablement difficiles à adapter à une autre Sage tant ils sont liés à l’historique des personnages. Ils ne sont toutefois nullement indispensables au bon déroulement de l’histoire. Je ne les reproduits qu’à titre informatif.
 
-## Ce qui se passe en coulisse
+### Ce qui se passe en coulisse
 
 Résumé des épisodes précédents : Jérôme avait saisi le passage de Dubinaro à Mare Immobile (scénario *Promises, promises*) pour accuser celui-ci d’avoir dérobé une partie des textes de laboratoire d’Ereditus, dont il s’était en réalité lui-même emparé. Ce que Jérôme n’avait pas prévu, c’est que Dubinaro lui tiendrait tête au point de contre-attaquer en proposant l’arbitrage d’un Quaesitor et de se soumettre à un sort de détection des mensonges (cfr le courrier de [réponse à la mise en demeure](../saga/doc.md)). Jérôme est coincé : il ne peut pas, décemment, faire marche arrière, ce que Sorellus, l’un des Mages influents de Mare Immobile sur lequel Jérôme s’est appuyé, ne comprendrait pas. Il y a néanmoins encore une manière de tirer parti de la situation : tenter de profiter de l’occasion pour monter le Quaesitor Dikaïos contre les PJ, car après tout, Dikaïos avait bien insisté sur le fait qu’il devrait s’agir d’une affaire privée qui ne devrait pas être portée devant un Tribunal; si la [mise en demeure](../saga/doc.md) de Mare Immobile était encore *borderline*, à tout le moins, elle ne s’étendait pas sur les motifs pour lesquels de Dubinaro se trouvait sur les lieux – à la différence de la réponse de celui-ci qui, c’est le moins que l’on puisse dire, met les pieds dans le plat.
 
@@ -81,7 +79,7 @@ Mare Immobile veille bien sûr à en informer l’Alliance des personnages, par 
 </div>
 Le résultat escompté est atteint… et même dépassé : Dikaïos est furieux. Tellement furieux qu’il débarque en trombe à Mare Immobile pour tirer les choses au clair. Il soumet à la question Jérôme… dont les pouvoirs suffisent à peine – mais suffisent néanmoins – à le tromper.
 
-## L’arrivée du courrier, et d’un visiteur inattendu
+### L’arrivée du courrier, et d’un visiteur inattendu
 
 Voici qu’Aestrius la Toque Rouge apporte le courrier à l’Alliance des personnages, à savoir les deux missives du Conseil des Mages de Mare Immobile, ainsi qu’une troisième missive d’Athanor, le *pater* de Dubinaro (voir infra). Mais alors qu’Aestrius est dans la Salle du Conseil, arrive au galop Dikaïos, désormais plus ou moins convaincu de la bonne foi de Mare Immobile, et furieux (i) d’avoir fait appel à des Mages malhonnêtes pour exécuter sa mission et (ii) que ces mêmes Mages rompent ensuite la confidentialité des accords passés, en menaçant de tout dévoiler sur la place en présence d’un autre Quaesitor (Dikaïos risquerait bien de perdre la face !). Tellement furieux qu’il arrive au grand galop sur son noir destrier, Martin en croupe, ordonne qu’on lui ouvre de loin et sans attendre, brandit son bâton de sorcier d’où une vive lumière mauve jaillit qui ouvre la porte de l’Alliance à la volée. Dikaïos descend de son cheval et ordonne que les Mages le retrouvent dans la Salle du Conseil, où ils se trouvent en fait déjà.
 
@@ -129,7 +127,7 @@ L’interrogatoire peut commencer. Les questions posées par Dikaïos (à adapte
 
 Vu l’innocence des Mages de l’Alliance, Dikaïos feuillète les dépositions et réfléchit à voix basse : « Etrange… Il s’agit peut-être d’une tierce personne… A moins que… » A moins que, bien sûr, il n’y ait un sataniste dans le lot !
 
-# Bons baisers de Claudia
+## Bons baisers de Claudia
 
 La lettre d’Athanor à Dubinaro est rédigée comme suit :  
 <div style="width: 700px; font-family: Vivaldi; font-size: 16pt;">
@@ -163,7 +161,7 @@ Comment convaincre les personnages ? Plusieurs éléments :
 * Laisser entendre à Esperanza que le comte de Foix saura se montrer généreux  
 * De toute façon, les PJ sont eux aussi des hérétiques, ils ont donc intérêt à calmer le jeu avec l’Eglise catholique. On craint que, sans ce débat, il y a une condamnation pure et simple, tout le but est de renouer le dialogue
 
-# Sur la route de Milroques
+## Sur la route de Milroques
 
 Les grandes étapes : Foix, Tarascon-sur-Ariège (on est déjà entre les montagnes), Château Verdun puis Milroques. La nuit, on dort dans des châteaux de nobles acquis au catharisme, ou chez des bons hommes.
 
@@ -177,7 +175,7 @@ Les personnages se remettent en route en direction de Milroques. L’ascension d
 
 Embuscade dans le défilé : volée de flèches tirées par des brigands, qui ont le regard fixe et portent tous une marque étrange sur le corps (un pentacle dont la pointe ressemble à un doigt griffu, déjà entr’aperçu par Dubinaro dans la *summa Wittockiana*). Les PJ peuvent s’échapper en rebroussant chemin et en passant devant l’antre du dragon heureusement endormi. Horrible odeur de charogne, présence de vautours… Ou alors éliminer la menace, qui battra alors en retraite.
 
-# Le village de Milroques
+## Le village de Milroques
 
 Petite communauté villageoise, qui se décompose en un village d’une vingtaine d’habitants, en contrebas sur l’autre versant, et quelques cabanes sur un plateau près du sommet, où l’on surveille les moutons et on fabrique du fromage*(Note : Sur la vie des petits pâtres dans le Languedoc médiéval, cons. E. Le Roy Ladurie, *Montaillou, village occitan de 1294 à 1324*, Paris, Gallimard, 1975, 642 p.)*. C’est dans l’une des trois cabanes perchées près du sommet qu’Esclarmonde demeure.
 
@@ -191,7 +189,7 @@ Vite, vite, il faut manger maintenant pour éteindre toutes les lumières avant 
 
 A la nuit tombée, les brigands reviennent, mettent le feu au village, attirant ainsi le dragon qui ravage tout. C’est la panique, les personnages s’enfuient probablement avec Esclarmonde, poursuivie par les brigands (qui tirent une flèche en travers la gorge de Philippe) et le dragon, dévalent la montagne, trouvent refuge dans une caverne, le dragon démolissant l’accès à celle-ci. A un moment pendant la bataille, une flèche manque embrocher Dubinaro, mais au dernier moment Esclarmonde/Claudia – échappant au contrôle de Jérôme – s’écrie : « Jean, attention ! » (alors qu’elle n’est pas supposée connaître le prénom de naissance de Dubinaro). Interrogée, elle répondra qu’elle a parfois des visions et connaissance de certaines choses qu’elle ne devrait pas savoir, elle pense que c’est un message de Dieu… la belle menteuse !
 
-# Val Negra  
+## Val Negra  
 Au bout de la caverne, il y a un réseau de grotte familier à Scintillus : il s’agit en réalité de l’accès à Val Negra. Les personnages émergent de la vallée, et ne pourront s’en échapper qu’avec l’accord des habitants des lieux. Cela fait partie de l’enchantement de la vallée.
 
 Présenter les crânes d’Abaddon, Vancasitum qui pulvérise ce qu’il trouve sur son passage, le jardin des pierres mouvantes, etc., tels que décrits dans le supplément *Les Alliances* de la 3e édition.
@@ -208,9 +206,9 @@ Deuxième salle, immense : il y fait glacial, au point d’y mourir de froid. D�
 
 Troisième salle : en contrebas de marches en pierre, un grand espace, avec au centre le coffre et un élémental du feu qui tourne autour. La solution est de l’attirer en faisant diversion (par exemple avec le flambeau ?), car il rêve de consumer tout ce qui passe dans les parages.
 
-# Pamiers
+## Pamiers
 
-## Premier jour
+### Premier jour
 
 Esclarmonde insiste pour que les personnages dorment à même le sol de l’hospice de l’abbaye de Saint-Antonin, comme de simples voyageurs, prétendument parce que ça pourra rapprocher les communautés. En réalité, c’est la meilleure manière d’éviter de trop fréquenter les bons chrétiens qui pourraient la démasquer, mais aussi de s’éclipser à la nuit tombée !
 
@@ -229,7 +227,7 @@ Le débat oppose un cathare dans la fleur de l’âge – Henri, un bon homme de
 
 Pendant la nuit, les personnages se réveillent et trouvent la couche d’Esclarmonde vide. Ils la retrouvent à la sortie de l’hospice, prétendument atteinte d’une insomnie. En réalité, elle est partie ensorceler un serviteur de l’abbaye en prévision de la deuxième journée de débats.
 
-## Deuxième jour  
+### Deuxième jour  
 Débat de l’évêque de Toulouse Foulques contre Guilhabert de Castres, fils majeur de l’évêque cathare, ayant pour thème l’incarnation du Christ*(Note : Voy. M. Roquebert, *o.c.*, pp. 29-31.)* :  
 * Foulques commence par revenir sur le débat de la veille. Henri nous a dit que Dieu était parfait, omniscient et d’une infinie bonté, et que ces trois caractéristiques font qu’il n’a pas pu créer le monde visible ni même autorisé sa création. Mais :  
  * Le mauvais principe a-t-il créé le monde visible à l’insu de Dieu ? En ce cas, il n’est pas omniscient !  
@@ -246,7 +244,7 @@ Pendant ce temps, le serviteur contrôlé par Jérôme s’est rendu au sommet d
 
 Pendant la seconde nuit, Esclarmonde a disparu (éventuellement plus tôt si les PJ tentent de la démasquer). Panique au réveil : Bruno a été assassiné dans son sommeil à l’abbaye, dans la salle capitulaire, et c’est pas du joli : du sang partout, les entrailles répandues sur le sol, traçant une rune maléfique, des croix inversées peintes dans son sang sur les murs… C’est Esclarmonde qui s’est échappée pendant la nuit pour commettre le méfait, dans le but d’attiser encore la haine des catholiques et jeter le discrédit sur les cathares. Mais si ce sont les PJ qui découvrent le sacrilège, ne va-t-on pas les accuser de l’avoir commis ?
 
-## Troisième jour  
+### Troisième jour  
 Esclarmonde étant hors service, Enguerrand se tourne vers les PJ pour prendre la place de l’oratrice au pied levé, car après tout, on ne trouve pas un spécialiste en hérésie comme cela ! Opposés à Frère Nicolas. Débat ayant pour thème, la vie dans le siècle*(Note : Voy. M. Roquebert, *o.c.*, pp. 78-86.)*. :  
 * Frères Nicolas expose que la Terre se doit d’être le miroir du ciel : là-haut, Dieu avec à son service tous les anges, ici bas, le pape, vicaire du Christ sur terre, auquel tous doivent obéissance. Ainsi, la société est divisée en trois ordres : ceux qui prient, ceux qui combattent et ceux qui travaillent, et cette division est bonne parce qu’elle correspond au décret divin.  
 * Les cathares, en prétendant que ceux qui prient doivent travailler de leurs mains, viennent rompre cette divine harmonie et introduisent le chaos dans la société. Non seulement les cathares travaillent, mais en outre, il s’enrichissent et dorment sur des montagnes d’or !  

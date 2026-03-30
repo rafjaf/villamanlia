@@ -1,16 +1,17 @@
+# La délivrance d'Esperanza
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Le_massacre_des_Albigeois.jpg/800px-Le_massacre_des_Albigeois.jpg)
 
 <small>La croisade contre les Albigeois, vers 1208. Manuscrit tiré des "Chronique de France ou de Saint Denis", 1325-1350. Source : [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Le_massacre_des_Albigeois.jpg).</small>
 
 
-# Introduction  
+## Introduction  
 Le présent scénario constitue un prétexte pour impliquer les personnages dans deux événements historiques majeurs, le sac de Béziers et le siège de Carcassonne dans le Tribunal de Provence, à l’été 1209, marquant ainsi le début de la croisade contre les Cathares. Compte tenu de son caractère historique assez précis, il sera sans doute assez difficile à adapter à une Saga basée dans un autre Tribunal. Toutefois, dans la mesure où plusieurs Sagas commencées sous la troisième édition d’Ars Magica et basée sur le supplément *A Midsummer Night’s Dream* ont ces événements pour cadre, je suppose que ce scénario pourra néanmoins servir de source d’inspiration à certains Conteurs.
 
 Les événements historiques proprement dit sont directement tirés de l’excellent ouvrage de M. Roquebert, *L’épopée cathare. I. L’invasion 1198-1212*, s.l., Perrin (coll. Tempus), 2006, chapitre 17 et 18, dont je ne peux que recommander la lecture tant les événements y sont peints de manière vivante.
 
 Pour ce qui est du « prétexte » utilisé pour mener les personnages sur les lieux, je me suis basé sur une malédiction pesant de longue date sur l’un des PJ, Esperanza, dont je retrace brièvement l’historique ci-dessous, en partant du principe que seul un puissant Kabbaliste demeurant à Béziers peut lui venir en aide. Tout autre prétexte peut bien évidemment être utilisé.
 
-# Rappel des épisodes précédents  
+## Rappel des épisodes précédents  
 <div style="float: right; width: 758px;">
 
 ![](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100003&E=JPEG&Deb=86&Fin=86&Param=C)
@@ -27,7 +28,7 @@ Quelques années plus tard, au *[Dernier Tribunal](derniertrib.md)* de 1207, Tol
 
 Les événements vont se précipiter avec le scénario *The Night of the Faeries* où Esperanza et soumise à des énergies féériques si fortes que l’heure de sa délivrance a presque sonné.
 
-# Synopsis  
+## Synopsis  
 * Le comportement d’Esperanza va continuer à évoluer : elle commencera à faire des rêves de boue, à vouloir manger de la viande crue, sa langue va se transformer, etc.  
 * A la suite de la razzia féérique sur l’Alliance, la transformation a lieu : Esperanza, de nuit, se met à ramper jusqu’aux thermes de l’Alliance et à libérer l’eau de ceux-ci au cœur de l’Alliance pour transformer celle-ci en marais.  
 * Alors, les joueurs auront l’horrible dilemme : supprimer la créature, en supprimant également son Don, ou alors, sur les conseils de Tolomae, faire appel à la Magie divine, et alors, il faudra retrouver Rabbi Isaac l’Aveugle qui demeure à Béziers.  
@@ -35,7 +36,7 @@ Les événements vont se précipiter avec le scénario *The Night of the Faeries
 * Lorsqu’ils auront reconstitué les événements, les personnages n’auront qu’à se rendre à Carcassonne. Il faudra pénétrer dans la Cité assiégée, et retrouver parmi tous les réfugiés Rabbi Isaac; lequel se refusera à quitter la ville par solidarité avec son Vicomte qui les a toujours protégés ! Il faudra donc rester jusqu’à la fin du siège…  
 * Alternativement, Tolomae détruit/endort la créature… mais supprime du même coup le Don d’Esperanza.
 
-# La crise  
+## La crise  
 Scène onirique jouée avec Esperanza seule. Elle se « réveille » en pleine nuit dans son *sanctum*, mais en même temps elle sait qu’elle rêve encore, car elle est enceinte et sur le point d’accoucher. Elle meurt de soif, et sait que la vie du bébé en dépend; tous les récipients de liquide sont vides (elle les a déjà bus), il lui faut sortir.
 
 En sortant de son *sanctum*, elle ne se retrouve pas dans la cour de l’Alliance, mais au milieu des marais de Sadrissel, comme si la cabane de la sorcière était en fait son *sanctum*. En outre, elle ressent une impression aiguë de danger : elle sait que Jérôme de Bonisagus et Pierre de Saverdun sont sur ses traces, et qu’ils veulent la mort de son enfant. Il faut qu’elle s’enfonce dans la boue autour du repaire de la sorcière pour leur échapper. (En réalité, elle se trouve bien dans la cour de l’Alliance, mais la magie féérique à l’œuvre a rendu la terre boueuse, et l’être féérique qui habite Esperanza prend plaisir à s’y vautrer.)
@@ -44,7 +45,7 @@ En rampant dans la boue, elle repaire des herbes magiques qui pourraient aider s
 
 Du fait de sa sur-saturation en *vis* brute (elle vient de consommer toute la production de l’année), Esperanza bénéficie temporairement des Vertus *Mythic Blood* et *Diedne Magic*.
 
-# Le sac de Béziers  
+## Le sac de Béziers  
 <div style="float: right; width: 725px;">
 
 ![](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100099&E=JPEG&Deb=187&Fin=187&Param=C)
@@ -64,7 +65,7 @@ Ils arrivent à Béziers à l’aube du 22 juillet 1209, journée fatidique. Les
 
 Pour apprendre le sort des juifs de la ville, les personnages devront s’introduire derrière les remparts et tenter de retrouver un consul ou un ministre du culte; les simples citadins ne sont pas au courant.
 
-# La chute de Carcassonne  
+## La chute de Carcassonne  
 <div style="float: right; width: 350px;">
 
 (Image manquante : ChuteCarcassonne.jpg)
@@ -91,7 +92,7 @@ Rabbi Isaac ne veut pas abandonner les rouleaux sacrés de la Tora, il faut trou
 
 Une fois à l’Alliance, Rabbi Isaac pratique la cérémonie qui consacre la délivrance d’Esperanza.
 
-# Les effets de la Croisade  ^croisade
+## Les effets de la Croisade  ^croisade
 En s’inspirant du supplément *Pax Dei* (p. 24 et s.), on dira qu’en présence d’une croisade :  
 * Il existe une Aura Divine « mobile » d’intensité variable en fonction du nombre de croisés, en l’occurrence de +4  
 * Les malus infligés aux pouvoirs issus des autres Auras sont doublés, donc malus de –24 sur les pouvoirs magiques  

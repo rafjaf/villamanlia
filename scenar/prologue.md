@@ -1,4 +1,5 @@
-# Introduction  
+# Prologue à Promises, Promises
+## Introduction  
 
 
 Ce scénario constitue un prélude au scénario [ Promises, Promises](http://www.atlas-games.com/pdf_storage/promises_french.pdf) d’Atlas Games. Ce dernier scénario est assez sympathique mais il présente l’inconvénient d’être difficilement utilisable dans une Saga existante. J’en ai donc quelque peu modifié le contexte pour l’adapter à ma Saga.
@@ -7,7 +8,7 @@ En substance, il s’agit de remplacer la « menace directe » du Quaesitor qui 
 
 Le scénario pourrait être adapté de la manière suivante.
 
-# L’arrivée du Quaesitor
+## L’arrivée du Quaesitor
 
 A la nuit tombée, un Servant de l’Alliance des personnages, Jean, qui fait paître les moutons, surprend l’arrivée de deux inconnus : un guerrier aide un vieil homme, qui porte un bâton noueux en travers de sa selle, à descendre de sa monture – un splendide étalon noir comme la nuit –, et Jean surprend le dialogue suivant :
 
@@ -36,7 +37,7 @@ L’idéal serait que Dikaïos ait un bon motif pour contraindre les personnages
 
 Histoire d’inciter les PJ à faire vite, Dikaïos entend bien rester dans l’Alliance jusqu’à leur retour !
 
-# Le voyage à Mare Immobile
+## Le voyage à Mare Immobile
 
 La veille de l’arrivée, faire s’arrêter les personnages à l’abbaye de Saint-Edmond, au pied des Pyrénées, à trois ou quatre heures de marche de l’Alliance. Ils voient Richard le cellérier entrer dans l’abbaye. Alternativement ils peuvent faire une halte pour la nuit dans la petite ville qui se trouve encore à une heure de marche, où Henri, un oncle de Dubinaro, le reconnaîtra.
 
@@ -44,7 +45,7 @@ La route est longue à travers les montagnes, quoique sans péripétie particuli
 
 Ne pas oublier de mentionner le village qui se trouve au bord du lac, car c’est sur ce village qu’Ereditus est autorisé à lever des taxes en vertu de l’accord conclu avec l’abbé de Saint-Edmond.
 
-# Mare Immobile  
+## Mare Immobile  
 <div style="float: right; width: 710px;">
 
 ![](http://visualiseur.bnf.fr/ConsulterElementNum?O=IFN-8100099&E=JPEG&Deb=69&Fin=69&Param=C)
@@ -69,5 +70,4 @@ A la sortie du *sanctum*, Jérôme félicite les personnages, Dikaïos est assur
 
 Il ne reste plus qu’à enchaîner avec le scénario « officiel » !
 
----
 Rafaël Jafferali
