@@ -71,7 +71,7 @@
 
 ## Arcanes
 
-**Finesse** : 3  
+**Finesse** (Muto) : 3  
 **Philosophie** (Magie rituelle) : 1  
 **Parma Magica** (Ignem) : 6 (10)  
 **Pénétration** (Perdo) : 6  
