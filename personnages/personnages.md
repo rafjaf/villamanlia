@@ -1,6 +1,6 @@
 # Mages
 
-* [celarius](celarius.md) de Criamon (rejoint Villa Manlia au Printemps 1203)  
+* [Celarius](celarius.md) de Criamon (rejoint Villa Manlia au Printemps 1203)  
 * [Dubinaro](dubinaro.md) de Bonisagus<sup>†</sup> (Mage fondateur de Villa Manlia, ex membre de l'Alliance de Mare Immobile)  
 * [Esperanza](esperanza.md) de Jerbiton (Mage fondateur de Villa Manlia, ex membre de l'Alliance de Bellaquin)  
 * [Faustus](faustus.md) ex Miscellaneis (rejoint Villa Manlia au Printemps 1226)  
