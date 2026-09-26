@@ -63,7 +63,8 @@ section.cover blockquote>p>a {border-bottom-color: lightgoldenrodyellow}
 	border-bottom-color: coral;}
 .sidebar-toggle span {background-color: coral}
 
-/* Docsify v5 treats the first cover link as a pill-shaped button. */
+/* Cover color and banner link. */
+section.cover {background: #6d071a}
 .cover-main {padding-top: 1rem}
 .cover-main > p:first-child a.button {
 	padding: 0;
