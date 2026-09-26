@@ -1,18 +1,34 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Cinzel:wght@400;600;700&display=swap');
 
-/* Dark parchment body background */
-body, aside.sidebar, button.sidebar-toggle {
-	background-color: #f4eedf;;
+:root {
+	--theme-color: #6d071a;
+	--color-bg: #f4eedf;
+	--color-text: #18110a;
 }
 
-/* Vellum content area — plain background-color so it always covers scrolled content */
+/* A fixed, full-width bar avoids a visible edge beside the sidebar. */
+.app-nav {
+	position: fixed;
+	right: 0;
+	width: auto;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 12px;
+	background: #6d071a;
+}
+
+body.ready .app-nav {left: 0}
+.sidebar {top: 60px}
+
+/* Vellum content */
 .markdown-section {
-	background-color: #f4eedf;
 	color: #18110a;
 	font-family: 'EB Garamond', Georgia, serif;
 	font-size: 1.1rem;
 	line-height: 1.75;
 }
+
+.markdown-section :is(h1, h2, h3, h4, h5, h6) {scroll-margin-top: 80px}
 
 /* Headings: Cinzel + rouge */
 .markdown-section h1,
@@ -26,20 +42,42 @@ body, aside.sidebar, button.sidebar-toggle {
 }
 
 /* Dark red for background color of nav bar */
-.app-nav, .app-nav li ul {background-color: #6D071A}
+.app-nav li ul {background-color: #6d071a}
+.app-nav li ul a {color: lightgoldenrodyellow !important}
+.app-nav li ul a:hover {color: coral !important}
 
 /* Yellow for items in nav bar */
 .app-nav a, .app-nav li {color: lightgoldenrodyellow}
+.app-nav > ul > li > a.active,
+.app-nav > ul > li > a:hover {color: coral}
 section.cover p {color: lightgoldenrodyellow}
 section.cover blockquote>p>a {border-bottom-color: lightgoldenrodyellow}
 
 /* Orange for links */
-.app-nav, .markdown-section a, .sidebar ul li.active>a {color: coral}
+.markdown-section a, .sidebar ul li.active>a {color: coral}
+.markdown-section a {text-decoration: none}
+.markdown-section a:hover, .markdown-section a:focus-visible {text-decoration: underline}
 .markdown-section blockquote {border-left-color: coral}
 .app-nav a.active, .app-nav a:hover, section.cover blockquote>p>a:hover {
 	color: coral;
 	border-bottom-color: coral;}
 .sidebar-toggle span {background-color: coral}
+
+/* Docsify v5 treats the first cover link as a pill-shaped button. */
+.cover-main {padding-top: 1rem}
+.cover-main > p:first-child a.button {
+	padding: 0;
+	border: 0;
+	border-radius: 0;
+	background: transparent;
+	box-shadow: none;
+	outline: none;
+}
+
+@media (max-width: 600px) {
+	.app-nav > ul > li > ul {left: 0; right: auto; translate: none}
+	.app-nav > ul > li:nth-child(n+4) > ul {left: auto; right: 0}
+}
 	 
 /* Headings auto-numbering as from level 2 */
 section.content {counter-reset: ch1;} 

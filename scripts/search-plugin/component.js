@@ -144,7 +144,7 @@ function tpl(defaultValue = '') {
   const el = Docsify.dom.create('div', html);
   const aside = Docsify.dom.find('aside');
 
-  Docsify.dom.toggleClass(el, 'search');
+  el.classList.add('search');
   el.setAttribute('role', 'search');
   Docsify.dom.before(aside, el);
 }
